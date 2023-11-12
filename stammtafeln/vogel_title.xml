@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"></title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main"></title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <titlePart type="main">Florilegium Genealogicum</titlePart>
+                <titlePart type="sub">
+                    exhibens
+                    <lb/>Omnium &amp; singularu<ex>m</ex> illustriu<ex>m</ex> Fa<unclear reason="damage">miliarum</unclear>
+                    <lb/>Lipsiensium,
+                    <lb/>STEMMATA,
+                </titlePart>
+                <byline>
+                    magna cura et opera
+                    <lb/>collectum
+                    <lb/>a
+                    <lb/>M<ex>agistro</ex> <docAuthor>Johanne Jacobo Vogelio</docAuthor>, <placeName>Lipsiensi</placeName>
+                    <lb/>Pastore Panitzschensi <w lemma="Sommerfeldensi">Som
+                    <lb/>merfeldensi</w> et <w lemma="Althaynensi">Althay
+                    <lb/>nensi</w>.
+                </byline>
+            </titlePage>
+        </front>
+        <body>
+            <div>
+                <p>
+                </p>
+                  
+            </div>
+        </body>
+    </text>
+</TEI>
