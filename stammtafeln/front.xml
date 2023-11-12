@@ -33,18 +33,17 @@
                     magna cura et opera
                     <lb/>collectum
                     <lb/>a
-                    <lb/>M<ex>agistro</ex> <docAuthor>Johanne Jacobo Vogelio</docAuthor>, <placeName>Lipsiensi</placeName>
-                    <lb/>Pastore Panitzschensi <w lemma="Sommerfeldensi">Som
-                    <lb/>merfeldensi</w> et <w lemma="Althaynensi">Althay
-                    <lb/>nensi</w>.
+                    <lb/>M<ex>agistro</ex> <rs type="person" role="author">Johanne Jacobo Vogelio</rs>, <rs type='place'>Lipsiensi</rs>
+                    <lb/>Pastore <rs type='place'>Panitzschensi</rs> <rs type="place"><w lemma="Sommerfeldensi">Som
+                    <lb/>merfeldensi</w></rs> et <rs type="place"><w lemma="Althaynensi">Althay
+                    <lb/>nensi</w></rs>.
                 </byline>
             </titlePage>
         </front>
         <body>
             <div>
                 <p>
-                </p>
-                  
+                </p>                  
             </div>
         </body>
     </text>
