@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="moench">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"></title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main"></title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>        
+        <body>
+            <div xml:id="stammbaum_moench">
+                <pb facs="rep_6_16-a_0426.jpg" n="211v"/>
+                <head>Das Geschlecht-Register derer Mönche</head>
+                <table>
+                    <row n="1">
+                        <cell>
+                            H<ex>err</ex> Georg Münch, des Raths u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu Schneeberg u<ex>nd</ex> fürstl<ex>ich</ex> Sachß<ex>ischer</ex> bergrichter zu Sahlfeld.
+                            <lb/><hi rendition="#et">fr<ex>au</ex> Margaretha Johann Hennings sonst Reuter. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
+                        </cell>
+                    </row>
+                    <row n="2">
+                        <cell rendition="#topBraced">
+                            H<ex>err</ex> Johann Münch I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> Rath, der Juristenfacultät Ordinarius u<ex>nd</ex> Pro<subst><del>f</del><add place="inline">fe</add></subst>ssor, wie auch bürgerm<ex>eister</ex>, u<ex>nd</ex> des Churf<ex>ürstlich</ex> Sachs<ex>ischen</ex> Schoppenstuls Assessor u<ex>nd</ex> Canonicus zu Merseburg.
+                            <lb/>g<ex>eboren</ex> 1536 15. Aug<ex>ust</ex> zu Schneeberg. ward 1560 3. Jan<ex>uar</ex> zu Jena Mag<ex>ister</ex> zu Basel 15.. I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1573 Professor zu Jena, A<ex>nno</ex> 1579 Syndicus zu Nürnberg A<ex>nno</ex> 1588 zu leipzig Ordinanrius u<ex>nd</ex> Consul.
+                            <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> Kirchen zu S<ex>ankt</ex> Nicolai begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
+                            <list>
+                                <item>
+                                    <lb/><hi rendition="#et">1. 15 . . . . J<ex>ung</ex>fr<ex>au</ex> Reginam H<ex>errn</ex> Joachim Gundelfingens Patricij zu Nürnberg T<ex>ochter</ex> g<ex>eboren</ex> - - - - - st<ex>arb</ex> 1589 7. April.</hi>
+                                </item>
+                                <item>
+                                    <lb/><hi rendition="#et">2. 1591 19. Apr<ex>il</ex> fr<ex>au</ex> Brigitten H<ex>errn</ex> d<ex>octor</ex> Laurentij Lindemans zu Sedelitz vormals Ordinarij u<ex>nd</ex> Prof<ex>essors</ex> zu Wittenberg danach Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> Raths Wittwe H<ex>errn</ex> Pauli Langefeldts I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex></hi>
+                                    <lb/><hi rendition="#et">Tochter. g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1610 5. Martij.</hi>
+                                </item>
+                            </list>
+                            <table rendition="#topBraced">
+                                <row>
+                                    <cell>I.</cell>
+                                    <cell>
+                                        1. . . . . .
+                                        <lb/>g<ex>eboren</ex>
+                                        <lb/>†
+                                    </cell>
+                                    <cell>
+                                        2. . . . . 
+                                        <lb/>g<ex>eboren</ex> . . .
+                                        <lb/>†
+                                    </cell>
+                                    <cell>
+                                        3. . . . . . 
+                                        <lb/>. . . . .
+                                    </cell>
+                                    <cell>
+                                        4. . . . . . 
+                                        <lb/>Münchin g<ex>eboren</ex>
+                                        <lb/>†
+                                        <lb/>15 . . . . . . . .
+                                        <lb/>Heinrich Elar.
+                                        <lb/>Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex> <w lemma="Feldmeßer">Feld
+                                        <lb/>meßer</w> u<ex>nd</ex> <w lemma="Quartiermeister">Quartier
+                                        <lb/>meister</w>.
+                                    </cell>
+                                    <cell>
+                                        5. Regina Münchin
+                                        <lb/>g<ex>eboren</ex>
+                                        <lb/>†
+                                        <lb/>1601 28. April H<ex>err</ex>
+                                        <lb/>Friedrich Lindemannen d<ex>er</ex>
+                                        <lb/>Churf<ex>ürstlich</ex> Sachß<ex>ischen</ex> Wittwe Secret<ex>arius</ex>
+                                        <lb/>u<ex>nd</ex> landmeister zu Colditz.
+                                        <lb/>g<ex>eboren</ex> 1566 27. Mart<ex>ii</ex> † 1617 28.
+                                        <lb/>Januarij.
+                                        <lb/>Vide das Lindemannische
+                                        <lb/><hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>
+                                    </cell>
+                                    <cell>
+                                        6. H<ex>err</ex> Georg Münch
+                                        <lb/>g<ex>eboren</ex> 15 . . . . zu Jena
+                                        <lb/>1590 zu leipzig immatricul<ex>iert</ex>
+                                        <lb/>†
+                                        <lb/>1601 17. Nov<ex>ember</ex>J<ex>ung</ex>fr<ex>au</ex> Coecoliam
+                                        <lb/>H<ex>errn</ex> Conrad Teuerlings
+                                        <lb/>. . . . . . . T<ex>ochter</ex>
+                                    </cell>
+                                    <cell>
+                                        <lb/>7. H<ex>err</ex> D<ex>octor</ex> Johannes Paulus Mönch, anfangs Gräfl<ex>ich</ex>
+                                        <lb/>Manßfeldischer Rath, hernach fürstl<ex>ich</ex> Sächß<ex>ischer</ex> Cantzler
+                                        <lb/>u<ex>nd</ex> Rath zu Zeitz. g<ex>eboren</ex> 1582 15. Julij zu Nürnberg. st<ex>arb</ex> 1644
+                                        <lb/>29. Julij zu Jena. ward 1566<note type="footnote" resp="mg">Diese Jahreszahl ist offensichtlich falsch. Johannes Paul Mönch wurde 1610 in Basel zum Doktor beider Rechte promoviert.</note> zu basel I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>.
+                                        <list>
+                                            <item>
+                                                <lb/>1. 1610 6. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Margaretham H<ex>errn</ex> Georg Winters Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>ei</ex>
+                                                <lb/>u<ex>nd</ex> furstl<ex>ich</ex> Sachß<ex>isch</ex> Weymar<ex>ischen</ex> u<ex>nd</ex> Heßischen, u<ex>nd</ex> auch Gräffl<ex>ich</ex> Manßfeldischen
+                                                <lb/>u<ex>nd</ex> Stollbergischen Raths T<ex>ochter</ex> g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1629 zu Sangerhaußen. <add place="inline">11 K<ex>inder</ex><lb/> 7 T<ex>öchter</ex> u<ex>nd</ex> 4 S<ex>öhne</ex></add>
+                                            </item>
+                                            <item>
+                                                <lb/>2. 1635 15. Sept<ex>ember</ex> Fr<ex>au</ex> Maria H<ex>errn</ex> Lamprecht Herbstens Raths Cammers und
+                                                <lb/>Handelsmanns zu Naumburg T<ex>ochter</ex>. H<ex>errn</ex> Wolff<add place="below">heinrich</add> Steinmetzens . . . . Wittwe
+                                            </item>
+                                        </list>
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>
+                                                    I. Margareta
+                                                    <lb/>Münchin
+                                                    <lb/>g<ex>eboren</ex> 1611 3<subst><del>1</del><add place="inline">0</add></subst>. Oct<ex>ober</ex>
+                                                </cell>
+                                                <cell>
+                                                    Catharina
+                                                    <lb/>Münchin
+                                                    g<ex>eboren</ex> 1613 30. Jan<ex>uar</ex>
+                                                    <lb/>zu leipzig.
+                                                </cell>
+                                                <cell>
+                                                    Sara Regina
+                                                    <lb/>Münchin.
+                                                    <lb/>g<ex>eboren</ex> 16 . . . . . . .
+                                                    <lb/><add place="inspace">† 1685 Dec<ex>ember</ex> zu Dreßd<ex>en</ex></add>
+                                                    <lb/>16 . . . . H<ex>err</ex> Severinus
+                                                    <lb/>Weißen J<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex> u<ex>nd</ex> Canonicus
+                                                    <lb/>zu Naumburg g<ex>eboren</ex> . . . . . .
+                                                    <lb/>† 1652 d<ex>en</ex> 5. May.
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                                Margaretha Rosina Weißin
+                                                                <lb/>g<ex>eboren</ex> 1643 d<ex>en</ex> 20. Sept<ex>ember</ex> † 1702 9. Junij.
+                                                                <lb/>1685 10. Nov<ex>ember</ex> H<ex>err</ex> d<ex>octor</ex> barthol<ex>olomäus</ex>
+                                                                <lb/>Leonhart Schwendendörffern.
+                                                                <lb/>I<ex>uris</ex>c<ex>onsul</ex>tus P<ex>rofessor</ex> P<ex>ublicus</ex> Caninicus Martisb<ex>urgae</ex> Fac<ex>ultatis</ex>
+                                                                <lb/>Jurid<ex>icae</ex> <add place="above">u<ex>nd</ex></add> Oberhoffgerichts Assesor
+                                                                <lb/>der Meißn<ex>ischen</ex> Nation Senior u<ex>nd</ex> der
+                                                                <lb/>Acad<ex>emiae</ex> Decemvir zu Leipzig.
+                                                                <lb/><hi rendition="#et">ohne Kinder.</hi>
+                                                            </cell>
+                                                            <cell>
+                                                                H<ex>err</ex> Severinus Weise, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex>
+                                                                <lb/>SteuerEinnehmer des leipz<ex>igischen</ex> Creyßes
+                                                                <lb/>zu leipzig. g<ex>eboren</ex> 1650 d<ex>en</ex> 24. Iunij
+                                                                <lb/>st<ex>arb</ex> 1695 21. Martij. <add place="inline">&#x00E6;t<ex>atis</ex> 44 j<ex>ahre</ex> 9 M<ex>onate</ex> 1 T<ex>ag</ex></add>
+                                                                <lb/>1689 17. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Johann Gertraudt
+                                                                <lb/>H<ex>errn</ex> Georg Schuberts Handelsh<ex>erren</ex> u<ex>nd</ex> <w lemma="Cramermeisters">Cra
+                                                                <lb/>mermeisters</w> in leipzig ehel<ex>iche</ex> Tochter.
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Gottlob Severinus
+                                                                            <lb/>Weiße g<ex>eboren</ex> 1690 d<ex>en</ex>
+                                                                            <lb/>14. Oct<ex>ober</ex>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Johann Severin
+                                                                            <lb/>g<ex>eboren</ex> 1692 11. Iunij
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Georg Severin.
+                                                                            <lb/>g<ex>eboren</ex> 1693 28. May
+                                                                            <lb/>† 1694 19. Febr<ex>uar</ex>
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                                </cell>
+                                                <cell>
+                                                    H<ex>err</ex> Jo<ex>hannes</ex> Münch
+                                                    <lb/>Churf<ex>ürstlich</ex> Sachs<ex>ischer</ex> <w lemma="SteuerEnnehmer">Steuer
+                                                    <lb/>Einnehmer</w> in <w lemma="leipzig">leip
+                                                    <lb/>zig</w>. g<ex>eboren</ex> 161<subst><del>6</del><add place="inline">5</add></subst> <unclear reason="illegible"><subst><del>10</del><add place="inline">12</add></subst> Iul<ex>ij</ex></unclear>
+                                                    <lb/>zu Artern in
+                                                    <lb/>Thuringen.
+                                                    <lb/>st<ex>arb</ex> 1691 18. Jan<ex>uar</ex>
+                                                    <lb/>ledig <add place="inline">&#x00E6;t<ex>atis</ex> 75
+                                                    <lb/>jahr 6 Monat.</add>
+                                                </cell>
+                                                <cell>
+                                                    . . . . .
+                                                    <lb/>Münchin
+                                                    <lb/>g<ex>eboren</ex>
+                                                    <lb/>† 1633 d<ex>en</ex>
+                                                    <lb/>16. Sept<ex>ember</ex> als
+                                                    <lb/>J<ex>ung</ex>fr<ex>au</ex> bey
+                                                    <lb/>H<ex>errn</ex> Jo<ex>hannes</ex> Siebern
+                                                    <lb/>in leipzig.
+                                                </cell>
+                                            </row>
+                                        </table>
+                                    </cell>
+                                    <cell>
+                                        II. ohne
+                                        <lb/>Kinder
+                                    </cell>
+                                </row>
+                            </table>                           
+                        </cell>
+                    </row>
+                </table>          
+            </div>
+        </body>
+    </text>
+</TEI>
