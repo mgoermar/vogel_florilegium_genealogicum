@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="listPlace">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsregister</title>
+                <respStmt>
+                    <resp>erstellt und bearbeitet von </resp>
+                    <name>Maximilian Görmar</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>        
+    <text>
+        <body>
+            <listPlace xml:id="place">
+                <place xml:id="schneeberg">
+                    <placeName ref="https://www.geonames.org/2837470/schneeberg.html">Schneeberg</placeName>
+                </place>   
+            </listPlace>
+        </body>
+    </text>
+</TEI>
