@@ -11,7 +11,36 @@
     
     <xsl:template match="/">
         <xsl:result-document href="{$documentName}.html">
-            <xsl:apply-templates/>
+            <html lang="en">
+              <head>
+                <title>Florilegium Genealogicum</title>
+                <meta charset="utf-8"/>                  
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+              </head>
+                <body>
+                    <div id="content" class="container">
+                        <xsl:apply-templates/>
+                    </div>
+                    <div id="annotation" class="container">
+                        <h3>Anmerkungen</h3>
+                        <xsl:for-each select="//tei:note">
+                            <xsl:variable name="number">
+                                    <xsl:number level="any" count="tei:note"/>
+                                </xsl:variable>
+                                <div style="padding-left: 1em; text-indent: -1em;">
+                                    <a name="fn{$number}" href="#fna{$number}" style="display:inline-block; margin-left: 1em;">
+                                        <xsl:value-of select="$number"/>
+                                    </a>
+                                    <xsl:text> </xsl:text>
+                                    <xsl:apply-templates select="." mode="apparat"/>
+                                </div>
+                        </xsl:for-each>
+                    </div>                
+                </body>
+            </html>
         </xsl:result-document>
     </xsl:template>
 
@@ -31,7 +60,11 @@
     </xsl:template>
 
     <xsl:template match="tei:ex">
-        <span style="font-style:italic;"><xsl:apply-templates/></span>
+        <em><xsl:apply-templates/></em>
+    </xsl:template>
+
+    <xsl:template match="tei:del">
+        <del><xsl:apply-templates/></del>
     </xsl:template>
 
     <xsl:template match="tei:table">
@@ -43,15 +76,20 @@
     </xsl:template>
 
     <xsl:template match="tei:cell[not(@rendition)]">
-        <td><xsl:apply-templates/></td>
+        <td style="vertical-align: top;"><xsl:apply-templates/></td>
     </xsl:template>
 
     <xsl:template match="tei:note">
-        <sup>
-        <xsl:text>[</xsl:text>
+        <xsl:variable name="number">
+            <xsl:number level="any" count="tei:note"/>
+        </xsl:variable>
+        <a name="fna{$number}" href="#fn{$number}" title="{normalize-space(.)}" style="font-size:9pt;vertical-align:super;">
+            <xsl:value-of select="$number"/>
+        </a>
+    </xsl:template>
+
+    <xsl:template match="tei:note" mode="apparat">
         <xsl:apply-templates/>
-        <xsl:text>]</xsl:text>
-        </sup>
     </xsl:template>
 
     <xsl:template match="tei:table[@rendition='#topBraced']">
@@ -65,5 +103,11 @@
     <xsl:template match="tei:hi[@rendition='#et']">
         <span style="padding-left:2em;"><xsl:apply-templates/></span>
     </xsl:template>
+
+    <xsl:template match="tei:abbr">
+        <abbr title="{parent::tei:choice/tei:expan/normalize-space()}"><xsl:apply-templates/></abbr>
+    </xsl:template>
+
+    <xsl:template match="tei:expan"/>
 
 </xsl:stylesheet>
