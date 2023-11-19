@@ -15,15 +15,17 @@
         </xsl:result-document>
     </xsl:template>
 
+    <xsl:template match="tei:teiHeader"/>
+
     <xsl:template match="tei:head">
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
 
-    <xsl:template match="tei:lb[not(ancestor::tei:add)]">
+    <xsl:template match="tei:lb[not(ancestor::tei:add)][not(ancestor::tei:w)]">
         <br/>
     </xsl:template>
     
-    <xsl:template match="tei:lb[ancestor::tei:w]">
+    <xsl:template match="tei:lb[ancestor::tei:w][not(ancestor::tei:add)]">
         <xsl:text>-</xsl:text>
         <br/>
     </xsl:template>
