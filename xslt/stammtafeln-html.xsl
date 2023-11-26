@@ -19,6 +19,11 @@
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+                <script>
+                          $(document).ready(function(){
+  $('[data-toggle="popover"]').popover();   
+});
+                </script>
               </head>
                 <body>
                     <div id="content" class="container">
@@ -109,5 +114,103 @@
     </xsl:template>
 
     <xsl:template match="tei:expan"/>
+
+    <xsl:template match="tei:rs[@type='person']">
+        <xsl:variable name="person_register" select="document('../register/listPerson.xml')"/>
+        <a href="javascript:void(0);" data-toggle="popover" data-trigger="click" title="{$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName[@type='display']}" data-html="true" data-placement="right">
+            <xsl:attribute name="data-content">
+                <xsl:if test="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref">
+                    <xsl:choose>
+                        <xsl:when test="contains($person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref,'gnd')">
+                            <xsl:text>GND: &lt;a href="</xsl:text>
+                            <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref"/>
+                            <xsl:text>"&gt;</xsl:text>
+                            <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref/substring-after(.,'gnd/')"/>
+                            <xsl:text>&lt;/a&gt;&lt;br/&gt;</xsl:text>
+                        </xsl:when>
+                        <xsl:when test="contains($person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref,'viaf')">
+                            <xsl:text>VIAF: &lt;a href="</xsl:text>
+                            <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref"/>
+                            <xsl:text>"&gt;</xsl:text>
+                            <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:persName/@ref/substring-after(.,'viaf/')"/>
+                            <xsl:text>&lt;/a&gt;&lt;br/&gt;</xsl:text>
+                        </xsl:when>
+                    </xsl:choose>                    
+                </xsl:if>
+                <xsl:if test="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:birth">
+                    <xsl:text>geb. </xsl:text>
+                    <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:birth"/>
+                    <xsl:text>&lt;br/&gt;</xsl:text>
+                </xsl:if>
+                <xsl:if test="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:death">
+                    <xsl:text>gest. </xsl:text>
+                    <xsl:value-of select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:death"/>
+                    <xsl:text>&lt;br/&gt;</xsl:text>
+                </xsl:if>
+                <!-- <xsl:if test="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:listBibl"> 
+                    <xsl:text>&lt;br/&gt;&lt;br/&gt;</xsl:text>
+                    <xsl:text>Weitere Informationen in </xsl:text>
+                    <xsl:for-each select="$person_register//tei:person[@xml:id=substring-after(current()/@ref,'#')]/tei:listBibl/tei:bibl/tei:ptr">
+                        <xsl:choose>
+                            <xsl:when test="@type='adb'">
+                                <xsl:text>&lt;a href="</xsl:text>
+                                <xsl:value-of select="@target"/>
+                                <xsl:text>"&gt;ADB&lt;/a&gt;</xsl:text>
+                            </xsl:when>
+                            <xsl:when test="@type='ndb'">
+                                <xsl:text>&lt;a href="</xsl:text>
+                                <xsl:value-of select="@target"/>
+                                <xsl:text>"&gt;NDB&lt;/a&gt;</xsl:text>
+                            </xsl:when>
+                        </xsl:choose>
+                        <xsl:if test="position()!=last()">
+                            <xsl:text>, </xsl:text>
+                        </xsl:if>                        
+                    </xsl:for-each>
+                    <xsl:text>.</xsl:text>
+                </xsl:if> -->
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+
+    <xsl:template match="tei:rs[@type='place']">
+        <xsl:variable name="place_register" select="document('../register/listPlace.xml')"/>
+        <a href="javascript:void(0);" data-toggle="popover" data-trigger="click" title="{$place_register//tei:place[@xml:id=substring-after(current()/@ref,'#')]/tei:placeName}" data-html="true">
+            <xsl:attribute name="data-content">
+                <xsl:if test="$place_register//tei:place[@xml:id=substring-after(current()/@ref,'#')]/tei:note">
+                    <xsl:apply-templates select="$place_register//tei:place[@xml:id=substring-after(current()/@ref,'#')]/tei:note"/>
+                    <xsl:text>&lt;br/&gt;</xsl:text>
+                </xsl:if>
+                <xsl:text>Weitere Informationen: &lt;a href="</xsl:text>
+                <xsl:value-of select="$place_register//tei:place[@xml:id=substring-after(current()/@ref,'#')]/tei:placeName/@ref"/>
+                <xsl:text>"&gt;</xsl:text>
+                <xsl:value-of select="$place_register//tei:place[@xml:id=substring-after(current()/@ref,'#')]/tei:placeName/@ref"/>
+                <xsl:text>&lt;/a&gt;.</xsl:text>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+    
+    <xsl:template match="tei:rs[@type='org']">
+        <xsl:variable name="org_register" select="document('../register/listOrg.xml')"/>
+        <a href="javascript:void(0);" data-toggle="popover" data-trigger="click" title="{$org_register//tei:org[@xml:id=substring-after(current()/@ref,'#')]/tei:orgName}" data-html="true">
+            <xsl:attribute name="data-content">
+                <xsl:if test="$org_register//tei:org[@xml:id=substring-after(current()/@ref,'#')]/tei:note">
+                    <xsl:apply-templates select="$org_register//tei:org[@xml:id=substring-after(current()/@ref,'#')]/tei:note"/>
+                    <xsl:text>&lt;br/&gt;</xsl:text>
+                </xsl:if>
+                <xsl:text>Weitere Informationen: &lt;a href="</xsl:text>
+                <xsl:value-of select="$org_register//tei:org[@xml:id=substring-after(current()/@ref,'#')]/tei:orgName/@ref"/>
+                <xsl:text>"&gt;</xsl:text>
+                <xsl:value-of select="$org_register//tei:org[@xml:id=substring-after(current()/@ref,'#')]/tei:orgName/@ref"/>
+                <xsl:text>&lt;/a&gt;.</xsl:text>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+        <!--<a href="$base-url/orte/{@ref/substring-after(.,'#')}"> 
+            <xsl:apply-templates/>
+        </a>-->
+    </xsl:template>
 
 </xsl:stylesheet>
