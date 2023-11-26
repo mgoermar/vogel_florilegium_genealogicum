@@ -24,12 +24,147 @@
     <text>
         <body>
             <listPerson xml:id="person">
+                <person xml:id="henning_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Henning</surname>
+                    </persName>
+                    <persName type="display">Henning, Johann, gen. Reuter</persName>
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Reuter</surname>
+                    </persName>
+                    <persName>Reuter, Johann</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#muench_margaretha"/>
+                        </listRelation>
+                    </note>
+                </person>
                 <person xml:id="muench_georg">
                     <persName>
                         <forename>Georg</forename>
                         <surname>Münch</surname>
                     </persName>
                     <persName type="display">Münch, Georg</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Ratsherr</term> 
+                        <placeName ref="#schneeberg">Schneeberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Stadtrichter</term> 
+                        <placeName ref="#schneeberg">Schneeberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Bergrichter</term> 
+                        <placeName ref="#saalfeld">Saalfeld</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#muench_margaretha" n="1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="muench_johann">
+                    <persName ref="https://d-nb.info/gnd/124370691">
+                        <forename>Johann</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1536-08-15">15. August 1536</date>
+                        <placeName ref="#schneeberg">Schneeberg</placeName>
+                    </birth>
+                    <death>
+                        <date when="1599-08-10">10. August 1599</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>                    
+                    <education>
+                        <date when="1560-01-03">3. Januar 1560</date>
+                        <title>Magister</title>
+                        <placeName ref="#jena">Jena</placeName>                   
+                    </education>
+                    <education>
+                        <title>Doktor beider Rechte</title>
+                        <placeName ref="#basel">Basel</placeName>                   
+                    </education>
+                    <occupation>
+                        <date from="1573" to="1578">1573-1578</date>
+                        <term>Juraprofessor</term>
+                        <placeName ref="#jena">Jena</placeName>
+                    </occupation>
+                    <occupation>
+                        <date from="1578" to="1588">1578-1588</date>
+                        <term>Syndicus</term>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <date from="1588">ab 1588</date>
+                        <term>Juraprofessor</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <date from="1594">ab 1594</date>
+                        <term>Ratsherr</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <date when="1596">1596</date>
+                        <date when="1599">1599</date>
+                        <term>Bürgermeister</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Erwerb des Bürgerrechts</eventName>
+                                <placeName ref="#leipzig">Leipzig</placeName>
+                                <date when="1594-12-21">21. Dezember 1594</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Begräbnis</eventName>
+                                <placeName ref="#leipzig_nikolaikirche">Leipzig, Nikolaikirche</placeName>
+                                <date when="1599-08-12">12. August 1599</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#mmuench_georg"/>
+                        </listRelation>
+                    </note>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/124370691.html#adbcontent"/>
+                            <ptr type="saebi" target="https://saebi.isgv.de/person/snr/23610"/>
+                        </bibl>
+                        <bibl>Cornelius Becker: Christliche Leichpredigt Bey dem Begraebnis Des Ehrwuerdigen [...] Herrn Johan Muennichs I.V.D. Weiland Chur unnd Fuerstlichen Saechsischen Rahts Ordinarij und Professoris [...], Leipzig 1599<ptr type="gvk" cRef="567194698"/></bibl>
+                        <bibl><rs type="bibl" ref="#kuehling_mundus_2000">Kühling/Mundus 2000</rs>, S. 25</bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="muench_margaretha">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, Margaretha, geb. Henning</persName>
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname type="birthName">Henning</surname>
+                    </persName>
+                    <persName>Henning, Margaretha</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#henning_johann"/>
+                            <relation type="spouse" ref="#muench_georg" n="1"/>
+                        </listRelation>
+                    </note>
                 </person>
             </listPerson>
         </body>

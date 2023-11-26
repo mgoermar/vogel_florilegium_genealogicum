@@ -25,6 +25,35 @@
     <text>
         <body>
             <listPlace xml:id="place">
+                <place xml:id="basel">
+                    <placeName ref="https://www.geonames.org/2661604/basel.html">Basel</placeName>
+                </place>
+                <place xml:id="jena">
+                    <placeName ref="https://www.geonames.org/2895044/jena.html">Jena</placeName>
+                </place>
+                <place xml:id="leipzig">
+                    <placeName ref="https://www.geonames.org/2879139/leipzig.html">Leipzig</placeName>
+                    <listPlace>
+                        <place xml:id="leipzig_nikolaikirche">
+                            <placeName ref="https://www.geonames.org/11395551/nikolaikirche.html">Leipzig, Nikolaikirche</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="merseburg">
+                    <placeName ref="https://www.geonames.org/2871736/merseburg.html">Merseburg</placeName>
+                </place>
+                <place xml:id="nuernberg">
+                    <placeName ref="https://www.geonames.org/2861650/nuernberg.html">Nürnberg</placeName>
+                </place>
+                <place xml:id="saalfeld">
+                    <placeName ref="https://www.geonames.org/2842688/saalfeld.html">Saalfeld</placeName>
+                </place>
+                <place xml:id="sachsen_kurfuerstentum">
+                    <placeName ref="https://d-nb.info/gnd/4051176-5">Sachsen, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="sachsen-weimar_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4579386-4">Sachsen-Weimar, Herzogtum</placeName>
+                </place>
                 <place xml:id="schneeberg">
                     <placeName ref="https://www.geonames.org/2837470/schneeberg.html">Schneeberg</placeName>
                 </place>   

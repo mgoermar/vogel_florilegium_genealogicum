@@ -4,11 +4,11 @@
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="listOrg">
+    xml:id="listBibl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Körperschaftsregister</title>
+                <title>Bibliographie</title>
                 <respStmt>
                     <resp>erstellt und bearbeitet von </resp>
                     <name>Maximilian Görmar</name>
@@ -24,17 +24,10 @@
     </teiHeader>        
     <text>
         <body>
-            <listOrg xml:id="org">
-                <org xml:id="leipzig_schoeppenstuhl">
-                    <orgName ref="https://d-nb.info/gnd/6516522-6">Leipzig, Schöppenstuhl</orgName>
-                </org>
-                <org xml:id="schneeberg_rat">
-                    <orgName>Schneeberg, Rat der Stadt</orgName>
-                </org>
-                <org xml:id="universitaet_leipzig_juristische_fakultaet">
-                    <orgName ref="https://d-nb.info/gnd/2024208-6">Universität Leipzig, Juristische Fakultät</orgName>
-                </org>
-            </listOrg>
+            <listBibl xml:id="bibl">
+                <bibl xml:id="kuehling_mundus_2000">Karin Kühling / Doris Mundus: Leipzigs regierende Bürgermeister vom 13. Jahrhundert bis zur Gegenwart. Eine Übersichtsdarstellung mit biographischen Skizzen, Beucha 2000<ptr type="gvk" cRef="34640049X"/></bibl>
+            </listBibl>
         </body>
     </text>
 </TEI>
+

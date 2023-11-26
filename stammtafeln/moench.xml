@@ -80,17 +80,17 @@
                 <pb facs="rep_6_16-a_0426.jpg" n="211v"/>
                 <head>Das Geschlecht-Register derer Mönche</head>
                 <table>
-                    <row n="1">
+                    <row>
                         <cell>
-                            H<ex>err</ex> <rs type="person" ref="#muench_georg">Georg Münch</rs>, des <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> fürstl<ex>ich</ex> Sachß<ex>ischer</ex> bergrichter zu Sahlfeld.
-                            <lb/><hi rendition="#et">fr<ex>au</ex> Margaretha Johann Hennings sonst Reuter. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
+                            H<ex>err</ex> <rs type="person" ref="#muench_georg">Georg Münch</rs>, des <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
+                            <lb/><hi rendition="#et">fr<ex>au</ex> <rs type="person" ref="#muench_margaretha">Margaretha</rs> <rs type="person" ref="#henning_johann">Johann Hennings sonst Reuter</rs>. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
                         </cell>
                     </row>
-                    <row n="2">
+                    <row>
                         <cell rendition="#topBraced">
-                            H<ex>err</ex> Johann Münch I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> Rath, der Juristenfacultät Ordinarius u<ex>nd</ex> Pro<subst><del>f</del><add place="inline">fe</add></subst>ssor, wie auch bürgerm<ex>eister</ex>, u<ex>nd</ex> des Churf<ex>ürstlich</ex> Sachs<ex>ischen</ex> Schoppenstuls Assessor u<ex>nd</ex> Canonicus zu Merseburg.
-                            <lb/>g<ex>eboren</ex> 1536 15. Aug<ex>ust</ex> zu Schneeberg. ward 1560 3. Jan<ex>uar</ex> zu Jena Mag<ex>ister</ex> zu Basel 15.. I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1573 Professor zu Jena, A<ex>nno</ex> 1579 Syndicus zu Nürnberg A<ex>nno</ex> 1588 zu leipzig Ordinanrius u<ex>nd</ex> Consul.
-                            <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> Kirchen zu S<ex>ankt</ex> Nicolai begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
+                            H<ex>err</ex> <rs type="person" ref="#muench_johann">Johann Münch</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Rath, der <rs type="org" ref="#universitaet_leipzig_juristische_fakultaet">Juristenfacultät</rs> Ordinarius u<ex>nd</ex> Pro<subst><del>f</del><add place="inline">fe</add></subst>ssor, wie auch bürgerm<ex>eister</ex>, u<ex>nd</ex> des Churf<ex>ürstlich</ex> Sachs<ex>ischen</ex> <rs type="org" ref="#leipzig_schoeppenstuhl">Schoppenstuls</rs> Assessor u<ex>nd</ex> Canonicus zu <rs type="place" ref="#merseburg">Merseburg</rs>.
+                            <lb/>g<ex>eboren</ex> 1536 15. Aug<ex>ust</ex> zu <rs type="place" ref="#schneeberg">Schneeberg</rs>. ward 1560 3. Jan<ex>uar</ex> zu <rs type="place" ref="#jena">Jena</rs> Mag<ex>ister</ex> zu <rs type="place" ref="#basel">Basel</rs> 15.. I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1573 Professor zu Jena, A<ex>nno</ex> 1579 Syndicus zu <rs type="place" ref="#nuernberg">Nürnberg</rs> A<ex>nno</ex> 1588 zu <rs type="place" ref="#leipzig">leipzig</rs> Ordinarius u<ex>nd</ex> Consul.
+                            <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> <rs type="place" ref="#leipzig_nikolaikirche">Kirchen zu S<ex>ankt</ex> Nicolai</rs> begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
                             <list>
                                 <item>
                                     <lb/><hi rendition="#et">1. 15 . . . . J<ex>ung</ex>fr<ex>au</ex> Reginam H<ex>errn</ex> Joachim Gundelfingens Patricij zu Nürnberg T<ex>ochter</ex> g<ex>eboren</ex> - - - - - st<ex>arb</ex> 1589 7. April.</hi>
