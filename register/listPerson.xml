@@ -135,7 +135,7 @@
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#mmuench_georg"/>
+                            <relation type="parent" ref="#muench_georg"/>
                         </listRelation>
                     </note>
                     <listBibl>
