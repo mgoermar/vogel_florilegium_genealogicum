@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Florilegium Genealogicum: Stammbaum der Familie Münch (Mönch)</title>
+                <title>Florilegium Genealogicum: Stammbaum der Familie Thomasius</title>
                 <author>
                     <forename>Johann Jacob</forename> 
                     <surname>Vogel</surname>
@@ -15,15 +15,15 @@
                 <respStmt>
                     <resp>Transkribiert und kommentiert von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Honoka</forename>
+                        <surname>Oka</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Kodiert in TEI-P5 von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Honoka</forename>
+                        <surname>Oka</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
