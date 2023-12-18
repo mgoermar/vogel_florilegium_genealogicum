@@ -3,11 +3,11 @@
   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="moench">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="eichhorn">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Florilegium Genealogicum: Stammbaum der Familie Münch (Mönch)</title>
+                <title>Florilegium Genealogicum: Stammbaum der Familie Eichhorn</title>
                 <author>
                     <forename>Johann Jacob</forename> 
                     <surname>Vogel</surname>
@@ -15,15 +15,15 @@
                 <respStmt>
                     <resp>Transkribiert und kommentiert von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Emilie</forename>
+                        <surname>Teschauer</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Kodiert in TEI-P5 von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Emilie</forename>
+                        <surname>Teschauer</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -76,6 +76,24 @@
     </teiHeader>
         <text> 
              <body>
-             <div></div></body>
-     </text>
+                <div xml:id="stammbaum_eichhorn">
+                    <pb facs="rep_6_16-a_0249.jpg" n="123v"/>
+                        <head>Die Familie Eichhorn</head>
+                    <table>
+                       <row n="1">
+                            <cell>
+                                H<ex>err</ex><rs type="Person">Valtin Eichhorn</rs>, Bürgermeister zu <rs type="place">Münnerstädt</rs> in Franken
+                            </cell>
+                       </row>
+                    </table> 
+                    <table>
+                        <row n="2">
+                            <cell>
+                                H<ex>err</ex> <rs type="person">Johann Eichhorn</rs>, b.n. Handelsman zu <rs type="place">Münnerstädt</rs> g<ex>eboren</ex> 1537 † 1610 23 Jul<ex>i</ex> 
+                            </cell>
+                        </row>
+                    </table>
+                </div>
+             </body>
+        </text>
     </TEI> 

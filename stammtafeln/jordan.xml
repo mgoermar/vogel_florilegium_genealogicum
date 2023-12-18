@@ -15,15 +15,15 @@
                 <respStmt>
                     <resp>Transkribiert und kommentiert von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Sarah</forename>
+                        <surname>Hagenow</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Kodiert in TEI-P5 von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Sarah</forename>
+                        <surname>Hagenow</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -77,7 +77,7 @@
     <text>
         <body>
             <div xml:id="stammbaum_jordan">
-            </div>
-        </body>
+            <pb facs="rep_6_16-a_0398.jpg" n="v"/>
+        </div></body>
     </text>
     </TEI>
