@@ -76,6 +76,24 @@
     </teiHeader>
         <text> 
              <body>
-             <div></div></body>
+                <div xml:id="stammbaum_eichhorn">
+                    <pb facs="rep_6_16-a_0249.jpg" n="123v"/>
+                        <head>Die Familie Eichhorn</head>
+                    <table>
+                       <row n="1">
+                            <cell>
+                                H<ex>err</ex><rs type="Person">Valtin Eichhorn</rs>, Bürgermeister zu <rs type="place">Münnerstädt</rs> in Franken
+                            </cell>
+                       </row>
+                    </table> 
+                    <table>
+                        <row n="2">
+                            <cell>
+                                H<ex>err</ex> <rs type="person">Johann Eichhorn</rs>, b.n. Handelsman zu <rs type="place">Münnerstädt</rs> g<ex>eboren</ex> 1537 † 1610 23 Jul<ex>i</ex> 
+                            </cell>
+                        </row>
+                    </table>
+                </div>
+             </body>
         </text>
     </TEI> 
