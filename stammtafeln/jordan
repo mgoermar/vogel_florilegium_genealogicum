@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="moench">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Florilegium Genealogicum: Stammbaum der Familie Münch (Mönch)</title>
+                <author>
+                    <forename>Johann Jacob</forename> 
+                    <surname>Vogel</surname>
+                </author>
+                <respStmt>
+                    <resp>Transkribiert und kommentiert von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodiert in TEI-P5 von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digitale Edition im Rahmen des Seminars "Digitale Editionen und Methoden in der Frühneuzeitforschung – Johann Jacob Vogels Florilegium Genealogicum als Praxisbeispiel" <date>(WiSe 2023/24)</date></edition>
+                <principal>Universität Leipzig, Lehrstuhl für Geschichte der Frühen Neuzeit</principal>
+            </editionStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Leipzig</settlement>
+                        <repository>Universitätsbibliothek Leipzig (früher Stadtbibliothek Leipzig)</repository>                        
+                        <collection>Nachlässe</collection>
+                        <idno>Rep. VI 16-a</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Florilegium Genealogicum exhibens omnium et singularum illustrium Familiarum Lipsiensium stemmata, magna cura et opera collectum a M. Johanne Jacobo Vogelio, Lipsiensi, Pastore Panitzschensi, Sommerfeldensi et Althaynensi</title>
+                        <origDate>18. Jh. (um 1700)</origDate>
+                    </head>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>
+                                    <p>
+                                        <material>Papier</material>
+                                    </p>
+                                </support>
+                                <extent>
+                                    <measure type="leavesCount">584 Bl.</measure>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl><ptr target="https://katalog.ub.uni-leipzig.de/Record/0-1449382010"/></bibl>
+                            <bibl>Robert Naumann (Hrsg.): Catalogus librorum manuscriptorum qui in Bibliotheca senatoria Civitatis Lipsiensis asservantur, Grimma 1838 (DOI: <ref target="http://dx.doi.org/">10.25673/98250</ref>), S. 169.</bibl>
+                            <bibl>Elfriede Leskien: Der Leipziger Geschichtsschreiber und Familienforscher Johann Jakob Vogel und seine handschriftlichen Sammlungen zur Leipziger Familiengeschichte (= Flugschriften der Zentralstelle für Deutsche Personen- u. Familiengeschichte 5), Leipzig 1927.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <!-- <xi:include href="../register/listPerson.xml" xpointer="element(person)"/>
+                <xi:include href="../register/listPlace.xml" xpointer="element(place)"/>
+                <xi:include href="../register/listOrg.xml" xpointer="element(org)"/> -->
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="stammbaum_jordan">
+            </div>
+        </body>
+    </text>
+    </TEI>
