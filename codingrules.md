@@ -4,7 +4,7 @@ Die Kodierung und Annotation des Editionstextes richtet sich grundsätzlich nach
 
 ## Allgemeine Struktur
 
-Die Stammtafeln werden in einem &lt;div>-Element kodiert, das ein @xml:id-Attribut enthält nach folgendem Muster: &lt;div xml:id="stammbaum_moench">. Sie verfügen in der Regel über eine Kopfzeile, die den jeweiligen Familiennamen angibt. Sie wird mit dem Element &lt;head> kodiert (z. B. "&lt;head>Das Geschlecht-Register derer Mönche&lt;/head>"). Die darauf folgende Stammtafel wird als gegebenenfalls geschachtelte Tabelle kodiert, in der horizontale Schweifklammern im Element &lt;cell> mit dem Attribut @rendition="#topBraced" annotiert werden. Als Vorlage kann die Datei [moench.xml](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/stammtafeln/moench.xml) dienen.
+Die Stammtafeln werden in einem &lt;div>-Element kodiert, das ein @xml:id-Attribut enthält nach folgendem Muster: &lt;div xml:id="stammbaum_moench">. Sie verfügen in der Regel über eine Kopfzeile, die den jeweiligen Familiennamen angibt. Sie wird mit dem Element &lt;head> kodiert (z. B. "&lt;head>Das Geschlecht-Register derer Mönche&lt;/head>"). Die darauf folgende Stammtafel wird als gegebenenfalls geschachtelte Tabelle kodiert, in der horizontale Schweifklammern im Element &lt;cell> mit dem Attribut @rendition="#topBraced" annotiert werden (s. u.). Als Vorlage kann die Datei [moench.xml](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/stammtafeln/moench.xml) dienen.
 
 ## Einzelne Textphänomene
 
@@ -12,5 +12,5 @@ Textphänomen | Kodierung
 -------- | --------
 Seitenwechsel | &lt;pb facs="rep_6_16-a_0426.jpg" n="211v"/>
 Zeilenwechsel | &lt;lb/>
-Tabellen | &lt;table><br>   &lt;row><br>   &lt;cell>
+Tabellen | &lt;table><br>&lt;row><br>&lt;cell>...&lt;/cell><br>&lt;/row><br>&lt;/table><br><br>bzw.<br><br>&lt;table><br>&lt;row><br>&lt;cell rendition="#topBraced">...&lt;/cell><br>&lt;/row><br>&lt;/table>
 Listen |
