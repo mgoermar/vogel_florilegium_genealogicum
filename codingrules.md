@@ -9,7 +9,7 @@ Die Stammtafeln werden in einem &lt;div>-Element kodiert, das ein @xml:id-Attrib
 ## Einzelne Textphänomene
 
 Textphänomen | Kodierung | Erläuterungen
--------- | -------- |
+-------- | -------- | --------
 Seitenwechsel | &lt;pb facs="rep_6_16-a_0426.jpg" n="211v"/> |
 Zeilenwechsel | &lt;lb/> |
 Worttrennungen | &lt;w lemma="Quartiermeister">Quartier&lt;lb/><br>meister&lt;/w> |
