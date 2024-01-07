@@ -12,5 +12,5 @@ Textphänomen | Kodierung
 -------- | --------
 Seitenwechsel | &lt;pb facs="rep_6_16-a_0426.jpg" n="211v"/>
 Zeilenwechsel | &lt;lb/>
-Tabellen | &lt;table><br>&lt;row><br>&lt;cell>...&lt;/cell><br>&lt;/row><br>&lt;/table><br><br>bzw.<br><br>&lt;table><br>&lt;row><br>&lt;cell rendition="#topBraced">...&lt;/cell><br>&lt;/row><br>&lt;/table>
+Tabellen | &lt;table><br>&#9;&lt;row><br>&#9;&#9;&lt;cell>...&lt;/cell><br>&#9;&lt;/row><br>&lt;/table><br><br>bzw.<br><br>&lt;table><br>&#9;&lt;row><br>&#9;&#9;&lt;cell rendition="#topBraced">...&lt;/cell><br>&#9;&lt;/row><br>&lt;/table>
 Listen |
