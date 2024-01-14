@@ -30,4 +30,4 @@ Textphänomen | Kodierung | Erläuterungen
 -------- | -------- | --------
 Textkritischer Kommentar | &lt;note type="annotation" resp="mg">...&lt;/note> |
 Sachkommentar | &lt;note type="footnote" resp="mg">...&lt;/note> |
-Identifizierbare Personen, Orte und Körperschaften | <rs type="person" ref="#muench_georg">Georg Münch</rs> | @type kann die Werte "person", "place" und "org" annehmen, die jeweils auf das Personen-, Orts- und Körperschaftsregister verweisen.
+Identifizierbare Personen, Orte und Körperschaften | &lt;rs type="person" ref="#muench_georg">Georg Münch&lt;/rs> | @type kann die Werte "person", "place" und "org" annehmen, die jeweils auf das Personen-, Orts- und Körperschaftsregister verweisen.
