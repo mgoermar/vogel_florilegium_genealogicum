@@ -3,7 +3,7 @@
   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="moench">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="thomasius">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,4 +74,46 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <text>        
+        <body>
+            <div xml:id="stammbaum_thomasius"/>
+                <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
+                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in <!-- From... nicht klar-->...</head>
+                <table>
+                    <row>
+                        <cell>
+                            H<ex>err</ex> <rs type="person">Michael Thomas</rs> der ältere auf <rs type="place">Troschenreuth</rs> v<ex>on</ex> Wiedersberg, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts??? haben deren adelichen Güter
+                            <lb>15... fr<ex>au</ex><rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> Churf<ex>ürstlich</ex> Sachs<ex>ens</ex> Amtschöß es zu Weyden T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Lüdwig Sturms</rs> Medic<ex>us</ex> de Rachis in <rs type="place">Merseburg</rs> ? g<ex>eboren</ex>....</lb>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            H<ex>err</ex> Michael Thoma auf Troschenreuth u<ex>nd</ex> <rs type="place">Wiedersberg</rs> ??d u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1597. 3 Febr<ex>uar</ex> zu Mildenfort bey Weyden</lb>
+                            <lb>1618. 15 juni X? Anna H<ex>err</ex> D<ex>r.</ex> <rs type="person">Jacob Schultze</rs> ßas Churf<ex>ürstlich</ex> Seichs Alteb Rath T g<ex>eboren</ex>....† 1633.1.Oct<ex>ober</ex></lb>
+                            <lb>7. K<ex>inder</ex> 5 S<ex>öhne</ex>. 2 T<ex>öchter</ex>.</lb>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            H<ex>err</ex> Michael Thoma vornehmen des Raths u<ex>nd</ex> berümter
+                            <lb>Consulent zu Leipzig. 1619. 22. Mart<ex>ii</ex>. † 1689. 2. Julij.</lb>
+                            <lb>1646. 5 Sept<ex>ember</ex> ? Anna Maria H<ex>err</ex> Samuel Zeurings auf Schl??au</lb>
+                            <lb>DUC? u<ex>nd</ex>Practici Tohler. g<ex>eboren</ex> 1622. 23 May. † 1664. 1 April ??? 1 p. Zwillinge</lb>
+                            <lb>1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> Catharina g<ex>eboren</ex> Werfele?, H<ex>err</ex> Joh<ex>ann</ex> Müllers vor.</lb>
+                            <!-- <lb>fundese. An? Leipzig 26. / g<ex>eboren</ex> 1620. 16 Nov<ex>ember</ex> † 16?0 20 ?????</lb> nicht klar -->
+                            <lb>H<ex>err</ex> Martin </lb>
+                        </cell>
+                        <cell>
+                            Anna Thoma? g<ex>eboren</ex> 1620. 31 Aug<ex>ust</ex> † 1669 30 Julij
+                            <lb>1637. d 21. Aug<ex>ust</ex> H<ex>err</ex> Johann Alberti Erbhl auf Wiedersberg detz. Graffl Reuß Plansche? hochbestallten</lb>
+                            <lb>Rathe? Canzler, der Consistorij director u<ex>nd</ex> der Landschule zu Gr??? Inspeta primari?? g<ex>eboren</ex> 1600 20 May zu Lobenstein</lb>
+                            <lb>† 1680. d 13 Julij et 50?.</lb>
+                            <lb>10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung gestorben.</lb>
+                        </cell>
+                    </row>
+                    <row>
+                        
+                    </row>
+                </table>
+        </body>
 </TEI>
