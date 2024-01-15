@@ -23,6 +23,7 @@ Textverlust | &lt;damage>...&lt;/damage> |  	Innerhalb des Elements &lt;damage> 
 Abkürzungen | Churf&lt;ex>ürstlich&lt;/ex> | Abkürzungen werden meist mit dem Element &lt;ex> aufgelöst, wobei Abkürzungszeichen der Vorlage entfallen.
 Abkürzungen von Wortteilen durch Zahlen | &lt;choice>&lt;abbr>Xbr&lt;ex>is&lt;/ex>&lt;/abbr>&lt;expan>Decembris&lt;/expan>&lt;/choice> | 
 Texthervorhebungen (Unterstreichung, hochgestellte Buchstaben usw.) | &lt;hi rendition="#et">...&lt;/hi> | Die Werte für @rendition folgen dem [DTA-Basisformat](https://www.deutschestextarchiv.de/doku/basisformat/typogrAllg.html). 
+Schreiberwechsel | &lt;handShift/> | Wenn der Schreiber bekannt ist, wird er in @scribe mit einem Kürzel vermerkt. ISt er unbekannt fehlt das Attribut. Bisherige Werte für @scribe: vogel = Johann Jacob Vogel. 
 
 ## Kommentare und Sacherschließung
 
