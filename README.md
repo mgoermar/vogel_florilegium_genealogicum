@@ -6,4 +6,5 @@ Literatur: Geschichte der Stadt Leipzig, Bd. 2, hg. von Detlef Döring, Leipzig 
 
 
 Beispieldatei für die Kodierung der Stammtafeln (work in progress): [moench.xml](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/stammtafeln/moench.xml)
+Kodierrichtlinien [hier](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md).
 
