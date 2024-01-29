@@ -83,7 +83,7 @@
                         <!-- Valtin Eichhorn erledigt -->
                        <row n="1">
                             <cell>
-                                H<ex>err</ex><rs type="Person">Valtin Eichhorn</rs>, Bürgermeister zu <rs type="place">Münnerstädt</rs> in Franken
+                                H<ex>err</ex><rs type="Person"> Valtin Eichhorn</rs>, Bürgermeister zu <rs type="place">Münnerstädt</rs> in Franken
                             </cell>
                        </row>
                     </table> 
@@ -99,12 +99,12 @@
                     <table rendition="topBraced">
                         <row n="2">
                             <cell>
-                            <rs type="person">Vingilius Eichhorn</rs>, Handelsmann in <rs type="place">Nürnberg</rs>
+                            <rs type="person"> Vingilius Eichhorn</rs>, Handelsmann in <rs type="place">Nürnberg</rs>
                                  <lb/>g.<ex>eboren</ex> ... †
                                  <lb/>....<rs type="person">Maria</rs>......
                             </cell>
                             <cell> 
-                                H<ex>err</ex><rs type="person">Bartholomay Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex> <gap quantity="3" unit="chars" reason="unleserlich"/> Rathe, u<ex>nd</ex> ältesten Baumeister in <rs type="place">Leipzig</rs>. Hat über 45 Jahre im Rathause <gap quantity="6" unit="chars" reason="unleserlich"/>
+                                H<ex>err</ex><rs type="person"> Bartholomay Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex> <gap quantity="3" unit="chars" reason="unleserlich"/> Rathe, u<ex>nd</ex> ältesten Baumeister in <rs type="place">Leipzig</rs>. Hat über 45 Jahre im Rathause <gap quantity="6" unit="chars" reason="unleserlich"/>
                                 <lb/> g<ex>eboren</ex>24 Aug<ex>ugst</ex> zu <rs type="place">Münnerstädt</rs>, † 1658 22 Nov<ex>ember</ex> at. go. Ist 1587 nach <rs type="place">Leipzig</rs> <ex>ge</ex>kommen und 1592 <add place="below">22/May</add> Bürger 1587 Gg.<ex>?</ex> immatriculiert
                                 <lb/>
                                 <list>
@@ -112,7 +112,7 @@
                                        <lb/>1. 1591. 15 Juny <rs type="person" role="wife">J<ex>ung</ex>fr<ex>au</ex> Martha</rs>, H<ex>errn</ex> Georg Feinbraud <ex>?</ex>, JC. u.<ex>nd</ex> Patrici T<ex>ochter</ex> g.<ex>eboren</ex>... † 1611. 5 Jan<ex>unar</ex> at 35
                                     </item>
                                     <item>
-                                        <lb/>1. 1614. 12 July <rs type="person" role="wife">Fr<ex>au</ex> Agneta</rs>, H<ex>errn</ex>Caspar Phrumeld<ex>?</ex>, Bürgermeister zu <rs type="place">Eilenburg</rs> <gap quantity="2" unit="chars"/> I. H<ex>err</ex>M. Matthaei Phrumeld<ex>?</ex>, Ka<gap quantity="2" unit="chars" reason="unleserlich"/>burzer und<gap quantity="4" unit="chars" reason="unleserlich"/> zu <rs type="place">Eilenburg</rs> <gap quantity="6" unit="chars" reason="unleserlich"/> † 1624 <add place="below">d.<ex>en</ex> 12. Jun<ex>i</ex>sep.</add>
+                                        <lb/>1. 1614. 12 July <rs type="person" role="wife">Fr<ex>au</ex> Agneta</rs>, H<ex>errn</ex> Caspar Phrumeld<ex>?</ex>, Bürgermeister zu <rs type="place">Eilenburg</rs> <gap quantity="2" unit="chars"/> I. H<ex>err</ex> M. Matthaei Phrumeld<ex>?</ex>, Ka<gap quantity="2" unit="chars" reason="unleserlich"/>burzer und<gap quantity="4" unit="chars" reason="unleserlich"/> zu <rs type="place">Eilenburg</rs> <gap quantity="6" unit="chars" reason="unleserlich"/> † 1624 <add place="below">d.<ex>en</ex> 12. Jun<ex>i</ex>sep.</add>
                                     </item>
                                 </list>
                             </cell>
