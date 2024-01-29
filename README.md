@@ -5,5 +5,7 @@ Das Repositorium dient der Dokumentation der Arbeit im Seminar und der daraus en
 Literatur: Geschichte der Stadt Leipzig, Bd. 2, hg. von Detlef Döring, Leipzig 2016; Katharina Hofmann-Polster: Art. Johann Jakob Vogel, in: Sächsische Biografie, hg. vom Institut für Sächsische Geschichte und Volkskunde, online: https://saebi.isgv.de/biografie/3998; Patrick Sahle: Digitale Edition, in: Digital Humanities. Eine Einführung, hg. von Fotis Jannidis, Hubertus Kohle und Malte Rehbein, Stuttgart 2017, S. 234-249.
 
 
-Beispieldatei für die Kodierung der Stammtafeln (work in progress): [moench.xml](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/stammtafeln/moench.xml)
+Beispieldatei für die Kodierung der Stammtafeln (work in progress): [moench.xml](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/stammtafeln/moench.xml).
+
+Kodierrichtlinien [hier](https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md).
 

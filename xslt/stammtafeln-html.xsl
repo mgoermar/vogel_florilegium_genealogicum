@@ -26,6 +26,31 @@
                 </script>
               </head>
                 <body>
+                    <nav class="navbar navbar-default">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <span class="navbar-brand">Vogel: Florilegium Genealogicum</span>
+                            </div>
+                            <ul class="nav navbar-nav">
+                                <li><a href="index.html">Start</a></li>
+                                <li><a href="introduction_project.html">Einführung</a></li>
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Stammtafeln<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="moench.html">Mönch</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Register<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Personen</a></li>
+                                        <li><a href="#">Orte</a></li>
+                                        <li><a href="#">Körperschaften</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
                     <div id="content" class="container">
                         <xsl:apply-templates/>
                     </div>
@@ -53,6 +78,10 @@
 
     <xsl:template match="tei:head">
         <h2><xsl:apply-templates/></h2>
+    </xsl:template>
+
+    <xsl:template match="tei:p">
+        <p><xsl:apply-templates/></p>
     </xsl:template>
 
     <xsl:template match="tei:lb[not(ancestor::tei:add)][not(ancestor::tei:w)]">
@@ -95,6 +124,10 @@
 
     <xsl:template match="tei:note" mode="apparat">
         <xsl:apply-templates/>
+    </xsl:template>
+
+    <xsl:template match="tei:ref">
+        <a href="{@target}"><xsl:apply-templates/></a>
     </xsl:template>
 
     <xsl:template match="tei:table[@rendition='#topBraced']">
