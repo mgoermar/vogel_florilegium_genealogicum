@@ -78,17 +78,17 @@
         <body>
             <div xml:id="stammbaum_thomasius"/>
                 <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
-                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in <!-- From... nicht klar-->...</head>
+                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in<unclear reason="invisible">...</unclear></head>
                 <table>
                     <row>
                         <cell>
                             H<ex>err</ex> <rs type="person">Michael Thomas</rs> der ältere auf <rs type="place">Troschenreuth</rs> v<ex>on</ex> Wiedersberg, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts??? haben deren adelichen Güter
-                            <lb>15... Fr<ex>au</ex><rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> Churf<ex>ürstlich</ex> Sachs<ex>ens</ex> Amtschöß es zu Weyden T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Lüdwig Sturms</rs> Medic<ex>us</ex> de Rachis in <rs type="place">Merseburg</rs> ? g<ex>eboren</ex>....</lb>
+                        <lb>15... Fr<ex>au</ex> <rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> Churf<ex>ürstlich</ex> Sachs<ex>ens</ex> Amtschöß es zu Weyden T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Lüdwig Sturms</rs> Medic<ex>us</ex> de Rachis in <rs type="place">Merseburg</rs> ? g<ex>eboren</ex>....</lb>
                         </cell>
                     </row>
                     <row>
                         <cell>
-                            H<ex>err</ex> Michael Thoma auf Troschenreuth u<ex>nd</ex> <rs type="place">Wiedersberg</rs> ??d u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1597. 3 Febr<ex>uar</ex> zu Mildenfort bey Weyden</lb>
+                            H<ex>err</ex> Michael Thoma auf Troschenreuth u<ex>nd</ex> <rs type="place">Wiedersberg</rs> ...d u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1597. 3 Febr<ex>uar</ex> zu Mildenfort bey Weyden
                             <lb>1618. 15 juni X? Anna H<ex>err</ex> D<ex>r.</ex> <rs type="person">Jacob Schultze</rs> ßas Churf<ex>ürstlich</ex> Seichs Alteb Rath T g<ex>eboren</ex>....† 1633.1.Oct<ex>ober</ex></lb>
                             <lb>7. K<ex>inder</ex> 5 S<ex>öhne</ex>. 2 T<ex>öchter</ex>.</lb>
                         </cell>
@@ -111,9 +111,7 @@
                             <lb>10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung gestorben.</lb>
                         </cell>
                     </row>
-                    <row>
-                        
-                    </row>
                 </table>
         </body>
+    </text>
 </TEI>
