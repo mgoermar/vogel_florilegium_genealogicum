@@ -139,7 +139,11 @@
     </xsl:template>
 
     <xsl:template match="tei:hi[@rendition='#et']">
-        <span style="padding-left:2em;"><xsl:apply-templates/></span>
+        <span style="display:block; margin-left:2em; text-indent:0"><xsl:apply-templates/></span>
+    </xsl:template>
+
+    <xsl:template match="tei:hi[@rendition='#i']">
+        <span style="font-style:italic"><xsl:apply-templates/></span>
     </xsl:template>
 
     <xsl:template match="tei:abbr">
