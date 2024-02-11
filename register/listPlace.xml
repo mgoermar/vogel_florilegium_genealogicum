@@ -39,6 +39,9 @@
                         </place>
                     </listPlace>
                 </place>
+                <place xml:id="lucka">
+                    <placeName ref="https://www.geonames.org/2875512/lucka.html">Lucka</placeName>
+                </place>
                 <place xml:id="merseburg">
                     <placeName ref="https://www.geonames.org/2871736/merseburg.html">Merseburg</placeName>
                 </place>
@@ -54,9 +57,15 @@
                 <place xml:id="sachsen-weimar_herzogtum">
                     <placeName ref="https://d-nb.info/gnd/4579386-4">Sachsen-Weimar, Herzogtum</placeName>
                 </place>
+                <place xml:id="sedlitz">
+                    <placeName ref="https://www.geonames.org/2834051/sedlitz.html">Sedlitz</placeName>
+                </place>
                 <place xml:id="schneeberg">
                     <placeName ref="https://www.geonames.org/2837470/schneeberg.html">Schneeberg</placeName>
-                </place>   
+                </place>
+                <place xml:id="wittenberg">
+                    <placeName ref="https://www.geonames.org/7303020/wittenberg.html">Wittenberg</placeName>
+                </place>  
             </listPlace>
         </body>
     </text>
