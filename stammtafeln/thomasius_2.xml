@@ -3,11 +3,11 @@
   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="moench">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="thomasius_2">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Florilegium Genealogicum: Stammbaum der Familie Münch (Mönch)</title>
+                <title>Florilegium Genealogicum: Stammbaum der Familie Thomasius</title>
                 <author>
                     <forename>Johann Jacob</forename> 
                     <surname>Vogel</surname>
@@ -15,15 +15,15 @@
                 <respStmt>
                     <resp>Transkribiert und kommentiert von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Julian</forename>
+                        <surname>Wälder</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Kodiert in TEI-P5 von</resp>
                     <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Görmar</surname>
+                        <forename>Julian</forename>
+                        <surname>Wälder</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -76,13 +76,13 @@
     </teiHeader>
     <text>        
         <body>
-            <div xml:id="stammbaum_moench">
-                <pb facs="rep_6_16-a_0426.jpg" n="211v"/>
-                <head>Das Geschlecht-Register derer Mönche</head>
+            <div xml:id="stammbaum_thomasius_2">
+                <!-- ANPASSEN!!!! <pb facs="rep_6_16-a_0426.jpg" n="211v"/> -->
+                <!-- KEINE ÜBERSCHRIFT <head> xyz </head> -->
                 <table>
                     <row>
                         <cell>
-                            H<ex>err</ex> <rs type="person" ref="#muench_georg">Georg Münch</rs>, des <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
+                            H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, des <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
                             <lb/><hi rendition="#et">fr<ex>au</ex> <rs type="person" ref="#muench_margaretha">Margaretha</rs> <rs type="person" ref="#henning_johann">Johann Hennings sonst Reuter</rs>. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
                         </cell>
                     </row>
