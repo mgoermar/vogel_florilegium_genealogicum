@@ -72,8 +72,11 @@
                 <!-- <xi:include href="../register/listPerson.xml" xpointer="element(person)"/>
                 <xi:include href="../register/listPlace.xml" xpointer="element(place)"/>
                 <xi:include href="../register/listOrg.xml" xpointer="element(org)"/> -->
-            </sourceDesc>
+            </sourceDesc> 
         </fileDesc>
+        <encodingDesc>
+            <p>Kodierrichtlinien: <ref target="https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md">https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md</ref></p>
+        </encodingDesc>
     </teiHeader>
     <text>        
         <body>
