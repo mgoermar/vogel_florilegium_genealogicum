@@ -73,6 +73,9 @@
                 <xi:include href="../register/listOrg.xml" xpointer="element(org)"/> -->
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>Kodierrichtlinien: <ref target="https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md">https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md</ref></p>
+        </encodingDesc>
     </teiHeader>
     <text>        
         <body>
