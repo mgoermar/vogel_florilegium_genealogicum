@@ -532,8 +532,10 @@
                                 </table>
                             </cell>
                         </row>
-                    </table>
+                        </table>
                     </cell>
+                        </row>
+                    </table>      
                 </div>
              </body>
         </text>
