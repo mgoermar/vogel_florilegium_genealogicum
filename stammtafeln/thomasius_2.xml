@@ -77,12 +77,18 @@
     <text>        
         <body>
             <div xml:id="stammbaum_thomasius_2">
-                <!-- ANPASSEN!!!! <pb facs="rep_6_16-a_0426.jpg" n="211v"/> -->
+                <!-- ANPASSEN!!!! <pb facs="rep_6_16-a_0920.jpg" n="380 XXXv"/> -->
                 <!-- KEINE ÜBERSCHRIFT <head> xyz </head> -->
                 <table>
                     <row>
                         <cell>
-                            H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, des <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
+                            <lb>H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths </lb>
+                            <lb>Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward </lb> 
+                            <lb> 1648 zu <rs type="place">Jena</rs>J<ex>uris</ex>UD    </lb>
+                            
+                            
+                            
+                            <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
                             <lb/><hi rendition="#et">fr<ex>au</ex> <rs type="person" ref="#muench_margaretha">Margaretha</rs> <rs type="person" ref="#henning_johann">Johann Hennings sonst Reuter</rs>. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
                         </cell>
                     </row>
