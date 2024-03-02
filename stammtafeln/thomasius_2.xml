@@ -84,15 +84,21 @@
                 <!-- KEINE ÜBERSCHRIFT <head> xyz </head> -->
                 <table>
                     <row>
-                        <cell>
-                            <lb>H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths </lb>
-                            <lb>Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward </lb> 
-                            <lb> 1648 zu <rs type="place">Jena</rs>JUS <gloss>lat. für: "Juris utriusque Doctor" - hier: "Doktor beider (kanonischem sowie weltlichem) Rechte"</gloss>   </lb>
-                            
-                            
-                            
-                            <rs type="org" ref="#schneeberg_rat">Raths</rs> u<ex>nd</ex> Stadt<subst><del>s</del><add place="inline">r</add></subst>ichter zu <rs type="place" ref="#schneeberg">Schneeberg</rs> u<ex>nd</ex> <rs type="place" ref="#sachsen-weimar_herzogtum">fürstl<ex>ich</ex> Sachß<ex>ischer</ex></rs> bergrichter zu <rs type="place" ref="#saalfeld">Sahlfeld</rs>.
-                            <lb/><hi rendition="#et">fr<ex>au</ex> <rs type="person" ref="#muench_margaretha">Margaretha</rs> <rs type="person" ref="#henning_johann">Johann Hennings sonst Reuter</rs>. ehel<ex>iche</ex> T<ex>ochter</ex></hi>
+                        <cell rendition="#topBraced">
+                            H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
+                             <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
+                             <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
+                             <lb/> u<ex>nd</ex> JustitinRath. . . . . . . . . † 1679 2. Martij.
+                              <list>
+                                <item>
+                                    <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<e>serlichen</e> Maj.<ex>estät</ex> 
+                                    <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
+                                </item>
+                                <item>
+                                    <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
+                                    <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr ge <!--h/s/zeuget--> 2. Söhne. </hi>
+                                </item>
+                            </list>
                         </cell>
                     </row>
                     <row>
