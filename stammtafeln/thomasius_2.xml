@@ -88,8 +88,8 @@
                             H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
                              <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
                              <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
-                             <lb/> u<ex>nd</ex> JustitinRath. . . . . . . . . † 1679 2. Martij.
-                              <list>
+                             <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
+                            <list>
                                 <item>
                                     <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
                                     <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
@@ -123,6 +123,49 @@
                                         <lb/> Consist<ex>oriums</ex> praesident zu Alten
                                         <lb/> burg. g<ex>eboren</ex> 1635. 20 April.
                                         <lb/> † 170. . .
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>
+                                                    Joh<ex>ann</ex> Thomas
+                                                    <lb/>g<ex>eboren</ex> 1673.27 Dec.<ex>ember</ex>
+                                                    <lb/>† 1674. 11 April
+                                                </cell>
+                                                <cell>
+                                                    Jo<ex>hann</ex> Caspar
+                                                    <lb/>g.<ex>eboren</ex> 1676. 20
+                                                    <lb/>April
+                                                    <lb/>†
+                                                </cell>
+                                                <cell>
+                                                    Joh<ex>ann</ex> Friedrich
+                                                    <lb/>g.<ex>eboren</ex>1678 15
+                                                    <lb/>Mart<ex>ij</ex> † 13 Jun<ex>i</ex>
+                                                    <lb/><!--ejus d. anni.-->
+                                                </cell>
+                                                <cell>
+                                                    Maria Elisabeth
+                                                    <lb/>g<ex>eboren</ex> 1679 12 Sept.<ex>ember</ex>
+                                                </cell>
+                                                <cell>
+                                                    Maria Christina
+                                                    <lb/>g<ex>eboren</ex> 1682 d.<ex>en</ex> 19 Mart.<ex>ij</ex>.
+                                                </cell>
+                                                <cell>
+                                                    Maria Euphrosyna
+                                                    <lb/>g<ex>eboren</ex> 1684 14 Febr.<ex>uar</ex>
+                                                </cell>
+                                                <cell>
+                                                    Johann Ernst
+                                                    <lb/>g<ex>eboren</ex> 2 Febr<ex>uar</ex>† .
+                                                    <lb/> 30 Apr.<ex>il</ex> 1686.
+                                                </cell>
+                                                <cell>
+                                                    Regina Maria
+                                                    <lb/>g<ex>eboren</ex> 1688. 30 Nov<ex>ember</ex>
+                                                    <lb/>† 1690. 25 Martij.
+                                                </cell>
+                                            </row>
+                                        </table>
                                     </cell>
                                     <cell>
                                         3. <rs type="person" ref="#thomas_magdalenasibylla"> Magdalena Sibylla </rs>
@@ -130,16 +173,36 @@
                                         <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
                                         <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
                                         <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
-                                        <lb/>und Dobitzschen. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
-                                        <lb/> 
-                                        <lb/><rs type="person" ref="#elar_heinrich">Heinrich Elar</rs>.
-                                        <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex></rs> <w lemma="Feldmeßer">Feld
-                                        <lb/>meßer</w> u<ex>nd</ex> <w lemma="Quartiermeister">Quartier
-                                        <lb/>meister</w>.
+                                        <lb/>und <!--Dobitzsche/in.--> R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
+                                        <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
+                                        <lb/>Rathdirector u.<ex>nd</ex> Canzler <!--zu für-->
+                                        <lb/><!--donstrin-->.<!-- siehe Geschlecht Vide. Gen.<ex>s</ex> Bacchov.-->
                                      </cell>
-                    </row>
-                    <row>
+                                     <cell>
+                                        II. <rs type="person" ref="#thomas_friedrichXXX">Friedrich
+                                        <lb/><!--Eliaster--></rs>
+                                        <lb/>g.<ex>eboren</ex> 1671. 9 Dec.<ex>ember</ex>
+                                        <lb/>† 1672 6 May.
+                                     </cell>
+                                     <cell>
+                                        <rs type="person" ref="thomas_johannadam">Jo<ex>hann</ex>Adam</rs>
+                                        <lb/>LL stud.<ex>iosus</ex>
+                                        <lb/>g<ex>eboren</ex> 1672.22
+                                        <lb/>Dec<ex>ember</ex>† 10 Jan<ex>uar</ex>
+                                        <lb/>1691. zu 
+                                        <lb/>Leipzig 
+                                     </cell>
+                                </row>
+                            </table>
+                        </cell>
                         <cell rendition="#topBraced">
+                            <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
+                            <lb/>
+                        </cell>
+    
+                
+                   
+                      <!---  <cell rendition="#topBraced">
                             H<ex>err</ex> <rs type="person" ref="#muench_johann">Johann Münch</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Rath, der <rs type="org" ref="#universitaet_leipzig_juristische_fakultaet">Juristenfacultät</rs> Ordinarius u<ex>nd</ex> Pro<subst><del>f</del><add place="inline">fe</add></subst>ssor, wie auch bürgerm<ex>eister</ex>, u<ex>nd</ex> des Churf<ex>ürstlich</ex> Sachs<ex>ischen</ex> <rs type="org" ref="#leipzig_schoeppenstuhl">Schoppenstuls</rs> Assessor u<ex>nd</ex> Canonicus zu <rs type="place" ref="#merseburg">Merseburg</rs>.
                             <lb/>g<ex>eboren</ex> 1536 15. Aug<ex>ust</ex> zu <rs type="place" ref="#schneeberg">Schneeberg</rs>. ward 1560 3. Jan<ex>uar</ex> zu <rs type="place" ref="#jena">Jena</rs> Mag<ex>ister</ex> zu <rs type="place" ref="#basel">Basel</rs> 15.. I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1573 Professor zu Jena, A<ex>nno</ex> 1579 Syndicus zu <rs type="place" ref="#nuernberg">Nürnberg</rs> A<ex>nno</ex> 1588 zu <rs type="place" ref="#leipzig">leipzig</rs> Ordinarius u<ex>nd</ex> Consul.
                             <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> <rs type="place" ref="#leipzig_nikolaikirche">Kirchen zu S<ex>ankt</ex> Nicolai</rs> begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
@@ -319,3 +382,4 @@
         </body>
     </text>
 </TEI>
+-->
