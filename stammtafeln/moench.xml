@@ -3,7 +3,7 @@
   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
-<!-- <?xml-stylesheet type="text/xsl" href="../xslt/stammtafeln-html.xsl"?> -->
+<?xml-stylesheet type="text/xsl" href="../xslt/stammtafeln-html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="moench">
     <teiHeader>
         <fileDesc>
@@ -72,8 +72,11 @@
                 <!-- <xi:include href="../register/listPerson.xml" xpointer="element(person)"/>
                 <xi:include href="../register/listPlace.xml" xpointer="element(place)"/>
                 <xi:include href="../register/listOrg.xml" xpointer="element(org)"/> -->
-            </sourceDesc>
+            </sourceDesc> 
         </fileDesc>
+        <encodingDesc>
+            <p>Kodierrichtlinien: <ref target="https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md">https://github.com/mgoermar/vogel_florilegium_genealogicum/blob/main/codingrules.md</ref></p>
+        </encodingDesc>
     </teiHeader>
     <text>        
         <body>
@@ -94,10 +97,10 @@
                             <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> <rs type="place" ref="#leipzig_nikolaikirche">Kirchen zu S<ex>ankt</ex> Nicolai</rs> begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
                             <list>
                                 <item>
-                                    <lb/><hi rendition="#et">1. 15 . . . . J<ex>ung</ex>fr<ex>au</ex> Reginam H<ex>errn</ex> Joachim Gundelfingens Patricij zu Nürnberg T<ex>ochter</ex> g<ex>eboren</ex> - - - - - st<ex>arb</ex> 1589 7. April.</hi>
+                                    <lb/><hi rendition="#et">1. 15 . . . . J<ex>ung</ex>fr<ex>au</ex> <rs type="person" ref="#muench_regina">Reginam</rs> H<ex>errn</ex> <rs type="person" ref="#gundelfinger_joachim">Joachim Gundelfingens</rs> Patricij zu <rs type="place" ref="#nuernberg">Nürnberg</rs> T<ex>ochter</ex> g<ex>eboren</ex> - - - - - st<ex>arb</ex> 1589 7. April.</hi>
                                 </item>
                                 <item>
-                                    <lb/><hi rendition="#et">2. 1591 19. Apr<ex>il</ex> fr<ex>au</ex> Brigitten H<ex>errn</ex> d<ex>octor</ex> Laurentij Lindemans zu Sedelitz vormals Ordinarij u<ex>nd</ex> Prof<ex>essors</ex> zu Wittenberg danach Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> Raths Wittwe H<ex>errn</ex> Pauli Langefeldts I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex></hi>
+                                    <lb/><hi rendition="#et">2. 1591 19. Apr<ex>il</ex> fr<ex>au</ex> <rs type="person" ref="#muench_brigitte">Brigitten</rs> H<ex>errn</ex> d<ex>octor</ex> <rs type="person" ref="#lindemann_lorenz">Laurentij Lindemans</rs> zu <rs type="place" ref="#sedlitz">Sedelitz</rs> vormals Ordinarij u<ex>nd</ex> Prof<ex>essors</ex> zu <rs type="place" ref="#wittenberg">Wittenberg</rs> danach <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Raths Wittwe H<ex>errn</ex> <rs type="person" ref="#langefeldt_paul">Pauli Langefeldts</rs> I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex></hi>
                                     <lb/><hi rendition="#et">Tochter. g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1610 5. Martij.</hi>
                                 </item>
                             </list>
@@ -105,59 +108,59 @@
                                 <row>
                                     <cell>I.</cell>
                                     <cell>
-                                        1. . . . . .
+                                        1. <rs type="person" ref="#muench_anon_1">. . . . .</rs>
                                         <lb/>g<ex>eboren</ex>
                                         <lb/>†
                                     </cell>
                                     <cell>
-                                        2. . . . . 
+                                        2. <rs type="person" ref="#muench_anon_2">. . . .</rs> 
                                         <lb/>g<ex>eboren</ex> . . .
                                         <lb/>†
                                     </cell>
                                     <cell>
-                                        3. . . . . . 
+                                        3. <rs type="person" ref="#muench_anon_3">. . . . .</rs> 
                                         <lb/>. . . . .
                                     </cell>
                                     <cell>
-                                        4. . . . . . 
-                                        <lb/>Münchin g<ex>eboren</ex>
+                                        4. <rs type="person" ref="#elar_anon_1">. . . . . 
+                                        <lb/>Münchin</rs> g<ex>eboren</ex>
                                         <lb/>†
                                         <lb/>15 . . . . . . . .
-                                        <lb/>Heinrich Elar.
-                                        <lb/>Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex> <w lemma="Feldmeßer">Feld
+                                        <lb/><rs type="person" ref="#elar_heinrich">Heinrich Elar</rs>.
+                                        <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex></rs> <w lemma="Feldmeßer">Feld
                                         <lb/>meßer</w> u<ex>nd</ex> <w lemma="Quartiermeister">Quartier
                                         <lb/>meister</w>.
                                     </cell>
                                     <cell>
-                                        5. Regina Münchin
+                                        5. <rs type="person" ref="#lindemann_regina">Regina Münchin</rs>
                                         <lb/>g<ex>eboren</ex>
                                         <lb/>†
                                         <lb/>1601 28. April H<ex>err</ex>
-                                        <lb/>Friedrich Lindemannen d<ex>er</ex>
-                                        <lb/>Churf<ex>ürstlich</ex> Sachß<ex>ischen</ex> Wittwe Secret<ex>arius</ex>
-                                        <lb/>u<ex>nd</ex> landmeister zu Colditz.
+                                        <lb/><rs type="person" ref="#lindemann_friedrich">Friedrich Lindemannen</rs> d<ex>er</ex>
+                                        <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischen</ex></rs> <rs type="person" ref="sachsen_sophie">Wittwe</rs> Secret<ex>arius</ex>
+                                        <lb/>u<ex>nd</ex> landmeister zu <rs type="place" ref="#colditz">Colditz</rs>.
                                         <lb/>g<ex>eboren</ex> 1566 27. Mart<ex>ii</ex> † 1617 28.
                                         <lb/>Januarij.
                                         <lb/>Vide das Lindemannische
-                                        <lb/><hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>
+                                        <lb/><hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex><note type="footnote" resp="mg">Der Lindemannische Stammbeum ist nicht im Florilegium Genealogicum enthalten, Aufzeichnungen zur Familie Lindemann sind aber in Vogels familiengeschichtlicher Zettelsammlung (UB Leipzig: Rep. VI 16ay) enthalten. Vgl. Leskien 1927, S. 20.</note></hi>
                                     </cell>
                                     <cell>
-                                        6. H<ex>err</ex> Georg Münch
-                                        <lb/>g<ex>eboren</ex> 15 . . . . zu Jena
-                                        <lb/>1590 zu leipzig immatricul<ex>iert</ex>
+                                        6. H<ex>err</ex> <rs type="person" ref="#muench_georg">Georg Münch</rs>
+                                        <lb/>g<ex>eboren</ex> 15 . . . . zu <rs type="place" ref="#jena">Jena</rs>
+                                        <lb/>1590 zu <rs type="place" ref="#leipzig">leipzig</rs> immatricul<ex>iert</ex>
                                         <lb/>†
-                                        <lb/>1601 17. Nov<ex>ember</ex>J<ex>ung</ex>fr<ex>au</ex> Coecoliam
-                                        <lb/>H<ex>errn</ex> Conrad Teuerlings
+                                        <lb/>1601 17. Nov<ex>ember</ex>J<ex>ung</ex>fr<ex>au</ex> <rs type="person" ref="#moench_coecilia">Coeciliam</rs>
+                                        <lb/>H<ex>errn</ex> <rs type="person" ref="#teuerling_conrad">Conrad Teuerlings</rs>
                                         <lb/>. . . . . . . T<ex>ochter</ex>
                                     </cell>
                                     <cell>
-                                        <lb/>7. H<ex>err</ex> D<ex>octor</ex> Johannes Paulus Mönch, anfangs Gräfl<ex>ich</ex>
-                                        <lb/>Manßfeldischer Rath, hernach fürstl<ex>ich</ex> Sächß<ex>ischer</ex> Cantzler
-                                        <lb/>u<ex>nd</ex> Rath zu Zeitz. g<ex>eboren</ex> 1582 15. Julij zu Nürnberg. st<ex>arb</ex> 1644
-                                        <lb/>29. Julij zu Jena. ward 1566<note type="footnote" resp="mg">Diese Jahreszahl ist offensichtlich falsch. Johannes Paul Mönch wurde 1610 in Basel zum Doktor beider Rechte promoviert.</note> zu basel I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>.
+                                        <lb/>7. H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#moench_johann_paul">Johannes Paulus Mönch</rs>, anfangs <rs type="place" ref="#mansfeld_grafschaft">Gräfl<ex>ich</ex>
+                                        <lb/>Manßfeldischer</rs> Rath, hernach <rs type="place" ref="#sachsen_kurfürstentum">fürstl<ex>ich</ex> Sächß<ex>ischer</ex></rs> Cantzler
+                                        <lb/>u<ex>nd</ex> Rath zu <rs type="place" ref="#zeitz">Zeitz</rs>. g<ex>eboren</ex> 1582 15. Julij zu <rs type="place" ref="#nuernberg">Nürnberg</rs>. st<ex>arb</ex> 1644
+                                        <lb/>29. Julij zu <rs type="place" ref="#jena">Jena</rs>. ward 1566<note type="footnote" resp="mg">Diese Jahreszahl ist offensichtlich falsch. Johannes Paul Mönch wurde 1610 in Basel zum Doktor beider Rechte promoviert.</note> zu basel I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>.
                                         <list>
                                             <item>
-                                                <lb/>1. 1610 6. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Margaretham H<ex>errn</ex> Georg Winters Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>ei</ex>
+                                                <lb/>1. 1610 6. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Margaretham H<ex>errn</ex> Georg Winters Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>aei</ex>
                                                 <lb/>u<ex>nd</ex> furstl<ex>ich</ex> Sachß<ex>isch</ex> Weymar<ex>ischen</ex> u<ex>nd</ex> Heßischen, u<ex>nd</ex> auch Gräffl<ex>ich</ex> Manßfeldischen
                                                 <lb/>u<ex>nd</ex> Stollbergischen Raths T<ex>ochter</ex> g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1629 zu Sangerhaußen. <add place="inline">11 K<ex>inder</ex><lb/> 7 T<ex>öchter</ex> u<ex>nd</ex> 4 S<ex>öhne</ex></add>
                                             </item>
@@ -195,7 +198,7 @@
                                                                 <lb/>g<ex>eboren</ex> 1643 d<ex>en</ex> 20. Sept<ex>ember</ex> † 1702 9. Junij.
                                                                 <lb/>1685 10. Nov<ex>ember</ex> H<ex>err</ex> d<ex>octor</ex> barthol<ex>olomäus</ex>
                                                                 <lb/>Leonhart Schwendendörffern.
-                                                                <lb/>I<ex>uris</ex>c<ex>onsul</ex>tus P<ex>rofessor</ex> P<ex>ublicus</ex> Caninicus Martisb<ex>urgae</ex> Fac<ex>ultatis</ex>
+                                                                <lb/>I<ex>uris</ex>c<ex>onsul</ex>tus P<ex>rofessor</ex> P<ex>ublicus</ex> Canonicus Martisb<ex>urgae</ex> Fac<ex>ultatis</ex>
                                                                 <lb/>Jurid<ex>icae</ex> <add place="above">u<ex>nd</ex></add> Oberhoffgerichts Assesor
                                                                 <lb/>der Meißn<ex>ischen</ex> Nation Senior u<ex>nd</ex> der
                                                                 <lb/>Acad<ex>emiae</ex> Decemvir zu Leipzig.

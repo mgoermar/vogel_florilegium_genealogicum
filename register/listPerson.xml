@@ -24,6 +24,27 @@
     <text>
         <body>
             <listPerson xml:id="person">
+                <person xml:id="gundelfinger_joachim">
+                    <persName ref="https://d-nb.info/gnd/1079980695">
+                        <forename>Joachim</forename>
+                        <surname>Gundelfinger</surname>
+                    </persName>
+                    <persName type="display">Gundelfinger, Joachim</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Patrizier</term> 
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Kaufmann</term> 
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#muench_regina"/>
+                        </listRelation>
+                    </note>
+                </person>
                 <person xml:id="henning_johann">
                     <persName>
                         <forename>Johann</forename>
@@ -41,6 +62,94 @@
                             <relation type="child" ref="#muench_margaretha"/>
                         </listRelation>
                     </note>
+                </person>
+                <person xml:id="langefeldt_paul">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Langefeldt</surname>
+                    </persName>
+                    <persName type="display">Langefeldt, Paul</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="lindemann_lorenz">
+                    <persName ref="https://d-nb.info/gnd/130336874">
+                        <forename>Lorenz</forename>
+                        <surname>Lindemann</surname>
+                    </persName>
+                    <persName type="display">Lindemann, Lorenz</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="muench_anon_1">
+                    <persName>
+                        <forename>N. N. (1)</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, N. N. (1)</persName>
+                </person>
+                <person xml:id="muench_anon_2">
+                    <persName>
+                        <forename>N. N. (2)</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, N. N. (2)</persName>
+                </person>
+                <person xml:id="muench_anon_3">
+                    <persName>
+                        <forename>N. N. (3)</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, N. N. (3)</persName>
+                </person>
+                <person xml:id="muench_brigitte">
+                    <persName ref="https://d-nb.info/gnd/120803127">
+                        <forename>Brigitte</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, Brigitte, geb. Langefeldt</persName>
+                    <persName>
+                        <forename>Brigitte</forename>
+                        <surname>Lindemann</surname>
+                    </persName>
+                    <persName>Lindemann, Brigitte, geb. Langefeldt</persName>
+                    <persName>
+                        <forename>Regina</forename>
+                        <surname type="birthName">Langefeldt</surname>
+                    </persName>
+                    <persName>Langefeldt, Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1555-03-06">6. März 1555</date>
+                        <placeName ref="#lucka">Lucka</placeName>
+                    </birth>
+                    <death>
+                        <date when="1610-03-05">5. März 1610</date>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1591-04-19">19. April 1591</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Begräbnis</eventName>
+                                <placeName ref="#dresden_frauenkirche">Dresden, Frauenkirche</placeName>
+                                <date when="1610">11. Sonntag Oculi 1610</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#langefeldt_paul"/>
+                            <relation type="spouse" ref="#lindemann_lorenz" n="1"/>
+                            <relation type="spouse" ref="#muench_johann" n="2"/>
+                        </listRelation>
+                    </note>
+                    <listBibl>
+                        <bibl>Johann Winckler: Onus Christianorum Das ist: Einfeltige Christliche Leichenpredigt/ von frommer Gottseliger Christen Creutz-Last/ auß dem 68. Psalm : Beym Begrebnüs der weiland Ehrenvieltugendsamen und Erbaren Frawen Brigitten/ des [...] Herrn Johan Münnichs [...] hinterlassenen Widwen/ welche den 5. Martij dieses 1610. Jahrs [...] in Christo selig entschlafen/ und nachmals den 11. Sontages Oculi zu Dreßden/ in unser lieben Frawen Kirchen Sacristeyen/ ehrlich zur Erden bestattet worden, Dresden 1610<ptr type="vd17" cRef="1:025151F"/></bibl>
+                    </listBibl>               
                 </person>
                 <person xml:id="muench_georg">
                     <persName>
@@ -136,6 +245,8 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#muench_georg"/>
+                            <relation type="spouse" n="1" ref="#muench_regina"/>
+                            <relation type="spouse" n="2" ref="#muench_brigitte"/>
                         </listRelation>
                     </note>
                     <listBibl>
@@ -163,6 +274,32 @@
                         <listRelation>
                             <relation type="parent" ref="#henning_johann"/>
                             <relation type="spouse" ref="#muench_georg" n="1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="muench_regina">
+                    <persName>
+                        <forename>Regina</forename>
+                        <surname>Münch</surname>
+                    </persName>
+                    <persName type="display">Münch, Regina, geb. Gundelfinger</persName>
+                    <persName>
+                        <forename>Regina</forename>
+                        <surname type="birthName">Gundelfinger</surname>
+                    </persName>
+                    <persName>Gundelfinger, Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </birth>
+                    <death>
+                        <date when="1589-04-07">7. April 1589</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#gundelfinger_joachim"/>
+                            <relation type="spouse" ref="#muench_johann" n="1"/>
                         </listRelation>
                     </note>
                 </person>

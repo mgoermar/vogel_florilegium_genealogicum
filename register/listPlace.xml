@@ -28,6 +28,9 @@
                 <place xml:id="basel">
                     <placeName ref="https://www.geonames.org/2661604/basel.html">Basel</placeName>
                 </place>
+                <place xml:id="colditz">
+                    <placeName ref="https://www.geonames.org/2939927/colditz.html">Colditz</placeName>
+                </place>
                 <place xml:id="jena">
                     <placeName ref="https://www.geonames.org/2895044/jena.html">Jena</placeName>
                 </place>
@@ -38,6 +41,12 @@
                             <placeName ref="https://www.geonames.org/11395551/nikolaikirche.html">Leipzig, Nikolaikirche</placeName>
                         </place>
                     </listPlace>
+                </place>
+                <place xml:id="lucka">
+                    <placeName ref="https://www.geonames.org/2875512/lucka.html">Lucka</placeName>
+                </place>
+                <place xml:id="mansfeld_grafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4037391-5">Mansfeld, Grafschaft</placeName>
                 </place>
                 <place xml:id="merseburg">
                     <placeName ref="https://www.geonames.org/2871736/merseburg.html">Merseburg</placeName>
@@ -54,9 +63,18 @@
                 <place xml:id="sachsen-weimar_herzogtum">
                     <placeName ref="https://d-nb.info/gnd/4579386-4">Sachsen-Weimar, Herzogtum</placeName>
                 </place>
+                <place xml:id="sedlitz">
+                    <placeName ref="https://www.geonames.org/2834051/sedlitz.html">Sedlitz</placeName>
+                </place>
                 <place xml:id="schneeberg">
                     <placeName ref="https://www.geonames.org/2837470/schneeberg.html">Schneeberg</placeName>
-                </place>   
+                </place>
+                <place xml:id="wittenberg">
+                    <placeName ref="https://www.geonames.org/7303020/wittenberg.html">Wittenberg</placeName>
+                </place>  
+                <place xml:id="zeitz">
+                    <placeName ref="https://www.geonames.org/2804922/zeitz.html">Zeitz</placeName>
+                </place>
             </listPlace>
         </body>
     </text>

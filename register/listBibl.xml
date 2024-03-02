@@ -26,6 +26,7 @@
         <body>
             <listBibl xml:id="bibl">
                 <bibl xml:id="kuehling_mundus_2000">Karin Kühling / Doris Mundus: Leipzigs regierende Bürgermeister vom 13. Jahrhundert bis zur Gegenwart. Eine Übersichtsdarstellung mit biographischen Skizzen, Beucha 2000<ptr type="gvk" cRef="34640049X"/></bibl>
+                <bibl xml:id="leskien_1927">Elfriede Leskien, Der Leipziger Geschichtsschreiber und Familienforscher Johann Jakob Vogel und seine handschriftlichen Sammlungen zur Leipziger Familiengeschichte, Leipzig 1927.<ptr type="gvk" cRef="1185534849"/></bibl>
             </listBibl>
         </body>
     </text>
