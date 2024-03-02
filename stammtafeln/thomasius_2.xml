@@ -91,7 +91,7 @@
                              <lb/> u<ex>nd</ex> JustitinRath. . . . . . . . . † 1679 2. Martij.
                               <list>
                                 <item>
-                                    <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<e>serlichen</e> Maj.<ex>estät</ex> 
+                                    <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
                                     <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
                                 </item>
                                 <item>
@@ -99,7 +99,44 @@
                                     <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr ge <!--h/s/zeuget--> 2. Söhne. </hi>
                                 </item>
                             </list>
-                        </cell>
+                            <table rendition="#topBraced">
+                                <row>
+                                    <cell>
+                                        1. <rs type="person" ref="#thomas_johannphilipp">Johann
+                                        <lb/> Philipp.</rs>
+                                        <lb/>g.<ex>eboren</ex>
+                                        <lb/>†.
+                                    </cell>
+                                    <cell>
+                                        4. <rs type="person" ref="#thomas_johannchristian">Johann
+                                        <lb/>Christian</rs> 
+                                        <lb/>g.<ex>eboren</ex>
+                                        <lb/>†
+                                    </cell>
+                                    <cell>
+                                        2. <rs type="person" ref="#thomas_mariaelisabeth">Maria Elisabeth</rs> 
+                                        <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
+                                        <lb/> 1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
+                                        <lb/> Caspar Hendrichs </rs> auff
+                                        <lb/> Knau u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
+                                        <lb/> Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
+                                        <lb/> Consist<ex>oriums</ex> praesident zu Alten
+                                        <lb/> burg. g<ex>eboren</ex> 1635. 20 April.
+                                        <lb/> † 170. . .
+                                    </cell>
+                                    <cell>
+                                        3. <rs type="person" ref="#thomas_magdalenasibylla"> Magdalena Sibylla </rs>
+                                        <lb/>g<ex>eboren</ex>16 . . 
+                                        <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
+                                        <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
+                                        <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
+                                        <lb/>und Dobitzschen. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
+                                        <lb/> 
+                                        <lb/><rs type="person" ref="#elar_heinrich">Heinrich Elar</rs>.
+                                        <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex></rs> <w lemma="Feldmeßer">Feld
+                                        <lb/>meßer</w> u<ex>nd</ex> <w lemma="Quartiermeister">Quartier
+                                        <lb/>meister</w>.
+                                     </cell>
                     </row>
                     <row>
                         <cell rendition="#topBraced">
