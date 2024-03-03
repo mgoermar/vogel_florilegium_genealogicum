@@ -197,7 +197,35 @@
                         </cell>
                         <cell rendition="#topBraced">
                             <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
-                            <lb/>
+                            <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
+                            <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
+                            <lb/>Sachß.<ex>ischer</ex> Amtschößer zu Salfeldt g.<ex>eboren</ex>
+                            <lb/>†.
+                             <table rendition="#topBraced">
+                                <row>
+                                    <cell>
+                                    <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
+                                    <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
+                                    <lb/>g.<ex>eboren</ex>
+                                    <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
+                                    <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
+                                    <lb/>Franckes</rs> Archidiaconi
+                                    <lb/>zu Weyda T.<ex>ochter</ex>
+                                    </cell>
+                                    <cell>
+
+                                    </cell>
+                                    <cell>
+                                    
+                                    </cell>
+                                    <cell>
+                                    
+                                    </cell>
+                                    <cell>
+                                    
+                                    </cell>
+                                </row>
+                            </table>
                         </cell>
     
                 
