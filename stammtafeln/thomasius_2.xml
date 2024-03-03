@@ -86,9 +86,9 @@
                     <row>
                         <cell rendition="#topBraced">
                             H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
-                             <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
-                             <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
-                             <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
+                            <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
+                            <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
+                            <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
                             <list>
                                 <item>
                                     <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
@@ -176,7 +176,7 @@
                                         <lb/>und <!--Dobitzsche/in.--> R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
                                         <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
                                         <lb/>Rathdirector u.<ex>nd</ex> Canzler <!--zu für-->
-                                        <lb/><!--donstrin-->.<!-- siehe Geschlecht Vide. Gen.<ex>s</ex> Bacchov.-->
+                                        <lb/><!--donstrin-->.<!-- Vide. Gen.<ex>s</ex> Bacchov.<ex>i</ex> <hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>-->
                                      </cell>
                                      <cell>
                                         II. <rs type="person" ref="#thomas_friedrichXXX">Friedrich
@@ -244,8 +244,78 @@
                 <table>
                     <row>
                         <cell rendition="#topBraced">
+                        H.<ex>err</ex><rs type="person" ref="thomae_henning">Henning Thomae</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
+                        <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
+                        <lb/>1660. 9 Dec.<ex>ember</ex><!--Jf Jungfrau-->Anna Maria H<ex>errn</ex><rs type="person" ref="widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
+                        <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
+                        <table rendition="#topBraced">
+                            <row>
+                                <cell>    
+                                    Maria
+                                    <lb/>Elisabeth
+                                    <lb/>g<ex>eboren</ex> 1661. 27 Sept.<ex>ember</ex>
+                                    <lb/>† 1664.12 Aug.<ex>ust</ex>
+                                </cell>
+                                <cell>    
+                                    Johann Albrecht
+                                    <lb/>g.<ex>ebore</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
+                                    <lb/>† 1664. 20 April.
+                                </cell>
+                                <cell>    
+                                    H.<ex>err</ex> <rs type="person" ref="thomae_augustinjohann">Augustinus Johann Thomae</rs>
+                                    <lb/>ViceCantzler zu Altenburg.
+                                    <lb/>g<ex>eboren</ex> 1665 9 Oct.<ex>ober</ex>
+                                    <lb/>1694 <!--Jfr Jungfrau--> . . . . . .
+                                    <lb/>H.<ex>errn</ex> <!-- Lücke --> Döhlers Amtsmanns
+                                    <lb/>zu Sauenstadt T.<ex>ochter</ex>
+                                </cell>
+                                <cell>    
+                                    H
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                <cell>    
+                                    Barbara Catharina
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                <cell>    
+                                    Henning
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                 <cell>    
+                                    Susanna
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                <cell>    
+                                    Christian
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                <cell>    
+                                    H Joh
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                                 <cell>    
+                                    Anna
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
+                                </cell>
+                            </row>
+                        </table>
                         </cell>
                         <cell rendition="topBraced">
+                        Adam thomas
                         </cell>
                     </row>
                 
@@ -429,4 +499,4 @@
             </div>
         </body>
     </text>
-</TEI> -->
+</TEI>
