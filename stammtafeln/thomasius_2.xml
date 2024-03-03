@@ -204,30 +204,50 @@
                              <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                    <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
-                                    <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
-                                    <lb/>g.<ex>eboren</ex>
-                                    <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
-                                    <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
-                                    <lb/>Franckes</rs> Archidiaconi
-                                    <lb/>zu Weyda T.<ex>ochter</ex>
+                                        <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
+                                        <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
+                                        <lb/>g.<ex>eboren</ex>
+                                        <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
+                                        <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
+                                        <lb/>Franckes</rs> Archidiaconi
+                                        <lb/>zu Weyda T.<ex>ochter</ex>
                                     </cell>
                                     <cell>
-
+                                        Sophia
+                                        <lb/>g<ex>eboren</ex>
+                                        <lb/>†
                                     </cell>
                                     <cell>
-                                    
+                                        Sophia Benigna
+                                        <lb/>g<ex>eboren</ex>
+                                        <lb/>†
                                     </cell>
                                     <cell>
-                                    
+                                        <rs type="person" ref="lauhn_friedrichwilhelm">Friedrich Wilhlem
+                                        <lb/>Lauhn</rs>
+                                        <lb/>g.<ex>eboren</ex>
                                     </cell>
                                     <cell>
-                                    
+                                        Maria
+                                        <lb/>Elisabeth
+                                        <lb/>g<ex>eboren</ex>
+                                        <lb/>†
                                     </cell>
                                 </row>
                             </table>
                         </cell>
-    
+                    </row>
+                </table>
+                <!--Seite 1 zuende-->
+                <pb facs="rep_6_16-a_0921.jpg" n="457r"/>
+                 <!--<head>keine Überschrift</head>-->
+                <table>
+                    <row>
+                        <cell rendition="#topBraced">
+                        </cell>
+                        <cell rendition="topBraced">
+                        </cell>
+                    </row>
                 
                    
                       <!---  <cell rendition="#topBraced">
@@ -409,5 +429,4 @@
             </div>
         </body>
     </text>
-</TEI>
--->
+</TEI> -->
