@@ -80,608 +80,461 @@
                     <pb facs="rep_6_16-a_0249.jpg" n="123v"/>
                         <head>Die Familie Eichhorn</head>
                     <table>
-                        <!-- Valtin Eichhorn erledigt -->
-                       <row n="1">
+                       <row>
                             <cell>
                                 H<ex>err</ex><rs type="Person"> Valtin Eichhorn</rs>, Bürgermeister zu <rs type="place">Münnerstädt</rs> in Franken
                             </cell>
                        </row>
-                    </table> 
-                    <table>
-                        <!-- Johann Eichhorn erledigt -->
-                        <row n="1">
-                            <cell> 
-                                H<ex>err</ex> <rs type="person">Johann Eichhorn</rs>, b.n. Handelsman zu <rs type="place">Münnerstädt</rs> g<ex>eboren</ex> 1537 † 1610 23 Jul<ex>i</ex> wart <gap quantity="6" unit="chars" reason="unleserlich"/> unserer Religion willen nach Schweinfurt sich zu begeben genöthigt
-                                 <lb/> 1565 h<ex>eirat</ex> <rs type="Person"> Elisabeth</rs>. ge<ex>boren</ex> <rs type="Person">Johann Alberti</rs> Bürgermeister zu <rs type="place">Münnerstädt</rs> Toflin g<ex>eboren</ex> †
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                        <row n="2">
-                            <cell>
-                            <rs type="person"> Vingilius Eichhorn</rs>, Handelsmann in <rs type="place">Nürnberg</rs>
-                                 <lb/>g.<ex>eboren</ex> ... †
-                                 <lb/>....<rs type="person">Maria</rs>......
-                            </cell>
-                            <cell> 
-                                H<ex>err</ex><rs type="person"> Bartholomay Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex> <gap quantity="3" unit="chars" reason="unleserlich"/> Rathe, u<ex>nd</ex> ältesten Baumeister in <rs type="place">Leipzig</rs>. Hat über 45 Jahre im Rathause <gap quantity="6" unit="chars" reason="unleserlich"/>
-                                <lb/> g<ex>eboren</ex>24 Aug<ex>ugst</ex> zu <rs type="place">Münnerstädt</rs>, † 1658 22 Nov<ex>ember</ex> at. go. Ist 1587 nach <rs type="place">Leipzig</rs> <ex>ge</ex>kommen und 1592 <add place="below">22/May</add> Bürger 1587 Gg.<ex>?</ex> immatriculiert
+                             </table>
                                 <lb/>
+                             <table>
+                        <row>
+                            <cell>
+                                 H<ex>err</ex> <rs type="person">Johann Eichhorn</rs>, b.n. Handelsman zu <rs type="place">Münnerstädt</rs> g<ex>eboren</ex> 1537 † 1610 23 Jul<ex>i</ex> wart <gap quantity="6" unit="chars" reason="unleserlich"/> unserer Religion willen nach Schweinfurt sich zu begeben genöthigt   
+                                <lb/><hi rendition="et"> 1565 h<ex>eirat</ex> <rs type="Person"> Elisabeth</rs>. ge<ex>boren</ex> <rs type="Person">Johann Alberti</rs> Bürgermeister zu <rs type="place">Münnerstädt</rs> Toflin g<ex>eboren</ex> †</hi>
+                             </cell>
+                        </row>
+                            <row rendition="TopBraced">
+                                 <cell>
+                                    <rs type="person"> Vingilius Eichhorn</rs>, Handelsmann in <rs type="place">Nürnberg</rs>
+                                    <lb/>g.<ex>eboren</ex> ... †
+                                    <lb/>....<rs type="person">Maria</rs>......
+                                 </cell>
+                                <cell>
+                                     H<ex>err</ex><rs type="person"> Bartholomay Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex> <gap quantity="3" unit="chars" reason="unleserlich"/> Rathe, u<ex>nd</ex> ältesten Baumeister in <rs type="place">Leipzig</rs>. Hat über 45 Jahre im Rathause <gap quantity="6" unit="chars" reason="unleserlich"/>
+                                <hi rendition="et"> <lb/> g<ex>eboren</ex>24 Aug<ex>ugst</ex> zu <rs type="place">Münnerstädt</rs>, † 1658 22 Nov<ex>ember</ex> at. go. Ist 1587 nach <rs type="place">Leipzig</rs> <ex>ge</ex>kommen und 1592 <add place="below">22/May</add> Bürger 1587 Gg.<ex>?</ex> immatriculiert</hi>
                                 <list>
                                     <item>
                                        <lb/>1. 1591. 15 Juny <rs type="person" role="wife">J<ex>ung</ex>fr<ex>au</ex> Martha</rs>, H<ex>errn</ex> Georg Feinbraud <ex>?</ex>, JC. u.<ex>nd</ex> Patrici T<ex>ochter</ex> g.<ex>eboren</ex>... † 1611. 5 Jan<ex>unar</ex> at 35
                                     </item>
                                     <item>
-                                        <lb/>1. 1614. 12 July <rs type="person" role="wife">Fr<ex>au</ex> Agneta</rs>, H<ex>errn</ex> Caspar Phrumeld<ex>?</ex>, Bürgermeister zu <rs type="place">Eilenburg</rs> <gap quantity="2" unit="chars"/> I. H<ex>err</ex> M. Matthaei Phrumeld<ex>?</ex>, Ka<gap quantity="2" unit="chars" reason="unleserlich"/>burzer und<gap quantity="4" unit="chars" reason="unleserlich"/> zu <rs type="place">Eilenburg</rs> <gap quantity="6" unit="chars" reason="unleserlich"/> † 1624 <add place="below">d.<ex>en</ex> 12. Jun<ex>i</ex>sep.</add>
+                                        <lb/>2. 1614. 12 July <rs type="person" role="wife">Fr<ex>au</ex> Agneta</rs>, H<ex>errn</ex> Caspar Phrumeld<ex>?</ex>, Bürgermeister zu <rs type="place">Eilenburg</rs> <gap quantity="2" unit="chars"/> I. H<ex>err</ex> M. Matthaei Phrumeld<ex>?</ex>, Ka<gap quantity="2" unit="chars" reason="unleserlich"/>burzer und<gap quantity="4" unit="chars" reason="unleserlich"/> zu <rs type="place">Eilenburg</rs> <gap quantity="6" unit="chars" reason="unleserlich"/> † 1624 <add place="below">d.<ex>en</ex> 12. Jun<ex>i</ex>sep.</add>
                                     </item>
                                 </list>
+                                <table rendition="TopBraced">
+                                    <row>
+                                        <cell>
+                                    II.  <rs type="person">Johann Eichhorn</rs>
+                                        <lb/>mit Dr.<gap quantity="9" unit="chars" reason="unleserlich"/>
+                                        <lb/>Regiment Comandandt
+                                         <lb/>g<ex>eboren</ex> 1592. 28 Apr<ex>il</ex>†
+                                         <lb/>in <rs type="place">S.<ex>ankt</ex> Afra<gap quantity="14" unit="chars" reason="unleserlich"/></rs>
+                                    </cell>
+                                    <cell>
+                                        <rs type="person">Georg Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex><gap quantity="3" unit="chars" reason="unleserlich"/> Rath und Stadtrichter zu <rs type="place">Leipzig</rs>
+                                            <hi rendition="et">  <lb/>g<ex>eboren</ex> 1593 d<ex>en</ex> 13 Aug<ex>ust</ex> † 1650 25 <w lemma="Mai"></w>Mei ward 1624 16 Feb<ex>ruar</ex> Bürger</hi>
+                                         <lb/>1622. 5 Nov.<ex>ember</ex> J<ex>ung</ex>fr.<ex>au</ex> Agnes, H<ex>err</ex> <rs type="person"><w lemma="Matthäus"></w>Matthai Phemel</rs> Duc<ex>em</ex> und Rathe <add place="below">13 d.<ex>en</ex></add> zu <rs type="place">Eilenburg</rs>T.<ex>ochter</ex> g<ex>eboren</ex>1601. 14 Nov<ex>ember</ex> † 1677 26 Aug<ex>ust</ex>
+                                    </cell>
+                                    </row>
+                                    <row rendition="TopBraced">
+                                        <cell>
+                                             <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note> <rs type="person">Agnita</rs> g<ex>eboren</ex> 1626 2 April
+                                             <lb/>† 1629 2 Aug<ex>ust</ex>
+                                         </cell>
+                                         <cell>
+                                          H<ex>err</ex><rs type="person">Virgiliy Eichhorn</rs>, Handelsm.<ex>ann</ex> u.<ex>nd</ex><gap quantity="16" unit="chars" reason="unleserlich"/>u<ex>nd</ex><gap quantity="15" unit="chars" reason="unleserlich"/> zu <rs type="place">Leipzig</rs>.<gap quantity="6" unit="chars" reason="unleserlich"/>
+                                             <hi rendition="hi"> <lb/>g<ex>eboren</ex> 1627 d.<ex>en</ex> 20 Aug<ex>ust</ex> † 1693 d.<ex>en</ex> 27 Nov<ex>ember</ex> ward 1654 10 Jan<ex>uar</ex> Bürger</hi>
+                                            <list>
+                                                 <item>
+                                                     <lb/>1. 1655 im Jan<ex>uar</ex><rs type="person" role="wife">J<ex>ung</ex>fr<ex>au</ex>Susanna Maria</rs>, H<ex>errn</ex> Georg Fromhold <ex>?</ex>, <w lemma="Beamter"></w>Bmt.,<gap quantity="5" unit="chars" reason="unleserlich"/> zu <rs type="place">Rohlitz</rs>. Tel<ex>?</ex> T.<ex>ochter</ex>
+                                                 </item>
+                                                 <lb/>
+                                                 <item>
+                                                     <lb/>2.<gap quantity="9" unit="chars" reason="Datum nicht bekannt"/><rs type="person" role="wife">Fr<ex>au</ex> Anna Roßmann</rs>, .....<gap quantity="7" unit="chars" reason="unleserlich"/> ....., g.<ex>eboren</ex>... † 1689 8 July
+                                                 </item>
+                                             </list>
+                                         </cell>
+                                         <cell>
+                                             <rs type="person">Rosina Eichhornin</rs>
+                                             <lb/>g.<ex>eboren</ex> 1629 5 Dec<ex>ember</ex>
+                                             <lb/>† 1630 22 Januar
+                                         </cell>
+                                         <cell>
+                                            <rs type="person">Johann Georg Eichhorn</rs> Bü.<ex>rger ?</ex> 
+                                            <lb/><gap quantity="10" unit="chars" reason="unleserlich"/> zu <rs type="place">Rohlitz</rs>. g.<ex>eboren</ex> 1631 21
+                                             <lb/>Jun<ex>i</ex> † ... zu Altenburg.
+                                         </cell>
+                                         <cell>
+                                              <rs type="person">Bartholomay Eichhorn</rs>
+                                                 <lb/>Provißor. g.<ex>eboren</ex> 1632 d.<ex>en</ex> 25
+                                                <lb/>Oct<ex>ober</ex> † 1676 zu <gap quantity="7" unit="chars" reason="unleserlich"/>
+                                         </cell>
+                                         <cell>
+                                            <rs type="person">Matthäus
+                                            <lb/>Eichhorn</rs>
+                                            <lb/>g.<ex>eboren</ex> 1634 26 Aug<ex>ust</ex>
+                                             <lb/>† 1634.
+                                         </cell>
+                                         <cell>
+                                             <rs type="person">Anna Maria
+                                             <lb/>Eichhornin</rs>
+                                             <lb/>g.<ex>eboren</ex> 1636 7 Jan<ex>uar</ex>
+                                             <lb/>† 1637 1 Martz
+                                         </cell>
+                                    </row>
+                                </table>
+                                <table rendition="TopBraced">
+                                    <row>
+                                        <cell>
+                                            I.<rs type="person">Heinrich Jacob Eichhorn</rs>
+                                            <lb/>g<ex>eboren</ex> 1656. 10 April.
+                                        </cell>
+                                        <cell> 
+                                            <rs type="person">Johanna 
+                                            <lb/>Maria</rs>
+                                            <lb/>g<ex>eboren</ex> 1659 24
+                                            <lb/>Frb.<w lemma="Februar"></w> † 1695.
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Rosina Dorothea Eichhornin</rs>
+                                            <lb/>g<ex>eboren</ex> 1663 12 May <gap quantity="8" unit="chars" reason="unleserlich"/> † 1696 7 Martz
+                                            <lb/>1685 26 Aug<ex>ust</ex> H<ex>err</ex><rs type="person">Heinrich Christian 
+                                            <lb/>Born</rs>, Chur. Sächs<ex>ischer</ex> Accisseeinnehmer
+                                            <lb/>g<ex>eboren</ex> 1663 2 Aug.<ex>ust</ex>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Virgilius
+                                            <lb/>Eichhorn</rs>
+                                            <lb/>g<ex>eboren</ex> 1668. <w lemma="Februar"></w> Frb.
+                                            <lb/>zu <rs type="place"><gap quantity="9" unit="chars" reason="unleserlich"/></rs>
+                                        </cell>
+                                        <cell>
+                                            1669 d<ex>en</ex> 27 Dec<ex>ember</ex>
+                                            <lb/>eine Tochter Sofia 
+                                        </cell>
+                                        <cell>
+                                            1671. 10 Martz
+                                            <lb/>1709 <gap quantity="2" unit="chars" reason="unleserlich"/> Johan
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Johanna
+                                            <lb/>Agneta
+                                            <lb/>Eichhornin</rs>
+                                            <lb/>g<ex>eboren</ex> 1672 d.<ex>en</ex> 3 Aug<ex>ust</ex>
+                                        </cell>
+                                        <cell>
+                                             g<ex>eboren</ex> 1676 d.<ex>en</ex>
+                                            <lb/>†16676. 30 Juni
+                                            <lb/>at <gap quantity="2" unit="chars" reason="unleserlich"/>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Johanna
+                                            <lb/>Regina</rs>
+                                            <lb/>g<ex>eboren</ex>
+                                        </cell>
+                                    </row>
+                                </table>
+                                <table rendition="TopBraced">
+                                    <row>
+                                        <cell>
+                                             H<ex>err</ex> <rs type="person"> Christian Born</rs>
+                                            <lb/>SS. Theol.<ex>ogischer</ex> cand.<ex>??</ex>
+                                            <lb/>g<ex>eboren</ex> 1686. 21 May
+                                            <lb/>in <rs type="place"><gap quantity="5" unit="chars" reason="unleserlich"/></rs>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Heinrich
+                                            <lb/>Christian</rs>
+                                            <lb/>g<ex>eboren</ex>1687. d.<ex>en</ex>5
+                                            <lb/>Jul<ex>i</ex> † 6 Jul<ex>i</ex>
+                                            <lb/>equid anni.
+                                        </cell>
+                                        <cell>
+                                             <rs type="person">Heinrich Christian</rs>
+                                            <lb/>g<ex>eboren</ex>1688 24 Juny
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Catharina Dorothea</rs>
+                                            <lb/>g<ex>eboren</ex>1689. 19 Nov<ex>ember</ex>
+                                            <lb/>in <rs type="place">Weimar</rs>
+                                            <list>
+                                                <item>
+                                                    1
+                                                </item>
+                                                <item>
+                                                    2
+                                                </item>
+                                            </list>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Heinrich</rs>
+                                            <lb/>g.<ex>eboren</ex> u.<ex>nd</ex>† 
+                                            <lb/>1692 14
+                                            <lb/>Nov<ex>ember</ex>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Catharina
+                                            <lb/>Rosina</rs>
+                                            <lb/>g.<ex>eboren</ex>1693. 22
+                                            <lb/><gap quantity="5" unit="chars" reason="unleserlich"/>† 1699
+                                            <lb/>13 Dec<ex>ember</ex>
+                                        </cell>
+                                        <cell>
+                                            ?<gap quantity="3" unit="chars" reason="unleserlich"/>
+                                            <lb/>?<gap quantity="4" unit="chars" reason="unleserlich"/>
+                                            <lb/>?<gap quantity="5" unit="chars" reason="unleserlich"/>
+                                        </cell>
+                                        <cell>
+                                            <rs type="person">Christian Friedrich</rs>
+                                            <lb/>g.<ex>eboren</ex> 1695. 22 Febr.<ex>uar</ex> 
+                                        </cell>
+                                        <cell>
+                                            1996 in todt <gap quantity="4" unit="chars" reason="unleserlich"/> d.<ex>en</ex>23
+                                            <lb/>mit der Mutter Febr.<ex>uar</ex>
+                                            <lb/><gap quantity="7" unit="chars" reason="unleserlich"/>.
+                                        </cell>
+                                    </row>
+                                </table>
+                    <table>
+                        <row>
+                            <cell>
+                                H <ex>err</ex> <rs type="person"> Hieronymus Eichhorn </rs>
                             </cell>
                         </row>
                     </table>
-                    <table rendition="topBraced">
-                        <row n="1">
+                    <table rendition="TopBraced"> 
+                        <row>   
                             <cell>
-                            II.  <rs type="person">Johann Eichhorn</rs>
-                                 <lb/>mit Dr.<gap quantity="9" unit="chars" reason="unleserlich"/>
-                                 <lb/>Regiment Comandandt
-                                 <lb/>g<ex>eboren</ex> 1592. 28 Apr<ex>il</ex>†
-                                 <lb/>in <rs type="place">S.<ex>ankt</ex> Afra<gap quantity="14" unit="chars" reason="unleserlich"/></rs>
+                                    <lb/>
+                                    <lb/>
+                                    <lb/>
                             </cell>
+                        </row>
+                    </table>
+                    <table rendition="TopBraced">
+                        <row>
                             <cell>
-                                <rs type="person">Georg Eichhorn</rs>, Icty. vom ehem.<ex>aligen</ex><gap quantity="3" unit="chars" reason="unleserlich"/> Rath und Stadtrichter zu <rs type="place">Leipzig</rs>
-                                <lb/>g<ex>eboren</ex> 1593 d<ex>en</ex> 13 Aug<ex>ust</ex> † 1650 25 <w lemma="Mai"></w>Mei ward 1624 16 Feb<ex>ruar</ex> Bürger
-                                <lb/>1622. 5 Nov.<ex>ember</ex> J<ex>ung</ex>fr.<ex>au</ex> Agnes, H<ex>err</ex> <rs type="person"><w lemma="Matthäus"></w>Matthai Phemel</rs> Duc<ex>em</ex> und Rathe <add place="below">13 d.<ex>en</ex></add> zu <rs type="place">Eilenburg</rs>T.<ex>ochter</ex> g<ex>eboren</ex>1601. 14 Nov<ex>ember</ex> † 1677 26 Aug<ex>ust</ex>
+                                <lb/>
+                                    <table rendition="TopBraced">
+                                        <row>
+                                            <cell>
+                                                <list>
+                                                       <item>
+                                                                <rs type="Person">Maria Elisabeth Eichornin</rs> g.<ex>eboren</ex> 1638. 5 feb<ex>ruar</ex> † 1705 2 Jun.<ex>i</ex>
+                                                       </item>
+                                                    <item>
+                                                        1. 1660 d.<ex>en</ex> 2 Jul<ex>i</ex> H<ex>err</ex>M<ex>agister</ex><rs type="person">Johann<w lemma="Hornschuh"></w>Hornschuchen</rs> Graecae Lingua P.<ex>rofessor</ex> P.
+                                                        <lb/>Fac.<ex>ultät</ex> Phil.<ex>ologie</ex> Lexia u.<ex>nd</ex> Rector <w lemma="bei"></w>bey d.<ex>er</ex> Schulen zu S.<ex>ankt</ex> Nicolai in <rs type="place">Leipzig</rs>
+                                                        <lb/>g.<ex>eboren</ex>16... <gap quantity="4" unit="chars"/>zu  <gap quantity="8" unit="chars"/> † 1663 d.<ex>en</ex> 4 Sept<ex>ember</ex>
+                                                        </item>
+                                                        <item>
+                                                        2. 1664. 19 Sept.<ex>ember</ex> H<ex>err</ex>M<ex>agister</ex><rs type="person">Jacob<w lemma="Thomas">Thomasiy</w></rs> Eloquentia <gap quantity="12" unit="chars" reason="unleserlich"/> Prof.<ex>essor</ex>
+                                                        <lb/>P. der <w lemma="heiligen"></w>hl. fürstlichen Collegy Collegiaty den Philos.<ex>ophischen</ex> Pace<gap quantity="4" unit="chars" reason="unleserlich"/> Senior der Acade
+                                                        <lb/>mia Decemia, u.<ex>nd</ex> <w lemma="bei"></w>bey d.<ex>er</ex> Schulen zu S.<ex>ankt</ex>Thomas Rector g.<ex>eboren</ex> 1622 27 Aug.<ex>ust</ex> <add place="below">† 1684 d.<ex>en</ex>9 Febr.<ex>uar</ex></add>
+                                                        </item>
+                                                </list>
+                                            </cell>
+                                            <cell>
+                                                <rs type="person"> Joh<ex>ann</ex> Christoph
+                                                <lb/>Eichhorn</rs>
+                                                <lb/>g<ex>boren</ex> 1940 i<ex>m</ex> Mart
+                                                <lb/>† 1649 zu Gotha
+                                                <lb/>auf <unclear reason="invisible">...</unclear> Gymnasio
+                                            </cell>
+                                            <cell>
+                                                ge<ex>beoren</ex> Joh.<ex>ann</ex> Christianus
+                                                <lb/> Eichhorn zu ...
+                                                <lb/> zu <unclear reason="invisible">_</unclear> g<ex>eboren</ex> 1649 d.<ex>en</ex>
+                                                <lb/> 4 febr.<ex>uar</ex>
+                                            </cell>
+                                        </row>
+                                    </table>
+                                    <table rendition="TopBraced">
+                                        <row>
+                                            <cell>
+                                                 I. ohne
+                                                <lb/>Namen
+                                                <lb/>d.<ex>en</ex> 6 Febr.<ex>uar</ex>
+                                            </cell>
+                                            <cell>
+                                                II.<rs type="person">Maria Elisabeth</rs>
+                                                <lb/>g<ex>eboren</ex> 1665. 1 Jul.<ex>i</ex> † 1684
+                                                <lb/>1682. d.<ex>en</ex> 3 Dec.<ex>ember</ex> He<ex>rr</ex> L<ex>??</ex>
+                                                <lb/><rs type="person">Adam Rechenberg</rs>
+                                                <lb/>Historiana Lat.<ex>einischer</ex> et. Gr.<ex>iechischer</ex>
+                                                <lb/>Lingua. PP.<gloss>Per Procurationem - lat. für "im Auftrag von"</gloss> der Phil<ex>ologischen</ex>
+                                                <lb/>Fac.<ex>ultät</ex> Ass.<ex>essor</ex> u.<ex>nd</ex> der großen
+                                                <lb/>fürstlichen Collegen Colleg.
+                                                       <table rendition="TopBraced">
+                                                            <row>
+                                                         <cell>
+                                                            <rs type="person">Adam Friedrich Rech.<ex>enberg</ex></rs>
+                                                            <lb/>g<ex>eboren</ex> 1 Febr.<ex>uar</ex> † 15 Febr<ex>uar</ex>
+                                                            <lb/>1684.
+                                                        </cell>
+                                                       </row>
+                                                       </table>
+                                            </cell>
+                                            <cell>
+                                               <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note> <rs type="person"> Doroth.<ex>ea</ex> Rosina</rs> g<ex>eboren</ex> 1667
+                                               <lb/>d<ex>den</ex> 10. May † 1670 15 Jan.<ex>uar</ex>
+                                            </cell>
+                                            <cell>
+                                                 J<ex>ung</ex>fr<ex>au</ex><rs type="person">Anna 
+                                                <lb/>Regina</rs>
+                                                <lb/>g<ex>eboren</ex> 1669. 16 Jul.<ex>i</ex>
+                                            </cell>
+                                            <cell>
+                                                <rs type="person">Dorothea 
+                                                <lb/>Sophia</rs>
+                                                <lb/>g<ex>eboren</ex> 1671. 1 Mart.<ex>z</ex>
+                                                <lb/>† 1694<gap quantity="4" unit="chars"/> Sept.<ex>ember</ex>
+                                                <lb/>1688. 24 Sept.<ex>ember</ex>
+                                                <lb/>H<ex>err</ex> M.<ex>agister</ex><rs type="person">Christian
+                                                <lb/>Wagner</rs> 85.<gap quantity="5" unit="chars" reason="unleserlich"/>
+                                                <lb/>Bacc.<ex>alaureus</ex> und Past.<ex>or</ex> zu
+                                                <lb/>S.<ex>ankt</ex>Joh<ex>ann</ex> in <rs type="place">Leipzig</rs>
+                                                <lb/>g.<ex>eboren</ex><gap quantity="5" unit="chars"/> <add place="below">28 July</add> † 1693.
+                                                    <table rendition="TopBraced">
+                                                       <row>
+                                                         <cell>
+                                                            <rs type="person">Paul Christian
+                                                            <lb/>Wagner</rs>
+                                                            <lb/>g<ex>eboren</ex> 1692 d.<ex>en</ex> 22 Febr<ex>uar</ex>
+                                                            <lb/>† 1693 d.<ex>en</ex> 22 Febr.<ex>uar</ex>
+                                                        </cell>
+                                                       </row>
+                                                    </table>
+                                            </cell>
+                                            <cell> 
+                                                <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note>
+                                                <rs type="person">Rosina Elisabeth</rs><add place="below">Nov<ex>ember</ex>† d.<ex>en</ex> 9 dito</add> g.<ex>eboren</ex>1672 d.<ex>en</ex> 1
+                                            </cell>
+                                            <cell>
+                                                <rs type="person">Sophia Magdalena</rs>
+                                                <lb/>g<ex>eboren</ex> 1675. d.<ex>en</ex> 2 September
+                                                <lb/>† 1695
+                                                <lb/>1692 6 Juny H<ex>err</ex> <rs type="person">Chri
+                                                <lb/>stian Weidling</rs>
+                                                <lb/>Jur.<ex>ist</ex>  
+                                                    <table rendition="TopBraced">
+                                                        <row>
+                                                            <cell>
+                                                                <rs type="person">Sophia
+                                                                <lb/>Elisabeth</rs>
+                                                                <lb/>g<ex>eboren</ex> 1693 d.<ex>en</ex> 7
+                                                                <lb/>Apr.<ex>il</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                <rs type="person">Christian
+                                                                <lb/>Thomas
+                                                                <lb/>Weidling</rs>
+                                                                <lb/>g<ex>eboren</ex> 1695 d.<ex>en</ex> 7
+                                                                 <lb/>Jan.<ex>uar</ex> † eod.<ex>em</ex>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                            </cell>
+                                            <cell>
+                                                H<ex>err</ex> <rs type="person">Michael Thomasius</rs>
+                                                <lb/>JUD <gloss>lat. für: "Juris utriusque Doctor" - hier: "Doktor beider (kanonischem sowie weltlichem) Rechte"</gloss> u.<ex>nd</ex> Confentent in <rs type="place">Leipzig</rs>
+                                                <lb/>g<ex>eboren</ex> 1674. d.<ex>en</ex> 29 Jan.<ex>uar</ex>
+                                                <lb/>
+                                                <lb/>1701. 22 Nov.<ex>ember</ex> Fr.<ex>au</ex> <rs type="person">Elisabeth
+                                                <lb/>Haupts</rs>
+                                                <lb/>H<ex>err</ex> <rs type="person">.... Meyer</rs> <add place="above">PP. Rathes</add>buchhal
+                                                <lb/>ter in <rs type="place">Leipzig</rs><gap quantity="6" unit="chars" reason="unleserlich"/>.
+                                                    <table rendition="TopBraced">
+                                                        <row>
+                                                            <cell> 
+                                                                 <rs type="person">Gottlob <w lemma="Thomasius"></w>Thomasiy</rs>
+                                                                <lb/>g<ex>eboren</ex> 1703. d.<ex>en</ex> 6 Jun.<ex>i</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                <rs type="person">Clara
+                                                                <lb/>Regina</rs>
+                                                                <lb/>g<ex>eboren</ex> 1705. 2 Sept<ex>ember</ex>
+                                                                <lb/>† 1706. 13 Oct.<ex>ober</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                <rs type="person">Sophia Elisabeth</rs>
+                                                                <lb/>g<ex>eboren</ex> 1707. d.<ex>en</ex> 17 Jan.<ex>uar</ex>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                            </cell>
+                                        </row>
+                                    </table>
                             </cell>
-                            <!--1. Seite ab hier beendet - weiter geht es auf Seite 2 -->
                             <cell>
                                 <rs type="person">Elisabeth Eichhornin</rs>
                                 <lb/>g<ex>eboren</ex> 1595. 25 Febr.<ex>uar</ex> † 1637
                                 <lb/>1615 27 Aug<ex>ust</ex> H<ex>err</ex> <rs type="person">Daniel Pfoten
                                 <lb/>hauer</rs>, Buchhändler in <rs type="place">Leipzig</rs> ward
                                 <lb/>1617 Bürger g<ex>eboren</ex> 1591 d.<ex>en</ex>10 Febr.<ex>uar</ex> † 1637
+                                    <table rendition="TopBraced">
+                                        <row>
+                                            <cell>
+                                                 <rs type="Person">Daniel Pfotenhauer</rs>
+                                            </cell>
+                                            <cell>
+                                                 <rs type="Person">Johann Daniel 
+                                                <lb/>Pfotenhauer</rs>
+                                            </cell>
+                                            <cell>
+                                                <rs type="Person">Martha 
+                                                <lb/>Pfotenhau
+                                                <lb/>erin</rs>
+                                            </cell>
+                                            <cell>
+                                                <rs type="Person">Elisabeth 
+                                                <lb/>Pfotenh.<ex>auer</ex></rs>
+                                                <lb/>g<ex>eboren</ex> 1616. 6 Oct<ex>ober</ex>
+                                            </cell>
+                                            <cell>
+                                                <rs type="Person">Margaretha</rs>
+                                                <lb/>g<ex>eboren</ex>
+                                                <lb/>† 1637.
+                                            </cell>
+                                        </row>
+                                    </table>
                             </cell>
                             <cell>
                                 <rs type="person">Martha Eichhornin</rs>
                                 <lb/>g<ex>eboren</ex> 1596 d<ex>en</ex> 30 Oct.<ex>ober</ex> †
                                 <lb/>1620. im Nov.<ex>ember</ex> H<ex>err</ex><rs type="person">Balthasar Phehmel</rs> Med.cand.
                                 <lb/>u.<ex>nd</ex> Pract.<ex>ikus</ex>zu <rs type="place">Eilenburg</rs>.
-                            </cell>
-                            <!--2. Seite ab hier beendet - weiter geht es auf Seite 3 -->
-                            <cell>
-                                <rs type="person">Bartholomay 
-                                <lb/>Eichhorn</rs>
-                                <lb/>g<ex>eboren</ex> 1598. 25 May
-                                <lb/>† 1598. 13 Aug.<ex>ust</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Bartholomay 
-                                <lb/>Eichhorn</rs>
-                                <lb/>g<ex>eboren</ex> 1599 10 Jun<ex>i</ex>
-                                <lb/>† 1599 16 July
-                            </cell>
-                            <cell>
-                                <rs type="person">Margaretha Eichhornin</rs>
-                                <lb/>g<ex>eboren</ex> 1600 d<ex>en</ex> 10 Jun<ex>i</ex> † 1644. 27 Sept.<ex>ember</ex>
-                                <list>
-                                    <item>
-                                       <lb/>1. 1628. d.<ex>en</ex> 12 Febr<ex>uar</ex> H<ex>err</ex> <rs type="person">Matthay
-                                       <lb/>Pleiß</rs><lb/>JUD <gloss>lat. für: "Juris utriusque Doctor" - hier: "Doktor beider (kanonischem sowie weltlichem) Rechte"</gloss><gap quantity="8" unit="chars" reason="unleserlich"/>Collegy Colleg.<ex>iaty</ex><add place="below">† 1632. 22 Dec<ex>ember</ex><rs type="place">Leipz<ex>ig</ex></rs>.</add>
-                                    </item>
-                                    <item>
-                                        <lb/>2. 1634 12 May. H<ex>err</ex> <rs type="person"> Hieronymy
-                                        <lb/><w lemma="Krapp"></w>Krappen</rs>b<ex>ei</ex><ex>??</ex>Handelsm.<ex>ann</ex> <ex>und</ex> Gastwirth in <rs type="place"><gap quantity="6" unit="chars" reason="unleserlich"/></rs>
-                                        <lb/>g<ex>eboren</ex> 1584. 15 Januar. † 1666 25 Dec.<ex>ember</ex>
-                                    </item>
-                                </list>
-                            </cell>
-                            <cell>
-                                <rs type="person">Christian Eichhorn</rs>
-                                <lb/>Handelsm.<ex>ann</ex> zu <rs type="place">Frankfurt
-                                <lb/>am Mayn.</rs> g<ex>eboren</ex> 1602 d.<ex>en</ex> 19 Febr.<ex>uar</ex>
-                                <lb/>† <gap quantity="8" unit="chars" /> zu <rs type="place">Frankfurt</rs>
-                                <lb/>Barth<ex>olomäus</ex> Eichh<ex>orn</ex> Kind † 1603. 16 April.
-                            </cell>
-                            <cell>
-                                <rs type="person">Johanna Eichhornin</rs>
-                                <lb/>g<ex>eboren</ex> 1603 d.<ex>en</ex> 29 Sept.<ex>ember</ex> † 1653
-                                <lb/>22 Dec.<ex>ember</ex>
-                                <lb/>1628. 23 Sept.<ex>ember</ex> H<ex>err</ex> <rs type="person">Heinrich
-                                <lb/>von Dornen</rs> Patricius zu <rs type="place">Lübeck</rs>.
-                            </cell>
-                            <cell>
-                                <rs type="person">Joh.<ex>ann</ex> Barthol.<ex>omäus</ex> 
-                                <lb/>Eichhorn</rs>
-                                <lb/>g<ex>eboren</ex> 1605 d.<ex>en</ex> 5 Aug<ex>ust</ex>
-                                <lb/>†
-                            </cell>
-                            <cell>
-                                <rs type="person">Rosina 
-                                <lb/>Eichhornin</rs>
-                                <lb/>g<ex>eboren</ex> 1607. 17 May
-                                <lb/>† 1627. 1 May.
-                            </cell>
-                            <cell>
-                                <rs type="person">Joh.<ex>ann</ex> Bartholomay</rs>
-                                <lb/>g<ex>eboren</ex> 1610 d.<ex>en</ex> 19 April.
-                            </cell>
-                            <cell>
-                                <hi>II.</hi> <rs type="person">
-                                <lb/>Eichhornin</rs>
-                                <lb/>g<ex>eboren</ex> 1617
-                                <lb/>† 1617. 12 Febr.<ex>uar</ex>
-                            </cell>
-                            <cell>
-                                H<ex>err</ex> M.<ex>agister</ex> <rs type="person">Johan Eichhorn</rs>
-                                <lb/>Medic.<ex>us</ex>Candid.<ex>atus</ex> g<ex>eboren</ex> 1619 d.<ex>en</ex>
-                                <lb/>30 Oct.<ex>ober</ex> † 1679. 9 Nov<ex>ember</ex>
-                                <list>
-                                    <item>
-                                        <lb/>1. 1652 <gap quantity="4" unit="chars"/> Aug<ex>ust</ex> J<ex>ung</ex>fr.<ex>rau</ex><rs type="person">Elisabeth</rs>
-                                        <lb/>H<ex>err</ex>d.<ex>es</ex><rs type="person">Caspar Svevi</rs> Chur. Sächß.<ex>ischer</ex>
-                                        <lb/>Leibmedici T.<ex>ochter</ex>
-                                        <lb/>† 1653. 3 Oct <del><gap quantity="3" unit="chars" reason="unleserlich"/> Kinder</del>
-                                    </item>
-                                    <item>
-                                        <lb/>2. 1672. .. J<ex>ung</ex>fr.<ex>rau</ex><rs type="person">Martha<ex>?</ex>
-                                        <lb/>Melchior <gap quantity="22" unit="chars" reason="unleserlich"/></rs>
-                                        <lb/>zu <rs type="place">Eilenburg</rs><add place="below"><gap quantity="10" unit="chars" reason="unleserlich"/></add> T.<ex>ochter</ex> † 1687. d<ex>en</ex> 22 July.
-                                        <lb/>g<ex>eboren</ex> 1584. 15 Januar. † 1666 25 Dec.<ex>ember</ex>
-                                    </item>
-                                </list>
+                                <table rendition="TopBraced">
+                                    <row>
+                                    <cell>
+                                            <table>
+                                                <row>
+                                                    <cell>
+                                                <rs type="Person">Balthasar
+                                                <lb/> Phemel</rs>
+                                                <lb/>g<ex>eboren</ex> 1621.
+                                            </cell>
+                                            <cell>
+                                                <rs type="Person">Johann Daniel 
+                                                <lb/>Pfotenhauer</rs>
+                                            </cell>
+                                                </row>
+                                            </table>
+                                        sind <w lemma="beide"></w>beyde 1633 von <unclear reason="invisible">Januar</unclear>
+                                        <lb/><unclear reason="invisible">...</unclear> Soldat <unclear reason="invisible">-</unclear>
+                                        <lb/><unclear reason="invisible">_</unclear>
+                                    </cell>
+                                    <cell>
+                                     <rs type="Person">Martha
+                                    <lb/>Phemelus</rs>
+                                    <lb/>g<ex>eboren</ex>16.
+                                    <lb/>† .
+                                    </cell>
+                                    <cell>
+                                        <rs type="Person">Catharina
+                                    <lb/>Phemelus</rs>
+                                    <lb/>g.<ex>eboren</ex>
+                                    <lb/>†
+                                    </cell>
+                                    </row>
+                                </table>
                             </cell>
                         </row>
-                    </table>
-                    <table rendition="topBraced">
-                        <!-- Kinder von Elisabeth Eichhornin und Daniel Pfotenhauer -->
-                       <row>
-                            <cell>
-                                <rs type="Person">Daniel Pfotenhauer</rs>
-                            </cell>
-                            <cell>
-                                <rs type="Person">Johann Daniel 
-                                <lb/>Pfotenhauer</rs>
-                            </cell>
-                            <cell>
-                                <rs type="Person">Martha 
-                                <lb/>Pfotenhau
-                                <lb/>erin</rs>
-                            </cell>
-                            <cell>
-                                <rs type="Person">Elisabeth 
-                                <lb/>Pfotenh.<ex>auer</ex></rs>
-                                <lb/>g<ex>eboren</ex> 1616. 6 Oct<ex>ober</ex>
-                            </cell>
-                            <cell>
-                                <rs type="Person">Margaretha</rs>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>† 1637.
-                            </cell>
-                       </row>
-                    </table> 
-                    <table rendition="topBraced">
-                        <!-- Kinder von Martha Eichhornin und Balthasar Phemel -->
-                       <row>
-                            <cell>
-                                <rs type="Person">Balthasar
-                                <lb/> Phemel</rs>
-                                <lb/>g<ex>eboren</ex> 1621.
-                                <lb/>sind <w lemma="beide"></w>beyde 1633 von ____
-                                <lb/>____ Soldat _____
-                                <lb/>____
-                            </cell>
-                            <cell>
-                                <rs type="Person">Johann Daniel 
-                                <lb/>Pfotenhauer</rs>
-                            </cell>
-                            <cell>
-                                <rs type="Person">Martha
-                                <lb/>Phemelus</rs>
-                                <lb/>g<ex>eboren</ex>16.
-                                <lb/>† .
-                            </cell>
-                            <cell>
-                                <rs type="Person">Catharina
-                                <lb/>Phemelus</rs>
-                                <lb/>g.<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                       </row>
-                    </table> 
-                    <table rendition="topBraced">
-                         <!-- Kinder von Margaretha Eichhornin und Hieronymus Krapp -->
-                       <row>
-                            <!-- Kinder von Margaretha Eichhornin und Matthay Pleiß -->
-                            <cell> 
-                                I. <rs type="Person">Daniel
-                                <lb/>Pleiß</rs>
-                                <lb/>g<ex>eboren</ex> 1628. d.<ex>en</ex> 21
-                                <lb/>Nov.<ex>ember</ex> †
-                            </cell>
-                            <cell>
-                                <rs type="Person">Jo<ex>hann</ex> Caspar 
-                                <lb/>Pleiß</rs>
-                                <lb/>g<ex>eboren</ex> 1630. 24 Oct.<ex>ober</ex>
-                            </cell>
-                            <cell>
-                                <rs type="Person">
-                                <lb/>Pleißin</rs>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                            <cell>
-                                <rs type="Person">
-                                <lb/>Pleißin</rs>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                            <!-- Kinder von Margaretha Eichhornin und Hieronymus Krapp -->
-                            <cell>
-                                II. <rs type="Person">Hieronymus 
-                                <lb/>Krapp</rs>
-                                <lb/>g<ex>eboren</ex> 1636. 28 Febr<ex>uar</ex>
-                                <lb/>†
-                                <lb/>† 1636 d.<ex>en</ex> 31 Oct<ex>ober</ex><gap quantity="2" unit="chars" reason="unleserlich"/> Kind.
-                            </cell>
-                            <cell>
-                                <rs type="Person">Joh.<ex>ann</ex> Christoph
-                                <lb/>Krapp</rs>
-                                <lb/>g<ex>eboren</ex> 1637. 3 Apr.<ex>il</ex>
-                                <lb/>†
-                            </cell>
-                            <cell>
-                            <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note>
-                                <rs type="person">...</rs>.. † s/d <ex>??</ex>. 1644. 11 Oct<ex>ober</ex>
-                            </cell>
-                       </row>
-                    </table> 
-                    <table rendition="topBraced">
-                        <!-- Kinder von Johanna Eichhornin und Heinrich von Dornen -->
-                       <row>
-                            <cell>
-                                <lb/>
-                                <lb/>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                            <cell>
-                                <lb/>
-                                <lb/>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                       </row>
-                    </table> 
-                    <table rendition="topBraced">
-                        <!-- Kinder von Johan Eichhorn und Martha Melchior... -->
-                       <row>
-                            <cell>
-                                I. <rs type="person">..... Eichhorn</rs> 
-                                <lb/>g<ex>eboren</ex>1653 <gap quantity="3" unit="chars" reason="Datum nicht bekannt"/> Oct.<ex>ober</ex> † mit der
-                                <lb/>Mutter <gap quantity="3" unit="chars"/> 1653
-                            </cell>
-                            <cell>
-                                <lb/>
-                                <lb/>
-                                <lb/>g<ex>eboren</ex>
-                                <lb/>†
-                            </cell>
-                       </row>
-                    </table>
-
-                    <table rendition="topBraced"> 
-                        <row>
-                            <cell>
-                            <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note> <rs type="person">Agnita</rs> g<ex>eboren</ex> 1626 2 April
-                                 <lb/>† 1629 2 Aug<ex>ust</ex>
-                            </cell>
+                        </table>
+                    </cell>
                         </row>
-                        <row>
-                            <cell>
-                            <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note>
-                                <rs type="person">Anna Catharina</rs> g<ex>eboren</ex> 26
-                                <lb/>Nov<ex>ember</ex> † 1626 24 Jan<ex>uar</ex>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell>
-                            <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note>
-                                <rs type="person">Martha</rs> g.<ex>eboren</ex> 1623 2 Aug<ex>ust</ex>
-                                <lb/>† 1624 25 July
-                            </cell>
-                        </row>
-                    </table>
-                    <table>
-                        <row>
-                            <cell> 
-                                H<ex>err</ex><rs type="person">Virgiliy Eichhorn</rs>, Handelsm.<ex>ann</ex> u.<ex>nd</ex><gap quantity="16" unit="chars" reason="unleserlich"/>u<ex>nd</ex><gap quantity="15" unit="chars" reason="unleserlich"/> zu <rs type="place">Leipzig</rs>.<gap quantity="6" unit="chars" reason="unleserlich"/>
-                                <lb/>g<ex>eboren</ex> 1627 d.<ex>en</ex> 20 Aug<ex>ust</ex> † 1693 d.<ex>en</ex> 27 Nov<ex>ember</ex> ward 1654 10 Jan<ex>uar</ex> Bürger
-                                <lb/>
-                                <list>
-                                    <item>
-                                        <lb/>1. 1655 im Jan<ex>uar</ex><rs type="person" role="wife">J<ex>ung</ex>fr<ex>au</ex>Susanna Maria</rs>, H<ex>errn</ex> Georg Fromhold <ex>?</ex>, <w lemma="Beamter"></w>Bmt.,<gap quantity="5" unit="chars" reason="unleserlich"/> zu <rs type="place">Rohlitz</rs>. Tel<ex>?</ex> T.<ex>ochter</ex>
-                                    </item>
-                                    <item>
-                                        <lb/>2.<gap quantity="9" unit="chars" reason="Datum nicht bekannt"/><rs type="person" role="wife">Fr<ex>au</ex> Anna Roßmann</rs>, .....<gap quantity="7" unit="chars" reason="unleserlich"/> ....., g.<ex>eboren</ex>... † 1689 8 July
-                                    </item>
-                                </list>
-                            </cell>
-                            <cell>
-                                <rs type="person">Rosina Eichhornin</rs>
-                                <lb/>g.<ex>eboren</ex> 1629 5 Dec<ex>ember</ex>
-                                <lb/>† 1630 22 Januar
-                            </cell>
-                            <cell>
-                                <rs type="person">Johann Georg Eichhorn</rs> Bü.<ex>rger ?</ex> 
-                                <lb/><gap quantity="10" unit="chars" reason="unleserlich"/> zu <rs type="place">Rohlitz</rs>. g.<ex>eboren</ex> 1631 21
-                                <lb/>Jun<ex>i</ex> † ... zu Altenburg.
-                            </cell>
-                            <cell>
-                                <rs type="person">Bartholomay Eichhorn</rs>
-                                <lb/>Provißor. g.<ex>eboren</ex> 1632 d.<ex>en</ex> 25
-                                <lb/>Oct<ex>ober</ex> † 1676 zu <gap quantity="7" unit="chars" reason="unleserlich"/>
-                            </cell>
-                            <cell>
-                                <rs type="person">Matthäus
-                                <lb/>Eichhorn</rs>
-                                <lb/>g.<ex>eboren</ex> 1634 26 Aug<ex>ust</ex>
-                                <lb/>† 1634.
-                            </cell>
-                            <cell>
-                                <rs type="person">Anna Maria
-                                <lb/>Eichhornin</rs>
-                                <lb/>g.<ex>eboren</ex> 1636 7 Jan<ex>uar</ex>
-                                <lb/>† 1637 1 Martz
-                            </cell>
-                            <!--1. Seite ab hier beendet - weiter geht es auf Seite 2 -->
-                            <cell>
-                                <rs type="person">Maria Elisabeth Eichhornin</rs> g.<ex>eboren</ex> 1638. 5 Feb<ex>ruar</ex> † 1705 2 Jun.<ex>i</ex>
-                                <lb/>
-                                    <list>
-                                    <item>
-                                        1. 1660 d.<ex>en</ex> 2 Jul<ex>i</ex> H<ex>err</ex>M<ex>agister</ex><rs type="person">Johann<w lemma="Hornschuh"></w>Hornschuchen</rs> Graecae Lingua P.<ex>rofessor</ex> P.
-                                        <lb/>Fac.<ex>ultät</ex> Phil.<ex>ologie</ex> Lexia u.<ex>nd</ex> Rector <w lemma="bei"></w>bey d.<ex>er</ex> Schulen zu S.<ex>ankt</ex> Nicolai in <rs type="place">Leipzig</rs>
-                                        <lb/>g.<ex>eboren</ex>16... <gap quantity="4" unit="chars"/>zu  <gap quantity="8" unit="chars"/> † 1663 d.<ex>en</ex> 4 Sept<ex>ember</ex>
-                                    </item>
-                                    <item>
-                                        2. 1664. 19 Sept.<ex>ember</ex> H<ex>err</ex>M<ex>agister</ex><rs type="person">Jacob<w lemma="Thomas">Thomasiy</w></rs> Eloquentia <gap quantity="12" unit="chars" reason="unleserlich"/> Prof.<ex>essor</ex>
-                                        <lb/>P. der <w lemma="heiligen"></w>hl. fürstlichen Collegy Collegiaty den Philos.<ex>ophischen</ex> Pace<gap quantity="4" unit="chars" reason="unleserlich"/> Senior der Acade
-                                        <lb/>mia Decemia, u.<ex>nd</ex> <w lemma="bei"></w>bey d.<ex>er</ex> Schulen zu S.<ex>ankt</ex>Thomas Rector g.<ex>eboren</ex> 1622 27 Aug.<ex>ust</ex> <add place="below">† 1684 d.<ex>en</ex>9 Febr.<ex>uar</ex></add>
-                                    </item>
-                                </list>
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                    <!-- Kinder von Maria Elisabeth Eichhornin und Jakob Thomasius-->
-                        <row>
-                            <cell>
-                                I. ohne
-                                <lb/>Namen
-                                <lb/>d.<ex>en</ex> 6 Febr.<ex>uar</ex>
-                            </cell>
-                            <cell>
-                                II.<rs type="person">Maria Elisabeth</rs>
-                                 <lb/>g<ex>eboren</ex> 1665. 1 Jul.<ex>i</ex> † 1684
-                                 <lb/>1682. d.<ex>en</ex> 3 Dec.<ex>ember</ex> He<ex>rr</ex> L<ex>??</ex>
-                                 <lb/><rs type="person">Adam Rechenberg</rs>
-                                 <lb/>Historiana Lat.<ex>einischer</ex> et. Gr.<ex>iechischer</ex>
-                                 <lb/>Lingua. PP.<gloss>Per Procurationem - lat. für "im Auftrag von"</gloss> der Phil<ex>ologischen</ex>
-                                 <lb/>Fac.<ex>ultät</ex> Ass.<ex>essor</ex> u.<ex>nd</ex> der großen
-                                 <lb/>fürstlichen Collegen Colleg.
-                            </cell>
-                            <cell>
-                                J<ex>ung</ex>fr<ex>au</ex><rs type="person">Anna 
-                                <lb/>Regina</rs>
-                                <lb/>g<ex>eboren</ex> 1669. 16 Jul.<ex>i</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Dorothea 
-                                <lb/>Sophia</rs>
-                                <lb/>g<ex>eboren</ex> 1671. 1 Mart.<ex>z</ex>
-                                <lb/>† 1694<gap quantity="4" unit="chars"/> Sept.<ex>ember</ex>
-                                <lb/>1688. 24 Sept.<ex>ember</ex>
-                                <lb/>H<ex>err</ex> M.<ex>agister</ex><rs type="person">Christian
-                                <lb/>Wagner</rs> 85.<gap quantity="5" unit="chars" reason="unleserlich"/>
-                                <lb/>Bacc.<ex>alaureus</ex> und Past.<ex>or</ex> zu
-                                <lb/>S.<ex>ankt</ex>Joh<ex>ann</ex> in <rs type="place">Leipzig</rs>
-                                <lb/>g.<ex>eboren</ex><gap quantity="5" unit="chars"/> <add place="below">28 July</add> † 1693.
-                            </cell>
-                            <cell>
-                            <note type="annotation" resp="fm"> entgegen der Schreibrichtung gedreht um 90° im Uhrzeigersinn </note>
-                                <rs type="person">Rosina Elisabeth</rs><add place="below">Nov<ex>ember</ex>† d.<ex>en</ex> 9 dito</add> g.<ex>eboren</ex>1672 d.<ex>en</ex> 1.
-                            </cell>
-                            <cell>
-                                <rs type="person">Sophia Magdalena</rs>
-                                <lb/>g<ex>eboren</ex> 1675. d.<ex>en</ex> 2 September
-                                <lb/>† 1695
-                                <lb/>1692 6 Juny H<ex>err</ex> <rs type="person">Chri
-                                <lb/>stian Weidling</rs>
-                                <lb/>Jur.<ex>ist</ex>                            
-                            </cell>
-                            <cell>
-                                H<ex>err</ex> <rs type="person">Michael Thomasius</rs>
-                                <lb/>JUD <gloss>lat. für: "Juris utriusque Doctor" - hier: "Doktor beider (kanonischem sowie weltlichem) Rechte"</gloss> u.<ex>nd</ex> Confentent in <rs type="place">Leipzig</rs>
-                                <lb/>g<ex>eboren</ex> 1674. d.<ex>en</ex> 29 Jan.<ex>uar</ex>
-                                <lb/>
-                                <lb/>1701. 22 Nov.<ex>ember</ex> Fr.<ex>au</ex> <rs type="person">Elisabeth
-                                <lb/>Haupts</rs>
-                                <lb/>H<ex>err</ex> <rs type="person">.... Meyer</rs> <add place="above">PP. Rathes</add>buchhal
-                                <lb/>ter in <rs type="place">Leipzig</rs><gap quantity="6" unit="chars" reason="unleserlich"/>.
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                    <!--Kind von Maria Elisabeth und Adam Rechenberg -->
-                        <row>
-                            <cell>
-                                <rs type="person">Adam Friedrich Rech.<ex>enberg</ex></rs>
-                                <lb/>g<ex>eboren</ex> 1 Febr.<ex>uar</ex> † 15 Febr<ex>uar</ex>
-                                <lb/>1684.
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                    <!--Kind von Dorothea Sophia und Christian Wagner -->
-                        <row>
-                            <cell>
-                                <rs type="person">Paul Christian
-                                <lb/>Wagner</rs>
-                                <lb/>g<ex>eboren</ex> 1692 d.<ex>en</ex> 22 Febr<ex>uar</ex>
-                                <lb/>† 1693 d.<ex>en</ex> 22 Febr.<ex>uar</ex>
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                    <!--Kind von Sophia Magdalena und Christian Weidling -->
-                        <row>
-                            <cell>
-                                <rs type="person">Sophia
-                                <lb/>Elisabeth</rs>
-                                <lb/>g<ex>eboren</ex> 1693 d.<ex>en</ex> 7
-                                <lb/>Apr.<ex>il</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Christian
-                                <lb/>Thomas
-                                <lb/>Weidling</rs>
-                                <lb/>g<ex>eboren</ex> 1695 d.<ex>en</ex> 7
-                                <lb/>Jan.<ex>uar</ex> † <gloss>eod.<ex>em</ex>: lateinisch für: dasselbe <lb/>hier: der selbige Tag</gloss>
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                    <!--Kind von Michael Thomasius und Elisabeth Haupts -->
-                        <row>
-                            <cell>
-                                <rs type="person">Gottlob <w lemma="Thomasius"></w>Thomasiy</rs>
-                                <lb/>g<ex>eboren</ex> 1703. d.<ex>en</ex> 6 Jun.<ex>i</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Clara
-                                <lb/>Regina</rs>
-                                <lb/>g<ex>eboren</ex> 1705. 2 Sept<ex>ember</ex>
-                                <lb/>† 1706. 13 Oct.<ex>ober</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Sophia Elisabeth</rs>
-                                <lb/>g<ex>eboren</ex> 1707. d.<ex>en</ex> 17 Jan.<ex>uar</ex>
-                            </cell>
-                        </row>
-                    </table>
-                    <table rendition="topBraced">
-                        <row>
-                            <cell>
-                            I.<rs type="person">Heinrich Jacob Eichhorn</rs>
-                                 <lb/>g<ex>eboren</ex> 1656. 10 April.
-                            </cell>
-                            <cell>
-                                <rs type="person">Johanna 
-                                <lb/>Maria</rs>
-                                <lb/>g<ex>eboren</ex> 1659 24
-                                <lb/>Frb.<w lemma="Februar"></w> † 1695.
-                            </cell>
-                            <cell>
-                                <rs type="person">Rosina Dorothea Eichhornin</rs>
-                                 <lb/>g<ex>eboren</ex> 1663 12 May <gap quantity="8" unit="chars" reason="unleserlich"/> † 1696 7 Martz
-                                 <lb/>1685 26 Aug<ex>ust</ex> H<ex>err</ex><rs type="person">Heinrich Christian 
-                                 <lb/>Born</rs>, Chur. Sächs<ex>ischer</ex> Accisseeinnehmer
-                                 <lb/>g<ex>eboren</ex> 1663 2 Aug.<ex>ust</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Virgilius
-                                <lb/>Eichhorn</rs>
-                                 <lb/>g<ex>eboren</ex> 1668. <w lemma="Februar"></w> Frb.
-                                 <lb/>zu <rs type="place"><gap quantity="9" unit="chars" reason="unleserlich"/></rs>
-                            </cell>
-                            <cell>
-                                1669 d<ex>en</ex> 27 Dec<ex>ember</ex>
-                                <lb/>eine Tochter Sofia <ex>?</ex>
-                            </cell>
-                            <cell>
-                                1671. 10 Martz
-                                <lb/>1709 <gap quantity="2" unit="chars" reason="unleserlich"/> Johan <ex>?</ex>
-                            </cell>
-                            <cell>
-                                 <rs type="person">Johanna
-                                <lb/>Agneta
-                                <lb/>Eichhornin</rs>
-                                <lb/>g<ex>eboren</ex> 1672 d.<ex>en</ex> 3 Aug<ex>ust</ex>
-                            </cell>
-                            <cell>
-                                g<ex>eboren</ex> 1676 d.<ex>en</ex>
-                                <lb/>†16676. 30 Juni
-                                <lb/>at <gap quantity="2" unit="chars" reason="unleserlich"/>
-                            </cell>
-                            <cell>
-                                <rs type="person">Johanna
-                                <lb/>Regina</rs>
-                                <lb/>g<ex>eboren</ex>
-                            </cell>
-                        </row>
-                    </table>
-                     <table rendition="topBraced">
-                        <row>
-                            <cell>
-                                H<ex>err</ex><rs type="person">Christian Born</rs>
-                                <lb/>SS. Theol.<ex>ogischer</ex> cand.<ex>??</ex>
-                                <lb/>g<ex>eboren</ex> 1686. 21 May
-                                <lb/>in <rs type="place"><gap quantity="5" unit="chars" reason="unleserlich"/></rs>
-                            </cell>
-                            <cell>
-                                <rs type="person">Heinrich
-                                <lb/>Christian</rs>
-                                <lb/>g<ex>eboren</ex>1687. d.<ex>en</ex>5
-                                <lb/>Jul<ex>i</ex> † 6 Jul<ex>i</ex>
-                                <lb/>equid anni.
-                            </cell>
-                            <cell>
-                                <rs type="person">Heinrich Christian</rs>
-                                <lb/>g<ex>eboren</ex>1688 24 Juny
-                            </cell>
-                            <cell>
-                                <rs type="person">Catharina Dorothea</rs>
-                                <lb/>g<ex>eboren</ex>1689. 19 Nov<ex>ember</ex>
-                                <lb/>in <rs type="place">Weimar</rs>
-                                <lb/>
-                                    <list>
-                                    <item>
-                                        1
-                                    </item>
-                                    <item>
-                                        2
-                                    </item>
-                                </list>
-                            </cell>
-                            <cell>
-                                <rs type="person">Heinrich</rs>
-                                <lb/>g.<ex>eboren</ex> u.<ex>nd</ex>† 
-                                <lb/>1692 14
-                                <lb/>Nov<ex>ember</ex>
-                            </cell>
-                            <cell>
-                                <rs type="person">Catharina
-                                <lb/>Rofina</rs>
-                                <lb/>g.<ex>eboren</ex>1693. 22
-                                <lb/><gap quantity="5" unit="chars" reason="unleserlich"/>† 1699
-                                <lb/>13 Dec<ex>ember</ex>
-                            </cell>
-                            <cell>
-                            <gap quantity="3" unit="chars" reason="unleserlich"/>
-                            <lb/><gap quantity="4" unit="chars" reason="unleserlich"/>
-                            <lb/><gap quantity="5" unit="chars" reason="unleserlich"/>
-                            </cell>
-                            <cell>
-                                <rs type="person">Christian Friedrich</rs>
-                                <lb/>g.<ex>eboren</ex> 1695. 22 Febr.<ex>uar</ex> 
-                            </cell>
-                            <cell>
-                                1996 in todt <gap quantity="4" unit="chars" reason="unleserlich"/> d.<ex>en</ex>23
-                                <lb/>mit der Mutter Febr.<ex>uar</ex>
-                                <lb/><gap quantity="7" unit="chars" reason="unleserlich"/>.                 
-                            </cell>
-                        </row>
-                    </table>
-                    </div>
+                    </table>      
+                </div>
              </body>
         </text>
     </TEI> 
