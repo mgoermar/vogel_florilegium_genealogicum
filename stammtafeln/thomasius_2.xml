@@ -390,8 +390,24 @@
                             </table>                           
                         </cell>
                         <cell>
-                            <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> †
-                
+                            <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> <!--at 89.-->
+                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, <!--Chu(r)f.<ex>ürstlich</ex>--> Sachs.<ex>ischen</ex> Amtschößer zu Weyda auff <!-- ??? --> g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
+                            <lb/>der Flucht vorm Feinde.
+                            <table rendition="topBraced">
+                                <row>
+                                    <cell>
+                                        Johannes Rothe
+                                        <lb/>g<ex>geboren</ex> 161. . . . . † 1629.
+                                        <lb/>in seiner Kindheit.
+                                    </cell>
+                                    <cell>
+                                        <rs type="person" ref="pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis. † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu Treuen im Voigtlande.
+                                        <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> Nicolaus Pfretzschner I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auf 
+                                    
+                                    </cell>
+                                </row>
+                            
+                            </table>
                         </cell>
                     </row>
                 </table>          
