@@ -84,475 +84,314 @@
                 <!-- KEINE ÜBERSCHRIFT <head> xyz </head> -->
                 <table>
                     <row>
-                        <cell rendition="#topBraced">
-                            H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
-                            <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
-                            <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
-                            <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
-                            <list>
-                                <item>
-                                    <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
-                                    <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
-                                </item>
-                                <item>
-                                    <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
-                                    <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr ge <!--h/s/zeuget--> 2. Söhne. </hi>
-                                </item>
-                            </list>
-                            <table rendition="#topBraced">
-                                <row>
-                                    <cell>
-                                        1. <rs type="person" ref="#thomas_johannphilipp">Johann
-                                        <lb/> Philipp.</rs>
-                                        <lb/>g.<ex>eboren</ex>
-                                        <lb/>†.
-                                    </cell>
-                                    <cell>
-                                        4. <rs type="person" ref="#thomas_johannchristian">Johann
-                                        <lb/>Christian</rs> 
-                                        <lb/>g.<ex>eboren</ex>
-                                        <lb/>†
-                                    </cell>
-                                    <cell>
-                                        2. <rs type="person" ref="#thomas_mariaelisabeth">Maria Elisabeth</rs> 
-                                        <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
-                                        <lb/> 1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
-                                        <lb/> Caspar Hendrichs </rs> auff
-                                        <lb/> Knau u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
-                                        <lb/> Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
-                                        <lb/> Consist<ex>oriums</ex> praesident zu Alten
-                                        <lb/> burg. g<ex>eboren</ex> 1635. 20 April.
-                                        <lb/> † 170. . .
-                                        <table rendition="#topBraced">
-                                            <row>
-                                                <cell>
-                                                    Joh<ex>ann</ex> Thomas
-                                                    <lb/>g<ex>eboren</ex> 1673.27 Dec.<ex>ember</ex>
-                                                    <lb/>† 1674. 11 April
-                                                </cell>
-                                                <cell>
-                                                    Jo<ex>hann</ex> Caspar
-                                                    <lb/>g.<ex>eboren</ex> 1676. 20
-                                                    <lb/>April
-                                                    <lb/>†
-                                                </cell>
-                                                <cell>
-                                                    Joh<ex>ann</ex> Friedrich
-                                                    <lb/>g.<ex>eboren</ex>1678 15
-                                                    <lb/>Mart<ex>ij</ex> † 13 Jun<ex>i</ex>
-                                                    <lb/><!--ejus d. anni.-->
-                                                </cell>
-                                                <cell>
-                                                    Maria Elisabeth
-                                                    <lb/>g<ex>eboren</ex> 1679 12 Sept.<ex>ember</ex>
-                                                </cell>
-                                                <cell>
-                                                    Maria Christina
-                                                    <lb/>g<ex>eboren</ex> 1682 d.<ex>en</ex> 19 Mart.<ex>ij</ex>.
-                                                </cell>
-                                                <cell>
-                                                    Maria Euphrosyna
-                                                    <lb/>g<ex>eboren</ex> 1684 14 Febr.<ex>uar</ex>
-                                                </cell>
-                                                <cell>
-                                                    Johann Ernst
-                                                    <lb/>g<ex>eboren</ex> 2 Febr<ex>uar</ex>† .
-                                                    <lb/> 30 Apr.<ex>il</ex> 1686.
-                                                </cell>
-                                                <cell>
-                                                    Regina Maria
-                                                    <lb/>g<ex>eboren</ex> 1688. 30 Nov<ex>ember</ex>
-                                                    <lb/>† 1690. 25 Martij.
-                                                </cell>
-                                            </row>
-                                        </table>
-                                    </cell>
-                                    <cell>
-                                        3. <rs type="person" ref="#thomas_magdalenasibylla"> Magdalena Sibylla </rs>
-                                        <lb/>g<ex>eboren</ex>16 . . 
-                                        <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
-                                        <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
-                                        <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
-                                        <lb/>und <!--Dobitzsche/in.--> R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
-                                        <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
-                                        <lb/>Rathdirector u.<ex>nd</ex> Canzler <!--zu für-->
-                                        <lb/><!--donstrin-->.<!-- Vide. Gen.<ex>s</ex> Bacchov.<ex>i</ex> <hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>-->
-                                     </cell>
-                                     <cell>
-                                        II. <rs type="person" ref="#thomas_friedrichXXX">Friedrich
-                                        <lb/><!--Eliaster--></rs>
-                                        <lb/>g.<ex>eboren</ex> 1671. 9 Dec.<ex>ember</ex>
-                                        <lb/>† 1672 6 May.
-                                     </cell>
-                                     <cell>
-                                        <rs type="person" ref="thomas_johannadam">Jo<ex>hann</ex>Adam</rs>
-                                        <lb/>LL stud.<ex>iosus</ex>
-                                        <lb/>g<ex>eboren</ex> 1672.22
-                                        <lb/>Dec<ex>ember</ex>† 10 Jan<ex>uar</ex>
-                                        <lb/>1691. zu 
-                                        <lb/>Leipzig 
-                                     </cell>
-                                </row>
-                            </table>
-                        </cell>
-                        <cell rendition="#topBraced">
-                            <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
-                            <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
-                            <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
-                            <lb/>Sachß.<ex>ischer</ex> Amtschößer zu Salfeldt g.<ex>eboren</ex>
-                            <lb/>†.
-                             <table rendition="#topBraced">
-                                <row>
-                                    <cell>
-                                        <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
-                                        <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
-                                        <lb/>g.<ex>eboren</ex>
-                                        <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
-                                        <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
-                                        <lb/>Franckes</rs> Archidiaconi
-                                        <lb/>zu Weyda T.<ex>ochter</ex>
-                                    </cell>
-                                    <cell>
-                                        Sophia
-                                        <lb/>g<ex>eboren</ex>
-                                        <lb/>†
-                                    </cell>
-                                    <cell>
-                                        Sophia Benigna
-                                        <lb/>g<ex>eboren</ex>
-                                        <lb/>†
-                                    </cell>
-                                    <cell>
-                                        <rs type="person" ref="lauhn_friedrichwilhelm">Friedrich Wilhlem
-                                        <lb/>Lauhn</rs>
-                                        <lb/>g.<ex>eboren</ex>
-                                    </cell>
-                                    <cell>
-                                        Maria
-                                        <lb/>Elisabeth
-                                        <lb/>g<ex>eboren</ex>
-                                        <lb/>†
-                                    </cell>
-                                </row>
-                            </table>
-                        </cell>
-                    </row>
-                </table>
-                <!--Seite 1 zuende-->
-                <pb facs="rep_6_16-a_0921.jpg" n="457r"/>
-                 <!--<head>keine Überschrift</head>-->
-                <table>
-                    <row>
-                        <cell rendition="#topBraced">
-                        H.<ex>err</ex><rs type="person" ref="thomae_henning">Henning Thomae</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
-                        <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
-                        <lb/>1660. 9 Dec.<ex>ember</ex><!--Jf Jungfrau-->Anna Maria H<ex>errn</ex><rs type="person" ref="widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
-                        <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
-                        <table rendition="#topBraced">
-                            <row>
-                                <cell>    
-                                    Maria
-                                    <lb/>Elisabeth
-                                    <lb/>g<ex>eboren</ex> 1661. 27 Sept.<ex>ember</ex>
-                                    <lb/>† 1664.12 Aug.<ex>ust</ex>
-                                </cell>
-                                <cell>    
-                                    Johann Albrecht
-                                    <lb/>g.<ex>ebore</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
-                                    <lb/>† 1664. 20 April.
-                                </cell>
-                                <cell>    
-                                    H.<ex>err</ex> <rs type="person" ref="thomae_augustinjohann">Augustinus Johann Thomae</rs>
-                                    <lb/>ViceCantzler zu Altenburg.
-                                    <lb/>g<ex>eboren</ex> 1665 9 Oct.<ex>ober</ex>
-                                    <lb/>1694 <!--Jfr Jungfrau--> . . . . . .
-                                    <lb/>H.<ex>errn</ex> <!-- Lücke --> Döhlers Amtsmanns
-                                    <lb/>zu Sauenstadt T.<ex>ochter</ex>
-                                </cell>
-                                <cell>    
-                                    H<ex>err</ex> <rs type="person" ref="thomae_johannchristoph">Johann Christoph. Tomae</rs>
-                                    <lb/><!--Jur. Pract.--> u.<ex>nd</ex> Oberhoffgerichts
-                                    <lb/>Anwalt zu Leipzig. .
-                                    <lb/>g.<ex>eboren</ex> 1667. d.<ex>en</ex> 20 Aug.<ex>ust</ex>
-                                    <lb/>1709 8 April J.<ex>ungfrau</ex> Joh<ex>anna</ex> Rosina
-                                    <lb/>H<ex>errn</ex>. . . . . Alerts.<!--Buchandler-->
-                                    <lb/>zu Leipzig T.<ex>ochter</ex>
-                                    <table rendition="#topBraced">
-                                    <row>
-                                        <cell>
-                                            Christoph
-                                            <lb/>Gottfried
-                                            <lb/>g<ex>eboren</ex> 1711 d.<ex>en</ex> 3 Dec.<ex>ember</ex>
-                                        </cell>
-                                    </row>
-                                    </table>
-                                </cell>
-                                <cell>    
-                                    Barbara Catharina
-                                    <lb/>g.<ex>eboren</ex> 1669 9 May
-                                    <lb/>1686. 13 April H.<ex>errn</ex> Jo.
-                                    <lb/>achim Gotthard Rabner
-                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Oberschöpp<ex>e</ex> u<ex>nd</ex> Gerichts
-                                    <lb/>schreiber zu Leipzig.
-                                    <table rendition="#topBraced">
-                                    <row>
-                                        <cell>
-                                            H<ex>err</ex> M.<ex><!--??--></ex> Justus
-                                            <lb/>Gotthard Rabe
-                                            <lb/>ner <!-- ss<ex>tudiosus</ex>--> Th.<ex>eologXX</ex> Bacc.<ex>alarius</ex>
-                                            <lb/>u<ex>nd</ex> <!--corc.--> sabbats
-                                            <lb/>zu S. Thomae, Diac.<ex>on</ex>
-                                            <lb/>zu Leipzig u<ex>nd</ex> S Thomas
-                                            <lb/>g<ex>eboren</ex> 1688. <ex>en</ex> 22 May
-                                            <lb/>† 1731. 24. Aug.<ex>ust</ex>
-                                        </cell>
-                                        <cell>
-                                            Friedrich
-                                            <lb/>Gebhardt
-                                            <lb/>Rabener
-                                            <lb/>g.<ex>eboren</ex> 1689 21.
-                                            <lb/>Oct.<ex>ober</ex>† 12
-                                            <lb/>Sept.<ex>ember</ex> 1690.
-                                        </cell>
-                                        <cell>
-                                            Catharina
-                                            <lb/>Gott<!--c/wertha-->
-                                            <lb/> Rabnerin
-                                            <lb/>g.<ex>eboren</ex> 1691. 14 Iul.<ex>i</ex>
-                                        </cell>
-                                        <cell>
-                                            Theordora
-                                            <lb/>Gottlob.
-                                            <lb/>g<ex>eboren</ex> 1998.21 May.
-                                            <lb/>1698.25 Jun.<ex>i</ex>
-                                        </cell>
-                                        <cell>
-                                            Justus Gottfried
-                                            <lb/>g<ex>eboren</ex> 1702 d.<ex>en</ex> 12. Mart.<ex>ij</ex>
-                                            <lb/>† 1732.
-                                        </cell>
-                                        <cell>
-                                            Erdmuth
-                                            <lb/>Christiana
-                                            <lb/>g<ex>eboren</ex> 1706. d.<ex>en</ex>
-                                            <lb/>22 April.
-                                        </cell>
-                                    </row>
-                                    </table>
-                                </cell>
-                                <cell>    
-                                    Henning
-                                    <lb/>Thomae.
-                                    <lb/>g.<ex>eboren</ex>1671. 14 Oct.<ex>ober</ex>
-                                    <lb/>† auff der
-                                    <lb/>Reise.
-                                </cell>
-                                 <cell>    
-                                    Susanna
-                                    <lb/>
-                                    <lb/>
-                                    <lb/>
-                                </cell>
-                                <cell>    
-                                    Christian
-                                    <lb/>
-                                    <lb/>
-                                    <lb/>
-                                </cell>
-                                <cell>    
-                                    H Joh
-                                    <lb/>
-                                    <lb/>
-                                    <lb/>
-                                </cell>
-                                 <cell>    
-                                    Anna
-                                    <lb/>
-                                    <lb/>
-                                    <lb/>
-                                </cell>
-                            </row>
-                        </table>
-                        </cell>
                         <cell rendition="topBraced">
-                        Adam thomas
+                        <!--Stammherr Johann Thomas-->
                         </cell>
                     </row>
-                
-                   
-                      <!---  <cell rendition="#topBraced">
-                            H<ex>err</ex> <rs type="person" ref="#muench_johann">Johann Münch</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Rath, der <rs type="org" ref="#universitaet_leipzig_juristische_fakultaet">Juristenfacultät</rs> Ordinarius u<ex>nd</ex> Pro<subst><del>f</del><add place="inline">fe</add></subst>ssor, wie auch bürgerm<ex>eister</ex>, u<ex>nd</ex> des Churf<ex>ürstlich</ex> Sachs<ex>ischen</ex> <rs type="org" ref="#leipzig_schoeppenstuhl">Schoppenstuls</rs> Assessor u<ex>nd</ex> Canonicus zu <rs type="place" ref="#merseburg">Merseburg</rs>.
-                            <lb/>g<ex>eboren</ex> 1536 15. Aug<ex>ust</ex> zu <rs type="place" ref="#schneeberg">Schneeberg</rs>. ward 1560 3. Jan<ex>uar</ex> zu <rs type="place" ref="#jena">Jena</rs> Mag<ex>ister</ex> zu <rs type="place" ref="#basel">Basel</rs> 15.. I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1573 Professor zu Jena, A<ex>nno</ex> 1579 Syndicus zu <rs type="place" ref="#nuernberg">Nürnberg</rs> A<ex>nno</ex> 1588 zu <rs type="place" ref="#leipzig">leipzig</rs> Ordinarius u<ex>nd</ex> Consul.
-                            <lb/>st<ex>arb</ex> 1599 10. Aug<ex>ust</ex> &#x00E6;t<ex>atis</ex> 63 zu leipzig in d<ex>er</ex> <rs type="place" ref="#leipzig_nikolaikirche">Kirchen zu S<ex>ankt</ex> Nicolai</rs> begraben. ward 1594 <add place="below">21. <choice><abbr>Xbr<ex>is</ex></abbr><expan>Decembris</expan></choice></add> bürger zu leipzig.
-                            <list>
-                                <item>
-                                    <lb/><hi rendition="#et">1. 15 . . . . J<ex>ung</ex>fr<ex>au</ex> Reginam H<ex>errn</ex> Joachim Gundelfingens Patricij zu Nürnberg T<ex>ochter</ex> g<ex>eboren</ex> - - - - - st<ex>arb</ex> 1589 7. April.</hi>
-                                </item>
-                                <item>
-                                    <lb/><hi rendition="#et">2. 1591 19. Apr<ex>il</ex> fr<ex>au</ex> Brigitten H<ex>errn</ex> d<ex>octor</ex> Laurentij Lindemans zu Sedelitz vormals Ordinarij u<ex>nd</ex> Prof<ex>essors</ex> zu Wittenberg danach Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> Raths Wittwe H<ex>errn</ex> Pauli Langefeldts I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex></hi>
-                                    <lb/><hi rendition="#et">Tochter. g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1610 5. Martij.</hi>
-                                </item>
-                            </list>
+                    <row>
+                        <cell rendition="TopBraced">
+                            <!--Michael Thomas d.Ä.-->
                             <table rendition="#topBraced">
                                 <row>
-                                    <cell>I.</cell>
                                     <cell>
-                                        1. . . . . .
-                                        <lb/>g<ex>eboren</ex>
-                                        <lb/>†
-                                    </cell>
-                                    <cell>
-                                        2. . . . . 
-                                        <lb/>g<ex>eboren</ex> . . .
-                                        <lb/>†
-                                    </cell>
-                                    <cell>
-                                        3. . . . . . 
-                                        <lb/>. . . . .
-                                    </cell>
-                                    <cell>
-                                        4. . . . . . 
-                                        <lb/>Münchin g<ex>eboren</ex>
-                                        <lb/>†
-                                        <lb/>15 . . . . . . . .
-                                        <lb/>Heinrich Elar.
-                                        <lb/>Churf<ex>ürstlich</ex> Sächß<ex>ischer</ex> <w lemma="Feldmeßer">Feld
-                                        <lb/>meßer</w> u<ex>nd</ex> <w lemma="Quartiermeister">Quartier
-                                        <lb/>meister</w>.
-                                    </cell>
-                                    <cell>
-                                        5. Regina Münchin
-                                        <lb/>g<ex>eboren</ex>
-                                        <lb/>†
-                                        <lb/>1601 28. April H<ex>err</ex>
-                                        <lb/>Friedrich Lindemannen d<ex>er</ex>
-                                        <lb/>Churf<ex>ürstlich</ex> Sachß<ex>ischen</ex> Wittwe Secret<ex>arius</ex>
-                                        <lb/>u<ex>nd</ex> landmeister zu Colditz.
-                                        <lb/>g<ex>eboren</ex> 1566 27. Mart<ex>ii</ex> † 1617 28.
-                                        <lb/>Januarij.
-                                        <lb/>Vide das Lindemannische
-                                        <lb/><hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>
-                                    </cell>
-                                    <cell>
-                                        6. H<ex>err</ex> Georg Münch
-                                        <lb/>g<ex>eboren</ex> 15 . . . . zu Jena
-                                        <lb/>1590 zu leipzig immatricul<ex>iert</ex>
-                                        <lb/>†
-                                        <lb/>1601 17. Nov<ex>ember</ex>J<ex>ung</ex>fr<ex>au</ex> Coecoliam
-                                        <lb/>H<ex>errn</ex> Conrad Teuerlings
-                                        <lb/>. . . . . . . T<ex>ochter</ex>
-                                    </cell>
-                                    <cell>
-                                        <lb/>7. H<ex>err</ex> D<ex>octor</ex> Johannes Paulus Mönch, anfangs Gräfl<ex>ich</ex>
-                                        <lb/>Manßfeldischer Rath, hernach fürstl<ex>ich</ex> Sächß<ex>ischer</ex> Cantzler
-                                        <lb/>u<ex>nd</ex> Rath zu Zeitz. g<ex>eboren</ex> 1582 15. Julij zu Nürnberg. st<ex>arb</ex> 1644
-                                        <lb/>29. Julij zu Jena. ward 1566<note type="footnote" resp="mg">Diese Jahreszahl ist offensichtlich falsch. Johannes Paul Mönch wurde 1610 in Basel zum Doktor beider Rechte promoviert.</note> zu basel I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>.
+                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
+                                        <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
+                                        <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
+                                        <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/>1. 1610 6. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Margaretham H<ex>errn</ex> Georg Winters Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>ei</ex>
-                                                <lb/>u<ex>nd</ex> furstl<ex>ich</ex> Sachß<ex>isch</ex> Weymar<ex>ischen</ex> u<ex>nd</ex> Heßischen, u<ex>nd</ex> auch Gräffl<ex>ich</ex> Manßfeldischen
-                                                <lb/>u<ex>nd</ex> Stollbergischen Raths T<ex>ochter</ex> g<ex>eboren</ex> . . . . . st<ex>arb</ex> 1629 zu Sangerhaußen. <add place="inline">11 K<ex>inder</ex><lb/> 7 T<ex>öchter</ex> u<ex>nd</ex> 4 S<ex>öhne</ex></add>
+                                                <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
+                                                <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
                                             </item>
                                             <item>
-                                                <lb/>2. 1635 15. Sept<ex>ember</ex> Fr<ex>au</ex> Maria H<ex>errn</ex> Lamprecht Herbstens Raths Cammers und
-                                                <lb/>Handelsmanns zu Naumburg T<ex>ochter</ex>. H<ex>errn</ex> Wolff<add place="below">heinrich</add> Steinmetzens . . . . Wittwe
+                                                <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
+                                                <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr ge <!--h/s/zeuget--> 2. Söhne. </hi>
                                             </item>
                                         </list>
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>
-                                                    I. Margareta
-                                                    <lb/>Münchin
-                                                    <lb/>g<ex>eboren</ex> 1611 3<subst><del>1</del><add place="inline">0</add></subst>. Oct<ex>ober</ex>
+                                                    1. <rs type="person" ref="#thomas_johannphilipp">Johann
+                                                    <lb/> Philipp.</rs>
+                                                    <lb/>g.<ex>eboren</ex>
+                                                    <lb/>†.
                                                 </cell>
                                                 <cell>
-                                                    Catharina
-                                                    <lb/>Münchin
-                                                    g<ex>eboren</ex> 1613 30. Jan<ex>uar</ex>
-                                                    <lb/>zu leipzig.
+                                                    4. <rs type="person" ref="#thomas_johannchristian">Johann
+                                                    <lb/>Christian</rs> 
+                                                    <lb/>g.<ex>eboren</ex>
+                                                    <lb/>†
                                                 </cell>
                                                 <cell>
-                                                    Sara Regina
-                                                    <lb/>Münchin.
-                                                    <lb/>g<ex>eboren</ex> 16 . . . . . . .
-                                                    <lb/><add place="inspace">† 1685 Dec<ex>ember</ex> zu Dreßd<ex>en</ex></add>
-                                                    <lb/>16 . . . . H<ex>err</ex> Severinus
-                                                    <lb/>Weißen J<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex> u<ex>nd</ex> Canonicus
-                                                    <lb/>zu Naumburg g<ex>eboren</ex> . . . . . .
-                                                    <lb/>† 1652 d<ex>en</ex> 5. May.
+                                                    2. <rs type="person" ref="#thomas_mariaelisabeth">Maria Elisabeth</rs> 
+                                                    <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
+                                                    <lb/> 1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
+                                                    <lb/> Caspar Hendrichs </rs> auff
+                                                    <lb/> Knau u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
+                                                    <lb/> Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
+                                                    <lb/> Consist<ex>oriums</ex> praesident zu Alten
+                                                    <lb/> burg. g<ex>eboren</ex> 1635. 20 April.
+                                                    <lb/> † 170. . .
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                                Margaretha Rosina Weißin
-                                                                <lb/>g<ex>eboren</ex> 1643 d<ex>en</ex> 20. Sept<ex>ember</ex> † 1702 9. Junij.
-                                                                <lb/>1685 10. Nov<ex>ember</ex> H<ex>err</ex> d<ex>octor</ex> barthol<ex>olomäus</ex>
-                                                                <lb/>Leonhart Schwendendörffern.
-                                                                <lb/>I<ex>uris</ex>c<ex>onsul</ex>tus P<ex>rofessor</ex> P<ex>ublicus</ex> Caninicus Martisb<ex>urgae</ex> Fac<ex>ultatis</ex>
-                                                                <lb/>Jurid<ex>icae</ex> <add place="above">u<ex>nd</ex></add> Oberhoffgerichts Assesor
-                                                                <lb/>der Meißn<ex>ischen</ex> Nation Senior u<ex>nd</ex> der
-                                                                <lb/>Acad<ex>emiae</ex> Decemvir zu Leipzig.
-                                                                <lb/><hi rendition="#et">ohne Kinder.</hi>
+                                                                Joh<ex>ann</ex> Thomas
+                                                                <lb/>g<ex>eboren</ex> 1673.27 Dec.<ex>ember</ex>
+                                                                <lb/>† 1674. 11 April
                                                             </cell>
                                                             <cell>
-                                                                H<ex>err</ex> Severinus Weise, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex>
-                                                                <lb/>SteuerEinnehmer des leipz<ex>igischen</ex> Creyßes
-                                                                <lb/>zu leipzig. g<ex>eboren</ex> 1650 d<ex>en</ex> 24. Iunij
-                                                                <lb/>st<ex>arb</ex> 1695 21. Martij. <add place="inline">&#x00E6;t<ex>atis</ex> 44 j<ex>ahre</ex> 9 M<ex>onate</ex> 1 T<ex>ag</ex></add>
-                                                                <lb/>1689 17. Nov<ex>ember</ex> J<ex>ung</ex>fr<ex>au</ex> Johann Gertraudt
-                                                                <lb/>H<ex>errn</ex> Georg Schuberts Handelsh<ex>erren</ex> u<ex>nd</ex> <w lemma="Cramermeisters">Cra
-                                                                <lb/>mermeisters</w> in leipzig ehel<ex>iche</ex> Tochter.
-                                                                <table rendition="#topBraced">
-                                                                    <row>
-                                                                        <cell>
-                                                                            Gottlob Severinus
-                                                                            <lb/>Weiße g<ex>eboren</ex> 1690 d<ex>en</ex>
-                                                                            <lb/>14. Oct<ex>ober</ex>
-                                                                        </cell>
-                                                                        <cell>
-                                                                            Johann Severin
-                                                                            <lb/>g<ex>eboren</ex> 1692 11. Iunij
-                                                                        </cell>
-                                                                        <cell>
-                                                                            Georg Severin.
-                                                                            <lb/>g<ex>eboren</ex> 1693 28. May
-                                                                            <lb/>† 1694 19. Febr<ex>uar</ex>
-                                                                        </cell>
-                                                                    </row>
-                                                                </table>
+                                                                Jo<ex>hann</ex> Caspar
+                                                                <lb/>g.<ex>eboren</ex> 1676. 20
+                                                                <lb/>April
+                                                                <lb/>†
+                                                            </cell>
+                                                            <cell>
+                                                                Joh<ex>ann</ex> Friedrich
+                                                                <lb/>g.<ex>eboren</ex>1678 15
+                                                                <lb/>Mart<ex>ij</ex> † 13 Jun<ex>i</ex>
+                                                                <lb/><!--ejus d. anni.-->
+                                                            </cell>
+                                                            <cell>
+                                                                Maria Elisabeth
+                                                                <lb/>g<ex>eboren</ex> 1679 12 Sept.<ex>ember</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                Maria Christina
+                                                                <lb/>g<ex>eboren</ex> 1682 d.<ex>en</ex> 19 Mart.<ex>ij</ex>.
+                                                            </cell>
+                                                            <cell>
+                                                                Maria Euphrosyna
+                                                                <lb/>g<ex>eboren</ex> 1684 14 Febr.<ex>uar</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                Johann Ernst
+                                                                <lb/>g<ex>eboren</ex> 2 Febr<ex>uar</ex>† .
+                                                                <lb/> 30 Apr.<ex>il</ex> 1686.
+                                                            </cell>
+                                                            <cell>
+                                                                Regina Maria
+                                                                <lb/>g<ex>eboren</ex> 1688. 30 Nov<ex>ember</ex>
+                                                                <lb/>† 1690. 25 Martij.
                                                             </cell>
                                                         </row>
                                                     </table>
                                                 </cell>
                                                 <cell>
-                                                    H<ex>err</ex> Jo<ex>hannes</ex> Münch
-                                                    <lb/>Churf<ex>ürstlich</ex> Sachs<ex>ischer</ex> <w lemma="SteuerEnnehmer">Steuer
-                                                    <lb/>Einnehmer</w> in <w lemma="leipzig">leip
-                                                    <lb/>zig</w>. g<ex>eboren</ex> 161<subst><del>6</del><add place="inline">5</add></subst> <unclear reason="illegible"><subst><del>10</del><add place="inline">12</add></subst> Iul<ex>ij</ex></unclear>
-                                                    <lb/>zu Artern in
-                                                    <lb/>Thuringen.
-                                                    <lb/>st<ex>arb</ex> 1691 18. Jan<ex>uar</ex>
-                                                    <lb/>ledig <add place="inline">&#x00E6;t<ex>atis</ex> 75
-                                                    <lb/>jahr 6 Monat.</add>
+                                                    3. <rs type="person" ref="#thomas_magdalenasibylla"> Magdalena Sibylla </rs>
+                                                    <lb/>g<ex>eboren</ex>16 . . 
+                                                    <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
+                                                    <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
+                                                    <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
+                                                    <lb/>und <!--Dobitzsche/in.--> R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
+                                                    <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
+                                                    <lb/>Rathdirector u.<ex>nd</ex> Canzler <!--zu für-->
+                                                    <lb/><!--donstrin-->.<!-- Vide. Gen.<ex>s</ex> Bacchov.<ex>i</ex> <hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>-->
                                                 </cell>
                                                 <cell>
-                                                    . . . . .
-                                                    <lb/>Münchin
-                                                    <lb/>g<ex>eboren</ex>
-                                                    <lb/>† 1633 d<ex>en</ex>
-                                                    <lb/>16. Sept<ex>ember</ex> als
-                                                    <lb/>J<ex>ung</ex>fr<ex>au</ex> bey
-                                                    <lb/>H<ex>errn</ex> Jo<ex>hannes</ex> Siebern
-                                                    <lb/>in leipzig.
+                                                    II. <rs type="person" ref="#thomas_friedrichXXX">Friedrich
+                                                    <lb/><!--Eliaster--></rs>
+                                                    <lb/>g.<ex>eboren</ex> 1671. 9 Dec.<ex>ember</ex>
+                                                    <lb/>† 1672 6 May.
+                                                </cell>
+                                                <cell>
+                                                    <rs type="person" ref="thomas_johannadam">Jo<ex>hann</ex>Adam</rs>
+                                                    <lb/>LL stud.<ex>iosus</ex>
+                                                    <lb/>g<ex>eboren</ex> 1672.22
+                                                    <lb/>Dec<ex>ember</ex>† 10 Jan<ex>uar</ex>
+                                                    <lb/>1691. zu 
+                                                    <lb/>Leipzig 
                                                 </cell>
                                             </row>
                                         </table>
                                     </cell>
                                     <cell>
-                                        II. ohne
-                                        <lb/>Kinder
+                                        <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
+                                        <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
+                                        <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
+                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu Salfeldt g.<ex>eboren</ex>
+                                        <lb/>†.
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>
+                                                    <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
+                                                    <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
+                                                    <lb/>g.<ex>eboren</ex>
+                                                    <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
+                                                    <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
+                                                    <lb/>Franckes</rs> Archidiaconi
+                                                    <lb/>zu Weyda T.<ex>ochter</ex>
+                                                </cell>
+                                                <cell>
+                                                    Sophia
+                                                    <lb/>g<ex>eboren</ex>
+                                                    <lb/>†
+                                                </cell>
+                                                <cell>
+                                                    Sophia Benigna
+                                                    <lb/>g<ex>eboren</ex>
+                                                    <lb/>†
+                                                </cell>
+                                                <cell>
+                                                    <rs type="person" ref="lauhn_friedrichwilhelm">Friedrich Wilhlem
+                                                    <lb/>Lauhn</rs>
+                                                    <lb/>g.<ex>eboren</ex>
+                                                </cell>
+                                                <cell>
+                                                    Maria
+                                                    <lb/>Elisabeth
+                                                    <lb/>g<ex>eboren</ex>
+                                                    <lb/>†
+                                                </cell>
+                                            </row>
+                                        </table>
                                     </cell>
-                                </row>
+                <!-- Seite 1 zuende
+                <pb facs="rep_6_16-a_0921.jpg" n="457r"/> -->
+                                    <cell>
+                                        H.<ex>err</ex><rs type="person" ref="thomae_henning">Henning Thomae</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
+                                        <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
+                                        <lb/>1660. 9 Dec.<ex>ember</ex><!--Jf Jungfrau-->Anna Maria H<ex>errn</ex><rs type="person" ref="widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
+                                        <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>    
+                                                    Maria
+                                                    <lb/>Elisabeth
+                                                    <lb/>g<ex>eboren</ex> 1661. 27 Sept.<ex>ember</ex>
+                                                    <lb/>† 1664.12 Aug.<ex>ust</ex>
+                                                </cell>
+                                                <cell>    
+                                                    Johann Albrecht
+                                                    <lb/>g.<ex>ebore</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
+                                                    <lb/>† 1664. 20 April.
+                                                </cell>
+                                                <cell>    
+                                                    H.<ex>err</ex> <rs type="person" ref="thomae_augustinjohann">Augustinus Johann Thomae</rs>
+                                                    <lb/>ViceCantzler zu Altenburg.
+                                                    <lb/>g<ex>eboren</ex> 1665 9 Oct.<ex>ober</ex>
+                                                    <lb/>1694 <!--Jfr Jungfrau--> . . . . . .
+                                                    <lb/>H.<ex>errn</ex> <!-- Lücke --> Döhlers Amtsmanns
+                                                    <lb/>zu Sauenstadt T.<ex>ochter</ex>
+                                                </cell>
+                                                <cell>    
+                                                    H<ex>err</ex> <rs type="person" ref="thomae_johannchristoph">Johann Christoph. Tomae</rs>
+                                                    <lb/><!--Jur. Pract.--> u.<ex>nd</ex> Oberhoffgerichts
+                                                    <lb/>Anwalt zu Leipzig. .
+                                                    <lb/>g.<ex>eboren</ex> 1667. d.<ex>en</ex> 20 Aug.<ex>ust</ex>
+                                                    <lb/>1709 8 April J.<ex>ungfrau</ex> Joh<ex>anna</ex> Rosina
+                                                    <lb/>H<ex>errn</ex>. . . . . Alerts.<!--Buchandler-->
+                                                    <lb/>zu Leipzig T.<ex>ochter</ex>
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                                Christoph
+                                                                <lb/>Gottfried
+                                                                <lb/>g<ex>eboren</ex> 1711 d.<ex>en</ex> 3 Dec.<ex>ember</ex>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                                </cell>
+                                                <cell>    
+                                                    Barbara Catharina
+                                                    <lb/>g.<ex>eboren</ex> 1669 9 May
+                                                    <lb/>1686. 13 April H.<ex>errn</ex> Jo.
+                                                    <lb/>achim Gotthard Rabner
+                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Oberschöpp<ex>e</ex> u<ex>nd</ex> Gerichts
+                                                    <lb/>schreiber zu Leipzig.
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                                H<ex>err</ex> M.<ex><!--??--></ex> Justus
+                                                                <lb/>Gotthard Rabe
+                                                                <lb/>ner <!-- ss<ex>tudiosus</ex>--> Th.<ex>eologXX</ex> Bacc.<ex>alarius</ex>
+                                                                <lb/>u<ex>nd</ex> <!--corc.--> sabbats
+                                                                <lb/>zu S. Thomae, Diac.<ex>on</ex>
+                                                                <lb/>zu Leipzig u<ex>nd</ex> S Thomas
+                                                                <lb/>g<ex>eboren</ex> 1688. <ex>en</ex> 22 May
+                                                                <lb/>† 1731. 24. Aug.<ex>ust</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                Friedrich
+                                                                <lb/>Gebhardt
+                                                                <lb/>Rabener
+                                                                <lb/>g.<ex>eboren</ex> 1689 21.
+                                                                <lb/>Oct.<ex>ober</ex>† 12
+                                                                <lb/>Sept.<ex>ember</ex> 1690.
+                                                            </cell>
+                                                            <cell>
+                                                                Catharina
+                                                                <lb/>Gott<!--c/wertha-->
+                                                                <lb/> Rabnerin
+                                                                <lb/>g.<ex>eboren</ex> 1691. 14 Iul.<ex>i</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                Theordora
+                                                                <lb/>Gottlob.
+                                                                <lb/>g<ex>eboren</ex> 1998.21 May.
+                                                                <lb/>1698.25 Jun.<ex>i</ex>
+                                                            </cell>
+                                                            <cell>
+                                                                Justus Gottfried
+                                                                <lb/>g<ex>eboren</ex> 1702 d.<ex>en</ex> 12. Mart.<ex>ij</ex>
+                                                                <lb/>† 1732.
+                                                            </cell>
+                                                            <cell>
+                                                                Erdmuth
+                                                                <lb/>Christiana
+                                                                <lb/>g<ex>eboren</ex> 1706. d.<ex>en</ex>
+                                                                <lb/>22 April.
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                                </cell>
+                                                <cell>    
+                                                    Henning
+                                                    <lb/>Thomae.
+                                                    <lb/>g.<ex>eboren</ex>1671. 14 Oct.<ex>ober</ex>
+                                                    <lb/>† auff der
+                                                    <lb/>Reise.
+                                                </cell>
+                                                <cell>    
+                                                    Susanna
+                                                    <lb/>Dorothea
+                                                    <lb/>g.<ex>eboren</ex> 1673. d.<ex>en</ex> 19
+                                                    <lb/>Sept.<ex>ember</ex> † 1691.
+                                                    <lb/>21 Aug<ex>ust</ex> zu
+                                                    <lb/>Leipzig.
+                                                </cell>
+                                                <cell>    
+                                                    Christian
+                                                    <lb/>Friedrich
+                                                    <lb/>g<ex>eboren</ex> 1675. 18
+                                                    <lb/>Aug.<ex>ust</ex>
+                                                </cell>
+                                                <cell>    
+                                                    H<ex>err</ex> Joh.<ex>hann</ex> Michael Thomae
+                                                    <lb/>Archidiac.<ex>on</ex> zu Altenburg
+                                                    <lb/>g.<ex>eboren</ex> 1677. d.<ex>en</ex> 14 Dec.<ex>ember</ex>
+                                                </cell>
+                                                <cell>    
+                                                    Anna
+                                                    <lb/>Maria
+                                                    <lb/>g.<ex>eboren</ex> 1680. 13
+                                                    <lb/>Febr.<ex>uar</ex>
+                                                    <lb/>† d.<ex>en</ex> 2 Sept<ex>ember</ex>
+                                                    <lb/><!-- ejus d.<ex>omine</ex> a.<ex>nno</ex> -->
+                                                </cell>
+                                            </row>
+                                        </table>
+                                    </cell>
+                                    <cell>
+                                        <rs type="person" ref="thomas_adam">Adam Thomas</rs>
+                                        <lb/>g.<ex>eboren</ex> 1630. 5 Sept.<ex>ember</ex>
+                                        <lb/>† 1633. d<ex>en</ex> 11. Nov.<ex>ember</ex>
+                                    </cell>
+                                </row>       
                             </table>                           
+                        </cell>
+                        <cell>
+                            <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> †
+                
                         </cell>
                     </row>
                 </table>          
