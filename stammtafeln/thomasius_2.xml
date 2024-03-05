@@ -387,9 +387,10 @@
                                         <lb/>† 1633. d<ex>en</ex> 11. Nov.<ex>ember</ex>
                                     </cell>
                                 </row>       
-                            </table>   
-                <!--Seite 3-->                        
-                        </cell>
+                            </table>  
+                        </cell> 
+                <!--Seite 2 zuende
+                <pb facs="rep_6_16-a_0921.jpg" n="457v"/> -->                        
                         <cell>
                             <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> <!--at 89.-->
                             <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, <!--Chu(r)f.<ex>ürstlich</ex>--> Sachs.<ex>ischen</ex> Amtschößer zu Weyda auff <!-- Troschenreuth und Werdensberg?? --> g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
@@ -411,16 +412,48 @@
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>
+                                                    g.<ex>eboren</ex>
+                                                    <lb/>† <!-- tg tot geboren ?-->
+                                                </cell>
+                                                <cell>
+                                                    g.<ex>eboren</ex>
+                                                    <lb/>† <!-- tg tot geboren ?-->
+                                                </cell>
+                                                <cell>
+                                                    g.<ex>eboren</ex>
+                                                    <lb/>† <!-- tg tot geboren ?-->
+                                                </cell>
+                                                <cell>
+                                                    H<ex>err</ex> <rs type="person" ref="pfretzschner_nicolaus2">Nicolaus
+                                                    <lb/>Pfretzschner</rs>.
+                                                    <lb/>I.<ex>uris</ex> U<ex>triusque</ex> doctorand<!--?s?-->
+                                                    <lb/>g.<ex>eboren</ex>
+                                                    <lb/><!--† ??/fam.--> 1666 d<ex>en</ex> 17
+                                                    <lb/>Jul<ex>i</ex> zu Sedan
+                                                    <lb/>in Frankreich in
+                                                    <lb/>Waßer <!--?? umb.-->
+                                                </cell>
+                                                <cell>
+                                                    Anna Dorothea
+                                                    <lb/>g<ex>eboren</ex>
+                                                    <lb/>†.
+                                                    <lb/>16. . . H.<ex>errn</ex> Christian
+                                                    <lb/>Detleffen I<ex>uris</ex> U<ex>triusque</ex> d.<ex>octor</ex> u.<ex>nd</ex> Consulen
+                                                    <lb/><!--tum,--> wie auch Bürgermeiß.<ex>ter</ex>
+                                                    <lb/>in Plauen.
+                                                    <lb/>5 S.<ex>öhne</ex> 5 T.<ex>öchter</ex>
+                                                    <table rendition= "topBraced">
+                                                        <row>
+                                                            <cell>
+                                                                Johanna Margaretha
+                                                                <lb/>g<ex>eboren</ex>
+                                                                <lb/>16. . . . . Herr
+                                                                <lb/>Johann Rhost, hochgräffl.<ex>ich</ex>
+                                                                <lb/>Reuß. 
 
-                                                </cell>
-                                                <cell>
-                                                
-                                                </cell>
-                                                <cell>
-                                                
-                                                </cell>
-                                                <cell>
-                                                
+                                                            </cell>
+                                                        </row>
+                                                    </table>
                                                 </cell>
                                             </row>
                                         </table>
