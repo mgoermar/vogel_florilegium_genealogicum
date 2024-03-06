@@ -101,7 +101,7 @@
                                         <list>
                                             <item>
                                                 <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
-                                                <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg.</hi> <!-- HIER fehlt was -->
+                                                <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <!-- Lücke--> 4 Kinder.</hi> 
                                             </item>
                                             <item>
                                                 <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
@@ -528,26 +528,63 @@
                                                 II.
                                                 </cell>
                                                 <cell>
-                                                Maria Justina Pfretzschnerin
-                                                <lb/>g.<ex>eboren</ex> † 
-                                                <lb/>16. . . H.<ex>errn</ex> Christian Friedrich Meurer
-                                                <lb/>auf <!--Lutzensomern-->, Olßen, Trebnitz
-                                                <lb/>u<ex>nd</ex> Lauterbach, Churf.<ex>ürstlich</ex> Sachß<ex>ischer</ex> Amtmann
-                                                <lb/>zu Tennstädt.
-                                                <lb/> <!--Lücke--> 6. S.<ex>öhne</ex> 6. T.<ex>öchter</ex> davon
-                                                <lb/> <!--Lücke--> 4 S<ex>öhne</ex> u<ex>nd</ex> 2 T.<ex>öchter</ex> jung † 
+                                                    Maria Justina Pfretzschnerin
+                                                    <lb/>g.<ex>eboren</ex> † 
+                                                    <lb/>16. . . H.<ex>errn</ex> Christian Friedrich Meurer
+                                                    <lb/>auf <!--Lutzensomern-->, Olßen, Trebnitz
+                                                    <lb/>u<ex>nd</ex> Lauterbach, Churf.<ex>ürstlich</ex> Sachß<ex>ischer</ex> Amtmann
+                                                    <lb/>zu Tennstädt.
+                                                    <lb/> <!--Lücke--> 6. S.<ex>öhne</ex> 6. T.<ex>öchter</ex> davon
+                                                    <lb/> <!--Lücke--> 4 S<ex>öhne</ex> u<ex>nd</ex> 2 T.<ex>öchter</ex> jung † 
                                                 </cell>
                                                 <cell>
-                                                Johanna Margaretha Pfretzschnerin
-                                                <lb/>g.<ex>eboren</ex> <!--Lücke--> †.
-                                                <lb/>1. . . . . H<ex>errn</ex> Tobias Heubler
-                                                <lb/>auff 
+                                                    Johanna Margaretha Pfretzschnerin
+                                                    <lb/>g.<ex>eboren</ex> <!--Lücke--> †.
+                                                    <lb/>1. . . . . H<ex>errn</ex> Tobias Heubler
+                                                    <lb/>auff Schwandt u<ex>nd</ex> Droßkau I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex>
+                                                    <lb/>Hochherrl.<ex>icher</ex> Schonburg.<ex>ischer</ex> Rath u<ex>nd</ex> Amt
+                                                    <lb/>man <!--doppeln N --> zu Penigk u<ex>nd</ex> Wechselburg
+                                                    <lb/><!-- Lücke --> 1. S.<ex>ohn</ex> 4 T.<ex>öchter</ex>
                                                 </cell>
                                                 <cell>
-                                                
+                                                    Magdalena Sibylla Pfretzschnerin
+                                                    <lb/>g.<ex>eboren</ex> <!--Lücke--> †.
+                                                        <list>
+                                                            <item>
+                                                                <lb/><hi rendition="#et">1. . . . H<ex>errn</ex> Johan<!--nes?--> Nacken, auf Olßen
+                                                                <lb/>hochgraffl.<ex>icher</ex> Schwartzb.<ex>urgischer</ex> Witthumsrath u<ex>nd</ex> Consulent
+                                                                <lb/>g<ex>eboren</ex> <!-- Lücke --> †.</hi>
+                                                            </item>
+                                                            <item>
+                                                                <lb/><hi rendition="#et">2. . . . . . H.<ex>errn</ex> <rs type="person" ref="schulthes_martinvolkmar">Martin Volkmar
+                                                                <lb/>Schultz</rs> gräffl<ex>ich</ex> Schwartzb<ex>urgisch</ex> Sonderhaus.<ex>en</ex>scher <!--Linie? Kinie -->
+                                                                <lb/>Rath, g.<ex>eboren</ex></hi> <!-- verschmiert 5? K.<ex>inder</ex>-->
+                                                            </item>
+                                                        </list>
                                                 </cell>
                                                 <cell>
-                                                
+                                                    <!-- durchgestrichenes Geschmiere -->
+                                                </cell>
+                                                <cell>
+                                                    Christina Pfretzschnerin
+                                                    <lb/> <!-- Leere Zeile -->
+                                                    <lb/>H.<ex>errn</ex> Andr<ex>eas</ex> Hahn Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex>
+                                                    <lb/>Cantzley Secretarij zu Dresd<ex>en</ex>
+                                                    <lb/><!--?????--> Amtmann
+                                                    <lb/>zu Wittenberg
+                                                    <lb/>5 K.<ex>inder</ex>
+                                                </cell>
+                                                <cell>
+                                                    Dorothea Maria
+                                                    <lb/>Pfretzschnerin
+                                                    <lb/>g.<ex>eboren</ex> 1658. d<ex>en</ex> <!--unelserlich durchgestrichen --> Aug.<ex>ust</ex>
+                                                    <lb/>†.
+                                                    <lb/>1679 <!--Lücke--> H<ex>errn</ex> Heinr.<ex>ich</ex>
+                                                    <lb/>Christian Schrödter
+                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> u<ex>nd</ex> Practicy <!-- nachm -->
+                                                    <lb/>Hochherrl.<ex>ich</ex> Schonburg<ex>ischer</ex> Rath
+                                                    <lb/>u.<ex>nd</ex> Amtmann zu Glau
+                                                    <lb/>cha.<ex>u</ex> g.<ex>eboren</ex>
                                                 </cell>
                                             </row>
                                         </table>
