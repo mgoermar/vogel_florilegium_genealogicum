@@ -303,6 +303,21 @@
                         </listRelation>
                     </note>
                 </person>
+                <person xml:id="thomas_johannes">
+                    <persName ref="https://d-nb.info/gnd/119190311">
+                        <forename>Johannes</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1624-08-28">28. August 1624</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1679-03-02">2. März 1679</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
+                </person>
             </listPerson>
         </body>
     </text>

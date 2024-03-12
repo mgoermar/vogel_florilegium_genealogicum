@@ -94,7 +94,7 @@
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorf</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
+                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorfs</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
                                         <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
                                         <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
                                         <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
@@ -182,7 +182,7 @@
                                                     <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
                                                     <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
                                                     <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
-                                                    <lb/>und <!--Dobitzsche/in.--> R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
+                                                    <lb/>und Dobitzschen. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
                                                     <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
                                                     <lb/>Rathdirector u.<ex>nd</ex> Canzler <!--zu für-->
                                                     <lb/><!--donstrin-->.<!-- Vide. Gen.<ex>s</ex> Bacchov.<ex>i</ex> <hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>-->
@@ -214,7 +214,7 @@
                                             <row>
                                                 <cell>
                                                     <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
-                                                    <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> ?? -->
+                                                    <lb/>Lauhn</rs> <!--Not<ex>arius</ex> publ<ex>icus</ex> Caes? -->
                                                     <lb/>g.<ex>eboren</ex>
                                                     <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
                                                     <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
@@ -320,7 +320,7 @@
                                                             </cell>
                                                             <cell>
                                                                 Catharina
-                                                                <lb/>Gott<!--c/wertha-->
+                                                                <lb/>Gottwertha
                                                                 <lb/> Rabnerin
                                                                 <lb/>g.<ex>eboren</ex> 1691. 14 Iul.<ex>i</ex>
                                                             </cell>
@@ -389,8 +389,7 @@
                                 </row>       
                             </table>  
                         </cell> 
-                <!--Seite 2 zuende
-                <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                        
+                <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
                             <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> <!--at 89.-->
                             <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, <!--Chu(r)f.<ex>ürstlich</ex>--> Sachs.<ex>ischen</ex> Amtschößer zu Weyda auff <!-- Troschenreuth und Werdensberg?? --> g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
@@ -406,7 +405,7 @@
                                         <rs type="person" ref="pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis. † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu Treuen im Voigtlande.
                                         <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="pfretzschner_nicolaus">Nicolaus Pfretzschner</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auff Troschenreuth
                                         <lb/>Oelsen, und <!-- Obrischhaar Erbsaßer-->, churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> HofJustitien <!-- u?? ?? Grentz???--> am Reichskamer
-                                        <lb/>gerichts <!-- Sachsen? J zu --> Dresden <!-- ?? --> Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu Dresd<ex>en</ex>
+                                        <lb/>gerichts <!-- Sachsen? J zu --> Dresden <!-- wohl?? --> Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu Dresd<ex>en</ex>
                                         <lb/>ward nach Weida gebracht u<ex>nd</ex> daselbst begraben. 1668 d.<ex>en</ex> 8 Januarij.
                                         <lb/><!-- LÜCKE --> 4 S.<ex>öhne</ex> 8 T.<ex>öchter</ex>
                                         <table rendition="#topBraced">
@@ -511,7 +510,7 @@
                                                         <item>
                                                             <lb/><hi rendition="#et">1. 1654. 9. Oct.<ex>ober</ex> H.<ex>errn</ex> Gottfried Horn, auf Oberschaar
                                                             <lb/>Raths<!--?????--> zu Freyberg. g.<ex>eboren</ex>† 1663 18 M<!--unleserlich May--> </hi> 
-                                                            <lb/> <!-- Zwischenzeile! -->
+                                                            <lb/><!--4/5--> Kinder
                                                         </item>
                                                         <item>
                                                             <lb/><hi rendition="#et">2. 1669. 26 Oct.<ex>ober</ex> H.<ex>errn</ex> Martin Alberten auf Toyschen
@@ -522,8 +521,7 @@
                                                         </item>
                                                     </list>
                                                 </cell>
-                 <!--Seite 3 zuende
-                <pb facs="rep_6_16-a_0923.jpg" n="458r"/> -->  
+                 <!-- <pb facs="rep_6_16-a_0923.jpg" n="458r"/> -->  
                                                 <cell>
                                                 II.
                                                 </cell>
