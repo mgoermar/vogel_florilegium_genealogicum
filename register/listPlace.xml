@@ -40,6 +40,9 @@
                         <place xml:id="leipzig_nikolaikirche">
                             <placeName ref="https://www.geonames.org/11395551/nikolaikirche.html">Leipzig, Nikolaikirche</placeName>
                         </place>
+                        <place xml:id="leipzig_thomasiuskirche">
+                            <placeName ref="https://www.geonames.org/11822535/leipzig-thomaskirche.html">Leipzig, Thomaskirche</placeName>
+                        </place>
                     </listPlace>
                 </place>
                 <place xml:id="lucka">
@@ -74,6 +77,12 @@
                 </place>  
                 <place xml:id="zeitz">
                     <placeName ref="https://www.geonames.org/2804922/zeitz.html">Zeitz</placeName>
+                </place>
+                <place xml:id="altenburg">
+                    <placeName ref="https://www.geonames.org/2957773/altenburg.html"> Altenburg</placeName>
+                </place>
+                <place>
+                
                 </place>
             </listPlace>
         </body>
