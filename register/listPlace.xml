@@ -79,10 +79,13 @@
                     <placeName ref="https://www.geonames.org/2804922/zeitz.html">Zeitz</placeName>
                 </place>
                 <place xml:id="altenburg">
-                    <placeName ref="https://www.geonames.org/2957773/altenburg.html"> Altenburg</placeName>
+                    <placeName ref="https://www.geonames.org/2957773/altenburg.html">Altenburg</placeName>
                 </place>
-                <place>
-                
+                <place xml:id="naundorf">
+                    <placeName ref="https://www.geonames.org/2866897/naundorf.html">Naundorf (Gößnitz)</placeName>
+                </place>
+                <place xml:id="frauenfels">
+                    <placeName ref="https://www.geonames.org/8714429/frauenfels.html">Frauenfels (Altenburg)</placeName>
                 </place>
             </listPlace>
         </body>
