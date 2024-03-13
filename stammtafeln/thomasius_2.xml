@@ -94,10 +94,10 @@
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place">Naundorfs</rs> in <rs type="place"> Frauenfels </rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
-                                        <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
-                                        <lb/> 1648 zu <rs type="place">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu Jena. 1651 Hoff
-                                        <lb/> u<ex>nd</ex> <!--JustitinRath-->. . . . . . . . . † 1679 2. Martij.
+                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place" ref="#naundorf">Naundorfs</rs> un<ex>d</ex> <rs type="place" ref="#frauenfels">Frauenfels</rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
+                                        <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place" ref="#altenburg">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
+                                        <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu <rs type="place">Jena</rs>. 1651 Hoff
+                                        <lb/> u<ex>nd</ex> <!--JustitinRath--> . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
                                                 <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
