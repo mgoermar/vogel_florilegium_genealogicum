@@ -96,34 +96,34 @@
                                     <cell>
                                         H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auf <rs type="place" ref="#naundorf">Naundorfs</rs> un<ex>d</ex> <rs type="place" ref="#frauenfels">Frauenfels</rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
                                         <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place" ref="#altenburg">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
-                                        <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu <rs type="place">Jena</rs>. 1651 Hoff
+                                        <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu <rs type="place" ref="#jena">Jena</rs>. 1651 Hoff
                                         <lb/> u<ex>nd</ex> <!--JustitinRath--> . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfrau</ex> <!-- EIGENTLICH <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> -->H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
+                                                <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
                                                 <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <!-- Lücke--> 4 Kinder.</hi> 
                                             </item>
                                             <item>
                                                 <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
-                                                <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr ge <!--zeuget--> 2. Söhne. </hi>
+                                                <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne. </hi>
                                             </item>
                                         </list>
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>
-                                                    1. <rs type="person" ref="#thomas_johannphilipp">Johann
-                                                    <lb/> Philipp.</rs>
+                                                    1. Johann
+                                                    <lb/> Philipp.
                                                     <lb/>g.<ex>eboren</ex>
                                                     <lb/>†.
                                                 </cell>
                                                 <cell>
-                                                    4. <rs type="person" ref="#thomas_johannchristian">Johann
-                                                    <lb/>Christian</rs> 
+                                                    4. Johann
+                                                    <lb/>Christian 
                                                     <lb/>g.<ex>eboren</ex>
                                                     <lb/>†
                                                 </cell>
                                                 <cell>
-                                                    2. <rs type="person" ref="#thomas_mariaelisabeth">Maria Elisabeth</rs> 
+                                                    2. <rs type="person" ref="#hendrich_mariaelisabeth">Maria Elisabeth</rs> 
                                                     <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
                                                     <lb/> 1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
                                                     <lb/> Caspar Hendrichs </rs> auff
@@ -177,9 +177,9 @@
                                                     </table>
                                                 </cell>
                                                 <cell>
-                                                    3. <rs type="person" ref="#thomas_magdalenasibylla"> Magdalena Sibylla </rs>
+                                                    3. <rs type="person" ref="#bachovvonecht_magdalenasibylla"> Magdalena Sibylla </rs>
                                                     <lb/>g<ex>eboren</ex>16 . . 
-                                                    <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachoffvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
+                                                    <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachovvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
                                                     <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
                                                     <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
                                                     <lb/>und Dobitzschen. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs

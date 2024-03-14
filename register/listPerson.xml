@@ -303,6 +303,7 @@
                         </listRelation>
                     </note>
                 </person>
+                <!--Thomasius2-->
                 <person xml:id="thomas_johannes">
                     <persName ref="https://d-nb.info/gnd/119190311">
                         <forename>Johannes</forename>
@@ -317,7 +318,126 @@
                         <date when="1679-03-02">2. März 1679</date>
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomas_marieelisabeth" n="1"/>
+                            <relation type="spouse" ref="#thomas_susanna" n="2"/>
+                        </listRelation>
+                    </note>
                 </person>
+                <person xml:id="vonbohn_johannphilipp">
+                    <persName ref="https://d-nb.info/gnd/115845682">
+                        <forename>Johann Philipp</forename>
+                        <surname>von Bohn</surname>
+                    </persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomas_marieelisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomas_marieelisabeth">
+                    <persName ref="https://d-nb.info/gnd/120197421">
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Maria Elisabeth, geb. von Bohn</persName>
+                    <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">von Bohn</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1635-09-22">22. September 1635</date>
+                    </birth>
+                    <death>
+                        <date when="1664-04-19">19. April 1664</date>
+                        <placeName ref="#regensburg">Regensburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#vonbohn_johannphilipp"/>
+                            <relation type="spouse" ref="#thomas_johannes" n="1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomas_susanna">
+                    <persName ref="https://d-nb.info/gnd/1035402599">
+                        <forename>Susanne</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Susanna, geb. Schröder</persName>
+                    <persName>
+                        <forename>Susanna</forename>
+                        <surname type="birthName">Schröder</surname>
+                    </persName>
+                    <persName>
+                        <forename>Susanna</forename>
+                        <surname>Hörnick</surname>
+                    </persName>
+                    <persName>Hörnick, Susanna, geb. Schröder</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#hornick_paul" n="1"/>
+                            <relation type="spouse" ref="#thomas_johannes" n="2"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hornick_paul">
+                    <persName ref="https://d-nb.info/gnd/12279043X">
+                        <forename>Paul</forename>
+                        <surname>Hörnick</surname>
+                    </persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomas_susanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_marialelisabeth">
+                    <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Marie Elisabeth, geb. Thomas</persName>
+                    <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">Thomas</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1657-12-19">19. Dezember 1657</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_johannes von"/>
+                            <relation type="spouse" ref="#hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_johanncaspar">
+                    <persName ref="https://d-nb.info/gnd/124444717">
+                        <forename>Johann Caspar</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#hendrich_mariaelisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="bachovvonecht_magdalenasibylla">
+                    <persName ref="https://d-nb.info/gnd/139049487">
+                        <forename>Magdalena Sibylla</forename>
+                        <surname>Bachov von Echt</surname>
+                    </persName>
+                    <sex value="m"/>
+                </person>
+                <!--Thomasius2-->
             </listPerson>
         </body>
     </text>

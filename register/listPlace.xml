@@ -87,6 +87,9 @@
                 <place xml:id="frauenfels">
                     <placeName ref="https://www.geonames.org/8714429/frauenfels.html">Frauenfels (Altenburg)</placeName>
                 </place>
+                <place xml:id="regensburg">
+                    <placeName ref="https://www.geonames.org/6556611/regensburg.html">Regensburg</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
