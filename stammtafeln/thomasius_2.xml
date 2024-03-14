@@ -100,11 +100,11 @@
                                         <lb/> u<ex>nd</ex> JustitienRath . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
+                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn</rs> auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
                                                 <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <!-- Lücke--> 4 Kinder.
                                             </item>
                                             <item>
-                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
+                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>JustitienRaths 
                                                 <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne.
                                             </item>
                                         </list>
@@ -129,7 +129,7 @@
                                                     <lb/> Caspar Hendrichs</rs> auff
                                                     <lb/> Knau u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
                                                     <lb/> Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
-                                                    <lb/> Consist<ex>oriums</ex> praesident zu <rs type="place" ref="#altenburg" <w lemma="Altenburg">Alten
+                                                    <lb/> Consist<ex>oriums</ex> praesident zu <rs type="place" ref="#altenburg"><w lemma="Altenburg">Alten
                                                     <lb/> burg.</w></rs> g<ex>eboren</ex> 1635. 20 April.
                                                     <lb/> † 170. . .
                                                     <table rendition="#topBraced">
@@ -181,11 +181,11 @@
                                                     <lb/>g<ex>eboren</ex>16 . . 
                                                     <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachovvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
                                                     <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
-                                                    <lb/>Reichs Erbh.<ex>err</ex> auff Romschütz
+                                                    <lb/>Reichs Erbh.<ex>err</ex> auff <rs type="place" ref="#romschuetz">Romschütz</rs>
                                                     <lb/>und Dobitzschen. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
                                                     <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
-                                                    <lb/>Rathdirector u.<ex>nd</ex> Canzler zu Frie
-                                                    <lb/>denstein. Vide. Gen.<ex>ealogiam</ex> Bacchov.<ex>iam</ex> <hi rendition="#et">G<ex>eschlecht-</ex>R<ex>egister</ex></hi>
+                                                    <lb/>Rathdirector u.<ex>nd</ex> Canzler zu <rs type="place" ref="#friedenstein"><w lemma="Friedenstein">Frie
+                                                    <lb/>denstein.</w></rs> Vide. Gen.<ex>ealogiam</ex> Bacchov.<ex>iam</ex> 
                                                 </cell>
                                                 <cell>
                                                     II. <rs type="person" ref="#thomas_friedrichelieser">Friedrich
@@ -199,7 +199,7 @@
                                                     <lb/>g<ex>eboren</ex> 1672.22
                                                     <lb/>Dec<ex>ember</ex>† 10 Jan<ex>uar</ex>
                                                     <lb/>1691. zu 
-                                                    <lb/>Leipzig 
+                                                    <lb/><rs type="place" ref="#leipzig">Leipzig</rs>
                                                 </cell>
                                             </row>
                                         </table>
@@ -208,7 +208,7 @@
                                         <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
                                         <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
                                         <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
-                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu Salfeldt g.<ex>eboren</ex>
+                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu <re></re>Salfeldt g.<ex>eboren</ex>
                                         <lb/>†.
                                         <table rendition="#topBraced">
                                             <row>
