@@ -436,6 +436,14 @@
                         <surname>Bachov von Echt</surname>
                     </persName>
                     <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                        
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="bachovvonecht_johannfriedrich">
+                
                 </person>
                 <!--Thomasius2-->
             </listPerson>

@@ -90,6 +90,12 @@
                 <place xml:id="regensburg">
                     <placeName ref="https://www.geonames.org/6556611/regensburg.html">Regensburg</placeName>
                 </place>
+                <place xml:id="birkenau">
+                
+                </place>
+                <place xml:id="weinheim">
+                
+                </place>
             </listPlace>
         </body>
     </text>

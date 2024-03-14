@@ -100,12 +100,12 @@
                                         <lb/> u<ex>nd</ex> JustitienRath . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/><hi rendition="#et">1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf Birkenau u<ex>nd</ex> Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
-                                                <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <!-- Lücke--> 4 Kinder.</hi> 
+                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
+                                                <lb/> Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <!-- Lücke--> 4 Kinder.
                                             </item>
                                             <item>
-                                                <lb/><hi rendition="#et">2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
-                                                <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne. </hi>
+                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>IustitiienRaths 
+                                                <lb/> Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne.
                                             </item>
                                         </list>
                                         <table rendition="#topBraced">
@@ -126,11 +126,11 @@
                                                     2. <rs type="person" ref="#hendrich_mariaelisabeth">Maria Elisabeth</rs> 
                                                     <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
                                                     <lb/> 1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
-                                                    <lb/> Caspar Hendrichs </rs> auff
+                                                    <lb/> Caspar Hendrichs</rs> auff
                                                     <lb/> Knau u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
                                                     <lb/> Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
-                                                    <lb/> Consist<ex>oriums</ex> praesident zu Alten
-                                                    <lb/> burg. g<ex>eboren</ex> 1635. 20 April.
+                                                    <lb/> Consist<ex>oriums</ex> praesident zu <rs type="place" ref="#altenburg" <w lemma="Altenburg">Alten
+                                                    <lb/> burg.</w></rs> g<ex>eboren</ex> 1635. 20 April.
                                                     <lb/> † 170. . .
                                                     <table rendition="#topBraced">
                                                         <row>
@@ -277,7 +277,7 @@
                                                     <lb/>Jur<ex>is</ex> Pract<ex>icus</ex> u.<ex>nd</ex> Oberhoffgerichts
                                                     <lb/>Anwalt zu Leipzig. .
                                                     <lb/>g.<ex>eboren</ex> 1667. d.<ex>en</ex> 20 Aug.<ex>ust</ex>
-                                                    <lb/>1709 8 April J.<ex>ungfrau</ex> Joh<ex>anna</ex> Rosina
+                                                    <lb/>1709 8 April J.<ex>ungfer</ex> Joh<ex>anna</ex> Rosina
                                                     <lb/>H<ex>errn</ex>. . . . . Alerts. b<ex>ürgers</ex> u<ex>nd</ex> handels<ex>manns</ex>
                                                     <lb/>zu Leipzig T.<ex>ochter</ex>
                                                     <table rendition="#topBraced">
