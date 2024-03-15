@@ -309,6 +309,7 @@
                         <forename>Johannes</forename>
                         <surname>Thomas</surname>
                     </persName>
+                    <persName type="display">Thomas, Johannes</persName>
                     <sex value="m"/>
                     <birth>
                         <date when="1624-08-28">28. August 1624</date>
@@ -318,10 +319,16 @@
                         <date when="1679-03-02">2. März 1679</date>
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <!-- OKKUPATION 
+                     <occupation>
+                        <term>XXXX</term> 
+                        <placeName ref="#XXX">XXX</placeName>
+                    </occupation> -->
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomas_marieelisabeth" n="1"/>
                             <relation type="spouse" ref="#thomas_susanna" n="2"/>
+                            <!-- KINDER -->
                         </listRelation>
                     </note>
                 </person>
@@ -330,6 +337,7 @@
                         <forename>Johann Philipp</forename>
                         <surname>von Bohn</surname>
                     </persName>
+                    <persName type="display">von Bohn, Johann Philipp</persName>
                     <sex value="m"/>
                     <note type="family">
                         <listRelation>
@@ -390,6 +398,7 @@
                         <forename>Paul</forename>
                         <surname>Hörnick</surname>
                     </persName>
+                    <persName type="display">Hörnick, Paul</persName>
                     <sex value="m"/>
                     <note type="family">
                         <listRelation>
@@ -411,9 +420,17 @@
                     <birth>
                         <date when="1657-12-19">19. Dezember 1657</date>
                     </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1672-06-25">25. Juni 1672</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomas_johannes von"/>
+                            <relation type="parent" ref="#thomas_johannes"/>
                             <relation type="spouse" ref="#hendrich_johanncaspar"/>
                         </listRelation>
                     </note>
@@ -423,6 +440,7 @@
                         <forename>Johann Caspar</forename>
                         <surname>Hendrich</surname>
                     </persName>
+                    <persName type="display">Hendrich, Johann Caspar</persName>
                     <sex value="m"/>
                     <note type="family">
                         <listRelation>
@@ -435,16 +453,75 @@
                         <forename>Magdalena Sibylla</forename>
                         <surname>Bachov von Echt</surname>
                     </persName>
+                    <persName type="display">Bachov von Echt, Magdalena Sibylla, geb. Thomas</persName>
+                    <persName>
+                        <forename>Magdalena Sibylla</forename>
+                        <surname type="birthName">Thomas</surname>
+                    </persName>
                     <sex value="m"/>
                     <note type="family">
                         <listRelation>
-                        
+                            <relation type="parent" ref="#thomas_johannes"/>
+                            <relation type="spouse" ref="#bachovvonecht_johannfriedrich"/>
                         </listRelation>
                     </note>
                 </person>
                 <person xml:id="bachovvonecht_johannfriedrich">
-                
+                    <persName ref="https://d-nb.info/gnd/117766607">
+                        <forename>Johann Friedrich</forename>
+                        <surname>Bachov von Echt</surname>
+                    </persName>
+                    <persName type="display">Bachov von Echt, Johann Friedrich</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#bachovvonecht_magdalenasibylla"/>
+                        </listRelation>
+                    </note>
                 </person>
+                <person xml:id="thomas_friedrichelieser">
+                    <persName> <!-- REF -->
+                        <forename>Friedrich Elieser</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Friedrich Elieser</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1671-12-09">9. Dezember 1671</date>
+                    </birth>
+                    <death>
+                        <date when="1672-05-06">6. Mai 1672</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_johannes"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person>
+                    <persName> <!-- REF -->
+                        <forename>Johann Adam</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Johann Adam</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1672-12-22">22. Dezember 1672</date>
+                    </birth>
+                    <death>
+                        <date when="1691-01-10">10. Januar 1691</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
+                     <occupation>
+                        <term>Student der Rechte</term> 
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_johannes"/>
+                        </listRelation>
+                    </note>
+                </person>
+    
                 <!--Thomasius2-->
             </listPerson>
         </body>

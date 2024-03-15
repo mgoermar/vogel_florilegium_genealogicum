@@ -91,17 +91,28 @@
                     <placeName ref="https://www.geonames.org/6556611/regensburg.html">Regensburg</placeName>
                 </place>
                 <place xml:id="birkenau">
-                
+                    <placeName ref="https://www.geonames.org/2948652/birkenau.html">Birkenau</placeName>
                 </place>
                 <place xml:id="weinheim">
-                
+                    <placeName ref="https://www.geonames.org/2812174/weinheim.html">Weinheim</placeName>
                 </place>
                 <place xml:id="romschuetz">
-                
+                    <placeName ref="https://www.geonames.org/2845267/romschuetz.html">Romschütz</placeName>
+                </place>
+                <place xml:id="dobitschen">
+                    <placeName ref="https://www.geonames.org/2936600/dobitschen.html">Dobitschen (Altenburg)</placeName>
                 </place>
                 <place xml:id="friedenstein">
-                
+                    <placeName ref="https://www.geonames.org/7873822/schloss-friedenstein.html">Schloss Friedenstein (Gotha)</placeName>
                 </place>
+                <place xml:id="knau">
+                    <placeName ref="https://www.geonames.org/2887246/knau.html">Knau (Altenburg)</placeName>
+                </place>
+                <place xml:id="weida">
+                    <placeName ref=""></placeName>
+                </place>
+
+            
             </listPlace>
         </body>
     </text>
