@@ -95,7 +95,7 @@
                                 <row>
                                     <cell>
                                         H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auff <rs type="place" ref="#naundorf">Naundorfs</rs> un<ex>d</ex> <rs type="place" ref="#frauenfels">Frauenfels</rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
-                                        <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place" ref="#altenburg">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place">Leipzig</rs>. ward
+                                        <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place" ref="#altenburg">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place" ref="leipzig">Leipzig</rs>. ward
                                         <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu <rs type="place" ref="#jena">Jena</rs>. 1651 Hoff
                                         <lb/> u<ex>nd</ex> JustitienRath . . . . . . . . . † 1679 2. Martij.
                                         <list>
@@ -194,7 +194,7 @@
                                                     <lb/>† 1672 6 May.
                                                 </cell>
                                                 <cell>
-                                                    <rs type="person" ref="thomas_johannadam">Jo<ex>hann</ex>Adam</rs>
+                                                    <rs type="person" ref="#thomas_johannadam">Jo<ex>hann</ex>Adam</rs>
                                                     <lb/>LL <!--legum--> stud.<ex>iosus</ex>
                                                     <lb/>g<ex>eboren</ex> 1672.22
                                                     <lb/>Dec<ex>ember</ex>† 10 Jan<ex>uar</ex>
@@ -205,19 +205,19 @@
                                         </table>
                                     </cell>
                                     <cell>
-                                        <rs type="person" ref="thomasin_martha">Martha Thomasin</rs>
+                                        <rs type="person" ref="#lauhn_martha">Martha Thomasin</rs>
                                         <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
                                         <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
-                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="saalfeld">Salfeldt</rs> g.<ex>eboren</ex>
+                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#saalfeld">Salfeldt</rs> g.<ex>eboren</ex>
                                         <lb/>†.
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>
-                                                    <rs type="person" ref="lauhn_ferdinandwilhelm">Ferdinand Wilhelm
+                                                    <rs type="person" ref="#lauhn_ferdinandwilhelm">Ferdinand Wilhelm
                                                     <lb/>Lauhn</rs> Not<ex>arius</ex> publ<ex>icus</ex> C&#x00E6;s<ex>araeus</ex>
                                                     <lb/>g.<ex>eboren</ex>
-                                                    <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> Maria
-                                                    <lb/>Amanda H<ex>errn</ex> <rs type="person" ref="francke_bartholomaeus">Bartholom.<ex>äus</ex>
+                                                    <lb/>1684. 11 Nov.<ex>ember</ex> J.<ex>ungfrau</ex> <rs type="person" ref="#lauhn_mariaamanda">Maria
+                                                    <lb/>Amanda</rs> H<ex>errn</ex> <rs type="person" ref="#francke_bartholomaeus">Bartholom.<ex>äus</ex>
                                                     <lb/>Franckes</rs> Archidiaconi
                                                     <lb/>zu <rs type="place" ref="#weida">Weyda</rs> T.<ex>ochter</ex>
                                                 </cell>
@@ -232,8 +232,8 @@
                                                     <lb/>†
                                                 </cell>
                                                 <cell>
-                                                    <rs type="person" ref="lauhn_friedrichwilhelm">Friedrich Wilhlem
-                                                    <lb/>Lauhn</rs>
+                                                    Friedrich Wilhlem
+                                                    <lb/>Lauhn
                                                     <lb/>g.<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
@@ -247,9 +247,9 @@
                                     </cell>
                 <!-- <pb facs="rep_6_16-a_0921.jpg" n="457r"/> -->
                                     <cell>
-                                        H.<ex>err</ex><rs type="person" ref="thomae_henning">Henning Thomae</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
+                                        H.<ex>err</ex><rs type="person" ref="#thomae_henning">Henning Thom&#x00E6;</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
                                         <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
-                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> Anna Maria H<ex>errn</ex><rs type="person" ref="widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
+                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
                                         <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
                                         <table rendition="#topBraced">
                                             <row>
@@ -265,21 +265,21 @@
                                                     <lb/>† 1664. 20 April.
                                                 </cell>
                                                 <cell>    
-                                                    H.<ex>err</ex> <rs type="person" ref="thomae_augustinjohann">Augustinus Johann Thomae</rs>
-                                                    <lb/>ViceCantzler zu Altenburg.
+                                                    H.<ex>err</ex> <rs type="person" ref="#thomae_augustinjohann">Augustinus Johann Thom&#x00E6;.</rs>
+                                                    <lb/>ViceCantzler zu <rs type="place" ref="#altenburg">Altenburg</rs>.
                                                     <lb/>g<ex>eboren</ex> 1665 9 Oct.<ex>ober</ex>
-                                                    <lb/>1694 J<ex>ung</ex>fe<ex>r</ex> . . . . . .
-                                                    <lb/>H.<ex>errn</ex> <space/> <!-- Lücke --> Döhlers Amtsmanns
-                                                    <lb/>zu Sauenstadt T.<ex>ochter</ex>
+                                                    <lb/>1694 J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_anon">. . . . . .</rs>
+                                                    <lb/>H.<ex>errn</ex> <space/> <!-- Lücke --> <rs type="person" ref="doepler_johannandreas">Döhlers</rs><note type="footnote" resp="mg">Diese Information ist fehlerhaft. Gemeint ist Johann Andreas Döpler. </note> Amtsmanns
+                                                    <lb/>zu <rs type="place" ref="#schlanstedt">Sauenstadt</rs><note type="footnote" resp="mg">Diese Information ist falsch. Gemeint ist Schlanstedt.</note> T.<ex>ochter</ex>
                                                 </cell>
                                                 <cell>    
-                                                    H<ex>err</ex> <rs type="person" ref="thomae_johannchristoph">Johann Christoph. Tomae</rs>
+                                                    H<ex>err</ex> <rs type="person" ref="#thomae_johannchristoph">Johann Christoph. Thom&#x00E6;.</rs>
                                                     <lb/>Jur<ex>is</ex> Pract<ex>icus</ex> u.<ex>nd</ex> Oberhoffgerichts
-                                                    <lb/>Anwalt zu Leipzig. .
+                                                    <lb/>Anwalt zu <rs type="place" ref="#leipzig">Leipzig</rs>. .
                                                     <lb/>g.<ex>eboren</ex> 1667. d.<ex>en</ex> 20 Aug.<ex>ust</ex>
-                                                    <lb/>1709 8 April J.<ex>ungfer</ex> Joh<ex>anna</ex> Rosina
-                                                    <lb/>H<ex>errn</ex>. . . . . Alerts. b<ex>ürgers</ex> u<ex>nd</ex> handels<ex>manns</ex>
-                                                    <lb/>zu Leipzig T.<ex>ochter</ex>
+                                                    <lb/>1709 8 April J.<ex>ungfer</ex> <rs type="person" ref="#thomae_johannarosina">Joh<ex>anna</ex> Rosina</rs>
+                                                    <lb/>H<ex>errn</ex>. . . . . <rs type="person" ref="#alert_anon">Alerts</rs>. b<ex>ürgers</ex> u<ex>nd</ex> handels<ex>manns</ex>
+                                                    <lb/>zu <rs type="place" ref="#leipzig">Leipzig</rs> T.<ex>ochter</ex>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -291,22 +291,22 @@
                                                     </table>
                                                 </cell>
                                                 <cell>    
-                                                    Barbara Catharina
+                                                    <rs type="person" ref="#rabner_barbaracatharina">Barbara Catharina</rs>
                                                     <lb/>g.<ex>eboren</ex> 1669 9 May
-                                                    <lb/>1686. 13 April H.<ex>errn</ex> Jo.
-                                                    <lb/>achim Gotthard Rabner
-                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Oberschöpp<ex>e</ex> u<ex>nd</ex> Gerichts
-                                                    <lb/>schreiber zu Leipzig.
+                                                    <lb/>1686. 13 April H.<ex>errn</ex><rs type="person" ref="#rabner_joachimgotthard"> Jo.
+                                                    <lb/>achim Gotthard Rabner</rs>
+                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Oberschöpp<ex>e</ex> u<ex>nd</ex> <w lemma="Gerichtsschreiber">Gerichts
+                                                    <lb/>schreiber</w> zu <rs type="place" ref="#leipzig">Leipzig</rs>.
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                                H<ex>err</ex> M.<ex>agister</ex> Justus
-                                                                <lb/>Gotthard Rabe
+                                                                H<ex>err</ex> M.<ex>agister</ex> <rs type="person" ref="#rabner_justusgotthard">Justus
+                                                                <lb/>Gotthard Rabe</rs>
                                                                 <lb/>ner s<ex>acro</ex>s<ex>anctae</ex> Th.<ex>eologiae</ex> Bacc.<ex>alaureus</ex>
                                                                 <lb/>u<ex>nd</ex> conc.<ex>ionator</ex> Sabbath<ex>icus</ex>
-                                                                <lb/>zu S. Thomae, Diac.<ex>onus</ex> <!--?????-->
-                                                                <lb/>zu Leipzig u<ex>nd</ex> S Thomas
-                                                                <lb/>g<ex>eboren</ex> 1688. <ex>en</ex> 22 May
+                                                                <lb/>zu <rs type="place" ref="#leipzig_thomaskirche">S.<ex>ankt</ex> Thom&#x00E6;</rs>, Diac.<ex>onus</ex> <!--?????-->
+                                                                <lb/>zu <rs type="place" ref="#leipzig">Leipzig</rs> u<ex>nd</ex> <!--UNKLAR--> S Thomas
+                                                                <lb/>g<ex>eboren</ex> 1688. 22 May
                                                                 <lb/>† 1731. 24. Aug.<ex>ust</ex>
                                                             </cell>
                                                             <cell>
@@ -324,7 +324,10 @@
                                                                 <lb/>g.<ex>eboren</ex> 1691. 14 Iul.<ex>i</ex>
                                                             </cell>
                                                             <cell>
-                                                                Theordora
+                                                                <!-- GESCHMIERTES -->
+                                                            </cell>
+                                                            <cell>
+                                                                Theodora
                                                                 <lb/>Gottlob.
                                                                 <lb/>g<ex>eboren</ex> 1998.21 May.
                                                                 <lb/>1698.25 Jun.<ex>i</ex>
@@ -345,7 +348,7 @@
                                                 </cell>
                                                 <cell>    
                                                     Henning
-                                                    <lb/>Thomae.
+                                                    <lb/>Thom&#x00E6;.
                                                     <lb/>g.<ex>eboren</ex>1671. 14 Oct.<ex>ober</ex>
                                                     <lb/>† auff der
                                                     <lb/>Reise.
@@ -365,7 +368,7 @@
                                                     <lb/>Aug.<ex>ust</ex>
                                                 </cell>
                                                 <cell>    
-                                                    H<ex>err</ex> Joh.<ex>hann</ex> Michael Thomae
+                                                    H<ex>err</ex> Joh.<ex>hann</ex> Michael Thom&#x00E6;
                                                     <lb/>Archidiac.<ex>on</ex> zu Altenburg
                                                     <lb/>g.<ex>eboren</ex> 1677. d.<ex>en</ex> 14 Dec.<ex>ember</ex>
                                                 </cell>
@@ -390,7 +393,7 @@
                         </cell> 
                 <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
-                            <rs type="person" ref="thomaein_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
+                            <rs type="person" ref="rother_sara">Sara Thomae<!-- &#x00E6; -->in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
                             <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu Weyda auff Troschenreuth u<ex>nd</ex> Wiedersburg Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
                             <lb/>der Flucht vorm Feinde.
                             <table rendition="topBraced">

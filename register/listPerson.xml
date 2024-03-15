@@ -303,7 +303,7 @@
                         </listRelation>
                     </note>
                 </person>
-                <!--Thomasius2-->
+        <!--Thomasius2-->
                 <person xml:id="thomas_johannes">
                     <persName ref="https://d-nb.info/gnd/119190311">
                         <forename>Johannes</forename>
@@ -326,22 +326,10 @@
                     </occupation> -->
                     <note type="family">
                         <listRelation>
+                            <!-- VATER Michael Thomas d Ältere GESCHWISTER -->
                             <relation type="spouse" ref="#thomas_marieelisabeth" n="1"/>
                             <relation type="spouse" ref="#thomas_susanna" n="2"/>
                             <!-- KINDER -->
-                        </listRelation>
-                    </note>
-                </person>
-                <person xml:id="vonbohn_johannphilipp">
-                    <persName ref="https://d-nb.info/gnd/115845682">
-                        <forename>Johann Philipp</forename>
-                        <surname>von Bohn</surname>
-                    </persName>
-                    <persName type="display">von Bohn, Johann Philipp</persName>
-                    <sex value="m"/>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="child" ref="#thomas_marieelisabeth"/>
                         </listRelation>
                     </note>
                 </person>
@@ -367,6 +355,19 @@
                         <listRelation>
                             <relation type="parent" ref="#vonbohn_johannphilipp"/>
                             <relation type="spouse" ref="#thomas_johannes" n="1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="vonbohn_johannphilipp">
+                    <persName ref="https://d-nb.info/gnd/115845682">
+                        <forename>Johann Philipp</forename>
+                        <surname>von Bohn</surname>
+                    </persName>
+                    <persName type="display">von Bohn, Johann Philipp</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomas_marieelisabeth"/>
                         </listRelation>
                     </note>
                 </person>
@@ -498,7 +499,7 @@
                         </listRelation>
                     </note>
                 </person>
-                <person>
+                <person xml:id="thomas_johannadam">
                     <persName> <!-- REF -->
                         <forename>Johann Adam</forename>
                         <surname>Thomas</surname>
@@ -521,8 +522,372 @@
                         </listRelation>
                     </note>
                 </person>
-    
-                <!--Thomasius2-->
+                <person xml:id="lauhn_martha">
+                    <persName> <!-- REF -->
+                        <forename>Martha</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Martha, geb. Thomas</persName>
+                    <persName>
+                        <forename>Martha</forename>
+                        <surname type="birthName">Thomas</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1626-10-15">15. Oktober 1626</date>
+                    </birth>
+                    <death>
+                        <date when="1690-09-14">14. September 1690</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1655-09-03"> 3. September 1655</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <!-- Vater Michael Thomas dÄ GESCHWISTER -->
+                            <relation type="spouse" ref="#lauhn_andreas"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_andreas">
+                    <persName ref="https://d-nb.info/gnd/1052505961">
+                        <forename>Andreas</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Andreas</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Amtschösser</term> 
+                        <placeName ref="#saalfeld">Saalfeld</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1655-09-03"> 3. September 1655</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#lauhn_martha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_ferdinandwilhelm">
+                    <persName> <!-- REF -->
+                        <forename>Ferdinand Wilhelm</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Ferdinand Wilhelm</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Notar (Notarius Publicus Caesaraeus)</term>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1684-11-11">11. November 1684</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lauhn_andreas"/>
+                            <relation type="parent" ref="#lauhn_martha"/>
+                            <relation type="spouse" ref="#lauhn_mariaamanda"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_mariaamanda">
+                    <persName> <!-- REF -->
+                        <forename>Maria Amanda</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Maria Amanda, geb. Francke</persName>
+                    <persName>
+                        <forename>Maria Amanda</forename>
+                        <surname type="birthName">Francke</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1684-11-11">11. November 1684</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#francke_bartholomaeus"/>
+                            <relation type="spouse" ref="#lauhn_ferdinandwilhelm"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="francke_bartholomaeus">
+                    <persName ref="https://d-nb.info/gnd/102460140">
+                        <forename>Bartholomäus</forename>
+                        <surname>Francke</surname>
+                    </persName>
+                    <persName type="display">Francke, Bartholomäus</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Archidiakon</term>
+                        <placeName ref="#weida">Weida</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#lauhn_mariaamanda"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_henning">
+                    <persName ref="https://d-nb.info/gnd/124647103">
+                        <forename>Henning</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Henning</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Kammer- und Lehnsekretär</term>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <birth>
+                        <date when="1628-04-14">14. April 1628</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1660-12-09">9. Dezember 1660</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <!-- VATER GESCHWISTER -->
+                            <relation type="spouse" ref="#thomae_annamaria"/>
+                            <relation type="child" ref="#"/> <!--KINDER-->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_annamaria">
+                    <persName> <!-- REF -->
+                        <forename>Anna Maria</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Anna Maria, geb. Widmann</persName>
+                    <persName>
+                        <forename>Anna Maria</forename>
+                        <surname type="birthName">Widmann</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1637-07-10">10. Juli 1637</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1660-12-09">9. Dezember 1660</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#widmann_amplicius"/>
+                            <relation type="spouse" ref="#thomae_henning"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="widmann_amplicius">
+                    <persName> <!-- REF -->
+                        <forename>Amplicius</forename>
+                        <surname>Widmann</surname>
+                    </persName>
+                    <persName type="display">Widmann, Amplicius</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term><!-- ???? --></term>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomae_annamaria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_augustinjohann">
+                    <persName ref="https://d-nb.info/gnd/13068919X">
+                        <forename>Augustin Johann</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Augustin Johann</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Vizekanzler</term>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <birth>
+                        <date when="1665-10-09">9. Oktober 1665</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1694">1694</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="spouse" ref="#thomae_anon"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_anon">
+                    <persName>
+                        <forename>N. N.</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, N. N., geb. Döpler</persName>
+                    <persName>
+                        <forename>N. N.</forename>
+                        <surname type="birthName">Döpler</surname>
+                    </persName>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1694">1694</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#doepler_johannandreas"/>
+                            <relation type="spouse" ref="#thomae_augustinjohann"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="doepler_johannandreas">
+                    <persName ref="https://d-nb.info/gnd/142513571">
+                        <forename>Johann Andreas</forename>
+                        <surname>Döpler</surname>
+                    </persName>
+                    <persName type="display">Döpler, Johann Andreas</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Amtmann</term>
+                        <placeName ref="#schlanstedt">Schlanstedt</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomae_anon"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_johannchristoph">
+                    <persName ref="https://d-nb.info/gnd/130689157">
+                        <forename>Johann Christoph</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Johann Christoph</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1667-08-20">20. August 1667</date>
+                    </birth>
+                    <occupation>
+                        <term>Anwalt (Juris Practicus)</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Oberhofgerichtsanwalt</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1709-04-08">8. April 1709</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="spouse" ref="#thomae_johannarosina"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_johannarosina">
+                    <persName> <!-- REF -->
+                        <forename>Johanna Rosina</forename>
+                    </persName>
+                    <persName type="display">Thomae, Johanna Rosina, geb. Alert</persName>
+                    <persName>
+                        <forename>Johanna Rosina</forename>
+                        <surname type="birthName">Alert</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1709-04-08">8. April 1709</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alert_anon"/>
+                            <relation type="spouse" ref="#thomae_johannchristoph"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alert_anon">
+                    <persName>
+                        <forename>N. N.</forename>
+                        <surname>Alert</surname>
+                    </persName>
+                    <persName type="display">Alert, N. N.</persName>
+                     <occupation>
+                        <term>Bürger</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Handelsmann</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomae_johannarosina"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rabner_barbaracatharina">
+                
+                </person>
+                <person xml:id="rabner_joachimgotthard">
+                    <persName ref="https://d-nb.info/gnd/130615145">
+                    
+                    </persName>
+                </person>
+                <person xml:id="rabner_justusgotthard">
+                
+                </person>
+            
+        <!--Thomasius2-->
             </listPerson>
         </body>
     </text>

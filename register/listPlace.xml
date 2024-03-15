@@ -40,7 +40,7 @@
                         <place xml:id="leipzig_nikolaikirche">
                             <placeName ref="https://www.geonames.org/11395551/nikolaikirche.html">Leipzig, Nikolaikirche</placeName>
                         </place>
-                        <place xml:id="leipzig_thomasiuskirche">
+                        <place xml:id="leipzig_thomaskirche">
                             <placeName ref="https://www.geonames.org/11822535/leipzig-thomaskirche.html">Leipzig, Thomaskirche</placeName>
                         </place>
                     </listPlace>
@@ -109,7 +109,10 @@
                     <placeName ref="https://www.geonames.org/2887246/knau.html">Knau (Altenburg)</placeName>
                 </place>
                 <place xml:id="weida">
-                    <placeName ref=""></placeName>
+                    <placeName ref="https://www.geonames.org/2813110/weida.html">Weida</placeName>
+                </place>
+                <place xml:id="schlanstedt">
+                    <placeName ref="https://www.geonames.org/2838902/schlanstedt.html">Schlanstedt</placeName>
                 </place>
 
             
