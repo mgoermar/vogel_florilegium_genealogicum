@@ -291,18 +291,18 @@
                                                     </table>
                                                 </cell>
                                                 <cell>    
-                                                    <rs type="person" ref="#rabner_barbaracatharina">Barbara Catharina</rs>
+                                                    <rs type="person" ref="#rabener_barbaracatharina">Barbara Catharina</rs>
                                                     <lb/>g.<ex>eboren</ex> 1669 9 May
-                                                    <lb/>1686. 13 April H.<ex>errn</ex><rs type="person" ref="#rabner_joachimgotthard"> Jo.
+                                                    <lb/>1686. 13 April H.<ex>errn</ex><rs type="person" ref="#rabener_joachimgotthard"> Jo.
                                                     <lb/>achim Gotthard Rabner</rs>
                                                     <lb/>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. Oberschöpp<ex>e</ex> u<ex>nd</ex> <w lemma="Gerichtsschreiber">Gerichts
                                                     <lb/>schreiber</w> zu <rs type="place" ref="#leipzig">Leipzig</rs>.
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                                H<ex>err</ex> M.<ex>agister</ex> <rs type="person" ref="#rabner_justusgotthard">Justus
-                                                                <lb/>Gotthard Rabe</rs>
-                                                                <lb/>ner s<ex>acro</ex>s<ex>anctae</ex> Th.<ex>eologiae</ex> Bacc.<ex>alaureus</ex>
+                                                                H<ex>err</ex> M.<ex>agister</ex> <rs type="person" ref="#rabener_justusgotthard">Justus
+                                                                <lb/>Gotthard Rabe
+                                                                <lb/>ner</rs> s<ex>acro</ex>s<ex>anctae</ex> Th.<ex>eologiae</ex> Bacc.<ex>alaureus</ex>
                                                                 <lb/>u<ex>nd</ex> conc.<ex>ionator</ex> Sabbath<ex>icus</ex>
                                                                 <lb/>zu <rs type="place" ref="#leipzig_thomaskirche">S.<ex>ankt</ex> Thom&#x00E6;</rs>, Diac.<ex>onus</ex> <!--?????-->
                                                                 <lb/>zu <rs type="place" ref="#leipzig">Leipzig</rs> u<ex>nd</ex> <!--UNKLAR--> S Thomas
@@ -310,9 +310,9 @@
                                                                 <lb/>† 1731. 24. Aug.<ex>ust</ex>
                                                             </cell>
                                                             <cell>
-                                                                Friedrich
+                                                                <rs type="person" ref="#rabener_friedrichgebhardt">Friedrich
                                                                 <lb/>Gebhardt
-                                                                <lb/>Rabener
+                                                                <lb/>Rabener</rs>
                                                                 <lb/>g.<ex>eboren</ex> 1689 21.
                                                                 <lb/>Oct.<ex>ober</ex>† 12
                                                                 <lb/>Sept.<ex>ember</ex> 1690.

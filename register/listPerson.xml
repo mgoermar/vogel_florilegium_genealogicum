@@ -875,16 +875,45 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="rabner_barbaracatharina">
-                
+                <person xml:id="rabneer_barbaracatharina">
+                    <persName> <!-- REF -->
+                        <forename>Barbara Catharina</forename>
+                        <surname>Rabner</surname>
+                    </persName>
+                    <persName type="display">Rabner, Barbara Catharina, geb. Thomae</persName>
+                    <persName>
+                        <forename>Barbara Catharina</forename>
+                        <surname type="birthName">Thomae</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1686-04-13">13. April 1686</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="spouse" ref="#rabener_joachimgotthard"/>
+                            <relation type="child" ref="#"/>
+                            <relation type="child" ref="#"/>
+                            <!-- KINDER -->
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="rabner_joachimgotthard">
+                <person xml:id="rabener_joachimgotthard">
                     <persName ref="https://d-nb.info/gnd/130615145">
                     
                     </persName>
                 </person>
-                <person xml:id="rabner_justusgotthard">
-                
+                <person xml:id="rabener_justusgotthard">
+                    <persName ref="https://d-nb.info/gnd/118074067">
+                    
+                    </persName>
                 </person>
             
         <!--Thomasius2-->
