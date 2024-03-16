@@ -247,7 +247,7 @@
                                     </cell>
                 <!-- <pb facs="rep_6_16-a_0921.jpg" n="457r"/> -->
                                     <cell>
-                                        H.<ex>err</ex><rs type="person" ref="#thomae_henning">Henning Thom&#x00E6;</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
+                                        H.<ex>err</ex><rs type="person" ref="#thomae_henning_1">Henning Thom&#x00E6;</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
                                         <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
                                         <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
                                         <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
@@ -318,28 +318,28 @@
                                                                 <lb/>Sept.<ex>ember</ex> 1690.
                                                             </cell>
                                                             <cell>
-                                                                Catharina
+                                                                <rs type="person" ref="#rabener_catharinagottwertha">Catharina
                                                                 <lb/>Gottwertha
-                                                                <lb/> Rabnerin
+                                                                <lb/>Rabnerin</rs>
                                                                 <lb/>g.<ex>eboren</ex> 1691. 14 Iul.<ex>i</ex>
                                                             </cell>
                                                             <cell>
                                                                 <!-- GESCHMIERTES -->
                                                             </cell>
                                                             <cell>
-                                                                Theodora
-                                                                <lb/>Gottlob.
-                                                                <lb/>g<ex>eboren</ex> 1998.21 May.
-                                                                <lb/>1698.25 Jun.<ex>i</ex>
+                                                                <rs type="person" ref="#rabener_theodoragottlob">Theodora
+                                                                <lb/>Gottlob</rs>.
+                                                                <lb/>g<ex>eboren</ex> 1698. 21 May.
+                                                                <lb/>† 1698. 25 Jun.<ex>i</ex>
                                                             </cell>
                                                             <cell>
-                                                                Justus Gottfried
+                                                                <rs type="person" ref="#rabener_justusgottfried">Justus Gottfried</rs>
                                                                 <lb/>g<ex>eboren</ex> 1702 d.<ex>en</ex> 12. Mart.<ex>ij</ex>
                                                                 <lb/>† 1732.
                                                             </cell>
                                                             <cell>
-                                                                Erdmuth
-                                                                <lb/>Christiana
+                                                                <rs type="person" ref="#rabener_erdmuthchristiana">Erdmuth
+                                                                <lb/>Christiana</rs>
                                                                 <lb/>g<ex>eboren</ex> 1706. d.<ex>en</ex>
                                                                 <lb/>22 April.
                                                             </cell>

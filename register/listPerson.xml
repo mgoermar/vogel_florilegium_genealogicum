@@ -648,7 +648,7 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="thomae_henning">
+                <person xml:id="thomae_henning_1">
                     <persName ref="https://d-nb.info/gnd/124647103">
                         <forename>Henning</forename>
                         <surname>Thomae</surname>
@@ -703,7 +703,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#widmann_amplicius"/>
-                            <relation type="spouse" ref="#thomae_henning"/>
+                            <relation type="spouse" ref="#thomae_henning_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -748,7 +748,7 @@
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_henning_1"/>
                             <relation type="parent" ref="#thomae_annamaria"/>
                             <relation type="spouse" ref="#thomae_anon"/>
                         </listRelation>
@@ -824,7 +824,7 @@
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_henning_1"/>
                             <relation type="parent" ref="#thomae_annamaria"/>
                             <relation type="spouse" ref="#thomae_johannarosina"/>
                         </listRelation>
@@ -875,12 +875,12 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="rabneer_barbaracatharina">
+                <person xml:id="rabener_barbaracatharina">
                     <persName> <!-- REF -->
                         <forename>Barbara Catharina</forename>
                         <surname>Rabner</surname>
                     </persName>
-                    <persName type="display">Rabner, Barbara Catharina, geb. Thomae</persName>
+                    <persName type="display">Rabener, Barbara Catharina, geb. Thomae</persName>
                     <persName>
                         <forename>Barbara Catharina</forename>
                         <surname type="birthName">Thomae</surname>
@@ -896,10 +896,10 @@
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomae_henning"/>
+                            <relation type="parent" ref="#thomae_henning_1"/>
                             <relation type="parent" ref="#thomae_annamaria"/>
                             <relation type="spouse" ref="#rabener_joachimgotthard"/>
-                            <relation type="child" ref="#"/>
+                            <relation type="child" ref="#rabener_justusgotthard"/>
                             <relation type="child" ref="#"/>
                             <!-- KINDER -->
                         </listRelation>
@@ -907,15 +907,173 @@
                 </person>
                 <person xml:id="rabener_joachimgotthard">
                     <persName ref="https://d-nb.info/gnd/130615145">
-                    
+                        <forename>Joachim Gotthard</forename>
+                        <surname>Rabener</surname>
                     </persName>
+                    <persName type="display">Rabener, Joachim Gotthard</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Doktor beider Rechte</title>                
+                    </education>
+                    <occupation>
+                        <term>Oberschöppe</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gerichtsschreiber</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1686-04-13">13. April 1686</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#rabener_barbaracatharina"/>
+                            <relation type="child" ref="#rabener_justusgotthard"/>
+                            <relation type="child" ref="#"/>
+                            <!-- KINDER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="rabener_justusgotthard">
                     <persName ref="https://d-nb.info/gnd/118074067">
-                    
+                        <forename>Justus Gotthard</forename>
+                        <surname>Rabener</surname>
                     </persName>
+                    <persName type="display">Rabener, Justus Gotthard</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1688-05-22">22. Mai 1688</date>
+                    </birth>
+                    <education>
+                        <title>Baccalarius der (evangelischen) Theologie</title>
+                    </education>
+                    <education>
+                        <title>Magister</title>                
+                    </education>
+                    <occupation>
+                        <term>Sonntagsprediger</term>
+                        <placeName ref="#leipzig_thomaskirche">Thomaskirche Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Diakon</term>
+                        <!-- <placeName ref="#leipzig_thomaskirche">Thomaskirche Leipzig</placeName> -->
+                    </occupation>
+                    <death>
+                        <date when="1731-08-24">24. August 1731</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
-            
+                <person xml:id="rabener_friedrichgebhardt">
+                    <persName>
+                        <forename>Friedrich Gebhardt</forename>
+                        <surname>Rabener</surname>
+                    </persName>
+                    <persName type="display">Rabener, Friedrich Gebhardt</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1689-10-21">21. Oktober 1689</date>
+                    </birth>
+                    <death>
+                        <date when="1690-09-12">12. September 1690</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rabener_catharinagottwertha">
+                    <persName>
+                        <forename>Catharina Gottwertha</forename>
+                        <surname>Rabener</surname>
+                    </persName>
+                    <persName type="display">Rabener, Catharina Gottwertha</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1691-07-14">14. Juli 1691</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rabener_theodoragottlob">
+                    <persName>
+                        <forename>Theodora Gottlob</forename>
+                        <surname>Rabener</surname>
+                    </persName>
+                    <persName type="display">Rabener, Theodora Gottlob</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1698-05-21">21. Mai 1698</date>
+                    </birth>
+                    <death>
+                        <date when="1698-06-25">25. Juni 1698</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rabener_justusgottfried">
+                    <persName ref="https://d-nb.info/gnd/118074040">
+                        <forename>Justus Gottfried</forename>
+                        <surname>Rabener</surname>
+                    </persName>
+                    <persName type="display">Rabener, Justus Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1702-03-12">12. März 1702</date>
+                    </birth>
+                    <death>
+                        <date when="1731">1732</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rabener_erdmuthchristiana">
+                    <persName>
+                        <forename>Erdmuth Christiana</forename>
+                        <surname>Rabener</surname>
+                    </persName>
+                    <persName type="display">Rabener, Erdmuth Christiana</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1706-04-22">22. April 1706</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rabener_barbaracatharina"/>
+                            <relation type="parent" ref="#rabener_joachimgotthard"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
         <!--Thomasius2-->
             </listPerson>
         </body>
