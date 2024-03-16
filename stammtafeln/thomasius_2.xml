@@ -261,7 +261,7 @@
                                                 </cell>
                                                 <cell>    
                                                     Johann Albrecht
-                                                    <lb/>g.<ex>ebore</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
+                                                    <lb/>g.<ex>eboren</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
                                                     <lb/>† 1664. 20 April.
                                                 </cell>
                                                 <cell>    
@@ -347,34 +347,34 @@
                                                     </table>
                                                 </cell>
                                                 <cell>    
-                                                    Henning
-                                                    <lb/>Thom&#x00E6;.
+                                                    <rs type="person" ref="#thomae_henning_2">Henning
+                                                    <lb/>Thom&#x00E6;</rs>.
                                                     <lb/>g.<ex>eboren</ex>1671. 14 Oct.<ex>ober</ex>
                                                     <lb/>† auff der
                                                     <lb/>Reise.
                                                 </cell>
                                                 <cell>    
-                                                    Susanna
-                                                    <lb/>Dorothea
+                                                    <rs type="person" ref="#thomae_susannadorothea">Susanna
+                                                    <lb/>Dorothea</rs>
                                                     <lb/>g.<ex>eboren</ex> 1673. d.<ex>en</ex> 19
                                                     <lb/>Sept.<ex>ember</ex> † 1691.
                                                     <lb/>21 Aug<ex>ust</ex> zu
-                                                    <lb/>Leipzig.
+                                                    <lb/><rs type="place" ref="#leipzig">Leipzig</rs>.
                                                 </cell>
                                                 <cell>    
-                                                    Christian
-                                                    <lb/>Friedrich
+                                                    <rs type="person" ref="#thomae_christianfriedrich">Christian
+                                                    <lb/>Friedrich</rs>
                                                     <lb/>g<ex>eboren</ex> 1675. 18
                                                     <lb/>Aug.<ex>ust</ex>
                                                 </cell>
                                                 <cell>    
-                                                    H<ex>err</ex> Joh.<ex>hann</ex> Michael Thom&#x00E6;
-                                                    <lb/>Archidiac.<ex>on</ex> zu Altenburg
+                                                    H<ex>err</ex><rs type="person" ref="#thomae_johannmichael"> Joh.<ex>hann</ex> Michael Thom&#x00E6;</rs>
+                                                    <lb/>Archidiac.<ex>on</ex> zu <rs type="place" ref="#altenburg">Altenburg</rs>
                                                     <lb/>g.<ex>eboren</ex> 1677. d.<ex>en</ex> 14 Dec.<ex>ember</ex>
                                                 </cell>
                                                 <cell>    
-                                                    Anna
-                                                    <lb/>Maria
+                                                    <rs type="person" ref="#thomae_annamaria">Anna
+                                                    <lb/>Maria</rs>
                                                     <lb/>g.<ex>eboren</ex> 1680. 13
                                                     <lb/>Febr.<ex>uar</ex>
                                                     <lb/>† d.<ex>en</ex> 2 Sept<ex>ember</ex>
@@ -384,7 +384,7 @@
                                         </table>
                                     </cell>
                                     <cell>
-                                        <rs type="person" ref="thomas_adam">Adam Thomas</rs>
+                                        <rs type="person" ref="#thomas_adam">Adam Thomas</rs>
                                         <lb/>g.<ex>eboren</ex> 1630. 5 Sept.<ex>ember</ex>
                                         <lb/>† 1633. d<ex>en</ex> 11. Nov.<ex>ember</ex>
                                     </cell>
@@ -393,7 +393,7 @@
                         </cell> 
                 <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
-                            <rs type="person" ref="rother_sara">Sara Thomae<!-- &#x00E6; -->in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
+                            <rs type="person" ref="#rother_sara">Sara Thomae<!-- &#x00E6; -->in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
                             <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu Weyda auff Troschenreuth u<ex>nd</ex> Wiedersburg Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
                             <lb/>der Flucht vorm Feinde.
                             <table rendition="topBraced">
