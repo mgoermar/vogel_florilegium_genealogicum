@@ -114,7 +114,12 @@
                 <place xml:id="schlanstedt">
                     <placeName ref="https://www.geonames.org/2838902/schlanstedt.html">Schlanstedt</placeName>
                 </place>
-
+                <place xml:id="troschenreuth">
+                
+                </place>
+                <place xml:id="wiederyberg">
+                
+                </place>
             
             </listPlace>
         </body>

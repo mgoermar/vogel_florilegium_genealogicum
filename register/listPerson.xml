@@ -673,12 +673,12 @@
                     <note type="family">
                         <listRelation>
                             <!-- VATER GESCHWISTER -->
-                            <relation type="spouse" ref="#thomae_annamaria"/>
+                            <relation type="spouse" ref="#thomae_annamaria_1"/>
                             <relation type="child" ref="#"/> <!--KINDER-->
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="thomae_annamaria">
+                <person xml:id="thomae_annamaria_1">
                     <persName> <!-- REF -->
                         <forename>Anna Maria</forename>
                         <surname>Thomae</surname>
@@ -720,7 +720,7 @@
                     </occupation>
                     <note type="family">
                         <listRelation>
-                            <relation type="child" ref="#thomae_annamaria"/>
+                            <relation type="child" ref="#thomae_annamaria_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -749,7 +749,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomae_henning_1"/>
-                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
                             <relation type="spouse" ref="#thomae_anon"/>
                         </listRelation>
                     </note>
@@ -825,7 +825,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomae_henning_1"/>
-                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
                             <relation type="spouse" ref="#thomae_johannarosina"/>
                         </listRelation>
                     </note>
@@ -897,7 +897,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomae_henning_1"/>
-                            <relation type="parent" ref="#thomae_annamaria"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
                             <relation type="spouse" ref="#rabener_joachimgotthard"/>
                             <relation type="child" ref="#rabener_justusgotthard"/>
                             <relation type="child" ref="#"/>
@@ -1075,15 +1075,163 @@
                     </note>
                 </person>
                 <person xml:id="thomae_henning_2">
-                
+                    <persName ref="https://d-nb.info/gnd/124646727">
+                        <forename>Henning (2)</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Henning (2)</persName>
+                    <sex value="m"/> 
+                    <birth>
+                        <date when="1671-10-14">14. Oktober 1671</date>
+                    </birth>
+                    <death>
+                        <placeName>auf der Reise</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                            <!-- GEschwister -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="thomae_susannadorothea">
-                
+                    <persName><!-- REF -->
+                        <forename>Susanna Dorothea</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Susanna Dorothea</persName>
+                    <sex value="w"/> 
+                    <birth>
+                        <date when="1673-09-19">19. September 1673</date>
+                    </birth>
+                    <death>
+                        <date when="1691-08-21">21. August 1691</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="thomae_christianfriedrich">
-                
+                    <persName ref="https://d-nb.info/gnd/128435127">
+                        <forename>Christian Friedrich</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Christian Friedrich</persName>
+                    <sex value="m"/> 
+                    <birth>
+                        <date when="1675-08-18">18. August 1675</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="thomae_johannmichael">
+                    <persName ref="https://d-nb.info/gnd/132806681">
+                        <forename>Johann Michael</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Johann Michael</persName>
+                    <sex value="m"/> 
+                    <birth>
+                        <date when="1677-12-14">14. Dezember 1677</date>
+                    </birth>
+                    <occupation>
+                        <term>Archdiakon</term>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_annamaria_2">
+                    <persName><!-- REF -->
+                        <forename>Anna Maria</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Anna Maria</persName>
+                    <sex value="w"/> 
+                    <birth>
+                        <date when="1680-02-13">13. Februar 1680</date>
+                    </birth>
+                    <death>
+                        <date when="1680-09-02">2. September 1680</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomas_adam">
+                     <persName><!-- REF -->
+                        <forename>Adam</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Adam</persName>
+                    <sex value="m"/> 
+                    <birth>
+                        <date when="1630-09-05">5. September 1630</date>
+                    </birth>
+                    <death>
+                        <date when="1633-11-11">11. November 1633</date>
+                    </death>
+                    <note type="family">
+                       <!-- <listRelation>
+                            
+                        </listRelation> -->
+                    </note>
+                </person>
+                <person xml:id="rother_sara">
+                    <persName> <!-- REF -->
+                        <forename>Sara</forename>
+                        <surname>Rother</surname>
+                    </persName>
+                    <persName type="display">Rother, Sara, geb. Thomae</persName>
+                    <persName>
+                        <forename>Sara</forename>
+                        <surname type="birthName">Thomae</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1591-02-10">10. Februar 1591</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1614-11-07">7. November 1614</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1680-01-04">4. Januar 1680</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <!-- <relation type="parent" ref="#"/> VATER michael -->
+                            <relation type="spouse" ref="#rother_daniel"/>
+                            <relation type="child" ref="#rother_johannes"/>
+                            <relation type="child" ref="#pfretzschner_sara"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rother_daniel">
                 
                 </person>
         <!--Thomasius2-->

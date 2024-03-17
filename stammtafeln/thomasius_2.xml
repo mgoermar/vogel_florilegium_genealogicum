@@ -249,7 +249,7 @@
                                     <cell>
                                         H.<ex>err</ex><rs type="person" ref="#thomae_henning_1">Henning Thom&#x00E6;</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
                                         <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
-                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
+                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria_1">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_amplicius">Amplicii Withmans</rs> hochfurstl.<ex>ich</ex> <!--Heßendarm-->
                                         <lb/>städtischen Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
                                         <table rendition="#topBraced">
                                             <row>
@@ -373,7 +373,7 @@
                                                     <lb/>g.<ex>eboren</ex> 1677. d.<ex>en</ex> 14 Dec.<ex>ember</ex>
                                                 </cell>
                                                 <cell>    
-                                                    <rs type="person" ref="#thomae_annamaria">Anna
+                                                    <rs type="person" ref="#thomae_annamaria_2">Anna
                                                     <lb/>Maria</rs>
                                                     <lb/>g.<ex>eboren</ex> 1680. 13
                                                     <lb/>Febr.<ex>uar</ex>
@@ -393,8 +393,8 @@
                         </cell> 
                 <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
-                            <rs type="person" ref="#rother_sara">Sara Thomae<!-- &#x00E6; -->in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
-                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> Daniel Rother, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu Weyda auff Troschenreuth u<ex>nd</ex> Wiedersburg Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
+                            <rs type="person" ref="#rother_sara">Sara Thom&#x00E6;in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
+                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#rother_daniel">Daniel Rother</rs>, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#weida">Weyda</rs> auff Troschenreuth u<ex>nd</ex> Wiedersburg Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
                             <lb/>der Flucht vorm Feinde.
                             <table rendition="topBraced">
                                 <row>
