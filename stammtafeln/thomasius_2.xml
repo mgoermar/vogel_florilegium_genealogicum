@@ -394,18 +394,18 @@
                 <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
                             <rs type="person" ref="#rother_sara">Sara Thom&#x00E6;in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
-                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#rother_daniel">Daniel Rother</rs>, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#weida">Weyda</rs> auff Troschenreuth u<ex>nd</ex> Wiedersburg Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu Zerbst auf
+                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#rother_daniel">Daniel Rother</rs>, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#weida">Weyda</rs> auff <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu <rs type="place" ref="#zerbst">Zerbst</rs> auf
                             <lb/>der Flucht vorm Feinde.
                             <table rendition="topBraced">
                                 <row>
                                     <cell>
-                                        Johannes Rothe
-                                        <lb/>g<ex>geboren</ex> 161. . . . . † 1629.
+                                        <rs type="person" ref="#rother_johannes">Johannes Rothe</rs>
+                                        <lb/>g<ex>geboren</ex> 161. . . . . † 1623.
                                         <lb/>in seiner Kindheit.
                                     </cell>
                                     <cell>
-                                        <rs type="person" ref="pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis. † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu Treuen im Voigtlande.
-                                        <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="pfretzschner_nicolaus">Nicolaus Pfretzschner</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auff Troschenreuth
+                                        <rs type="person" ref="#pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis. † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu <rs type="place" ref="#treuen">Treuen</rs> im Voigtlande.
+                                        <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="pfretzschner_nicolaus_1">Nicolaus Pfretzschner</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auff Troschenreuth
                                         <lb/>Oelsen, und OberSchaar Erbsaßen, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> hofjustitien u<ex>nd</ex> Grentz am Reichscam<ex>m</ex>er
                                         <lb/>gerichts Sachen zu Dresden wohlbehalten Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu Dresd<ex>en</ex>
                                         <lb/>ward nach Weida gebracht u<ex>nd</ex> daselbst begraben. 1668 d.<ex>en</ex> 8 Januarij.
@@ -413,35 +413,35 @@
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>
-                                                    g.<ex>eboren</ex>
+                                                    <rs type="person" ref="#pfretzschner_anon_1"></rs>g.<ex>eboren</ex>
                                                     <lb/>† t<ex>ot</ex>g<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
-                                                    g.<ex>eboren</ex>
+                                                    <rs type="person" ref="#pfretzschner_anon_2"></rs>g.<ex>eboren</ex>
                                                     <lb/>† t<ex>ot</ex>g<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
-                                                    g.<ex>eboren</ex>
+                                                    <rs type="person" ref="#pfretzschner_anon_3"></rs>g.<ex>eboren</ex>
                                                     <lb/>† t<ex>ot</ex>g<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
-                                                    H<ex>err</ex> <rs type="person" ref="pfretzschner_nicolaus2">Nicolaus
+                                                    H<ex>err</ex> <rs type="person" ref="pfretzschner_nicolaus_2">Nicolaus
                                                     <lb/>Pfretzschner</rs>.
                                                     <lb/>I.<ex>uris</ex> U<ex>triusque</ex> doctorandus
                                                     <lb/>g.<ex>eboren</ex>
                                                     <lb/>† am 1666 d<ex>en</ex> 17
-                                                    <lb/>Jul<ex>i</ex> zu Sedan
+                                                    <lb/>Jul<ex>i</ex> zu <rs type="place" ref="#sedan">Sedan</rs>
                                                     <lb/>in Frankreich in
                                                     <lb/>Waßer <!--?? umb.-->
                                                 </cell>
                                                 <cell>
-                                                    Anna Dorothea
+                                                    <rs type="person" ref="#detleff_annadorothea">Anna Dorothea</rs>
                                                     <lb/>g<ex>eboren</ex>
                                                     <lb/>†.
-                                                    <lb/>16. . . H.<ex>errn</ex> Christian
-                                                    <lb/>Detleffen I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> u.<ex>nd</ex> Consulen
+                                                    <lb/>16. . . H.<ex>errn</ex> <rs type="person" ref="#detleff_christian">Christian
+                                                    <lb/>Detleffen</rs> I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> u.<ex>nd</ex> Consulen
                                                     <lb/><!--tum,--> wie auch Bürgermeiß.<ex>ter</ex>
-                                                    <lb/>in Plauen.
+                                                    <lb/>in <rs type="place" ref="#plauen">Plauen</rs>.
                                                     <lb/>5 S.<ex>öhne</ex> 5 T.<ex>öchter</ex>
                                                     <table rendition= "topBraced">
                                                         <row>

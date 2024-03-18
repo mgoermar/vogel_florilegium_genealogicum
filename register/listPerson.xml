@@ -1232,6 +1232,66 @@
                     </note>
                 </person>
                 <person xml:id="rother_daniel">
+                    <persName> <!-- REF -->
+                        <forename>Daniel</forename>
+                        <surname>Rother</surname>
+                    </persName> 
+                    <persName type="display">Rother, Daniel</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1584-05-31">31. Mai 1584</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1614-11-07">7. November 1614</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <occupation>
+                        <term>Amtschösser</term>
+                        <placeName ref="#weida">Weida</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Erbsasse</term>
+                        <placeName ref="#troschenreuth">Troschenreuth</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Erbsasse</term>
+                        <placeName ref="#Wiedersberg">Wiederberg</placeName>
+                    </occupation>
+                    <death>
+                        <date when="1632-10-25">25. Oktober 1632</date>
+                        <placeName ref="#zerbst">Zerbst</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#rother_sara"/>
+                            <relation type="child" ref="#rother_johannes"/>
+                            <relation type="child" ref="#pfretzschner_sara"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rother_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Rother</surname>
+                    </persName> 
+                    <persName type="display">Rother, Johannes</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1623">1623</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rother_sara"/>
+                            <relation type="parent" ref="#rother_daniel"/>
+                            <relation type="sister" ref="#pfretzschner_sara"/> <!-- Geschwister -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="pfretzschner_sara">
                 
                 </person>
         <!--Thomasius2-->

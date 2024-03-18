@@ -115,12 +115,26 @@
                     <placeName ref="https://www.geonames.org/2838902/schlanstedt.html">Schlanstedt</placeName>
                 </place>
                 <place xml:id="troschenreuth">
+                    <placeName ref="https://www.geonames.org/2820983/troschenreuth.html">Troschenreuth</placeName>
+                </place>
+                <place xml:id="wiedersberg">
+                    <placeName ref="https://www.geonames.org/2809569/wiedersberg.html">Wiederberg</placeName>
+                </place>
+                <place xml:id="zerbst">
+                    <placeName ref="https://www.geonames.org/2804748/zerbst.html">Zerbst</placeName>
+                </place>
+                <place xml:id="treuen">
+                    <placeName ref="https://www.geonames.org/2821251/treuen.html">Treuen (Voigtland)</placeName>
+                </place>
+                <place xml:id="sedan">
                 
                 </place>
-                <place xml:id="wiederyberg">
+                <place xml:id="plauen">
                 
                 </place>
-            
+                <place xml:id="gera">
+                
+                </place>
             </listPlace>
         </body>
     </text>
