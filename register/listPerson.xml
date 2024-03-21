@@ -186,11 +186,7 @@
                     <birth>
                         <date when="1536-08-15">15. August 1536</date>
                         <placeName ref="#schneeberg">Schneeberg</placeName>
-                    </birth>
-                    <death>
-                        <date when="1599-08-10">10. August 1599</date>
-                        <placeName ref="#leipzig">Leipzig</placeName>
-                    </death>                    
+                    </birth>                    
                     <education>
                         <date when="1560-01-03">3. Januar 1560</date>
                         <title>Magister</title>
@@ -242,6 +238,10 @@
                             </desc>                          
                         </event>
                     </listEvent>
+                    <death>
+                        <date when="1599-08-10">10. August 1599</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#muench_georg"/>
@@ -355,6 +355,7 @@
                         <listRelation>
                             <relation type="parent" ref="#vonbohn_johannphilipp"/>
                             <relation type="spouse" ref="#thomas_johannes" n="1"/>
+                            <!-- Kinder? -->
                         </listRelation>
                     </note>
                 </person>
@@ -391,6 +392,7 @@
                         <listRelation>
                             <relation type="spouse" ref="#hornick_paul" n="1"/>
                             <relation type="spouse" ref="#thomas_johannes" n="2"/>
+                            <!-- kinder -->
                         </listRelation>
                     </note>
                 </person>
@@ -404,6 +406,34 @@
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomas_susanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomas_johannphilipp">
+                    <persName> <!-- REF -->
+                        <forename>Johann Philipp</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Johann Philipp</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_johannes"/>
+                            <!-- Mutter -->
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomas_johannchristian">
+                    <persName> <!-- REF -->
+                        <forename>Johann Christian</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Johann Christian</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_johannes"/>
+                            <!-- Mutter -->
                         </listRelation>
                     </note>
                 </person>
@@ -432,6 +462,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomas_johannes"/>
+                            <!-- Mutter? -->
                             <relation type="spouse" ref="#hendrich_johanncaspar"/>
                         </listRelation>
                     </note>
@@ -449,6 +480,9 @@
                         </listRelation>
                     </note>
                 </person>
+
+                <!-- KInder -->
+
                 <person xml:id="bachovvonecht_magdalenasibylla">
                     <persName ref="https://d-nb.info/gnd/139049487">
                         <forename>Magdalena Sibylla</forename>
@@ -702,21 +736,21 @@
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#widmann_amplicius"/>
+                            <relation type="parent" ref="#widmann_simplicius"/>
                             <relation type="spouse" ref="#thomae_henning_1"/>
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="widmann_amplicius">
-                    <persName> <!-- REF -->
-                        <forename>Amplicius</forename>
+                <person xml:id="widmann_simplicius">
+                    <persName ref="https://d-nb.info/gnd/1055701931"> 
+                        <forename>Simplicius</forename>
                         <surname>Widmann</surname>
                     </persName>
-                    <persName type="display">Widmann, Amplicius</persName>
+                    <persName type="display">Widmann, Simplicius</persName>
                     <sex value="m"/>
                     <occupation>
-                        <term><!-- ???? --></term>
-                        <placeName ref="#altenburg">Altenburg</placeName>
+                        <term>Ratsherr</term>
+                        <!-- Hesen Darmstadt !!!-->
                     </occupation>
                     <note type="family">
                         <listRelation>
@@ -1292,7 +1326,152 @@
                     </note>
                 </person>
                 <person xml:id="pfretzschner_sara">
-                
+                    <persName> <!-- REF -->
+                        <forename>Sara</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, Sara, geb. Rother</persName>
+                    <persName>
+                        <forename>Sara</forename>
+                        <surname type="birthName">Rother</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1616-09-29">29. September 1616</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1631-10-08">8. Oktober 1631</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1658-09-26">26. September 1658</date>
+                        <placeName ref="#treuen">Treuen</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rother_sara"/>
+                            <relation type="parent" ref="#rother_daniel"/>
+                            <relation type="spouse" ref="#pfretzschner_nicolaus_1"/>
+                            <relation type="child" ref="#pfretzschner_anon_1"/>
+                            <relation type="child" ref="#pfretzschner_anon_2"/>
+                            <relation type="child" ref="#pfretzschner_anon_3"/>
+                            <relation type="child" ref="#pfretzschner_nicolaus_2"/>
+                            <relation type="child" ref="#detleff_annadorothea"/>
+                            <relation type="child" ref="#meurer_sarasophia"/>
+                            <relation type="child" ref="#alberten_catharinaelisabeth"/>
+                            <relation type="child" ref="#meurer_mariajustina"/>
+                            <relation type="child" ref="#heubler_johannamargaretha"/>
+                            <relation type="child" ref="#schulthes_magdalenasibylla"/>
+                            <relation type="child" ref="#pfretzschner_anon_4"/>
+                            <relation type="child" ref="#hahn_christina"/>
+                            <relation type="child" ref="#schroedter_dorotheamaria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="pfretzschner_nicolaus_1">
+                    <persName ref="https://d-nb.info/gnd/121594416">
+                        <forename>Nicolaus</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, Nicolaus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1599-11-07">7. November 1599</date>
+                    </birth>
+                    <education>
+                        <title>Doktor beider Rechte</title>                   
+                    </education>
+                    <occupation>
+                        <term>Hofpfalzgraf</term> 
+                    </occupation>
+                    <occupation>
+                        <term>Erbherr</term> 
+                        <placeName ref="#troschenreuth">Troschenreuth</placeName>
+                    </occupation>
+                     <occupation>
+                        <term>Erbherr</term> 
+                        <placeName ref="#oelsen">Oelsen</placeName>
+                    </occupation>
+                     <occupation>
+                        <term>Erbsasse</term> 
+                        <placeName ref="#oberschaar">Oberschaar</placeName>
+                    </occupation>
+
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1631-10-08">8. Oktober 1631</date>
+                            </desc>
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Begräbnis</eventName>
+                                <placeName ref="#weida">Weida</placeName>
+                                <date when="1668-01-08">8. Januar 1668</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1667-12-29">29. Dezember 1667</date>
+                        <placeName ref="#treuen">Treuen</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#pfretzschner_sara"/>
+                            <relation type="child" ref="#pfretzschner_anon_1"/>
+                            <relation type="child" ref="#pfretzschner_anon_2"/>
+                            <relation type="child" ref="#pfretzschner_anon_3"/>
+                            <relation type="child" ref="#pfretzschner_nicolaus_2"/>
+                            <relation type="child" ref="#detleff_annadorothea"/>
+                            <relation type="child" ref="#meurer_sarasophia"/>
+                            <relation type="child" ref="#alberten_catharinaelisabeth"/>
+                            <relation type="child" ref="#meurer_mariajustina"/>
+                            <relation type="child" ref="#heubler_johannamargaretha"/>
+                            <relation type="child" ref="#schulthes_magdalenasibylla"/>
+                            <relation type="child" ref="#pfretzschner_anon_4"/>
+                            <relation type="child" ref="#hahn_christina"/>
+                            <relation type="child" ref="#schroedter_dorotheamaria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="pfretzschner_anon_1">
+                </person>
+                <person xml:id="pfretzschner_anon_2">
+                </person>
+                <person xml:id="pfretzschner_anon_3">
+                </person>
+                <person xml:id="pfretzschner_nicolaus_2">
+                </person>
+                <person xml:id="detleff_annadorothea">
+                </person>
+                <person xml:id="meurer_sarasophia">
+                </person>
+                <person xml:id="alberten_catharinaelisabeth">
+                </person>
+                <person xml:id="meurer_mariajustina">
+                </person>
+                <person xml:id="heubler_johannamargaretha">
+                </person>
+                <person xml:id="heubler_tobias">
+                </person>
+                <person xml:id="schulthes_magdalenasibylla">
+                </person>
+                <person xml:id="schulthes_martinvolkmar">
+                </person>
+                <person xml:id="pfretzschner_anon_4">
+                </person>
+                <person xml:id="hahn_christina">
+                </person>
+                <person xml:id="hahn_andreas">
+                </person>
+                <person xml:id="schroedter_dorotheamaria">
+                </person>
+                <person xml:id="schroedter_heinrichchristian">
                 </person>
         <!--Thomasius2-->
             </listPerson>

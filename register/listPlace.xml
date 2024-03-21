@@ -135,6 +135,18 @@
                 <place xml:id="gera">
                 
                 </place>
+                <place xml:id="glauchau">
+                
+                </place>
+                <place xml:id="dresden">
+                
+                </place>
+                <place xml:id="oelsen">
+                
+                </place>
+                <place xml:id="oberschaar">
+                    <placeName ref="https://www.geonames.org/2859191/oberschaar.html">Oberschaar (bei Freiberg)</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
