@@ -94,14 +94,14 @@
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auff <rs type="place" ref="#naundorf">Naundorfs</rs> un<ex>d</ex> <rs type="place" ref="#frauenfels">Frauenfels</rs>, fürstl.<ex>ich</ex> Sächs<ex>ischen</ex> geheimten Raths
+                                        H<ex>err</ex> <rs type="person" ref="#thomas_johannes">Johannes Thomas</rs>, Erbh<ex>err</ex> auff <rs type="place" ref="#naundorf">Naundorfs</rs> un<ex>d</ex> <rs type="place" ref="#frauenfels">Frauenfels</rs>, <rs type="place" ref="#sachsen-altenburg_herzogtum">fürstl.<ex>ich</ex> Sächs<ex>ischen</ex></rs> geheimten Raths
                                         <lb/> Cantzler u<ex>nd</ex> Director der Steuerobereinnnahme zu <rs type="place" ref="#altenburg">Altenburg</rs> g<ex>eboren</ex> 1624 d<ex>en</ex> 28. Aug<ex>ust</ex> zu <rs type="place" ref="leipzig">Leipzig</rs>. ward
-                                        <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht u<ex>nd</ex> Schöppenstul zu <rs type="place" ref="#jena">Jena</rs>. 1651 Hoff
+                                        <lb/> 1648 zu <rs type="place" ref="#jena">Jena</rs>I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex>. 1650 Prof<ex>essor</ex>publ.<ex>icum</ex>Assessor in <rs type="org" ref="jena_hofgericht">furst<ex>lich</ex> Sachs<ex>ischen</ex> Hofgericht</rs> u<ex>nd</ex> <rs type="org" ref="#jena_schoeppenstuhl">Schöppenstul zu <rs type="place" ref="#jena">Jena</rs></rs>. 1651 Hoff
                                         <lb/> u<ex>nd</ex> JustitienRath . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn</rs> auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex> 
-                                                <lb/>Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <space quantity="10" unit="minims"/> 4 Kinder.
+                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn</rs> auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, <rs type="place" ref="#heiliges_roemisches_reich">Röm.<ex>isch</ex></rs> <rs type="person" ref="#habsburg_ferdinand_3">Key.<ex>serlichen</ex> Maj.<ex>estät</ex></rs> 
+                                                <lb/>Reichshoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu <rs type="place" ref="#regensburg">Regensburg</rs>. <space quantity="10" unit="minims"/> 4 Kinder.
                                             </item>
                                             <item>
                                                 <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam g.<ex>eborene</ex> Schrödherin</rs> H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>JustitienRaths 
@@ -550,7 +550,7 @@
                                                     <lb/>g.<ex>eboren</ex><space quantity="10" unit="minims"/> †.
                                                         <list>
                                                             <item>
-                                                                <lb/><hi rendition="#et">1. . . . H<ex>errn</ex><rs type="person" ref="#nacken_johann">Johann Nacken</rs>, auf Olßen.
+                                                                <lb/><hi rendition="#et">1. . . . H<ex>errn</ex><rs type="person" ref="#nacken_johann">Johann Nacken</rs>, auf <rs type="place" ref="#oelsen">Olßen</rs>.
                                                                 <lb/>hochgraffl.<ex>icher</ex> Schwartzb.<ex>urgischer</ex> Witthumsrath u<ex>nd</ex> Consulent
                                                                 <lb/>g<ex>eboren</ex><space quantity="10" unit="minims"/> †.</hi>
                                                             </item>
@@ -576,11 +576,11 @@
                                                     <lb/>5 K.<ex>inder</ex>
                                                 </cell>
                                                 <cell>
-                                                    <rs type="person" ref="#schroedter_dorotheamaria">Dorothea Maria
+                                                    <rs type="person" ref="#schroeter_dorotheamaria">Dorothea Maria
                                                     <lb/>Pfretzschnerin</rs>
                                                     <lb/>g.<ex>eboren</ex> 1658. d<ex>en</ex> <subst><del>2</del><add place="inline">4</add></subst> Aug.<ex>ust</ex>
                                                     <lb/>†.
-                                                    <lb/>1679 <space quantity="10" unit="minims"/> H<ex>errn</ex> <rs type="person" ref="#schroedter_heinrichchristian">Heinr.<ex>ich</ex>
+                                                    <lb/>1679 <space quantity="10" unit="minims"/> H<ex>errn</ex> <rs type="person" ref="#schroeter_heinrichchristian">Heinr.<ex>ich</ex>
                                                     <lb/>Christian Schrödter</rs>
                                                     <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> u<ex>nd</ex> Practicus nachm.<ex>als</ex>
                                                     <lb/>Hochherrl.<ex>ich</ex> Schonburg<ex>ischer</ex> Rath

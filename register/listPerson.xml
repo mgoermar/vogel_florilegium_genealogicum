@@ -316,15 +316,54 @@
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <education>
-                    xxxx
+                        <title>Doktor beider Rechte</title>
+                        <placeName ref="#jena">Jena</placeName> 
                     </education>
-                    <!-- OKKUPATION 
-                     <occupation>
-                        <term>XXXX</term> 
-                        <placeName ref="#XXX">XXX</placeName>
-                    </occupation> -->
+                    <occupation>
+                        <term>Erbherr</term> 
+                        <placeName ref="#naundorf">Naundorf</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Erbherr</term> 
+                        <placeName ref="#frauenfels">Frauenfels</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Geheimrat</term> 
+                        <placeName ref="#sachsen-altenburg_herzogtum">Sachsen-Altenburg, Herzogtum</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Kanzler</term> 
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Direktor der Steuerobereinnahme</term> 
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <occupation>
+                        <date>1650</date>
+                        <term>Professor</term> 
+                    </occupation>
+                    <occupation>
+                        <term>Assessor</term> 
+                        <placeName ref="#jena">Jena</placeName>
+                    </occupation>
+                    <occupation>
+                        <date>1651</date>
+                        <term>Hof- und Justitienrat</term>
+                    </occupation>
                     <listEvent>
-                    xxx
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1653-09-23">23. September 1653</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1671-02-28">28. Februar 1671</date>
+                            </desc>                          
+                        </event>
                     </listEvent>
                     <death>
                         <date when="1679-03-02">2. März 1679</date>
@@ -332,12 +371,20 @@
                     </death>
                     <note type="family">
                         <listRelation>
-                            <!-- VATER Michael Thomas d Ältere GESCHWISTER -->
+                            <!-- VATER Michael Thomas d Ältere/MUTTER/GESCHWISTER -->
                             <relation type="spouse" ref="#thomas_marieelisabeth" n="1"/>
                             <relation type="spouse" ref="#thomas_susanna" n="2"/>
-                            <!-- KINDER -->
+                            <relation type="child" ref="#thomas_johannphilipp"/>
+                            <relation type="child" ref="#thomas_johannchristian"/>
+                            <relation type="child" ref="#hendrich_mariaelisabeth"/>
+                            <relation type="child" ref="#bachovvonecht_magdalenasibylla"/>
+                            <relation type="child" ref="#thomas_friedrichelieser"/>
+                            <relation type="child" ref="#thomas_johannadam"/>
                         </listRelation>
                     </note>
+                </person>
+                <person xml:id="habsburg_ferdinand_3">
+                    jssdksdsdsdsj
                 </person>
                 <person xml:id="thomas_marieelisabeth">
                     <persName ref="https://d-nb.info/gnd/120197421">
@@ -360,8 +407,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#vonbohn_johannphilipp"/>
-                            <relation type="spouse" ref="#thomas_johannes" n="1"/>
-                            <!-- Kinder? -->
+                            <relation type="spouse" ref="#thomas_johannes"/>
                         </listRelation>
                     </note>
                 </person>
@@ -372,6 +418,10 @@
                     </persName>
                     <persName type="display">von Bohn, Johann Philipp</persName>
                     <sex value="m"/>
+                    <occupation>
+                        <term>Reichshofrat</term>
+                        <placeName ref="#heiliges_roemisches_reich">Heiliges Römisches Reich Deutscher Nation</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="child" ref="#thomas_marieelisabeth"/>
@@ -398,7 +448,6 @@
                         <listRelation>
                             <relation type="spouse" ref="#hornick_paul" n="1"/>
                             <relation type="spouse" ref="#thomas_johannes" n="2"/>
-                            <!-- kinder -->
                         </listRelation>
                     </note>
                 </person>
@@ -1657,7 +1706,7 @@
                             <relation type="child" ref="#schulthes_magdalenasibylla"/>
                             <relation type="child" ref="#pfretzschner_anon_4"/>
                             <relation type="child" ref="#hahn_christina"/>
-                            <relation type="child" ref="#schroedter_dorotheamaria"/>
+                            <relation type="child" ref="#schroeter_dorotheamaria"/>
                         </listRelation>
                     </note>
                 </person>
@@ -1723,7 +1772,7 @@
                             <relation type="child" ref="#schulthes_magdalenasibylla"/>
                             <relation type="child" ref="#pfretzschner_anon_4"/>
                             <relation type="child" ref="#hahn_christina"/>
-                            <relation type="child" ref="#schroedter_dorotheamaria"/>
+                            <relation type="child" ref="#schroeter_dorotheamaria"/>
                         </listRelation>
                     </note>
                 </person>
@@ -2300,25 +2349,161 @@
                         </listRelation>
                     </note>
                 </person>
-
                 <person xml:id="meurer_christianfriedrich">
-                
+                    <persName ref="https://d-nb.info/gnd/115533710">
+                        <forename>Christian Friedrich</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Christian Friedrich</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#luetzensoemmern">Lützensömmern</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#oelsen">Oelsen</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#trebnitz">Trebnitz</placeName>
+                    </occupation>
+                     <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#lauterbach">Lauterbach</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Amtmann</term>
+                        <placeName ref="#tennstedt">Tennstedt</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#meurer_mariajustina"/>
+                        </listRelation>
+                    </note>
                 </person>
-
                 <person xml:id="heubler_johannamargaretha">
+                    <persName> <!-- REF -->
+                        <forename>Johanna Margaretha</forename>
+                        <surname>Heubler</surname>
+                    </persName>
+                    <persName type="display">Heubler, Johanna Margaretha, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Johanna Margaretha</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#heubler_tobbias"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="heubler_tobias">
+                    <persName ref="https://d-nb.info/gnd/124517633">
+                        <forename>Tobias</forename>
+                        <surname>Heubler</surname>
+                    </persName>
+                    <persName type="display">Heubler, Tobias</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Doktor beider Rechte</title>                  
+                    </education>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#schwandt">Schwandt</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#droßkau">Droßkau</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratsherr</term>
+                    </occupation>
+                     <occupation>
+                        <term>Amtmann</term>
+                        <placeName ref="#penig">Penig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Amtmann</term>
+                        <placeName ref="#wechselburg">Wechselburg</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#heubler_johannamargaretha"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="schulthes_magdalenasibylla">
+                    <persName> <!-- REF -->
+                        <forename>Magdalena Sibylla</forename>
+                        <surname>Schulthes</surname>
+                    </persName>
+                    <persName type="display">Schulthes, Magdalena Sibylla, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Magdalena Sibylla</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#nacken_johann" n="1"/>
+                            <relation type="spouse" ref="#schulthes_martinvolkmar" n="2"/>
+                        </listRelation>
+                    </note>
                 </person>
-
                 <person xml:id="nacken_johann">
-                
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Nacken</surname>
+                    </persName>
+                    <persName type="display">Nacken, Johann</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#oelsen">Oelsen</placeName>
+                    </occupation>
+                     <occupation>
+                        <term>Wittumsrat</term>
+                    </occupation>
+                    <occupation>
+                        <term>Consulent</term>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#schulthes_magdalenasibylla"/>
+                        </listRelation>
+                    </note>
                 </person>
-
                 <person xml:id="schulthes_martinvolkmar">
+                    <persName ref="https://d-nb.info/gnd/1019191090">
+                        <forename>Martin Volkmar</forename>
+                        <surname>Schulthes</surname>
+                    </persName>
+                    <persName type="display">Schulthes, Martin Volkmar</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Ratsherr</term>
+                        <placeName ref="#schwarzburg-sonderhausen_grafschaft">Schwarzburg-Sonderhausen</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#heubler_johannamargaretha"/>
+                        </listRelation>
+                    </note>
                 </person>
-
                 <person xml:id="pfretzschner_anon_4">
                     <persName>
                         <forename>N. N. (4)</forename>
@@ -2335,12 +2520,103 @@
                     </note>
                 </person>
                 <person xml:id="hahn_christina">
+                    <persName> <!-- REF -->
+                        <forename>Christina</forename>
+                        <surname>Hahn</surname>
+                    </persName>
+                    <persName type="display">Hahn, Christina, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Christina</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#hahn_andreas"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="hahn_andreas">
+                    <persName ref="https://d-nb.info/gnd/131450360">
+                        <forename>Andreas</forename>
+                        <surname>Hahn</surname>
+                    </persName>
+                    <persName type="display">Hahn, Andreas</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Kanzleisekretär</term>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Kreisamtmann</term>
+                        <placeName ref="#wittenberg">Wittenberg</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#hahn_christina"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="schroedter_dorotheamaria">
+                <person xml:id="schroeter_dorotheamaria">
+                    <persName> <!-- REF -->
+                        <forename>Dorothes Maria</forename>
+                        <surname>Schrödter</surname>
+                    </persName>
+                    <persName type="display">Schrödter, Dorothea Maria, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Dorothea Maria</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1658-08-04">4. August 1658</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>1679</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#schroeter_heinrichchristian"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="schroedter_heinrichchristian">
+                <person xml:id="schroeter_heinrichchristian">
+                    <persName ref="https://d-nb.info/gnd/122949889">
+                        <forename>Heinrich Christian</forename>
+                        <surname>Schröter</surname>
+                    </persName>
+                    <persName type="display">Schröter, Heinrich Christian</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Doktor beider Rechte</title>
+                    </education>
+                    <occupation>
+                        <term>Rechtsanwalt (iuris practicus)</term>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratsherr</term>
+                        <placeName ref="#glauchau">Glauchau</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Amtmann</term>
+                        <placeName ref="#glauchau">Glauchau</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#schroeter_dorotheamaria"/>
+                        </listRelation>
+                    </note>
+
                 </person>
         <!--Thomasius2-->
             </listPerson>

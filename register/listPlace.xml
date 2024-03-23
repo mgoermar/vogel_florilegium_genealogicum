@@ -130,7 +130,7 @@
                     <placeName ref="https://www.geonames.org/2975349/sedan.html">Sedan (Frankreich)</placeName>
                 </place>
                 <place xml:id="frankreich_koenigreich">
-                    <placeName ref="https://d-nb.info/gnd/4018145-5">Königreich Frankreich</placeName>
+                    <placeName ref="https://d-nb.info/gnd/4018145-5">Frankreich, Königreich</placeName>
                 </place>
                 <place xml:id="plauen">
                     <placeName ref="https://www.geonames.org/2853292/plauen.html">Plauen</placeName>
@@ -162,7 +162,7 @@
                     <placeName ref="https://www.geonames.org/2921566/geithain.html">Geithain</placeName>
                 </place>
                 <place xml:id="tennstedt">
-                    <placeName ref="https://www.geonames.org/6550972/bad-tennstedt.html">Bad Tennstedt</placeName>
+                    <placeName ref="https://www.geonames.org/6550972/bad-tennstedt.html">Tennstedt</placeName>
                 </place>
                 <place xml:id="luetzensoemmern">
                     <placeName ref="https://www.geonames.org/2874729/luetzensoemmern.html">Lützensömmern (bei Bad Tennstedt)</placeName>
@@ -184,6 +184,18 @@
                 </place>
                 <place xml:id="wechselburg">
                 
+                </place>
+                <place xml:id="schwarzburg-sonderhausen_grafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4118526-2">Schwarzburg-Sonderhausen, Grafschaft</placeName>
+                </place>
+                <place xml:id="sachsen-altenburg_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4051180-7">Sachsen-Altenburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="https://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich Deutscher Nation</placeName>
+                </place>
+                <place xml:id="sachsen-zeitz_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4473333-1">Sachsen-Zeitz, Herzogtum</placeName>
                 </place>
             </listPlace>
         </body>

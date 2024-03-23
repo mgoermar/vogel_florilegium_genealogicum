@@ -37,6 +37,12 @@
                 <org xml:id="universitaet_leipzig_philosophische_fakultaet">
                     <orgName ref="https://d-nb.info/gnd/117738-2">Unicersität Leipzig, Philosophische Fakultät</orgName>
                 </org>
+                <org xml:id="jena_schoeppenstuhl">
+                    <orgName>Jena, Schöppenstuhl</orgName>
+                </org>
+                <org xml:id="jena_hofgericht">
+                    <orgName ref="https://d-nb.info/gnd/10197997-6">Jena, Fürstlich Sächsisches Hofgericht</orgName>
+                </org>
             </listOrg>
         </body>
     </text>
