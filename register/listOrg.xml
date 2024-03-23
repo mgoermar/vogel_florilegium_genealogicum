@@ -34,6 +34,9 @@
                 <org xml:id="universitaet_leipzig_juristische_fakultaet">
                     <orgName ref="https://d-nb.info/gnd/2024208-6">Universität Leipzig, Juristische Fakultät</orgName>
                 </org>
+                <org xml:id="universitaet_leipzig_philosophische_fakultaet">
+                    <orgName ref="https://d-nb.info/gnd/117738-2">Unicersität Leipzig, Philosophische Fakultät</orgName>
+                </org>
             </listOrg>
         </body>
     </text>

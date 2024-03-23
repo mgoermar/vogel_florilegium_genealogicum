@@ -315,15 +315,21 @@
                         <date when="1624-08-28">28. August 1624</date>
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
-                    <death>
-                        <date when="1679-03-02">2. März 1679</date>
-                        <placeName ref="#leipzig">Leipzig</placeName>
-                    </death>
+                    <education>
+                    xxxx
+                    </education>
                     <!-- OKKUPATION 
                      <occupation>
                         <term>XXXX</term> 
                         <placeName ref="#XXX">XXX</placeName>
                     </occupation> -->
+                    <listEvent>
+                    xxx
+                    </listEvent>
+                    <death>
+                        <date when="1679-03-02">2. März 1679</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <!-- VATER Michael Thomas d Ältere GESCHWISTER -->
@@ -474,15 +480,171 @@
                     </persName>
                     <persName type="display">Hendrich, Johann Caspar</persName>
                     <sex value="m"/>
+                    <birth>
+                        <date when="1635-04-20">20. April 1635</date>
+                    </birth>
+                    <occupation>
+                        <term>Vizekanzler</term> 
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratspräsident</term> 
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#hendrich_mariaelisabeth"/>
                         </listRelation>
                     </note>
                 </person>
-
-                <!-- KInder -->
-
+                <person xml:id="hhendrich_johannthomas">
+                    <persName> <!-- ref -->
+                        <forename>Johann Thomas</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Johann Thomas</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1673-12-27">27. Dezember 1673</date>
+                    </birth>
+                    <death>
+                        <date when="1674-04-11">11. April 1674</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_johanncaspar_2">
+                    <persName ref="https://d-nb.info/gnd/128402156">
+                        <forename>Johann Caspar (2)</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Johann Caspar (2)</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1676-04-20">20. April 1676</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_johannfriedrich">
+                    <persName> <!-- REF -->
+                        <forename>Johann Friedrich</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Johann Caspar</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1678-03-15">15. März 1678</date>
+                    </birth>
+                    <death>
+                        <date when="1678-06-13">13. Juni 1678</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_mariaelisabeth">
+                    <persName> <!-- REF -->
+                        <forename>Maria Elisabeth (2)</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Maria Elisabeth (2)</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1679-09-12">12. September 1679</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_mariachristina">
+                    <persName> <!-- REF -->
+                        <forename>Maria Christina</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Maria Christina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1682-03-19">19. März 1682</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_mariaeuphrosyna">
+                    <persName> <!-- REF -->
+                        <forename>Maria Euphrosyna</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Maria Euphrosyna</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1684-02-14">14. Februar 1684</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_johannernst">
+                    <persName> <!-- REF -->
+                        <forename>Johann Ernst</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Johann Ernst</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1686-02-02">2. Februar 1686</date>
+                    </birth>
+                    <death>
+                        <date when="1686-04-30">30. April 1686</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="hendrich_reginamaria">
+                    <persName> <!-- REF -->
+                        <forename>Regina Maria</forename>
+                        <surname>Hendrich</surname>
+                    </persName>
+                    <persName type="display">Hendrich, Regina Maria</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1688-11-30">30. November 1688</date>
+                    </birth>
+                    <death>
+                        <date when="1690-03-25">25. März 1690</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="hendrich_mariaelisabeth"/>
+                            <relation type="parent" ref="hendrich_johanncaspar"/>
+                        </listRelation>
+                    </note>
+                </person>
                 <person xml:id="bachovvonecht_magdalenasibylla">
                     <persName ref="https://d-nb.info/gnd/139049487">
                         <forename>Magdalena Sibylla</forename>
@@ -508,6 +670,16 @@
                     </persName>
                     <persName type="display">Bachov von Echt, Johann Friedrich</persName>
                     <sex value="m"/>
+                    <occupation>
+                        <term>Hofrat</term>
+                    </occupation>
+                    <occupation>
+                        <term>Geheimer Ratsdirektor</term> 
+                    </occupation>
+                    <occupation>
+                        <term>Kanzler</term> 
+                        <placeName ref="#friedenstein">Friedenstein</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#bachovvonecht_magdalenasibylla"/>
@@ -585,6 +757,7 @@
                         <listRelation>
                             <!-- Vater Michael Thomas dÄ GESCHWISTER -->
                             <relation type="spouse" ref="#lauhn_andreas"/>
+                            <!-- KINDER -->
                         </listRelation>
                     </note>
                 </person>
@@ -610,6 +783,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#lauhn_martha"/>
+                            <!-- Kinder -->
                         </listRelation>
                     </note>
                 </person>
@@ -679,6 +853,62 @@
                     <note type="family">
                         <listRelation>
                             <relation type="child" ref="#lauhn_mariaamanda"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_sophia">
+                    <persName>
+                        <forename>Sophia</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Sophia</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lauhn_andreas"/>
+                            <relation type="parent" ref="#lauhn_martha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_sophiabenigna">
+                    <persName>
+                        <forename>Sophia Benigna</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Sophia Benigna</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lauhn_andreas"/>
+                            <relation type="parent" ref="#lauhn_martha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_friedrichwilhelm">
+                    <persName>
+                        <forename>Friedrich Wilhelm</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Friedrich Wilhelm</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lauhn_andreas"/>
+                            <relation type="parent" ref="#lauhn_martha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lauhn_mariaelisabeth">
+                    <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Lauhn</surname>
+                    </persName>
+                    <persName type="display">Lauhn, Maria Elisabeth</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lauhn_andreas"/>
+                            <relation type="parent" ref="#lauhn_martha"/>
                         </listRelation>
                     </note>
                 </person>
@@ -755,6 +985,46 @@
                     <note type="family">
                         <listRelation>
                             <relation type="child" ref="#thomae_annamaria_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_mariaelisabeth">
+                    <persName> 
+                        <forename>Marie Elisabeth</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Marie Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1661-09-27">27. September 1661</date>
+                    </birth>
+                    <death>
+                        <date when="1664-08-12">12. August 1664</date>
+                    </death>
+                     <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_johannalbrecht">
+                    <persName> 
+                        <forename>Johann Albrecht</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Johann Albrecht</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1663-10-02">2. Oktober 1663</date>
+                    </birth>
+                    <death>
+                        <date when="1664-04-20">20. April 1664</date>
+                    </death>
+                     <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_henning_1"/>
+                            <relation type="parent" ref="#thomae_annamaria_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -861,6 +1131,7 @@
                             <relation type="parent" ref="#thomae_henning_1"/>
                             <relation type="parent" ref="#thomae_annamaria_1"/>
                             <relation type="spouse" ref="#thomae_johannarosina"/>
+                            <relation type="child" ref="thomae_christophgottfried"/>
                         </listRelation>
                     </note>
                 </person>
@@ -886,6 +1157,7 @@
                         <listRelation>
                             <relation type="parent" ref="#alert_anon"/>
                             <relation type="spouse" ref="#thomae_johannchristoph"/>
+                             <relation type="child" ref="thomae_christophgottfried"/>
                         </listRelation>
                     </note>
                 </person>
@@ -906,6 +1178,23 @@
                     <note type="family">
                         <listRelation>
                             <relation type="child" ref="#thomae_johannarosina"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_christophgottfried">
+                    <persName ref="https://d-nb.info/gnd/1139295756">
+                        <forename>Christoph Gottfried</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Christoph Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1711-12-03">3. Dezember 1711</date> <!-- FEHLER 1712 -->
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_johannarosina"/>
+                            <relation type="parent" ref="#thomae_johannchristoph"/>
                         </listRelation>
                     </note>
                 </person>
@@ -1362,7 +1651,7 @@
                             <relation type="child" ref="#pfretzschner_nicolaus_2"/>
                             <relation type="child" ref="#detleff_annadorothea"/>
                             <relation type="child" ref="#meurer_sarasophia"/>
-                            <relation type="child" ref="#alberten_catharinaelisabeth"/>
+                            <relation type="child" ref="#albert_catharinaelisabeth"/>
                             <relation type="child" ref="#meurer_mariajustina"/>
                             <relation type="child" ref="#heubler_johannamargaretha"/>
                             <relation type="child" ref="#schulthes_magdalenasibylla"/>
@@ -1400,7 +1689,6 @@
                         <term>Erbsasse</term> 
                         <placeName ref="#oberschaar">Oberschaar</placeName>
                     </occupation>
-
                     <listEvent>
                         <event>
                             <desc>
@@ -1429,7 +1717,7 @@
                             <relation type="child" ref="#pfretzschner_nicolaus_2"/>
                             <relation type="child" ref="#detleff_annadorothea"/>
                             <relation type="child" ref="#meurer_sarasophia"/>
-                            <relation type="child" ref="#alberten_catharinaelisabeth"/>
+                            <relation type="child" ref="#albert_catharinaelisabeth"/>
                             <relation type="child" ref="#meurer_mariajustina"/>
                             <relation type="child" ref="#heubler_johannamargaretha"/>
                             <relation type="child" ref="#schulthes_magdalenasibylla"/>
@@ -1440,30 +1728,611 @@
                     </note>
                 </person>
                 <person xml:id="pfretzschner_anon_1">
+                    <persName>
+                        <forename>N. N. (1)</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, N. N. (1)</persName>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="pfretzschner_anon_2">
+                    <persName>
+                        <forename>N. N. (2)</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, N. N. (2)</persName>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="pfretzschner_anon_3">
+                    <persName>
+                        <forename>N. N. (3)</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, N. N. (3)</persName>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="pfretzschner_nicolaus_2">
+                    <persName>
+                        <forename>Nicolaus (2)</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, Nicolaus (2)</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Doktor beider Rechte</title> 
+                    </education>
+                    <death>
+                        <date when="1666-07-17">17. Juli 1666</date>
+                        <placeName ref="#sedan">Sedan (Frankreich)</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="detleff_annadorothea">
+                    <persName> <!-- REF -->
+                        <forename>Anna Dorothea</forename>
+                        <surname>Detleff</surname>
+                    </persName>
+                    <persName type="display">Detleff, Anna Dorothea, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Anna Dorothea</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#detleff_christian"/>
+                            <relation type="child" ref="rost_johannamargaretha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="detleff_christian">
+                    <persName ref="https://d-nb.info/gnd/129015644">
+                        <forename>Christian</forename>
+                        <surname>Detleff</surname>
+                    </persName>
+                    <persName type="display">Detleff, Christian</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Doktor beider Rechte</title>                 
+                    </education>
+                    <occupation>
+                        <term>Consulent</term>
+                    </occupation>
+                    <occupation>
+                        <term>Bürgermeister</term>
+                        <placeName ref="#plauen">Plauen</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#detleff_annadorothea"/>
+                            <relation type="child" ref="rost_johannamargaretha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rost_johannamargaretha">
+                    <persName> <!-- REF -->
+                        <forename>Johanna Margaretha</forename>
+                        <surname>Rost</surname>
+                    </persName>
+                    <persName type="display">Rost, Johanna Margaretha, geb. Detleff</persName>
+                    <persName>
+                        <forename>Johanna Margaretha</forename>
+                        <surname type="birthName">Detleff</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#detleff_annadorothea"/>
+                            <relation type="parent" ref="#detleff_christian"/>
+                            <relation type="spouse" ref="#rost_johann"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="rost_johann">
+                    <persName ref="https://d-nb.info/gnd/104248416">
+                        <forename>Johann</forename>
+                        <surname>Rost</surname>
+                    </persName>
+                    <persName type="display">Rost, Johann</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Amtschösser</term>
+                        <placeName ref="#gera">Gera</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="rost_johannamargaretha"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="meurer_sarasophia">
+                    <persName> <!-- REF -->
+                        <forename>Sara Sophia</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Sara Sophia, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Sara Sophia</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1635-12-06">6. Dezember 1635</date>
+                        <placeName ref="#weida">Weida</placeName>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1651-10-07">7. Oktober 1651</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1659-02-17">17. Februar 1659</date>
+                        <placeName ref="#glauchau">Glauchau</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#meurer_andreas_1"/>
+                            <relation type="child" ref="#meurer_johann"/>
+                            <relation type="child" ref="#thilo_saraelisabeth"/>
+                            <relation type="child" ref="#meurer_andreas_2"/>
+                            <relation type="child" ref="#meurer_mariasophia"/>
+                            <relation type="child" ref="#meurer_ernstfriedrich"/>
+                            <relation type="child" ref="#meurer_magdalenasibylla"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="alberten_catharinaelisabeth">
+                <person xml:id="meurer_andreas_1">
+                    <persName ref="https://d-nb.info/gnd/128471808">
+                        <forename>Andreas</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Andreas</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1623-04-27">27. April 1623</date>
+                        <placeName ref="#mutzschen">Mutzschen</placeName>
+                    </birth>
+                    <education>
+                        <title>Doktor beider Rechte</title>                 
+                    </education>
+                    <occupation>
+                        <term>Hofrat</term>
+                        <placeName ref="#glauchau">Glauchau</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Consulent</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1651-10-07">7. Oktober 1651</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1670-08-18">18. August 1670</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#meurer_sarasophia"/>
+                            <relation type="child" ref="#meurer_johann"/>
+                            <relation type="child" ref="#thilo_saraelisabeth"/>
+                            <relation type="child" ref="#meurer_andreas_2"/>
+                            <relation type="child" ref="#meurer_mariasophia"/>
+                            <relation type="child" ref="#meurer_ernstfriedrich"/>
+                            <relation type="child" ref="#meurer_magdalenasibylla"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meurer_johann">
+                    <persName ref="https://d-nb.info/gnd/1239181205">
+                        <forename>Johann</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <education>
+                        <title>Doktor beider Rechte</title>                 
+                    </education>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thilo_saraelisabeth">
+                    <persName> <!-- REF -->
+                        <forename>Sara Elisabeth</forename>
+                        <surname>Thilo</surname>
+                    </persName>
+                    <persName type="display">Thilo, Sara Elisabeth, geb. Meurer</persName>
+                    <persName>
+                        <forename>Sara Elisabeth</forename>
+                        <surname type="birthName">Meurer</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1671-06-25">25. Juni 1671</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                            <relation type="spouse" ref="#thilo_isaac"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thilo_isaac">
+                    <persName ref="https://d-nb.info/gnd/122031350">
+                        <forename>Isaac</forename>
+                        <surname>Thilo</surname>
+                    </persName>
+                    <persName type="display">Thilo, Issac</persName>
+                    <sex value="m"/>
+                    <education>
+                        <title>Magister</title>                 
+                    </education>
+                    <occupation>
+                        <term>Assessor</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>außerord. Professor</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thilo_saraelisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meurer_andreas_2">
+                    <persName>
+                        <forename>Andreas (2)</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Andreas (2)</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <death>
+                        <date>165...</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meurer_mariasophia">
+                     <persName>
+                        <forename>Maria Sophia</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Maria Sophia</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <death>
+                        <date>166...</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meurer_ernstfriedrich">
+                    <persName>
+                        <forename>Ernst Friedrich</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Ernst Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <death>
+                        <date>165...</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meurer_magdalenasibylla">
+                     <persName>
+                        <forename>Magdalena Sibylla</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Magdalena Sibylla</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date>165...</date>
+                    </birth>
+                    <death>
+                        <date>166...</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#meurer_sarasophia"/>
+                            <relation type="parent" ref="#meurer_andreas_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="albert_catharinaelisabeth">
+                    <persName> <!-- REF -->
+                        <forename>Catherina Elisabeth</forename>
+                        <surname>Albert</surname>
+                    </persName>
+                    <persName type="display">Albert, Catharina Elisabeth, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Catharina Elisabeth</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <persName>
+                        <forename>Catharina Elisabeth</forename>
+                        <surname>Horn</surname>
+                    </persName>
+                    <persName>Horn, Catharina Elisabeth, geb. Pfretzschner</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1637-07-25">25. Juli 1637</date>
+                        <placeName ref="#weida">Weida</placeName>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1654-10-09">9. Oktober 1654</date>
+                            </desc>
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1669-10-26">26. Oktober 1669</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1708-03-13">13. März 1708</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#horn_gottfried" n="1"/>
+                            <relation type="spouse" ref="#albert_martin" n="2"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="horn_gottfried">
+                    <persName ref="https://d-nb.info/gnd/130620378">
+                        <forename>Gottfried</forename>
+                        <surname>Horn</surname>
+                    </persName>
+                    <persName type="display">Horn, Gottfried</persName>
+                    <sex value="m"/>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#oberschaar">Oberschaar (bei Freiberg)</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratsherr</term>
+                        <placeName ref="#freiberg">Freiberg</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1654-10-09">9. Oktober 1654</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1663-05-18">18. Mai 1663</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#albert_catharinaelisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="albert_martin">
+                    <persName ref="https://d-nb.info/gnd/120603772">
+                        <forename>Martin</forename>
+                        <surname>Albert</surname>
+                    </persName>
+                    <persName type="display">Albert, Martin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1642-11-01">1. November 1642</date>
+                    </birth>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#troschenreuth">Troschenreuth</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#bobritzsch">Bobritzsch (bei Freiberg)</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Gutsherr</term>
+                        <placeName ref="#oberschaar">Oberschaar (bei Freiberg)</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Bürgermeister</term>
+                        <placeName ref="#freiberg">Freiberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Königlicher Rat</term>
+                    </occupation>
+                    <occupation>
+                        <term>Kreissteuereinnehmer</term>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1669-10-26">26. Oktober 1669</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <death>
+                        <date when="1718-10-08">8. Oktober 1718</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#albert_catharinaelisabeth"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="meurer_mariajustina">
+                    <persName ref="https://d-nb.info/gnd/104249382">
+                        <forename>Maria Justina</forename>
+                        <surname>Meurer</surname>
+                    </persName>
+                    <persName type="display">Meurer, Maria Justina, geb. Pfretzschner</persName>
+                    <persName>
+                        <forename>Maria Justina</forename>
+                        <surname type="birthName">Pfretzschner</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date>16...</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <relation type="spouse" ref="#meurer_christianfriedrich"/>
+                        </listRelation>
+                    </note>
                 </person>
+
+                <person xml:id="meurer_christianfriedrich">
+                
+                </person>
+
                 <person xml:id="heubler_johannamargaretha">
                 </person>
                 <person xml:id="heubler_tobias">
                 </person>
                 <person xml:id="schulthes_magdalenasibylla">
                 </person>
+
+                <person xml:id="nacken_johann">
+                
+                </person>
+
                 <person xml:id="schulthes_martinvolkmar">
                 </person>
+
                 <person xml:id="pfretzschner_anon_4">
+                    <persName>
+                        <forename>N. N. (4)</forename>
+                        <surname>Pfretzschner</surname>
+                    </persName>
+                    <persName type="display">Pfretzschner, N. N. (4)</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#fretzschner_nicolaus_1"/>
+                            <relation type="parent" ref="#pfretzschner_sara"/>
+                            <!-- GESCHWISTER -->
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="hahn_christina">
                 </person>

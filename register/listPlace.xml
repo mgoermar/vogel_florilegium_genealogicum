@@ -127,25 +127,63 @@
                     <placeName ref="https://www.geonames.org/2821251/treuen.html">Treuen (Voigtland)</placeName>
                 </place>
                 <place xml:id="sedan">
-                
+                    <placeName ref="https://www.geonames.org/2975349/sedan.html">Sedan (Frankreich)</placeName>
+                </place>
+                <place xml:id="frankreich_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4018145-5">Königreich Frankreich</placeName>
                 </place>
                 <place xml:id="plauen">
-                
+                    <placeName ref="https://www.geonames.org/2853292/plauen.html">Plauen</placeName>
                 </place>
                 <place xml:id="gera">
-                
+                    <placeName ref="https://www.geonames.org/2921232/gera.html">Gera</placeName>
                 </place>
                 <place xml:id="glauchau">
-                
+                    <placeName ref="https://www.geonames.org/6550747/glauchau.html">Glauchau</placeName>
+                <place xml:id="mutzschen">
+                    <placeName ref="https://www.geonames.org/2867286/mutzschen.html">Mutzschen</placeName>
+                </place>
+                <place xml:id="freiberg">
+                    <placeName ref="https://www.geonames.org/6550757/freiberg.html">Freiberg (Sachsen)</placeName>
                 </place>
                 <place xml:id="dresden">
-                
+                    <placeName ref="https://www.geonames.org/6551127/dresden.html">Dresden</placeName>
                 </place>
                 <place xml:id="oelsen">
-                
+                    <placeName ref="https://www.geonames.org/6550498/hohenoelsen.html">Hohenölsen (bei Weida)</placeName>
                 </place>
                 <place xml:id="oberschaar">
                     <placeName ref="https://www.geonames.org/2859191/oberschaar.html">Oberschaar (bei Freiberg)</placeName>
+                </place>
+                <place xml:id="bobritzsch">
+                    <placeName ref="https://www.geonames.org/2861237/oberbobritzsch.html">Bobritzsch (bei Freiberg)</placeName>
+                </place>
+                <place xml:id="geithain">
+                    <placeName ref="https://www.geonames.org/2921566/geithain.html">Geithain</placeName>
+                </place>
+                <place xml:id="tennstedt">
+                    <placeName ref="https://www.geonames.org/6550972/bad-tennstedt.html">Bad Tennstedt</placeName>
+                </place>
+                <place xml:id="luetzensoemmern">
+                    <placeName ref="https://www.geonames.org/2874729/luetzensoemmern.html">Lützensömmern (bei Bad Tennstedt)</placeName>
+                </place>
+                <place xml:id="trebnitz">
+                
+                </place>
+                <place xml:id="lauterbach">
+                
+                </place>
+                <place xml:id="schwandt">
+                
+                </place>
+                <place xml:id="penig">
+                
+                </place>
+                <place xml:id="droßkau">
+                
+                </place>
+                <place xml:id="wechselburg">
+                
                 </place>
             </listPlace>
         </body>

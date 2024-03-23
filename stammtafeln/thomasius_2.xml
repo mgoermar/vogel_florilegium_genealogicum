@@ -104,7 +104,7 @@
                                                 <lb/>Reichsthoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu Regensburg. <space quantity="10" unit="minims"/> 4 Kinder.
                                             </item>
                                             <item>
-                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam</rs> g.<ex>eborene</ex> Schrödherin H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>JustitienRaths 
+                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam g.<ex>eborene</ex> Schrödherin</rs> H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>JustitienRaths 
                                                 <lb/>Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne.
                                             </item>
                                         </list>
@@ -127,7 +127,7 @@
                                                     <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
                                                     <lb/>1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
                                                     <lb/>Caspar Hendrichs</rs> auff
-                                                    <lb/><rs type="place" ref="#knau">Knau</rs> u.<ex>nd</ex> Frauenlieb, hochf.<ex>ürstlich</ex>
+                                                    <lb/><rs type="place" ref="#knau">Knau</rs> u.<ex>nd</ex> <!-- Frauenlieb -->, hochf.<ex>ürstlich</ex>
                                                     <lb/>Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
                                                     <lb/>Consist<ex>oriums</ex> praesident zu <rs type="place" ref="#altenburg"><w lemma="Altenburg">Alten
                                                     <lb/>burg.</w></rs> g<ex>eboren</ex> 1635. 20 April.
@@ -140,36 +140,36 @@
                                                                 <lb/>† 1674. 11 April
                                                             </cell>
                                                             <cell>
-                                                                <rs type="person" ref="#hendrich_johanncaspar">Jo<ex>hann</ex> Caspar</rs>
+                                                                <rs type="person" ref="#hendrich_johanncaspar_2">Jo<ex>hann</ex> Caspar</rs>
                                                                 <lb/>g.<ex>eboren</ex> 1676. 20
                                                                 <lb/>April
                                                                 <lb/>†
                                                             </cell>
                                                             <cell>
-                                                                Joh<ex>ann</ex> Friedrich
+                                                                <rs type="person" ref="#hendrich_johannfriedrich">Joh<ex>ann</ex> Friedrich</rs>
                                                                 <lb/>g.<ex>eboren</ex>1678 15
                                                                 <lb/>Mart<ex>ij</ex> † 13 Jun<ex>i</ex>
                                                                 <lb/>ejusd.<ex>em</ex> anni.
                                                             </cell>
                                                             <cell>
-                                                                Maria Elisabeth
+                                                                <rs type="person" ref="#hendrich_mariaelisabeth_2">Maria Elisabeth</rs>
                                                                 <lb/>g<ex>eboren</ex> 1679 12 Sept.<ex>ember</ex>
                                                             </cell>
                                                             <cell>
-                                                                Maria Christina
+                                                                <rs type="person" ref="#hendrich_mariachristina">Maria Christina</rs>
                                                                 <lb/>g<ex>eboren</ex> 1682 d.<ex>en</ex> 19 Mart.<ex>ij</ex>.
                                                             </cell>
                                                             <cell>
-                                                                Maria Euphrosyna
+                                                                <rs type="person" ref="#hendrich_mariaeuphrosyna">Maria Euphrosyna</rs>
                                                                 <lb/>g<ex>eboren</ex> 1684 14 Febr.<ex>uar</ex>
                                                             </cell>
                                                             <cell>
-                                                                Johann Ernst
+                                                                <rs type="person" ref="#hendrich_johannernst">Johann Ernst</rs>
                                                                 <lb/>g<ex>eboren</ex> 2 Febr<ex>uar</ex>† .
-                                                                <lb/> 30 Apr.<ex>il</ex> 1686.
+                                                                <lb/>30 Apr.<ex>il</ex> 1686.
                                                             </cell>
                                                             <cell>
-                                                                Regina Maria
+                                                                <rs type="person" ref="#hendrich_reginamaria">Regina Maria</rs>
                                                                 <lb/>g<ex>eboren</ex> 1688. 30 Nov<ex>ember</ex>
                                                                 <lb/>† 1690. 25 Martij.
                                                             </cell>
@@ -222,23 +222,23 @@
                                                     <lb/>zu <rs type="place" ref="#weida">Weyda</rs> T.<ex>ochter</ex>
                                                 </cell>
                                                 <cell>
-                                                    Sophia
+                                                    <rs type="person" ref="#lauhn_sophia">Sophia</rs>
                                                     <lb/>g<ex>eboren</ex>
                                                     <lb/>†
                                                 </cell>
                                                 <cell>
-                                                    Sophia Benigna
+                                                    <rs type="person" ref="#lauhn_sophiabenigna">Sophia Benigna</rs>
                                                     <lb/>g<ex>eboren</ex>
                                                     <lb/>†
                                                 </cell>
                                                 <cell>
-                                                    Friedrich Wilhlem
-                                                    <lb/>Lauhn
+                                                    <rs type="person" ref="#lauhn_friedrichwilhelm">Friedrich Wilhlem
+                                                    <lb/>Lauhn</rs>
                                                     <lb/>g.<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
-                                                    Maria
-                                                    <lb/>Elisabeth
+                                                    <rs type="person" ref="#lauhn_mariaelisabeth">Maria
+                                                    <lb/>Elisabeth</rs>
                                                     <lb/>g<ex>eboren</ex>
                                                     <lb/>†
                                                 </cell>
@@ -254,13 +254,13 @@
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>    
-                                                    Maria
-                                                    <lb/>Elisabeth
+                                                    <rs type="person" ref="#thomae_mariaelisabeth">Maria
+                                                    <lb/>Elisabeth</rs>
                                                     <lb/>g<ex>eboren</ex> 1661. 27 Sept.<ex>ember</ex>
                                                     <lb/>† 1664.12 Aug.<ex>ust</ex>
                                                 </cell>
                                                 <cell>    
-                                                    Johann Albrecht
+                                                    <rs type="person" ref="#thomae_johannalbrecht">Johann Albrecht</rs>
                                                     <lb/>g.<ex>eboren</ex> 1663. d.<ex>en</ex> 2. Oct.<ex>ober</ex>
                                                     <lb/>† 1664. 20 April.
                                                 </cell>
@@ -283,9 +283,9 @@
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                                Christoph
-                                                                <lb/>Gottfried
-                                                                <lb/>g<ex>eboren</ex> 1711 d.<ex>en</ex> 3 Dec.<ex>ember</ex>
+                                                                <rs type="person" ref="#thomae_christophgottfried">Christoph
+                                                                <lb/>Gottfried</rs>
+                                                                <lb/>g<ex>eboren</ex> 1711 d.<ex>en</ex> 3 Dec.<ex>ember</ex><note type="footnote" resp="mg">Diese Information <!-- falsch/abweichend --> </note>
                                                             </cell>
                                                         </row>
                                                     </table>
@@ -406,8 +406,8 @@
                                     <cell>
                                         <rs type="person" ref="#pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis.<note type="footnote" resp="mg">Gemeint ist der 29. September als Festtag des Erzengels Michael.</note> † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu <rs type="place" ref="#treuen">Treuen</rs> im Voigtlande.
                                         <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#pfretzschner_nicolaus_1">Nicolaus Pfretzschner</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auff <rs type="place" ref="#troschenreuth">Troschenreuth</rs>
-                                        <lb/>Oelsen, und <rs type="place" ref="#oberschaar">OberSchaar</rs> Erbsaßen, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> hofjustitien u<ex>nd</ex> Grentz am Reichscam<ex>m</ex>er
-                                        <lb/>gerichts Sachen zu Dresden wohlbehalten Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu <rs type="place" ref="#dresden">Dresd<ex>en</ex></rs>
+                                        <lb/><rs type="place" ref="#oelsen">Oelsen</rs>, und <rs type="place" ref="#oberschaar">OberSchaar</rs> Erbsaßen, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> hofjustitien u<ex>nd</ex> Grentz am Reichscam<ex>m</ex>er
+                                        <lb/>gerichts Sachen zu <rs type="place" ref="#dresden">Dresden</rs> wohlbehalten Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu <rs type="place" ref="#dresden">Dresd<ex>en</ex></rs>
                                         <lb/>ward nach <rs type="person" ref="#weida">Weida</rs> gebracht u<ex>nd</ex> <rs type="place" ref="#weida">daselbst</rs> begraben. 1668 d.<ex>en</ex> 8 Januarij.
                                         <lb/><space quantity="10" unit="minims"/> 4 S.<ex>öhne</ex> 8 T.<ex>öchter</ex>
                                         <table rendition="#topBraced">
@@ -425,13 +425,13 @@
                                                     <lb/>† t<ex>ot</ex>g<ex>eboren</ex>
                                                 </cell>
                                                 <cell>
-                                                    H<ex>err</ex> <rs type="person" ref="pfretzschner_nicolaus_2">Nicolaus
+                                                    H<ex>err</ex> <rs type="person" ref="#pfretzschner_nicolaus_2">Nicolaus
                                                     <lb/>Pfretzschner</rs>.
                                                     <lb/>I.<ex>uris</ex> U<ex>triusque</ex> doctorandus
                                                     <lb/>g.<ex>eboren</ex>
                                                     <lb/>† am 1666 d<ex>en</ex> 17
                                                     <lb/>Jul<ex>i</ex> zu <rs type="place" ref="#sedan">Sedan</rs>
-                                                    <lb/>in Franckreich in
+                                                    <lb/>in <rs type="place" ref="#frankreich_koenigreich">Franckreich</rs> in
                                                     <lb/>Waßer umb.<ex>gekommen</ex>
                                                 </cell>
                                                 <cell>
@@ -446,10 +446,10 @@
                                                     <table rendition= "topBraced">
                                                         <row>
                                                             <cell>
-                                                                <rs type="place" ref="#rhost_johannamargaretha">Johanna Margaretha</rs>
+                                                                <rs type="place" ref="#rost_johannamargaretha">Johanna Margaretha</rs>
                                                                 <lb/>g<ex>eboren</ex>
                                                                 <lb/>16. . . . . Herr
-                                                                <lb/><rs type="person" ref="#rhost_johann">Johann Rhost</rs>, hochgräffl.<ex>ich</ex>
+                                                                <lb/><rs type="person" ref="#rost_johann">Johann Rhost</rs>, hochgräffl.<ex>ich</ex>
                                                                 <lb/>Reuß<ex>isch</ex> Pl.<ex>auenscher</ex> Amtschößer zu
                                                                 <lb/><rs type="place" ref="#gera">Gera</rs>.
                                                             </cell>
@@ -458,47 +458,47 @@
                                                 </cell>
                                                 <cell>
                                                     <rs type="person" ref="#meurer_sarasophia">Sara Sophia <subst><del>...</del><add place="inline">Pfretzschnerin</add></subst></rs> zu <rs type="place" ref="#weida">Weyda</rs>
-                                                    <lb/>g.<ex>eboren</ex> 1635. 6 Dec.<ex>mber</ex> † 1659 17 Febr<ex>uar</ex> zu Glaucha.
-                                                    <lb/>1651. 7. Oct<ex>ober</ex> H.<ex>errn</ex> Andreas Meurer
-                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> <!--??--> Schönburgisch Hoffrath und
-                                                    <lb/>Consulent in Leipzig g.<ex>eboren</ex> 1623 27 April. zu <add place="below">Mutschen</add>
+                                                    <lb/>g.<ex>eboren</ex> 1635. 6 Dec.<ex>mber</ex> † 1659 17 Febr<ex>uar</ex> zu <rs type="place" ref="#glauchau">Glaucha</rs>. <!-- Schreibweise Ort -->
+                                                    <lb/>1651. 7. Oct<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#meurer_andreas_1">Andreas Meurer</rs>
+                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> herrl.<ex>ich</ex> Schönburgisch Hoffrath und
+                                                    <lb/>Consulent in <rs type="place" ref="#leipzig">Leipzig</rs> g.<ex>eboren</ex> 1623 27 April. zu <add place="below"><rs type="place" ref="#mutzschen">Mutschen</rs></add>
                                                     <lb/>† 1670. 18 Aug.<ex>ust</ex>
                                                     <table rendition="topBraced">
                                                         <row>
                                                             <cell>
-                                                                H<ex>err</ex> Johann
-                                                                <lb/>Meurer I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex>
+                                                                H<ex>err</ex> <rs type="person" ref="#meurer_johann">Johann
+                                                                <lb/>Meurer</rs> I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex>
                                                                 <lb/>g.<ex>eboren</ex> 165. . .
                                                             </cell>
                                                             <cell>
-                                                                Sara Elisabeth
+                                                                <rs type="person" ref="#thilo_saraelisabeth">Sara Elisabeth</rs>
                                                                 <lb/>g<ex>eboren</ex> 165. . . .
-                                                                <lb/>16. . . H<ex>errn</ex> M.<ex>agister</ex> Isa
-                                                                <lb/>ac Thilo Fac<ex>ultis</ex> Philos.<ex>ophicae</ex>
+                                                                <lb/>16. . . H<ex>errn</ex> M.<ex>agister</ex> <rs type="person" ref="#thilo_isaac">Isa
+                                                                <lb/>ac Thilo</rs> <rs type="org" ref="#universitaet_leipzig_philosophische_fakultaet">Fac<ex>ultis</ex> Philos.<ex>ophicae</ex></rs>
                                                                 <lb/>Assess.<ex>or</ex> u<ex>nd</ex> P.<ex>rofessor</ex> P<ex>ublicus</ex> extraord.<ex>inarius</ex>
-                                                                <lb/>zu Leipzig.
+                                                                <lb/>zu <rs type="place" ref="#leipzig">Leipzig</rs>.
                                                                 <lb/>† 1671. 25 Junij.
                                                             </cell>
                                                             <cell>
-                                                                Andreas
+                                                                <rs type="person" ref="#meurer_andreas_2">Andreas</rs>
                                                                 <lb/>g<ex>eboren</ex> 165
                                                                 <lb/>† 165. .
                                                             </cell>
                                                             <cell>
-                                                                Maria
-                                                                <lb/>Sophia
+                                                                <rs type="person" ref="#meurer_mariasophia">Maria
+                                                                <lb/>Sophia</rs>
                                                                 <lb/>g.<ex>eboren</ex> 165.
                                                                 <lb/>† 166..
                                                             </cell>
                                                             <cell>
-                                                                Ernst
-                                                                <lb/>Friedrich
+                                                                <rs type="person" ref="#meurer_ernstfriedrich">Ernst
+                                                                <lb/>Friedrich</rs>
                                                                 <lb/>g.<ex>eboren</ex> 165.
                                                                 <lb/>† 165.
                                                             </cell>
                                                             <cell>
-                                                                Magdalena
-                                                                <lb/>Sibylla
+                                                                <rs type="person" ref="#meurer_magdalenasibylla">Magdalena
+                                                                <lb/>Sibylla</rs>
                                                                 <lb/>g<ex>eboren</ex> 165..
                                                                 <lb/>† 166..
                                                             </cell>
@@ -506,17 +506,17 @@
                                                     </table>
                                                 </cell>
                                                 <cell>
-                                                    <rs type="person" ref="#alberten_catharinaelisabeth">Catharina Elisabeth</rs> g<ex>eboren</ex> 1637 25 Julij zu Weyda
+                                                    <rs type="person" ref="#albert_catharinaelisabeth">Catharina Elisabeth</rs> g<ex>eboren</ex> 1637 25 Julij zu <rs type="place" ref="#weida">Weyda</rs>
                                                     <lb/>† 1708 13 Mart.<ex>ij</ex> &#x00E6;t<ex>atis</ex> 71 Jahr weniger 10 Wochen
                                                     <list>
                                                         <item>
-                                                            <lb/><hi rendition="#et">1. 1654. 9. Oct.<ex>ober</ex> H.<ex>errn</ex> Gottfried Horn, auf Oberschaar
-                                                            <lb/>Rathsverwandten zu Freyberg. g.<ex>eboren</ex><add place="below"><unclear reason="illegible">4</unclear>Kinder</add>† 1663 18 M<damage>ay</damage></hi> 
+                                                            <lb/><hi rendition="#et">1. 1654. 9. Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#horn_gottfried">Gottfried Horn</rs>, auf <rs type="place" ref="#oberschaar">Oberschaar</rs>
+                                                            <lb/>Rathsverwandten zu <rs type="place" ref="#freiberg">Freyberg</rs>. g.<ex>eboren</ex><add place="below"><unclear reason="illegible">4</unclear>Kinder</add>† 1663 18 M<damage>ay</damage></hi> 
                                                         </item>
                                                         <item>
-                                                            <lb/><hi rendition="#et">2. 1669. 26 Oct.<ex>ober</ex> H.<ex>errn</ex> Martin Alberten auf Toyschen
-                                                            <lb/>reuth Bobritzsch u<ex>nd</ex> Oberschaar, Burgerm.<ex>eister</ex> zu Freyberg. <add place="below">Konigl<ex>icher</ex> Rath. CryßSteuerEinnehmer</add>
-                                                            <lb/>g<ex>eboren</ex> 1642. 1 Nov<ex>ember</ex> zu Geithe<ex>i</ex>n † 1718. <unclear reason="illegible">8</unclear> Oct.<ex>ober</ex> &#x00E6;t<ex>atis</ex> 76 Jahr. 6 K.<ex>inder</ex>
+                                                            <lb/><hi rendition="#et">2. 1669. 26 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#albert_martin">Martin Alberten</rs> auf <rs type="place" ref="#troschenreuth"><w lemma="Toyschenreuth">Toyschen
+                                                            <lb/>reuth</w></rs> <rs type="place" ref="#bobritzsch">Bobritzsch</rs> u<ex>nd</ex> <rs type="place" ref="#oberschaar">Oberschaar</rs>, Burgerm.<ex>eister</ex> zu <rs type="place" ref="#freiberg">Freyberg</rs>. <add place="above">Konigl<ex>icher</ex> Rath. CryßSteuerEinnehmer</add>
+                                                            <lb/>g<ex>eboren</ex> 1642. 1 Nov<ex>ember</ex> zu <rs type="place" ref="#geithain">Geithe<ex>i</ex>n</rs> † 1718. <unclear reason="illegible">8</unclear> Oct.<ex>ober</ex> &#x00E6;t<ex>atis</ex> 76 Jahr. 6 K.<ex>inder</ex>
                                                             <lb/><space quantity="10" unit="minims"/>4. S.<ex>öhne</ex> 2 T.<ex>öchter</ex> davon
                                                             <lb/><space quantity="10" unit="minims"/>1 Todt gebohrn </hi>
                                                         </item>
@@ -530,9 +530,9 @@
                                                     <rs type="person" ref="#meurer_mariajustina">Maria Justina Pfretzschnerin</rs>
                                                     <lb/>g.<ex>eboren</ex> † 
                                                     <lb/>16. . . H.<ex>errn</ex> <rs type="person" ref="#meurer_christianfriedrich">Christian Friedrich Meurer</rs>
-                                                    <lb/>auf Luzensommern, Olßen, Trebnitz
-                                                    <lb/>u<ex>nd</ex> Lauterbach, Churf.<ex>ürstlich</ex> Sachß<ex>ischer</ex> Amtmann
-                                                    <lb/>zu Tennstädt.
+                                                    <lb/>auf <rs type="place" ref="#luetzensoemmern">Luzensommern</rs>, <rs type="place" ref="#oelsen">Olßen</rs>, <rs type="place" ref="#trebnitz">Trebnitz</rs>
+                                                    <lb/>u<ex>nd</ex> <rs type="place" ref="#lauterbach">Lauterbach</rs>, Churf.<ex>ürstlich</ex> Sachß<ex>ischer</ex> Amtmann
+                                                    <lb/>zu <rs type="place" ref="#tennstedt">Tennstädt</rs>.
                                                     <lb/><space quantity="10" unit="minims"/>6. S.<ex>öhne</ex> 6. T.<ex>öchter</ex> davon
                                                     <lb/><space quantity="10" unit="minims"/>4 S<ex>öhne</ex> u<ex>nd</ex> 2 T.<ex>öchter</ex> jung † 
                                                 </cell>
@@ -540,9 +540,9 @@
                                                     <rs type="person" ref="#heubler_johannamargaretha">Johanna Margaretha Pfretzschnerin</rs>
                                                     <lb/>g.<ex>eboren</ex><space quantity="10" unit="minims"/> †.
                                                     <lb/>1. . . . . H<ex>errn</ex> <rs type="person" ref="#heubler_tobias">Tobias Heubler</rs>
-                                                    <lb/>auff Schwandt u<ex>nd</ex> Droßkau I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex>
-                                                    <lb/>Hochherrl.<ex>icher</ex> Schonburg.<ex>ischer</ex> Rath u<ex>nd</ex> Amt
-                                                    <lb/>mann zu Penigk u<ex>nd</ex> Wechselburg
+                                                    <lb/>auff <rs type="place" ref="#schwandt">Schwandt</rs> u<ex>nd</ex> <rs type="place" ref="#droßkau">Droßkau</rs> I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex>
+                                                    <lb/>Hochherrl.<ex>icher</ex> Schonburg.<ex>ischer</ex> Rath u<ex>nd</ex> <w lemma="Amtmann">Amt
+                                                    <lb/>mann</w> zu <rs type="person" ref="#penig">Penigk</rs> u<ex>nd</ex> <rs type="place" ref="wechselburg">Wechselburg</rs>
                                                     <lb/><space quantity="10" unit="minims"/> 1. S.<ex>ohn</ex> 4 T.<ex>öchter</ex>
                                                 </cell>
                                                 <cell>
@@ -550,7 +550,7 @@
                                                     <lb/>g.<ex>eboren</ex><space quantity="10" unit="minims"/> †.
                                                         <list>
                                                             <item>
-                                                                <lb/><hi rendition="#et">1. . . . H<ex>errn</ex> Johann Nacken, auf Olßen.
+                                                                <lb/><hi rendition="#et">1. . . . H<ex>errn</ex><rs type="person" ref="#nacken_johann">Johann Nacken</rs>, auf Olßen.
                                                                 <lb/>hochgraffl.<ex>icher</ex> Schwartzb.<ex>urgischer</ex> Witthumsrath u<ex>nd</ex> Consulent
                                                                 <lb/>g<ex>eboren</ex><space quantity="10" unit="minims"/> †.</hi>
                                                             </item>
