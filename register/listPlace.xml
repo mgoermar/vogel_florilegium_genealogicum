@@ -168,34 +168,49 @@
                     <placeName ref="https://www.geonames.org/2874729/luetzensoemmern.html">Lützensömmern (bei Bad Tennstedt)</placeName>
                 </place>
                 <place xml:id="trebnitz">
-                
+                    <placeName ref=""
                 </place>
                 <place xml:id="lauterbach">
-                
+                    <placeName ref=""
                 </place>
                 <place xml:id="schwandt">
-                
+                    <placeName ref=""
                 </place>
                 <place xml:id="penig">
-                
+                    <placeName ref="https://www.geonames.org/2854967/penig.html">Penig</placeName>
                 </place>
                 <place xml:id="droßkau">
-                
+                    <placeName ref="https://www.geonames.org/2934845/drosskau.html">Droßkau</placeName>
                 </place>
                 <place xml:id="wechselburg">
-                
+                    <placeName ref="https://www.geonames.org/2813524/wechselburg.html">Wechselburg</placeName>
                 </place>
                 <place xml:id="schwarzburg-sonderhausen_grafschaft">
                     <placeName ref="https://d-nb.info/gnd/4118526-2">Schwarzburg-Sonderhausen, Grafschaft</placeName>
                 </place>
                 <place xml:id="sachsen-altenburg_herzogtum">
-                    <placeName ref="https://d-nb.info/gnd/4051180-7">Sachsen-Altenburg, Herzogtum</placeName>
+                    <placeName ref="https://d-nb.info/gnd/4051180-7">Sachsen-Altenburg, Herzogtum (1603-1672)</placeName>
                 </place>
                 <place xml:id="heiliges_roemisches_reich">
                     <placeName ref="https://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich Deutscher Nation</placeName>
                 </place>
                 <place xml:id="sachsen-zeitz_herzogtum">
-                    <placeName ref="https://d-nb.info/gnd/4473333-1">Sachsen-Zeitz, Herzogtum</placeName>
+                    <placeName ref="https://d-nb.info/gnd/4473333-1">Sachsen-Zeitz, Herzogtum (1656/57-1718)</placeName>
+                </place>
+                <place xml:id="sachsen-gotha-altenburg_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4051184-4">Sachsen-Gotha-Altenburg, Herzogtum (1672-1826)</placeName>
+                </place>
+                <place xml:id="sachsen-saalfeld_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4588672-6">Sachsen-Saalfeld, Herzogtum (1680-1735)</placeName>
+                </place>
+                <place xml:id="hessen-darmstadt_landgrafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4072471-2">Hessen-Darmstadt, Landgrafschaft (1567-1806)</placeName>
+                </place>
+                <place xml:id="reuß-gera_fuerstentum">
+                    <placeName ref="https://d-nb.info/gnd/4116970-0">Reuß-Gera, Fürstentum</placeName>
+                </place>
+                <place xml:id="schoenburg_grafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4762465-6">Schönburg, Grafschaft</placeName>
                 </place>
             </listPlace>
         </body>

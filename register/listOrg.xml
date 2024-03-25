@@ -43,6 +43,21 @@
                 <org xml:id="jena_hofgericht">
                     <orgName ref="https://d-nb.info/gnd/10197997-6">Jena, Fürstlich Sächsisches Hofgericht</orgName>
                 </org>
+                <org xml:id="heiliges_roemisches_reich_kaiser_ferdinand_3">
+                    <orgName ref="https://d-nb.info/gnd/1192803930">Heiliges Römisches Reich, Kaiser (1637-1657: Ferdinand III.)</orgName>
+                </org>
+                <org xml:id="heiliges_roemisches_reich_kaiser_leopold_1">
+                    <orgName ref="https://d-nb.info/gnd/1192229207">Heiliges Römisches Reich, Kaiser (1658-1705: Leopold I.)</orgName>
+                </org>
+                <org xml:id="heiliges_roemisches_reich_reichskammergericht">
+                    <orgName ref="https://d-nb.info/gnd/64409-2">Heiliges Römisches Reich, Reichskammergericht</orgName>
+                </org>
+                <org xml:id="dresden_rat">
+                    <orgName ref="https://d-nb.info/gnd/1081794992">Dresden, Rat der Stadt</orgName>
+                </org>
+                <org xml:id="freiberg_rat">
+                    <orgName ref="https://d-nb.info/gnd/1271446510">Freiberg, Rat der Stadt</orgName>
+                </org>
             </listOrg>
         </body>
     </text>

@@ -100,11 +100,11 @@
                                         <lb/> u<ex>nd</ex> JustitienRath . . . . . . . . . † 1679 2. Martij.
                                         <list>
                                             <item>
-                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn</rs> auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, <rs type="place" ref="#heiliges_roemisches_reich">Röm.<ex>isch</ex></rs> <rs type="person" ref="#habsburg_ferdinand_3">Key.<ex>serlichen</ex> Maj.<ex>estät</ex></rs> 
+                                                <lb/>1. 1653. 23 Sept<ex>ember</ex> J<ex>ungfer</ex> <rs type="person" ref="#thomas_mariaelisabeth"> Maria Elisabeth </rs> H<ex>errn</ex> <rs type="person" ref="#vonbohn_johannphilipp">Joh.<ex>ann</ex> Philipps von Bohn</rs> auf <rs type="place" ref="#birkenau">Birkenau</rs> u<ex>nd</ex> <rs type="place" ref="#weinheim">Weinheim</rs>, <rs type="org" ref="#heiliges_roemisches_reich_kaiser_ferdinand_3">Röm.<ex>isch</ex> Key.<ex>serlichen</ex> Maj.<ex>estät</ex></rs> 
                                                 <lb/>Reichshoffraths T.<ex>ochter</ex> g<ex>eboren</ex>1635. 22 Sept<ex>ember</ex> † 1664 19 Apr<ex>i</ex>l zu <rs type="place" ref="#regensburg">Regensburg</rs>. <space quantity="10" unit="minims"/> 4 Kinder.
                                             </item>
                                             <item>
-                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam g.<ex>eborene</ex> Schrödherin</rs> H<ex>errn</ex> <rs type="person" ref="#hornick_paul">Paul Hörnicks</rs> furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex> Hoff un<ex>d</ex>JustitienRaths 
+                                                <lb/>2. 1671. 28 Febr<ex>uar</ex> f<ex>rau</ex> <rs type="person" ref="#thomas_susanna">Susannam g.<ex>eborene</ex> Schrödherin</rs> H<ex>errn</ex> <rs type="person" ref="#hornig_paul">Paul Hörnicks</rs> <rs type="place" ref="#sachsen-zeitz_herzogtum">furst<ex>lich</ex> Sachß<ex>isch</ex> Naumb.<ex>urgischer</ex></rs> Hoff un<ex>d</ex>JustitienRaths 
                                                 <lb/>Wittwe g.<ex>eboren</ex>. . . . † 16... mit ihr gezeuget 2. Söhne.
                                             </item>
                                         </list>
@@ -126,9 +126,9 @@
                                                     2. <rs type="person" ref="#hendrich_mariaelisabeth">Maria Elisabeth</rs> 
                                                     <lb/>g.<ex>eboren</ex> 1657. 19 Dec.<ex>ember</ex>
                                                     <lb/>1672. 25 Junij H.<ex>errn</ex> <rs type="person" ref="#hendrich_johanncaspar">Johann
-                                                    <lb/>Caspar Hendrichs</rs> auff
-                                                    <lb/><rs type="place" ref="#knau">Knau</rs> u.<ex>nd</ex> <!-- Frauenlieb -->, hochf.<ex>ürstlich</ex>
-                                                    <lb/>Sachß<ex>ischer</ex> ViceCantzler u<ex>nd</ex> des
+                                                    <lb/>Caspar Hendrichs,</rs> auff
+                                                    <lb/><rs type="place" ref="#knau">Knau</rs> u.<ex>nd</ex> <rs type="place" ref="#frauenfels">frauenfels</rs>, <rs type="place" ref="sachsen-altenburg_herzogtum">hochf.<ex>ürstlich</ex>
+                                                    <lb/>Sachß<ex>ischer</ex></rs> ViceCantzler u<ex>nd</ex> des
                                                     <lb/>Consist<ex>oriums</ex> praesident zu <rs type="place" ref="#altenburg"><w lemma="Altenburg">Alten
                                                     <lb/>burg.</w></rs> g<ex>eboren</ex> 1635. 20 April.
                                                     <lb/>† 170. . .
@@ -180,10 +180,10 @@
                                                     3. <rs type="person" ref="#bachovvonecht_magdalenasibylla"> Magdalena Sibylla </rs>
                                                     <lb/>g<ex>eboren</ex>16 . . 
                                                     <lb/>. . . . . H<ex>errn</ex> <rs type="person" ref="#bachovvonecht_johannfriedrich">Jo<ex>hann</ex> Friedr.<ex>ich</ex>
-                                                    <lb/>Bacchovij von Echt.</rs> des H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
-                                                    <lb/>Reichs Erbh.<ex>err</ex> auff <rs type="place" ref="#romschuetz">Romschütz</rs>
-                                                    <lb/>und <rs type="place" ref="#dobitschen">Dobitschen</rs>. R<ex>ömischen</ex>K.<ex>aiserlichen</ex>May<ex>estät</ex>Reichs
-                                                    <lb/>Hoffrath, hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex> geheimter
+                                                    <lb/>Bacchovij von Echt.</rs> des <rs type="place" ref="#heiliges_roemisches_reich">H.<ex>eiligen</ex> Rom.<ex>ischen</ex>
+                                                    <lb/>Reichs</rs> Erbh.<ex>err</ex> auff <rs type="place" ref="#romschuetz">Romschütz</rs>
+                                                    <lb/>und <rs type="place" ref="#dobitschen">Dobitschen</rs>. <rs type="org" ref="#heiliges_roemisches_reich_kaiser_leopold_1">R<ex>ömischen</ex> K.<ex>aiserlichen</ex>May<ex>estät</ex></rs> <w lemma="ReichsHoffrath">Reichs
+                                                    <lb/>Hoffrath</w>, <rs type="place" ref="#sachsen-gotha-altenburg_herzogtum">hochfürstl<ex>ich</ex> Sachs.<ex>ischer</ex></rs> geheimter
                                                     <lb/>Rathdirector u.<ex>nd</ex> Canzler zu <rs type="place" ref="#friedenstein"><w lemma="Friedenstein">Frie
                                                     <lb/>denstein.</w></rs> Vide. Gen.<ex>ealogiam</ex> Bacchov.<ex>iam</ex> 
                                                 </cell>
@@ -207,8 +207,8 @@
                                     <cell>
                                         <rs type="person" ref="#lauhn_martha">Martha Thomasin</rs>
                                         <lb/>g.<ex>eboren</ex> 1626: 15 Oct.<ex>ober</ex> †  1690 14 Sept.<ex>ember</ex>
-                                        <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, fürstl<ex>ich</ex>
-                                        <lb/>Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#saalfeld">Salfeldt</rs> g.<ex>eboren</ex>
+                                        <lb/>1655. 3 Sept.<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#lauhn_andreas">Andreas Lauhn</rs>, <rs type="place" ref="#sachsen-saalfeld_herzogtum">fürstl<ex>ich</ex>
+                                        <lb/>Sachß.<ex>ischer</ex></rs> Amtschößer zu <rs type="place" ref="#saalfeld">Salfeldt</rs> g.<ex>eboren</ex>
                                         <lb/>†.
                                         <table rendition="#topBraced">
                                             <row>
@@ -247,10 +247,10 @@
                                     </cell>
                 <!-- <pb facs="rep_6_16-a_0921.jpg" n="457r"/> -->
                                     <cell>
-                                        H.<ex>err</ex><rs type="person" ref="#thomae_henning_1">Henning Thom&#x00E6;</rs>, hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex> Cammer und Lehn Secretarius zu Altenburg
+                                        H.<ex>err</ex><rs type="person" ref="#thomae_henning_1">Henning Thom&#x00E6;</rs>, <rs type="place" ref="#sachsen-altenburg_herzogtum">hochfurstl.<ex>ich</ex>Sächß.<ex>ischer</ex></rs> Cammer und Lehn Secretarius zu <rs type="place" ref="#altenburg">Altenburg</rs>
                                         <lb/>g.<ex>eboren</ex> 1628. d.<ex>en</ex> 14 April.  †.
-                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria_1">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_simplicius">Simplicij Withmans</rs> hochfurstl.<ex>ich</ex> Heßen <w lemma="darmstädtischen">darm
-                                        <lb/>städtischen</w> Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
+                                        <lb/>1660. 9 Dec.<ex>ember</ex>J<ex>ung</ex>fe<ex>r</ex> <rs type="person" ref="#thomae_annamaria_1">Anna Maria</rs> H<ex>errn</ex><rs type="person" ref="#widmann_simplicius">Simplicij Withmans</rs> <rs type="place" ref="#hessen-darmstadt_landgrafschaft">hochfurstl.<ex>ich</ex> Heßen <w lemma="darmstädtischen">darm
+                                        <lb/>städtischen</w></rs> Raths. Tochter g.<ex>eboren</ex> 1637. 10 Julij. †. 16. . . . .
                                         <table rendition="#topBraced">
                                             <row>
                                                 <cell>    
@@ -304,8 +304,9 @@
                                                                 <lb/>Gotthard Rabe
                                                                 <lb/>ner</rs> s<ex>acro</ex>s<ex>anctae</ex> Th.<ex>eologiae</ex> Bacc.<ex>alaureus</ex>
                                                                 <lb/>u<ex>nd</ex> conc.<ex>ionator</ex> Sabbath<ex>icus</ex>
-                                                                <lb/>zu <rs type="place" ref="#leipzig_thomaskirche">S.<ex>ankt</ex> Thom&#x00E6;</rs>, Diac.<ex>onus</ex> <!--?????-->
-                                                                <lb/>zu <rs type="place" ref="#leipzig">Leipzig</rs> u<ex>nd</ex> <!--UNKLAR--> S Thomas
+                                                                <lb/>zu <rs type="place" ref="#leipzig_thomaskirche">S.<ex>ankt</ex> Thom&#x00E6;</rs>, Diac.<ex>onus</ex> 
+                                                                <lb/>zu <rs type="place" ref="#leipzig">leipzig</rs> in d<ex>er</ex> <rs type="place" ref="#leipzig_thomaskirche"><subst><del>Neuen</del><add place="inline">Thomas</add></subst><note type="annotation">"Neuen" durch Überschreibung zu "Thomas" verbessert.</note>
+                                                                <lb/>Kirche</rs>.
                                                                 <lb/>g<ex>eboren</ex> 1688. 22 May
                                                                 <lb/>† 1731. 24. Aug.<ex>ust</ex>
                                                             </cell>
@@ -394,7 +395,7 @@
                 <!-- <pb facs="rep_6_16-a_0922.jpg" n="457v"/> -->                     
                         <cell>
                             <rs type="person" ref="#rother_sara">Sara Thom&#x00E6;in</rs> g.<ex>eboren</ex> 1591 10 Febr.<ex>uar</ex> † 1680. 4 Jan.<ex>uar</ex> &#x00E6;t<ex>atis</ex> 89.
-                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#rother_daniel">Daniel Rother</rs>, Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex> Amtschößer zu <rs type="place" ref="#weida">Weyda</rs> auff <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu <rs type="place" ref="#zerbst">Zerbst</rs> auf
+                            <lb/>1614. 7. Nov<ex>ember</ex> H<ex>errn</ex> <rs type="person" ref="#rother_daniel">Daniel Rother</rs>, <rs type="place" ref="#sachsen_kurfuerstentum">Chu<ex>r</ex>f.<ex>ürstlich</ex> Sachß.<ex>ischer</ex></rs> Amtschößer zu <rs type="place" ref="#weida">Weyda</rs> auff <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> Erbsaßen g<ex>eboren</ex> 1584. 31 May † 1632. 25 Oct.<ex>ober</ex> zu <rs type="place" ref="#zerbst">Zerbst</rs> auf
                             <lb/>der Flucht vorm Feinde.
                             <table rendition="topBraced">
                                 <row>
@@ -404,10 +405,10 @@
                                         <lb/>in seiner Kindheit.
                                     </cell>
                                     <cell>
-                                        <rs type="person" ref="#pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis.<note type="footnote" resp="mg">Gemeint ist der 29. September als Festtag des Erzengels Michael.</note> † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu <rs type="place" ref="#treuen">Treuen</rs> im Voigtlande.
+                                        <rs type="person" ref="#pfretzschner_sara">Sara Thomaein</rs> g.<ex>eboren</ex> 1616. Die Michaelis.<note type="footnote" resp="mg">Gemeint ist der 29. September als Festtag des Erzengels Michael.</note> † 1658. d.<ex>en</ex> 26 Sept.<ex>ember</ex> zu <rs type="place" ref="#treuen">Treuen im Voigtlande</rs>.
                                         <lb/>1631. 8 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#pfretzschner_nicolaus_1">Nicolaus Pfretzschner</rs> I<ex>uris</ex> U<ex>triusque</ex> d<ex>octor</ex> Com.<ex>es</ex> Palat.<ex>inus</ex> Caes.<ex>areus</ex> auff <rs type="place" ref="#troschenreuth">Troschenreuth</rs>
-                                        <lb/><rs type="place" ref="#oelsen">Oelsen</rs>, und <rs type="place" ref="#oberschaar">OberSchaar</rs> Erbsaßen, Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex> hofjustitien u<ex>nd</ex> Grentz am Reichscam<ex>m</ex>er
-                                        <lb/>gerichts Sachen zu <rs type="place" ref="#dresden">Dresden</rs> wohlbehalten Rath. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu <rs type="place" ref="#dresden">Dresd<ex>en</ex></rs>
+                                        <lb/><rs type="place" ref="#oelsen">Oelsen</rs>, und <rs type="place" ref="#oberschaar">OberSchaar</rs> Erbsaßen, <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> hofjustitien u<ex>nd</ex> Grentz am <rs type="org" ref="#heiliges_roemisches_reich_reichskammergericht"><w lemma="Reichscammergericht">Reichscam<ex>m</ex>er
+                                        <lb/>gerichts</w></rs> Sachen zu <rs type="place" ref="#dresden">Dresden</rs> wohlbehalten <rs type="org" ref="#dresden_rat">Rath</rs>. g.<ex>eboren</ex> 1599 d.<ex>en</ex> 7 Nov<ex>ember</ex> † 1667. 29.  Dec.<ex>ember</ex> zu <rs type="place" ref="#dresden">Dresd<ex>en</ex></rs>
                                         <lb/>ward nach <rs type="person" ref="#weida">Weida</rs> gebracht u<ex>nd</ex> <rs type="place" ref="#weida">daselbst</rs> begraben. 1668 d.<ex>en</ex> 8 Januarij.
                                         <lb/><space quantity="10" unit="minims"/> 4 S.<ex>öhne</ex> 8 T.<ex>öchter</ex>
                                         <table rendition="#topBraced">
@@ -449,8 +450,8 @@
                                                                 <rs type="place" ref="#rost_johannamargaretha">Johanna Margaretha</rs>
                                                                 <lb/>g<ex>eboren</ex>
                                                                 <lb/>16. . . . . Herr
-                                                                <lb/><rs type="person" ref="#rost_johann">Johann Rhost</rs>, hochgräffl.<ex>ich</ex>
-                                                                <lb/>Reuß<ex>isch</ex> Pl.<ex>auenscher</ex> Amtschößer zu
+                                                                <lb/><rs type="person" ref="#rost_johann">Johann Rhost</rs>, <rs type="place" ref="#reuß-gera_fuerstentum">hochgräffl.<ex>ich</ex>
+                                                                <lb/>Reuß<ex>isch</ex> Pl.<ex>auenscher</ex></rs> Amtschößer zu
                                                                 <lb/><rs type="place" ref="#gera">Gera</rs>.
                                                             </cell>
                                                         </row>
@@ -460,7 +461,7 @@
                                                     <rs type="person" ref="#meurer_sarasophia">Sara Sophia <subst><del>...</del><add place="inline">Pfretzschnerin</add></subst></rs> zu <rs type="place" ref="#weida">Weyda</rs>
                                                     <lb/>g.<ex>eboren</ex> 1635. 6 Dec.<ex>mber</ex> † 1659 17 Febr<ex>uar</ex> zu <rs type="place" ref="#glauchau">Glaucha</rs>. <!-- Schreibweise Ort -->
                                                     <lb/>1651. 7. Oct<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#meurer_andreas_1">Andreas Meurer</rs>
-                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> herrl.<ex>ich</ex> Schönburgisch Hoffrath und
+                                                    <lb/>I<ex>uris</ex> U<ex>triusque</ex> D.<ex>octor</ex> <rs type="place" ref="#schoenburg_grafschaft">herrl.<ex>ich</ex> Schönburgisch</rs> Hoffrath und
                                                     <lb/>Consulent in <rs type="place" ref="#leipzig">Leipzig</rs> g.<ex>eboren</ex> 1623 27 April. zu <add place="below"><rs type="place" ref="#mutzschen">Mutschen</rs></add>
                                                     <lb/>† 1670. 18 Aug.<ex>ust</ex>
                                                     <table rendition="topBraced">
@@ -511,7 +512,7 @@
                                                     <list>
                                                         <item>
                                                             <lb/><hi rendition="#et">1. 1654. 9. Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#horn_gottfried">Gottfried Horn</rs>, auf <rs type="place" ref="#oberschaar">Oberschaar</rs>
-                                                            <lb/>Rathsverwandten zu <rs type="place" ref="#freiberg">Freyberg</rs>. g.<ex>eboren</ex><add place="below"><unclear reason="illegible">4</unclear>Kinder</add>† 1663 18 M<damage>ay</damage></hi> 
+                                                            <lb/><rs type="org" ref="#freiberg_rat">Rathsverwandten</rs> zu <rs type="place" ref="#freiberg">Freyberg</rs>. g.<ex>eboren</ex><add place="below"><unclear reason="illegible">4</unclear>Kinder</add>† 1663 18 M<damage>ay</damage></hi> 
                                                         </item>
                                                         <item>
                                                             <lb/><hi rendition="#et">2. 1669. 26 Oct.<ex>ober</ex> H.<ex>errn</ex> <rs type="person" ref="#albert_martin">Martin Alberten</rs> auf <rs type="place" ref="#troschenreuth"><w lemma="Toyschenreuth">Toyschen
