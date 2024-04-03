@@ -2651,6 +2651,776 @@
                     </note>
 
                 </person>
+                 <person xml:id="volckmar_heinrich">
+                    <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Heinrich</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="volckmar_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Johannes</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="volckmar_nicolaus1">
+                    <persName>
+                        <forename>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="gretsch_curigunda">
+                    <persName>
+                        <forename>Curigunda</forename>
+                        <surname>Gretzsch</surname>
+                    </persName>
+                    <persName type="display">Gretzsch, Curigunda</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="margaretha_anon1">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>anon</surname>
+                    </persName>
+                    <persName type="display">Unbekannt, Margaretha</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="pfeiffer_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer, Johann</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="pfefferin_margaretha">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>Pfeifferin</surname>
+                    </persName>
+                    <persName type="display">Pfeifferin, Margaretha</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="volckmar_martin">
+                    <persName>
+                        <forname>Martin</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Martin</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="volckmar_nicolaus2">
+                    <persName>
+                        <forname>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>  
+                     <birth>
+                        <date when="14XX">14...</date>
+                    </birth>
+                    <death>
+                        <date when="1521">1521</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_augusting">
+                    <persName>
+                        <forname>Augusting</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Augusting</persName>
+                    <sex value="m"/>    
+                    <birth>
+                        <date when="149X">149...</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1555">1555</date>
+                    </death>            
+                </person>
+                 <person xml:id="volckmar_anna1">
+                    <persName>
+                        <forname>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Lindemann, Anna</persName>
+                    <sex value="f"/>               
+                </person>
+                 <person xml:id="lindemans_johannes">
+                    <persName>
+                        <forname>Johannes</forename>
+                        <surname>Lindeman</surname>
+                    </persName>
+                    <persName type="display">Lindeman, Johannes</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_anna2">
+                    <persName>
+                        <forname>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Jordan, Anna</persName>
+                    <sex value="f"/>   
+                    <death>
+                        <date when="1588">1588</date>
+                    </death>               
+                </person>
+                 <person xml:id="jordan_gregor">
+                    <persName>
+                        <forname>Gregor</forename>
+                        <surname>Jordan</surname>
+                    </persName>
+                    <persName type="display">Jordan, Gregor</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_margaretha1">
+                    <persName>
+                        <forname>Margaretha</forename>
+                        <surname>Burlingen</surname>
+                    </persName>
+                    <persName type="display">Burlingen geb. Volckmar, Margaretha</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="burlingen_johann">
+                    <persName>
+                        <forname>Johann</forename>
+                        <surname>Burlingen</surname>
+                    </persName>
+                    <persName type="display">Burlingen, Johann</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_solomra">
+                    <persName>
+                        <forname>Solomra</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer geb. Volckmar, Solomra</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="pfeiffer_hieronomus">
+                    <persName>
+                        <forname>Hieronomus</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer, Hieronomus</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_maria1">
+                    <persName>
+                        <forname>Maria</forename>
+                        <surname>Stromer</surname>
+                    </persName>
+                    <persName type="display">Stromer geb. Volckmar, Maria</persName>
+                    <sex value="f"/>  
+                    <death>
+                        <date when="1580">1588</date>
+                        <placeName ref="#weimar">Weimar</placeName>
+                    </death>                
+                </person>
+                 <person xml:id="stromer_johann">
+                    <persName ref="https://d-nb.info/gnd/117676969">
+                        <forname>Johann</forename>
+                        <surname>Stromer</surname>
+                    </persName>
+                    <persName type="display">Stromer, Johann</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="1526">1526</date>
+                        <placeName ref="#auerbach">Auerbach</placeName>
+                    </birth>
+                    <death>
+                        <date when="11607">1607</date>
+                        <placeName ref="#jena">Jena</placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_esther">
+                    <persName>
+                        <forname>Esther</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Esther</persName>
+                    <sex value="f"/>   
+                    <death>
+                        <date when="1610-11-26">26. November 1586</date>
+                    </death>             
+                </person>
+                 <person xml:id="m_peter">
+                    <persName>
+                        <forname>M.</forename>
+                        <surname>Peter</surname>
+                    </persName>
+                    <persName type="display">Peter, M.</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="volckmar_anna3">
+                    <persName>
+                        <forname>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Anna</persName>
+                    <sex value="f"/>   
+                    <birth>
+                        <date when="1551">1551</date>
+                    </birth>             
+                </person>
+                 <person xml:id="volckmar_maria2">
+                    <persName>
+                        <forname>Maria</forename>
+                        <surname>Griebe</surname>
+                    </persName>
+                    <persName type="display">Griebe geb. Volckmar, Anna</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="15XX">15..</date>
+                    </birth>
+                    <death>
+                        <date when="1583-07-16">16. Juli 1583</date>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </death>                
+                </person>
+                 <person xml:id="griebe_jacob">
+                    <persName>
+                        <forname>Jacob</forename>
+                        <surname>Griebe</surname>
+                    </persName>
+                    <persName type="display">Griebe, Jacob</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_margaretha2">
+                    <persName>
+                        <forname>Margaretha</forename>
+                        <surname>Fritzschhansen</surname>
+                    </persName>
+                    <persName type="display">Fritzschhansen geb. Volckmar, Margaretha</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1534-02">Februar 1534</date>
+                    </birth>
+                    <death>
+                        <date when="151601-11-11">11. Novemver 1601</date>
+                    </death>               
+                </person>
+                 <person xml:id="fritzschhansen_paul">
+                    <persName>
+                        <forname>Paul</forename>
+                        <surname>Fritzschhansen</surname>
+                    </persName>
+                    <persName type="display">Fritzschhansen, Paul.</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_gregor">
+                    <persName>
+                        <forname>Gregorius</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Gregorius</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_catharina1">
+                    <persName>
+                        <forname>Catharina</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="volckmar_nicolaus3">
+                    <persName ref="https://d-nb.info/gnd/1033226025">
+                        <forname>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="11573-10-12">12. Oktober 1573</date>
+                    </birth>
+                    <death>
+                        <date when="11602-10-03">3. Oktober 1602</date>
+                        <placeName ref="#haynstraße">Haynstraße in Leipzig </placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_maria3">
+                    <persName ref="https://d-nb.info/gnd/12202639X">
+                        <forname>Maria</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Rothaupt, Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1570-10-04">4. Oktober 1570</date>
+                    </birth>
+                    <death>
+                        <date when="1602-10-22">22. Oktober 1602</date>
+                    </death>                
+                </person>
+                 <person xml:id="rothaupt_heinrich">
+                    <persName ref="https://d-nb.info/gnd/1019607564">
+                        <forname>Heinrich</forename>
+                        <surname>Rothaupt</surname>
+                    </persName>
+                    <persName type="display">Rothaupt, Heinrich</persName>
+                    <sex value="m"/>    
+                    <birth>
+                        <date when="1529">1529</date>
+                    </birth>
+                    <death>
+                        <date when="1610-03-05">1600</date>
+                    </death>            
+                </person>
+                 <person xml:id="volckmar_maria4">
+                    <persName>
+                        <forname>Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe geb. Volckmar, Maria</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1595-01-24">24. Januar 1595</date>
+                    </birth>
+                    <death>
+                        <date when="1623-04-29">29. Januar 1623</date>
+                    </death>               
+                </person>
+                 <person xml:id="luppe_gregor1">
+                    <persName ref="https://d-nb.info/gnd/1052487572">
+                        <forname>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregorius</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1582">6. März 1555</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1636-10-15">15. Oktober 1636</date>
+                        <placeName ref="#delitzsch">Delitzsch</placeName>
+                    </death>             
+                </person>
+                 <person xml:id="volckmar_catharina2">
+                    <persName ref="https://d-nb.info/gnd/115586040">
+                        <forname>Catharina</forename>
+                        <surname>Ankelman geb. Volckmar</surname>
+                    </persName>
+                    <persName type="display">Ankelman, Catharina</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1596-04-23">23. April 1596</date>
+                    </birth>
+                    <death>
+                        <date when="1624-04-29">29. April 1624</date>
+                    </death>              
+                </person>
+                 <person xml:id="lebzelter_wolfgang">
+                    <persName ref="https://d-nb.info/gnd/118044990">
+                        <forname>Wolfgang</forename>
+                        <surname>Lebzelter</surname>
+                    </persName>
+                    <persName type="display">Lebzelter, Wolfgang</persName>
+                    <sex value="m"/>
+                     <birth>
+                        <date when="1592">1592</date>
+                    </birth>
+                    <death>
+                        <date when="1622">1622</date>
+                    </death>                
+                </person>
+                 <person xml:id="anckelmann_joachim">
+                    <persName ref="https://d-nb.info/gnd/122967887">
+                        <forname>Joachim</forename>
+                        <surname>Ankelman</surname>
+                    </persName>
+                    <persName type="display">Ankelman, Joachim.</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1592">1592</date>
+                    </birth>
+                    <death>
+                        <date when="1648">1592</date>
+                    </death>             
+                </person>
+                  <person xml:id="volckmar_sabina">
+                    <persName ref="https://d-nb.info/gnd/124682502">
+                        <forname>Sabina, später Sabine</forename>
+                        <surname>Leyser</surname>
+                    </persName>
+                    <persName type="display">Leyser geb. Volckmar, Sabina</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1598-07-22">22. Juli 1598</date>
+                    </birth>
+                    <death>
+                        <date when="1634-09-26">26. September 1634</date>
+                    </death>               
+                </person>
+                  <person xml:id="lyser_polycarpus">
+                    <persName ref="https://d-nb.info/gnd/116991615">
+                        <forname>Polycarpus</forename>
+                        <surname>Leyser</surname>
+                    </persName>
+                    <persName type="display">Leyser, Polycarpus</persName>
+                    <sex value="m"/>  
+                     <birth>
+                        <date when="1586">1586</date>
+                    </birth>
+                    <death>
+                        <date when="1633">1633</date>
+                    </death>              
+                </person>
+                  <person xml:id="volckmar_nicolaus4">
+                    <persName>
+                        <forname>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1600-06-16">16. Juni 1600</date>
+                    </birth>
+                    <death>
+                        <date when="1601-06-27">27. Juni 1601</date>
+                    </death>             
+                </person>
+                  <person xml:id="volckmar_catharina2">
+                    <persName>
+                        <forname>Catharina</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                  <person xml:id="franckenstein_christian">
+                    <persName>
+                        <forname>Christian</forename>
+                        <surname>Franckenstein</surname>
+                    </persName>
+                    <persName type="display">Franckenstein, Christian</persName>
+                    <sex value="m"/>   
+                    <death>
+                        <date when="1637">1637</date>
+                    </death>             
+                </person>
+                  <person xml:id="franckenstein_christina">
+                    <persName>
+                        <forname>Christina</forename>
+                        <surname>Franckenstein geb. Volckmar</surname>
+                    </persName>
+                    <persName type="display">Franckenstein, Christina</persName>
+                    <sex value="m"/>
+                     <birth>
+                        <date when="1602-04-19">19. April 1602</date>
+                    </birth>
+                    <death>
+                        <date when="1633-01-13">13. Januar 1633</date>
+                    </death>              
+                </person>
+                <person xml:id="luppe_gregor2">
+                    <persName ref="https://d-nb.info/gnd/128656581">
+                        <forname>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregorius</persName>
+                    <sex value="m"/> 
+                     <birth>
+                        <date when="1612-06-17">17. Juni 1612</date>
+                    </birth>
+                    <death>
+                        <date when="1677-01-13">13. Januar 1677</date>
+                    </death>               
+                </person>
+                <person xml:id="fischer_susanna">
+                    <persName>
+                        <forname>Susanna</forename>
+                        <surname>Luppe geb. Fischer</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_nicolaus">
+                    <persName>
+                        <forname>Nicolaus</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Nicolaus</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1613-12-31">31. Dezember 1613</date>
+                    </birth>
+                    <death>
+                        <date when="1622-09-29">29. September 1622</date>
+                    </death>             
+                </person>
+                <person xml:id="luppe_maria5">
+                    <persName>
+                        <forname>Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Maria</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1616-01-10">10. Januar 1616</date>
+                    </birth>               
+                </person>
+                  <person xml:id="luppe_heinrich">
+                    <persName>
+                        <forname>Heinrich</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Heinrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1619-11-01">1. November 1619</date>
+                    </birth>                 
+                </person>
+                <person xml:id="luppe_caspar">
+                    <persName>
+                        <forname>Caspar</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Caspar</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="1617-10-14">14. November 1617</date>
+                    </birth>
+                    <death>
+                        <date when="1636-10-05">5. Oktober 1636</date>
+                        <placeName ref="#delitzsch">Delitzsch</placeName>
+                    </death>               
+                </person>
+                <person xml:id="luppe_sabina">
+                    <persName>
+                        <forname>Sabina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Sabina</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1621-10-26">26. Oktober 1621</date>
+                    </birth>               
+                </person>
+                <person xml:id="luppe_susannamaria1">
+                    <persName>
+                        <forname>Susanna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna Maria</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_catharina">
+                    <persName>
+                        <forname>Catharina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_annasophia">
+                    <persName>
+                        <forname>Anna Sophia</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Sophia</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_susanna1">
+                    <persName>
+                        <forname>Susanna</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_christian">
+                    <persName>
+                        <forname>Christian</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Christian</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_gregor3">
+                    <persName>
+                        <forname>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregor</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_johannesgottfried">
+                    <persName>
+                        <forname>Johannes Gottfried</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johannes Gottfried</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_andreas">
+                    <persName ref="https://d-nb.info/gnd/128460334">
+                        <forname>Andreas</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Andreas</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_susanna2">
+                    <persName>
+                        <forname>Susanna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1669-11-07">7. November 1669</date>
+                    </birth>               
+                </person>
+                <person xml:id="luppe_martin">
+                    <persName>
+                        <forname>Johann Martin</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Martin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1574-03-09">9. März 1674</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_augusta">
+                    <persName>
+                        <forname>Augusta Magdalena</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Augusta Magdalena</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1675-11-05">6. November 1675</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_annamaria">
+                    <persName>
+                        <forname>Anna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1677-09-14">14. September 1677</date>
+                    </birth>                
+                </person>
+                <person xml:id="vollrath_johannes">
+                    <persName>
+                        <forname>Johannes</forename>
+                        <surname>Vollrath</surname>
+                    </persName>
+                    <persName type="display">Vollrath, Johannes</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1685-06-14">14. Juni 1685</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_sophiaelisabeth">
+                    <persName>
+                        <forname>Sophia Elisabeth</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Sophia Elisabeth</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1687-01-04">4. Januar 1687</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_johannesgeorg">
+                    <persName>
+                        <forname>Johannes Georg</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johannes Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1689-11-03">3. Novemver 1689</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_cristoph">
+                    <persName>
+                        <forname>Christoph</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Christoph</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_susannamaria1">
+                    <persName>
+                        <forname>Susanna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna Maria</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="standhaupt_caspar">
+                    <persName>
+                        <forname>Caspar</forename>
+                        <surname>Standhaupt</surname>
+                    </persName>
+                    <persName type="display">Standhaupt, Caspar</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="stumer_dorothea">
+                    <persName>
+                        <forname>Dorothea</forename>
+                        <surname>Stumer</surname>
+                    </persName>
+                    <persName type="display">Stumer, Dorothea</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="stumer_georg">
+                    <persName>
+                        <forname>Georg</forename>
+                        <surname>Stumer</surname>
+                    </persName>
+                    <persName type="display">Stumer, Georg</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_annacatharina">
+                    <persName>
+                        <forname>Anna Catharina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_johanngottfried">
+                    <persName>
+                        <forname>Johann Gottfried</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Gottfried</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_christian">
+                    <persName>
+                        <forname>Christian</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Christian</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_johannsamuel">
+                    <persName ref="https://d-nb.info/gnd/1015942873">
+                        <forname>Johann Samuel</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Samuel</persName>
+                    <sex value="m"/>  
+                    <death>
+                        <date when="1742">1742</date>
+                    </death>              
+                </person>
         <!--Thomasius2-->
             </listPerson>
         </body>
