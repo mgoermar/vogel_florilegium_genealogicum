@@ -132,8 +132,8 @@
                                                     Anna Thoma? g<ex>eboren</ex> 1620. 31 Aug<ex>ust</ex> † 1669 30 Julij
                                                     <lb/>1637. d 21. Aug<ex>ust</ex> H<ex>err</ex> Johann Alberti Erbhl auf Wiedersberg detz. Graffl Reuß Plansche? hochbestallten
                                                     <lb/>Rathe? Canzler, der Consistorij director u<ex>nd</ex> der Landschule zu Gr??? Inspeta primari?? g<ex>eboren</ex> 1600 20 May zu Lobenstein
-                                                    <lb/>† 1680. d 13 Julij et 50?.
-                                                    <lb/><add place="right">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung gestorben.3</add>
+                                                    <lb/>† 1680. d 13 Julij et 80?.
+                                                    <lb/><hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung gestorben.3</hi>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -205,6 +205,36 @@
                         </cell>
                     </row>        
                 </table>
+                <pb facs="rep_6_16-a_0919.jpg" n="455r"/>
+                <table>
+                    <row>
+                        <cell rendition="#topBraced">
+                            <unclear reason="invisible">...</unclear> g<ex>eboren</ex> . . . . . †
+                            <table rendition="#topBraced">
+                                <row>
+                                    <cell>
+                                        <!--Michael Thomas der Ältere-->
+                                        und 1617 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> ...
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>
+                                                    H<ex>err</ex> Jakob Thomasius...
+                                                    <lb/>
+                                                    <lb/>
+                                                    <list>
+                                                        <item>
+                                                            1.
+                                                        </item>
+                                                    </list>
+                                                </cell>
+                                            </row>
+                                    </cell>
+                                </row>
+                            </table>
+                        </cell>
+                    </row>
+                
+                </table>            
             </div>
         </body>
     </text>
