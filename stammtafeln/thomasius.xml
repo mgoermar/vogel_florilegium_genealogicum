@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+po<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model
   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
@@ -78,19 +78,21 @@
         <body>
             <div xml:id="stammbaum_thomasius"/>
                 <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
-                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in<unclear reason="invisible">...</unclear></head>
+                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in <unclear reason="illegible">...</unclear></head>
                 <table>
                     <row>
-                        <cell>
-                        H<ex>err</ex> <rs type="person">Michael Thomas</rs> der ältere auf <rs type="place">Troschenreuth</rs> v<ex>on</ex> Wiedersberg, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts??? haben deren adelichen Güter
-                        <lb/>15... Fr<ex>au</ex> <rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> Churf<ex>ürstlich</ex> Sachs<ex>ens</ex> Amtschöß es zu Weyden T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Lüdwig Sturms</rs> Medic<ex>us</ex> de Rachis in <rs type="place">Merseburg</rs> ? g<ex>eboren</ex>....
-                        </cell>
+                        <cell rendition="#topBraced">
+                        H<ex>err</ex> <rs type="person>Michael Thomas</person> der ältere auf <rs type="place" ref="troschenreuth">Troschenreuth</rs> v<ex>on</ex> <rs type=place ref="wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts<unclear reason="illegible">...</unclear> haben deren adelichen Güter
+                        <lb/>15... Fr<ex>au</ex> <rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> Churf<ex>ürstlich</ex> Sachs<ex>ens</ex> Amtschöß es zu Weyden T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Lüdwig Sturms</rs> Medic<ex>us</ex> de Rachis in <rs type="place" ref="merseburg">Merseburg</rs> T<ex>ochter</ex> g<ex>eboren</ex>....
                     </row>
+                
+                <table>
                     <row>
-                        <cell>
-                            H<ex>err</ex> Michael Thoma auf Troschenreuth u<ex>nd</ex> <rs type="place">Wiedersberg</rs> ...d u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1597. 3 Febr<ex>uar</ex> zu Mildenfort bey Weyden
+                        <cell rendition="#topBraced">
+                            H<ex>err</ex> Michael Thoma auf <rs type="place" ref="troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey Weyden
                             <lb/>1618. 15 juni X? Anna H<ex>err</ex> D<ex>r.</ex> <rs type="person">Jacob Schultze</rs> ßas Churf<ex>ürstlich</ex> Seichs Alteb Rath T g<ex>eboren</ex>....† 1633.1.Oct<ex>ober</ex>
                             <lb/>7. K<ex>inder</ex> 5 S<ex>öhne</ex>. 2 T<ex>öchter</ex>.
+                            <lb/><add place="right">† 1633 Oct<ex>ober</ex></add>
                         </cell>
                     </row>
                     <row>
