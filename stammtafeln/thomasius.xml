@@ -88,8 +88,8 @@
                                 <row>
                                     <cell>
                                         H<ex>err</ex> Michael Thoma auf <rs type="place" ref="troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey Weyden
-                                        <lb/>1618. 15 juni X? Anna H<ex>err</ex> D<ex>r.</ex> <rs type="person">Jacob Schultze</rs> ßas Churf<ex>ürstlich</ex> Seichs Alteb Rath T<ex>ochter</ex> g<ex>eboren</ex>....† 1633.1.Oct<ex>ober</ex>
-                                        <lb/><add place="right">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></add>
+                                        <lb/>1618. 15 juni X? Anna H<ex>err</ex> D<ex>r.</ex> <rs type="person">Jacob Schultze</rs> ßas Churf<ex>ürstlich</ex> Seichs Alteb Rath T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
+                                        <lb/><hi rendition="#et3">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
                                             <row>
                                                 <cell>
@@ -229,8 +229,262 @@
                                                             2. 1664
                                                         </item>
                                                     </list>
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                                I. H<ex>err</ex> Christianus Thomasius ...
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>g<ex>eboren</ex> 1655 1. Januar † 1726 d. 24. Sept<ex>ember</ex> in Halle
+                                                                <lb/>1680 17. Febr<ex>uar</ex> 
+                                                                <lb/>
+                                                                <lb/>                                                                
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Christian
+                                                                            <lb/>Polycarpy
+                                                                            <lb/>g<ex>eboren</ex> 1681
+                                                                            <lb/>† 1681 21.
+                                                                            <lb/>May
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Christian
+                                                                            <lb/>Polycarpy
+                                                                            <lb/>g<ex>eboren</ex> 16. . .
+                                                                            <lb/>. . . .
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Christian
+                                                                            <lb/>Augustus
+                                                                            <lb/>g<ex>eboren</ex>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Sophia
+                                                                            <lb/>Elisabeth
+                                                                            <lb/>g<ex>eboren</ex> 1685
+                                                                            <lb/>† 
+                                                                            <lb/>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Christiana
+                                                                            <lb/>Augusta
+                                                                            <lb/>g<ex>eboren</ex>1690 14.
+                                                                            <lb/>Oct<ex>ober</ex>
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                H<ex>err</ex> Gottfried Thomasius Phil. medic. Doctor
+                                                                <lb/>g<ex>eboren</ex> 1660 24. Mart<ex>ii</ex>
+                                                                <lb/>1691 12. Aug<ex>ust</ex> ...
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            <!-- Keine Schriften-->
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                Johanna
+                                                                <lb/>Thomasia
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>† 1691 4. April
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Jacob
+                                                                            <lb/>
+                                                                            <lb/>g<ex>eboren</ex> 1678
+                                                                            <lb/>19. Nov<ex>ember</ex>
+                                                                            <lb/>† 1680
+                                                                            <lb/>21. Oct<ex>ober</ex>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Johanna
+                                                                            <lb/>Rahel
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <lb/><!-- Blank -->
+                                                                            <lb/>H<ex>err</ex> D<ex>octor</ex>...
+                                                                            <lb/>Lange
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <table rendition="#topBraced">
+                                                                                <row>
+                                                                                    <cell>
+                                                                                        Jo. Gottf
+                                                                                        <lb/>g<ex>eboren</ex> 16. . .
+                                                                                    </cell>
+                                                                                    <cell>
+                                                                                        Rahel
+                                                                                        <lb/>Christi-
+                                                                                        <lb/>ana g<ex>eboren</ex> ...
+                                                                                        <lb/>d. 9. April
+                                                                                    </cell>
+                                                                                    <cell>
+                                                                                        Wilhelmina
+                                                                                    </cell>
+                                                                                    <cell>
+                                                                                        Friderica
+                                                                                    </cell>
+                                                                                    <cell>
+                                                                                        ...
+                                                                                    </cell>
+                                                                                </row>
+                                                                            </table>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Sabina
+                                                                            <lb/>Elisabeth
+                                                                            <lb/>g<ex>eboren</ex> 1682 30.
+                                                                            <lb/>Sept<ex>ember</ex>
+                                                                            <lb/>1711 d. 27. Jul<ex>ij</ex>
+                                                                            <lb/>H. D. Benjamin
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                            <lb/>
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                II. Marta Elisabeth
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Adam Friedrich
+                                                                            <lb/>
+                                                                            <lb/>g
+                                                                            <lb/>† ...
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                Dorothea
+                                                                <lb/>Regina
+                                                                <lb/>g<ex>eboren</ex> 1667 13.
+                                                                <lb/>May † 15.
+                                                                <lb/>Jan<ex>uar</ex> 1670
+                                                            </cell>
+                                                            <cell>
+                                                                Anna
+                                                                <lb/>Regina
+                                                                <lb/>g
+                                                                <lb/>Julij
+                                                            </cell>
+                                                            <cell>
+                                                                Dorothea
+                                                                <lb/>Sophia
+                                                                <lb/>g
+                                                                <lb/>† 1694
+                                                                <lb/>1688
+                                                                <lb/>H
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>
+                                                                <lb/>g
+                                                                <lb/>† 1693 28. Julij
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Paul Christian
+                                                                            <lb/>Wagner
+                                                                            <lb/>g<ex>eboren</ex> 1692 22. Febr<ex>uar</ex>
+                                                                            <lb/>† 1693 22. Febr<ex>uar</ex>
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                <!-- 90° gedreht-->
+                                                                <hi rendition="#v">Ronja Elisabeth g<ex>eboren</ex> 1672 d. 1. Nov<ex>ember</ex> † 9. Nov<ex>ember</ex> 1672</hi>
+                                                            </cell>
+                                                            <cell>
+                                                                H<ex>err</ex> Michael Thoma
+                                                                <lb/>sius I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> Consulent
+                                                                <lb/>in Leipzig
+                                                                <lb/>g<ex>eboren</ex> 1674 29. Jan<ex>uar</ex>
+                                                                <lb/>† 1789
+                                                                <lb/>1691 Fr<ex>au</ex> Elisabeth
+                                                                <lb/>
+                                                                <lb/>H<ex>err</ex> <hi rendition="#smaller">Johann <unclear reason="illegible">......</unclear></hi> Megers
+                                                                <lb/>
+                                                                <lb/>
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            <!-- 90° gedreht-->
+                                                                            Traugott g<ex>eboren</ex> 1709 d. 19. Januar
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Sophia Elisab<ex>eth</ex> g<ex>eboren</ex> 1706 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex>...
+                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">...</unclear></hi>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Clara Regina g<ex>eboren</ex> 1705 d. 31.
+                                                                            <lb/>Aug<ex>ust</ex>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            Gottlob g<ex>eboren</ex> 1703 6. Jan<ex>uar</ex>
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                            <cell>
+                                                                Sophia
+                                                                <lb/>Magdal<ex>ena</ex>
+                                                                <lb/>g
+                                                                <lb/>Sept
+                                                                <lb/>14. Febr
+                                                                <lb/>1692
+                                                                <lb/>H<ex>err</ex> Christian Weidling
+                                                                <lb/>Phil. u<ex>nd</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex>
+                                                                <lb/>u<ex>nd</ex> ... Con
+                                                                <lb/>sulenten
+                                                                <lb/>† <hi rendition="#s">Sept<ex>ember</ex> 14.</hi>
+                                                                <lb/><hi rendition="#s"><unclear reason="illegible">...</unclear></hi>
+                                                                <table rendition="#topBraced">
+                                                                    <row>
+                                                                        <cell>
+                                                                            Sophia
+                                                                            <lb/>Elisabeth
+                                                                            <lb/>g<ex>eboren</ex> 1693 7.
+                                                                            <lb/>April
+                                                                        </cell>
+                                                                    </row>
+                                                                </table>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
                                                 </cell>
                                             </row>
+                                        </table>    
                                     </cell>
                                 </row>
                             </table>
