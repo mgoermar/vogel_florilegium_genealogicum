@@ -78,17 +78,17 @@
         <body>
             <div xml:id="stammbaum_thomasius">
                 <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
-                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienter zu Lobung in <unclear reason="illegible">...</unclear></head>
+                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forstbedienter zu Coburg in Francken</head>
                 <table>
                     <row>
                         <cell rendition="#topBraced">       
-                            H<ex>err</ex> <rs type="person" ref="#thomas_michael">Michael Thomas</rs> der ältere auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> v<ex>on</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts<unclear reason="illegible">...</unclear> haben deren adelichen Güter
-                            <lb/>15... Fr<ex>au</ex> <rs type="person" ref="#thomae_saronn">Saronn</rs>, H<ex>err</ex> <rs type="person" ref="#meissen_peter">Peter Meißens</rs> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Amtschößers zu <rs type="place" ref="#weida">Weyda</rs> T<ex>ochter</ex> H<ex>err</ex> <rs type="person" ref="#sturm_ludwig">Ludwig Sturms</rs> Medic<ex>us</ex> u<ex>nd</ex> Practici in <rs type="place" ref="#merseburg">Merseburg</rs> S<ex>ohn</ex> g<ex>eboren</ex>....        
+                            H<ex>err</ex> <rs type="person" ref="#thomas_michael">Michael Thomas</rs> der ältere auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenröd<ex>ischer</ex> Schößer hernach PachtsJnnhaber derer Adelichen Güter
+                            <lb/>15... Fr<ex>au</ex> <rs type="person" ref="#thomae_saronn">Saronn</rs>, H<ex>err</ex> <rs type="person" ref="#meissen_peter">Peter Meißens</rs> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Amtschößers zu <rs type="place" ref="#weida">Weyda</rs> T<ex>ochter</ex> H<ex>err</ex> <rs type="person" ref="#sturm_ludwig">Ludwig Sturms</rs> Medic<ex>i</ex> u<ex>nd</ex> Practici in <rs type="place" ref="#merseburg">Merseburg</rs> W<ex>itwe</ex> g<ex>eboren</ex>. . . .        
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
                                         H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
-                                        <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urg</ex></rs> &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
+                                        <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>isch</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urgischer</ex></rs> Rath &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
                                         <lb/><hi rendition="#et3">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
                                             <row>
@@ -119,10 +119,10 @@
                                                                             <lb/>† 1647 19. Sept<ex>ember</ex>
                                                                         </cell>
                                                                         <cell>
-                                                                            <lb/>Anna ... Thomasia...
-                                                                            <lb/>g<ex>eboren</ex> d. 2. ... †
-                                                                            <lb/>1666
-                                                                            <lb/>
+                                                                            <lb/>Anna Susanna Thomasia
+                                                                            <lb/>g<ex>eboren</ex> 1647 d<ex>en</ex> 2. Julij †
+                                                                            <lb/>1666. 16. Oct<ex>ober</ex> H<ex>err</ex> Jo<ex>hann</ex> Friedrich Falckner
+                                                                            <lb/>I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> auff Braußwig u<ex>nd</ex> Göstewitz
                                                                             <lb/>
                                                                             <lb/>
                                                                             <lb/>
