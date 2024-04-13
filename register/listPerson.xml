@@ -3707,6 +3707,89 @@
                         </listRelation>
                     </note>
                 </person>
+                <person xml:id="thomasin_anna">
+                    <persName ref="https://d-nb.info/gnd/124866654">
+                        <forename>Anna</forename>
+                        <surname type="birthName">Thomasin</surname>
+                    </persName>
+                    <persName type="display">Alberti, Anna, geb. Thomasin</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1620-08-31">31. August 1620</date>
+                    </birth>
+                    <death>
+                        <date when="1669-07-30">30- Juli 1669</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1637-08-21">21. August 1637</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_1"/>
+                            <relation type="brother" ref="#thomae_michael_2"/>
+                            <relation type="spouse" ref="#alberti_johann"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_johann">
+                    <persName ref="https://d-nb.info/gnd/102480745">
+                        <forename>Johann</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1600">1600</date>
+                    </birth>
+                    <death>
+                        <date when="1680">1680</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1637-08-21">21. August 1637</date>
+                            </desc>
+                        </event>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
                 <person xml:id="">
                     <persName>
                         <forename></forename>
