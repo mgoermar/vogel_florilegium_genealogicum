@@ -82,24 +82,30 @@
                 <table>
                     <row>
                         <cell rendition="#topBraced">       
-                            H<ex>err</ex> <rs type="person">Michael Thomas</rs> der ältere auf <rs type="place" ref="troschenreuth">Troschenreuth</rs> v<ex>on</ex> <rs type="place" ref="wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts<unclear reason="illegible">...</unclear> haben deren adelichen Güter
-                            <lb/>15... Fr<ex>au</ex> <rs type="person">Saronn</rs>, H<ex>err</ex> <rs type="person">Peter Meißens</rs> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Amtschößers zu <rs type="place" ref="#weida">Weyda</rs> T<ex>ochter</ex> H<ex>err</ex> <rs type="person">Ludwig Sturms</rs> Medic<ex>us</ex> u<ex>nd</ex> Practici in <rs type="place" ref="merseburg">Merseburg</rs> S<ex>ohn</ex> g<ex>eboren</ex>....        
+                            H<ex>err</ex> <rs type="person" ref="#thomas_michael">Michael Thomas</rs> der ältere auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> v<ex>on</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenwüdischen Schößer hernach Rachts<unclear reason="illegible">...</unclear> haben deren adelichen Güter
+                            <lb/>15... Fr<ex>au</ex> <rs type="person" ref="#thomae_saronn">Saronn</rs>, H<ex>err</ex> <rs type="person" ref="#meissen_peter">Peter Meißens</rs> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Amtschößers zu <rs type="place" ref="#weida">Weyda</rs> T<ex>ochter</ex> H<ex>err</ex> <rs type="person" ref="#sturm_ludwig">Ludwig Sturms</rs> Medic<ex>us</ex> u<ex>nd</ex> Practici in <rs type="place" ref="#merseburg">Merseburg</rs> S<ex>ohn</ex> g<ex>eboren</ex>....        
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> Michael Thoma auf <rs type="place" ref="troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu Leipzig. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
-                                        <lb/>1618. 15 Juni J<ex>ungfrau</ex> Anna H<ex>err</ex> D<ex>octor</ex> <rs type="person">Jacob Schultze</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs>  &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
+                                        H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
+                                        <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urg</ex></rs> &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
                                         <lb/><hi rendition="#et3">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
                                             <row>
                                                 <cell>
-                                                    H<ex>err</ex> <rs type="person">Michael Thoma</rs> vornehmen des Raths u<ex>nd</ex> berümter
-                                                    <lb/>Consulent zu Leipzig. 1619. 22. Mart<ex>ii</ex>. † 1689. 2. Julij.
-                                                    <lb/>1646. 5 Sept<ex>ember</ex> ? Anna Maria H<ex>err</ex> Samuel Zeurings auf Schl??au
-                                                    <lb/>DUC? u<ex>nd</ex>Practici Tohler. g<ex>eboren</ex> 1622. 23 May. † 1664. 1 April ??? 1 p. Zwillinge
-                                                    <lb/>1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> Catharina g<ex>eboren</ex> Werfele?, H<ex>err</ex> Joh<ex>ann</ex> Müllers vor.
-                                                    <!-- <lb>fundese. An? Leipzig 26. / g<ex>eboren</ex> 1620. 16 Nov<ex>ember</ex> † 16?0 20 ?????</lb> nicht klar -->
-                                                    <lb/>H<ex>err</ex> <rs type="person">Martin S...</rs> ...... in Leipzig T.
+                                                    H<ex>err</ex> <rs type="person" ref="#thomae_michael_2">Michael Thoma</rs> vornehmen des Raths u<ex>nd</ex> berümter
+                                                    <lb/>Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. 1619. 22. Mart<ex>ij</ex>. † 1689. 2. Julij.
+                                                    <list>
+                                                        <item>
+                                                            <lb/>1646. 5 Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomae_annamaria_3">Anna Maria</rs> H<ex>err</ex> <rs type="perons" ref="#teuring_samuel">Samuel Teurings</rs> auf <rs type="place" ref="#schkopau">Schkopau</rs>
+                                                            <lb/>DUC u<ex>nd</ex>Practici Tochter g<ex>eboren</ex> 1622. 23 May. † 1664. 1 April &#x00E6;t<ex>atis</ex> 41 1 P<ex>aar</ex> Zwillinge
+                                                        </item>
+                                                        <item>
+                                                            <lb/>1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> <rs type="person" ref="#thomae_catharina">Catharina</rs> g<ex>eboren</ex> Wiefel, H<ex>err</ex> <rs type="person" ref="#mueller_johann">Joh<ex>ann</ex> Müllers</rs> vor.
+                                                            <!-- <lb>fundese. An? <rs type="place" ref="#leipzig">leipzig</rs> 26. / g<ex>eboren</ex> 1620. 16 Nov<ex>ember</ex> † 16?0 20 ?????</lb> nicht klar -->
+                                                            <lb/>H<ex>err</ex> <rs type="person">Martin S...</rs> ...... in <rs type="place" ref="#leipzig">leipzig</rs> T.
+                                                        </item>
+                                                    </list>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -428,7 +434,7 @@
                                                             <cell>
                                                                 H<ex>err</ex> Michael Thoma
                                                                 <lb/>sius I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> Consulent
-                                                                <lb/>in Leipzig
+                                                                <lb/>in <rs type="place" ref="#leipzig">leipzig</rs>
                                                                 <lb/>g<ex>eboren</ex> 1674 29. Jan<ex>uar</ex>
                                                                 <lb/>† 1789
                                                                 <lb/>1691 Fr<ex>au</ex> Elisabeth
