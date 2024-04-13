@@ -3655,37 +3655,57 @@
                         <date when="1647-09-19">19. September 1647</date>
                     </death>
                     <note type="family">
-                        <listRelation type="parent" ref="#thomae_michael_2"/>
-                        <listRelation type="parent" ref="#thomae_annamaria_3"/>
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#thomae_annamaria_3"/>
+                        </listRelation>
                     </note>
                 </person>
-                <person xml:id="">
+                <person xml:id="thomasia_annasusanna">
                     <persName>
-                        <forename></forename>
-                        <surname></surname>
+                        <forename>Anna Susanna</forename>
+                        <surname type="birthName">Thomasia</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Thomasia, Anna Susanna</persName>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1647-07-02">2. Juli 1647</date>
                     </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1666-10-16">16. Oktober 1666</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#thomae_annamaria_3"/>
+                            <relation type="sister" ref="#thomasia_anna"/>
+                            <relation type="spouse" ref="#falckner_johannfriedrich"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="falckner_johannfriedrich">
+                    <persName ref="https://d-nb.info/gnd/100893805">
+                        <forename>Johann Friedrich</forename>
+                        <surname>Falckner</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Falckner, Johann Friedrich</persName>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1642">1642</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1703">1703</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasia_annasusanna"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="">
                     <persName>
