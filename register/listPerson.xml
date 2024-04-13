@@ -3633,6 +3633,42 @@
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </occupation>
                 </person>
+                <person xml:id="kramer_martinwiefel">
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Kramer Wiefel</surname>
+                    </persName>
+                    <persName type="display">Kramers, Martin Wiefel</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
                 <person xml:id="">
                     <persName>
                         <forename></forename>
