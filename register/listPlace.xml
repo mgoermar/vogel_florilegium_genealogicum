@@ -275,6 +275,12 @@
                 <place xml:id="schkopau">
                     <placeName ref="https://www.geonames.org/6551142/schkopau.html">Schkopau</placeName>
                 </place>
+                <place xml:id="brausswig">
+                    <placeName ref="https://www.geonames.org/2944989/brausswig.html">Braußwig</placeName>
+                </place>
+                <place xml:id="goestewitz">
+                    <placeName ref="https://www.geonames.org/2920802/gestewitz.html">Göstewitz</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
