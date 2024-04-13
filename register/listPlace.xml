@@ -272,6 +272,9 @@
                 <place xml:id="heuckewald">
                     <placeName ref="https://www.geonames.org/2908431/heuckewalde.html">Heuckewalde</placeName>
                 </place>
+                <place xml:id="schkopau">
+                    <placeName ref="https://www.geonames.org/6551142/schkopau.html">Schkopau</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
