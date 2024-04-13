@@ -3422,6 +3422,270 @@
                     </death>              
                 </person>
         <!--Thomasius2-->
+        <!-- Thomasius1-->
+                <person xml:id="thomas_johann">
+                    <persName>
+                        <forename>Thomas</forename>
+                        <surname>Johann</surname>
+                    </persName>
+                    <persName type="display">Thomas, Johann</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="thomas_michael">
+                    <persName>
+                        <forename>Michael</forenameame>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Michael der Ältere</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_saronn"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="sturm_ludwig">
+                    <persName ref="https://d-nb.info/gnd/132014297">
+                        <forname>Ludwig</forname>
+                        <surname>Sturm</surname>
+                    </persName>
+                    <persName type="display">Sturm, Ludwig</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1559">1559</date>
+                    </birth>
+                    <death>
+                        <date when="1570">1570</date>
+                    </death>
+                </person>
+                <person xml:id="thomae_saronn">
+                    <persName>
+                        <forename>Saronn</forename>
+                        <surname>thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Saronn</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_saronn"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meissen_peter">
+                    <persName>
+                        <forename>Peter</forename>
+                        <surname>Meißen</surname>
+                    </persName>
+                    <persName type="display">Meißen, Peter</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="thomae_michael_1">
+                    <persName>
+                        <forename>Michael</forename>                   
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1587">1587</date>
+                    </birth>
+                    <death>
+                        <!-- 1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB-->
+                    </death>
+                    <occupation>
+                        <term>Jurist</term> 
+                    </occupation>
+                </person>
+                <person xml:id="thomae_anna">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Anna</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#schultes_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="schultes_jacob">
+                    <persName ref="https://www.deutsche-biographie.de/sfz26743.html#adbcontent">
+                        <forname>Jacob</forname>
+                        <surname>Schultes</surname>
+                    </persName>
+                    <persName type="display">Schultes, Jacob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1571">1571</date>
+                    </birth>
+                    <death>
+                        <date when="1629">1629</date>
+                    </death>
+                </person>
+                <person xml:id="thomae_michael_2">
+                    <persName ref="https://d-nb.info/gnd/121718190">
+                        <forename>Michael</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1619-03-22">22. März 1619</date>
+                    </birth>
+                    <death>
+                        <date when="1689-07-02">2. Juli 1689</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_annamaria_3"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1646-09-08">08. September 1646</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1665-08-14">14. August 1665</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <occupation>
+                        <term>Jurist</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratsherr</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="thomae_annamaria_3">
+                    <persName>
+                        <forename>Anna Maria</forename>
+                        <surname type="birthName">Teuring</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1622-05-23">23. May 1622</date>
+                    </birth>
+                    <death>
+                        <date when="1664-04">April 1664</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_michael_2"/>
+                    </listRelation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1646-09-08">08. September 1646</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="teuring_samuel">
+                    <persName>
+                        <forename>Samuel</forename>
+                        <surname>Teuring</surname>
+                    </persName>
+                    <persName type="display">Teuring, Samuel</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation type="child" ref="#thomae_annamaria_3"/>
+                    </note>
+                </person>
+                <person xml:id="thomae_catharina">
+                    <persName ref="https://d-nb.info/gnd/12159307X">
+                        <forename>Catharina</forename>
+                        <surname type="birthName">Wiefel</surname>
+                    </persName>
+                    <persName type="display">Thomae, Catharina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1620-11-16">16. November 1620</date>
+                    </birth>
+                    <death>
+                        <date when="1680-12-20">20. Dezember 1680</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1665-08-14">14. August 1665</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation type="parent" ref="#mueller_johann"/>
+                        <listRelation type="spouse" ref="#thomae_michael_2"/>
+                    </note>
+                </person>
+                <person xml:id="mueller_johann">
+                    <persName ref="https://d-nb.info/gnd/121654613">
+                        <forename>Johann</forename>
+                        <surname>Müller</surname>
+                    </persName>
+                    <persName type="display">Müller, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1608">1608</date>
+                    </birth>
+                    <death>
+                        <date when="1661">1661</date>
+                    </death>
+                    <occupation>
+                        <term>Händler</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
             </listPerson>
         </body>
     </text>
