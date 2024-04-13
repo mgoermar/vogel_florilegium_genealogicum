@@ -3641,19 +3641,23 @@
                     <persName type="display">Kramers, Martin Wiefel</persName>
                     <sex value="m"/>
                 </person>
-                <person xml:id="">
+                <person xml:id="thomasia_anna">
                     <persName>
-                        <forename></forename>
-                        <surname></surname>
+                        <forename>Anna</forename>
+                        <surname>Thomasia</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Thomasia, Anna</persName>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1647-05-31">31. May 1647</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1647-09-19">19. September 1647</date>
                     </death>
+                    <note type="family">
+                        <listRelation type="parent" ref="#thomae_michael_2"/>
+                        <listRelation type="parent" ref="#thomae_annamaria_3"/>
+                    </note>
                 </person>
                 <person xml:id="">
                     <persName>
