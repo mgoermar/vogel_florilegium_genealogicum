@@ -78,7 +78,7 @@
         <body>
             <div xml:id="stammbaum_thomasius">
                 <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
-                <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forstbedienter zu Coburg in Francken</head>
+                <head>H<ex>err</ex> <rs type="person" ref="#thomas_johann">Johan Thomas<ex>ius</ex></rs> Forstbedienter zu Coburg in Francken</head>
                 <table>
                     <row>
                         <cell rendition="#topBraced">       
@@ -114,20 +114,20 @@
                                                                 <table>
                                                                     <row>
                                                                        <cell>
-                                                                            <lb/><rs type="person">Anna Thomasia</rs>
+                                                                            <lb/><rs type="person" ref="#thomasia_anna">Anna Thomasia</rs>
                                                                             <lb/>g<ex>eboren</ex> 1647. d<ex>en</ex> 31. May.
                                                                             <lb/>† 1647 19. Sept<ex>ember</ex>
                                                                         </cell>
                                                                         <cell>
                                                                             <lb/>Anna Susanna Thomasia
                                                                             <lb/>g<ex>eboren</ex> 1647 d<ex>en</ex> 2. Julij †
-                                                                            <lb/>1666. 16. Oct<ex>ober</ex> H<ex>err</ex> Jo<ex>hann</ex> Friedrich Falckner
-                                                                            <lb/>I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> auff Braußwig u<ex>nd</ex> Göstewitz
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/>und
+                                                                            <lb/>1666. 16. Oct<ex>ober</ex> H<ex>err</ex> <rs type="person" ref="#falckner_johannfriedrich">Jo<ex>hann</ex> Friedrich Falckner</rs>
+                                                                            <lb/>I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> auff <rs type="place" ref="#brausswig">Braußwig</rs> u<ex>nd</ex> <rs type="place" ref="#goestewitz">Göstewitz</rs>
+                                                                            <lb/>... ... <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Rath. Comes Pal<ex>atinus</ex> Cers.
+                                                                            <lb/>der Oberhochgerichts Adv<ex>ocatus</ex> Ord<ex>inarius</ex> des <rs type="org" ref="#leipzig_schoeppenstuhl">Schöppenst<ex>uhl</ex></rs>
+                                                                            <lb/>... Hochverdienten Bürgerm<ex>eister</ex> u<ex>nd</ex> Vorsteher
+                                                                            <lb/>zu S<ex>ankt</ex> <rs type="place" ref="#leipzig_nikolaikirche">Nicolai</rs> in <rs type="place" ref="#leipzig">Leipzig</rs>.
+                                                                            <lb/>ved<ex>e</ex> Geneal<ex>ogia</ex> Falckneriana.
                                                                         </cell>
                                                                     </row>        
                                                                 </table>
