@@ -205,15 +205,15 @@
                                                 </cell>
                                             <!-- <pb facs="rep_6_16-a_0919.jpg" n="455r"/> -->
                                                 <cell>
-                                                    H<ex>err</ex> Jakob Thomasius...
-                                                    <lb/>
-                                                    <lb/>
+                                                    H<ex>err</ex> <rs type="person" ref="#thomasius_jacob">Jacob Thomasius</rs> ...
+                                                    <lb/>Eloquentius u<ex>nd</ex> <unclear reason="illegible">...</unclear> der Universität Leipzig angelehrte Wert hochverdienter Prof<ex>essors</ex> publ<ex>icus</ex> Academiae Decemvir der <rs type="org" ref="#universitaet_leipzig_philosophische_fakultaet">Philosophisch<ex>en</ex> Fac<ex>ultatis</ex></rs> Senior 4 des Kleinen
+                                                    <lb/>Sachß<ex>ischer</ex> <unclear reason="illegible">Collegij Collegua</unclear> und bey der <rs type="place" ref="#leipzig_thomasschule">Schule zu S<ex>ankt</ex> Thom&#x00E6;</rs> hochverdienter Rector. g<ex>eboren</ex> 1622. 27. Aug<ex>ust</ex> † 1684. 9. Sept<ex>ember</ex> &#x00E6;t<ex>atis</ex> 62.
                                                     <list>
                                                         <item>
-                                                            1. 1653
+                                                            1. 1653. 26. Sept<ex>ember</ex> J<ex>ungfrau</ex> Maria H. L. Jerem Webers
                                                         </item>
                                                         <item>
-                                                            2. 1664
+                                                            2. 1664. 19. Sept<ex>ember</ex>
                                                         </item>
                                                     </list>
                                                     <table rendition="#topBraced">
