@@ -127,7 +127,7 @@
                                                                             <lb/>der Oberhochgerichts Adv<ex>ocatus</ex> Ord<ex>inarius</ex> des <rs type="org" ref="#leipzig_schoeppenstuhl">Schöppenst<ex>uhl</ex></rs>
                                                                             <lb/>... Hochverdienten Bürgerm<ex>eister</ex> u<ex>nd</ex> Vorsteher
                                                                             <lb/>zu S<ex>ankt</ex> <rs type="place" ref="#leipzig_nikolaikirche">Nicolai</rs> in <rs type="place" ref="#leipzig">Leipzig</rs>.
-                                                                            <lb/>ved<ex>e</ex> Geneal<ex>ogia</ex> Falckneriana.
+                                                                            <lb/>Vid<ex>e</ex> Geneal<ex>ogia</ex> Falckneriana.
                                                                         </cell>
                                                                     </row>        
                                                                 </table>
@@ -140,52 +140,51 @@
                                                     <lb/>1637. d<ex>en</ex> 21. Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="#alberti_johann">Johann Alberti</rs> Erbh<ex>err</ex> auf <rs type="place" ref="#wiedersberg">Wiedersberg</rs> detz. Graffl Reuß Plansche? hochbestallten
                                                     <lb/>Rathe Canzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspetator primariis g<ex>eboren</ex> 1600 20 May zu Lobenstein
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
-                                                    <lb/><hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.3</hi>
+                                                    <lb/><hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.3</hi> <note type="footnote" resp="mg">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                                Anna Albertina
-                                                                <lb/>g<ex>eboren</ex> 1640 26. ...
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
+                                                                <rs type="person" ref="#strauch_anna">Anna Alberti</rs>
+                                                                <lb/>g<ex>eboren</ex> 1640. 26. † 1697. d<ex>en</ex> 14. Jan<ex>uar</ex> <add place="above">April zu Gera</add>
+                                                                <lb/>1658. 24. Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="#strauch_augustin">Augustin
+                                                                <lb/>Strauch</rs> Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>aei</ex>
+                                                                <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> S<ex>achiischer</ex> geheimter Rath</rs>
+                                                                <lb/>g<ex>eboren</ex><space dim="horizontal"/> †. 1674. 18.
+                                                                <lb/>May in <rs type="place" ref="regensburg">Regensburg</rs>
+                                                                <lb/>Vid<ex>e</ex> Gen<ex>ealogia</ex> Strauch.
                                                             </cell>
                                                             <cell>
-                                                                H<ex>err</ex> Joh.
-                                                                <lb/>IUL g<ex>eboren</ex> 16. . . . .
+                                                                H<ex>err</ex> <rs type="person" ref="#alberti_johannheinrich">Joh<ex>ann</ex> Heinrich Alberti</rs>
+                                                                <lb/>I<ex>uris</ex> U<ex>triusque</ex> L<ex>egum</ex> g<ex>eboren</ex> 16. . . . . .
                                                             </cell>
                                                             <cell>
-                                                                Martha
-                                                                <lb/>
-                                                                <lb/>g<ex>eboren</ex> 1645 29.
+                                                                <rs type="person" ref="#alberti_marthajustina">Martha
+                                                                <lb/>Justina</rs>
+                                                                <lb/>g<ex>eboren</ex> 1645. 29.
                                                                 <lb/>Oct<ex>ober</ex>
-                                                                <lb/>† 1656 20.
+                                                                <lb/>† 1658. 20.
                                                                 <lb/>Julij                                                                
                                                             </cell>
                                                             <cell>
-                                                                Jo. Jakob
-                                                                <lb/>
-                                                                <lb/>g<ex>eboren</ex> 1648 14. Sept<ex>ember</ex>
+                                                                <rs type="person" ref="#alberti_johannjacob">Jo<ex>hann</ex> Jacob
+                                                                <lb/>Alberti</rs>
+                                                                <lb/>g<ex>eboren</ex> 1648. 14. Sept<ex>ember</ex>
                                                                 <lb/>† | 22. Sept<ex>ember</ex>
                                                             </cell>
                                                             <cell>
-                                                                Dorothea
-                                                                <lb/>Susanna
-                                                                <lb/>g<ex>eboren</ex> 1649 16 Oct<ex>ober</ex>
+                                                                <rs type="person" ref="#alberti_dorotheasusanna">Dorothea
+                                                                <lb/>Susanna</rs>
+                                                                <lb/>g<ex>eboren</ex> 1649. 16 Oct<ex>ober</ex>
                                                                 <lb/>† 1649 16. Nov<ex>ember</ex>
                                                             </cell>
                                                             <cell>
-                                                                Jo. Georg
+                                                                <rs type="person" ref="#alberti_johanngeorg">Jo<ex>hann</ex> Georg</rs>
                                                                 <lb/>g<ex>eboren</ex>
-                                                                <lb/>† 1653
+                                                                <lb/>† 1653.
                                                             </cell>
                                                             <cell>
-                                                                Johann
-                                                                <lb/>Thomas
+                                                                <rs type="person" ref="#alberti_johannthomas">Johann
+                                                                <lb/>Thomas</rs>
                                                                 <lb/>g<ex>eboren</ex>
                                                                 <lb/>†
                                                             </cell>
@@ -203,27 +202,8 @@
                                                             </cell>
                                                         </row>
                                                     </table>                         
-                                                  </cell>            
-                                            </row>
-                                        </table>    
-                                    </cell>         
-                                </row>
-                            </table>    
-                        </cell>
-                    </row>        
-                </table>
-                <pb facs="rep_6_16-a_0919.jpg" n="455r"/>
-                <table>
-                    <row>
-                        <cell rendition="#topBraced">
-                            <unclear reason="invisible">...</unclear> g<ex>eboren</ex> . . . . . †
-                            <table rendition="#topBraced">
-                                <row>
-                                    <cell>
-                                        <!--Michael Thomas der Ältere-->
-                                        und 1617 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> ...
-                                        <table rendition="#topBraced">
-                                            <row>
+                                                </cell>
+                                            <!-- <pb facs="rep_6_16-a_0919.jpg" n="455r"/> -->
                                                 <cell>
                                                     H<ex>err</ex> Jakob Thomasius...
                                                     <lb/>
@@ -493,11 +473,16 @@
                                             </row>
                                         </table>    
                                     </cell>
+                                    <cell>
+                                        und 1617 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> ...
+                                    </cell>
                                 </row>
                             </table>
                         </cell>
+                        <cell>
+                            <unclear reason="invisible">...</unclear> g<ex>eboren</ex> . . . . . †
+                        </cell>
                     </row>
-                
                 </table>            
             </div>
         </body>
