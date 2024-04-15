@@ -43,6 +43,12 @@
                         <place xml:id="leipzig_thomaskirche">
                             <placeName ref="https://www.geonames.org/11822535/leipzig-thomaskirche.html">Leipzig, Thomaskirche</placeName>
                         </place>
+                        <place xml:id="leipzig_thomasschule">
+                            <placeName ref="https://d-nb.info/gnd/2089748-0">Leipzig, Thomasschule</placeName>
+                        </place>
+                        <place xml:id="leipzig_nikolaischule">
+                            <placeName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</placeName>
+                        </place>
                     </listPlace>
                 </place>
                 <place xml:id="lucka">
