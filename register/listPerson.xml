@@ -3916,19 +3916,29 @@
                         <listRelation type="parent" ref="#thomasin_anna"/>
                     </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="thomasius_jacob">
+                    <persName ref="https://d-nb.info/gnd/119238098">
+                        <forename>Jacob</forename>
+                        <surname>Thomasius</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Thomasius, Jacob</persName>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1622">1622</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1684">1684</date>
                     </death>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1670" to="1676">1670-1676</date>
+                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1676" to="1684">1676-1684</date>
+                        <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="">
                     <persName>
