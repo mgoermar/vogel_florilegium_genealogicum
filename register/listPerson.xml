@@ -3555,7 +3555,7 @@
                     </persName>
                     <sex value="w"/>
                     <birth>
-                        <date when="1622-05-23">23. May 1622</date>
+                        <date when="1622-05-23">23. Mai 1622</date>
                     </birth>
                     <death>
                         <date when="1664-04">April 1664</date>
@@ -3649,7 +3649,7 @@
                     <persName type="display">Thomasia, Anna</persName>
                     <sex value="w"/>
                     <birth>
-                        <date when="1647-05-31">31. May 1647</date>
+                        <date when="1647-05-31">31. Mai 1647</date>
                     </birth>
                     <death>
                         <date when="1647-09-19">19. September 1647</date>
@@ -3761,6 +3761,160 @@
                                 <date when="1637-08-21">21. August 1637</date>
                             </desc>
                         </event>
+                </person>
+                <person xml:id="strauch_anna">
+                    <persName ref="https://d-nb.info/gnd/124866654">
+                        <forename>Anna</forename>
+                        <surname type="birthName">Alberti</surname>
+                    </persName>
+                    <persName type="display">Strauch, Anna, geb. Alberti</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1640-04-26">26. April 1640</date>
+                    </birth>
+                    <death>
+                        <date when="1697-01-14">14. Januar 1697</date>
+                    </death>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation type="spouse" ref="#strauch_augustin"/>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1658-08-24">24. August 1658</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="strauch_augustin">
+                    <persName ref="https://d-nb.info/gnd/124798225">
+                        <forename>Augustin</forename>
+                        <surname>Strauch</surname>
+                    </persName>
+                    <persName type="display">Strauch, Augustin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1612-10-25">25. Oktober 1612</date>
+                    </birth>
+                    <death>
+                        <date when="1674-05-18">18. Mai 1674</date>
+                    </death>
+                    <note type="family">
+                        <listRelation type="spouse" ref="#strauch_anna"/>
+                    </note>    
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1658-08-24">24. August 1658</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="alberti_johannheinrich">
+                    <persName ref="https://d-nb.info/gnd/122918754">
+                        <forename>Johann Heinrich</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Heinrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1643">1643</date>
+                    </birth>
+                    <death>
+                        <date when="1709">1709</date>
+                    </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
+                </person>
+                <person xml:id="alberti_marthajustina">
+                    <persName ref="https://d-nb.info/gnd/115463801">
+                        <forename>Martha Justina</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Martha Justina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1645-10-29">29. Oktober 16545</date>
+                    </birth>
+                    <death>
+                        <date when="1658-07-20">20. Juli 1658</date>
+                    </death>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
+                </person>
+                <person xml:id="alberti_johannjacob">
+                    <persName ref="https://d-nb.info/gnd/120326663">
+                        <forename>Johann Jacob</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Jacob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1648-09-14">14. September 1648</date>
+                    </birth>
+                    <death>
+                        <date when="1648-09-22">22. September 1648</date>
+                    </death>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
+                </person>
+                <person xml:id="alberti_dorotheasusanna">
+                    <persName ref="https://d-nb.info/gnd/120326590">
+                        <forename>Dorothea Susanna</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Dorothea Susanna</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1649-10-16">16. Oktober 1649</date>
+                    </birth>
+                    <death>
+                        <date when="1649-11-16">16. November 1649</date>
+                    </death>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
+                </person>
+                <person xml:id="alberti_johanngeorg">
+                    <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1653"></date>
+                    </birth>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
+                </person>
+                <person xml:id="alberti_johannthomas">
+                    <persName>
+                        <forename>Johann Thomas</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Thomas</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation type="parent" ref="#alberti_johann"/>
+                        <listRelation type="parent" ref="#thomasin_anna"/>
+                    </note>
                 </person>
                 <person xml:id="">
                     <persName>
