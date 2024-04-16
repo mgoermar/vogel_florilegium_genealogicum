@@ -3476,6 +3476,12 @@
                     <death>
                         <!-- 1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB-->
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_michael"/>
+                            <relation type="spouse" ref="#thomae_anna"/>
+                        </listRelation>
+                    </note>
                     <occupation>
                         <term>Jurist</term> 
                     </occupation>
@@ -3490,6 +3496,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#schultes_jacob"/>
+                            <relation type="spouse" ref="#thomae_michael_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -3776,9 +3783,11 @@
                         <date when="1697-01-14">14. Januar 1697</date>
                     </death>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
-                        <listRelation type="spouse" ref="#strauch_augustin"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                            <relation type="spouse" ref="#strauch_augustin"/>
+                        </listRelation>
                     </note>
                     <listEvent>
                         <event>
@@ -3803,7 +3812,9 @@
                         <date when="1674-05-18">18. Mai 1674</date>
                     </death>
                     <note type="family">
-                        <listRelation type="spouse" ref="#strauch_anna"/>
+                        <listRelation>
+                            <relation type="spouse" ref="#strauch_anna"/>
+                        </listRelation> 
                     </note>    
                     <listEvent>
                         <event>
@@ -3831,8 +3842,10 @@
                         <term>Jurist</term>
                     </occupation>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="alberti_marthajustina">
@@ -3849,8 +3862,10 @@
                         <date when="1658-07-20">20. Juli 1658</date>
                     </death>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="alberti_johannjacob">
@@ -3867,8 +3882,10 @@
                         <date when="1648-09-22">22. September 1648</date>
                     </death>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="alberti_dorotheasusanna">
@@ -3885,8 +3902,10 @@
                         <date when="1649-11-16">16. November 1649</date>
                     </death>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="alberti_johanngeorg">
@@ -3900,8 +3919,10 @@
                         <date when="1653"></date>
                     </birth>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="alberti_johannthomas">
@@ -3912,8 +3933,10 @@
                     <persName type="display">Alberti, Johann Thomas</persName>
                     <sex value="m"/>
                     <note type="family">
-                        <listRelation type="parent" ref="#alberti_johann"/>
-                        <listRelation type="parent" ref="#thomasin_anna"/>
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
                     </note>
                 </person>
                 <person xml:id="thomasius_jacob">
@@ -3929,6 +3952,13 @@
                     <death>
                         <date when="1684">1684</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_1"/>
+                            <relation type="parent" ref="#thomae_anna"/>
+                            <relation type="spouse" ref="#thomasius_maria"/>
+                        </listRelation> 
+                    </note>
                     <occupation>
                         <term>Rektor</term>
                         <date from="1670" to="1676">1670-1676</date>
@@ -3940,22 +3970,22 @@
                         <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
                     </occupation>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="thomasius_maria">
+                    <persName ref="https://d-nb.info/gnd/115466207">
+                        <forename>Maria</forename>
+                        <surname type="birthName">Weber</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Thomasius, Maria, geb. Weber</persName>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1636">1636</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1663">1663</date>
                     </death>
                 </person>
-                <person xml:id="">
-                    <persName>
+                <person xml:id="weber_jeremias">
+                    <persName ref="https://d-nb.info/gnd/122351401">
                         <forename></forename>
                         <surname></surname>
                     </persName>
