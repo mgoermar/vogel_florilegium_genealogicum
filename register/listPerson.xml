@@ -3969,6 +3969,18 @@
                         <date from="1676" to="1684">1676-1684</date>
                         <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
                     </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1653">1653</date>
+                            </desc>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1664">1664</date>
+                            </desc>
+                        </event>
+                    </listEvent>
                 </person>
                 <person xml:id="thomasius_maria">
                     <persName ref="https://d-nb.info/gnd/115466207">
@@ -3983,9 +3995,342 @@
                     <death>
                         <date when="1663">1663</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#weber_jeremias"/>
+                            <relation type="spouse" ref="#thomasius_jacob"/>
+                        </listRelation> 
+                    </note>
                 </person>
                 <person xml:id="weber_jeremias">
                     <persName ref="https://d-nb.info/gnd/122351401">
+                        <forename>Jeremias</forename>
+                        <surname>Weber</surname>
+                    </persName>
+                    <persName type="display">Weber, Jeremias</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1600"1600></date>
+                    </birth>
+                    <death>
+                        <date when="1643">1643</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_mariaelisabeth">
+                    <persName ref="https://d-nb.info/gnd/140179089">
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">Eichhorn</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Maria Elisabeth geb. Eichhorn</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1638">1638</date>
+                    </birth>
+                    <death>
+                        <date when="1705">1705</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#eichhorn_georg"/>
+                            <relation type="spouse" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="eichhorn_georg">
+                    <persName ref="https://d-nb.info/gnd/120852616">
+                        <forename>Georg</forename>
+                        <surname>Eichhorn</surname>
+                    </persName>
+                    <persName type="display">Eichhorn, Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1593">1593</date>
+                    </birth>
+                    <death>
+                        <date when="1650">1650</date>
+                    </death>
+                </person>
+                <person xml:id="hornschuch_johann">
+                    <persName ref="https://d-nb.info/gnd/102516901">
+                        <forename>Johann</forename>
+                        <surname>Hornschuch</surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1599">1599</date>
+                    </birth>
+                    <death>
+                        <date when="1663">1663</date>
+                    </death>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1638" to="1663 ">1638-1663 </date>
+                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_mariaelisabeth"/>
+                        </listRelation>
+                    </note>    
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1660">1660</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_christian">
+                    <persName ref="https://d-nb.info/gnd/11862220X">
+                        <forename>Cristianus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Cristianus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1655-01-01">a. Januar 1655</date>
+                    </birth>
+                    <death>
+                        <date when="1728-09-24">24. September 1728</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1680-02-17">17. Februar 1680</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_augustachristiana"/>
+                        </listRelation>
+                    </note> 
+                </person>
+                <person xml:id="thomasius_augustachristiana">
+                    <persName ref="https://d-nb.info/gnd/1042514038">
+                        <forename>Augusta Christina</forename>
+                        <surname type="birthName">Heyland</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Augusta Christina, geb. Heyland</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1655">1655</date>
+                    </birth>
+                    <death>
+                        <date when="1739">1739</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1680-02-17">17. Februar 1680</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_christian"/>
+                            <relation type="parent" ref="#heiland_polycarp"/>
+                        </listRelation>
+                    </note> 
+                </person>
+                <person xml:id="heiland_polycarp">
+                    <persName ref="https://d-nb.info/gnd/128615346">
+                        <forename>Polycarp</forename>
+                        <surname>Heiland</surname>
+                    </persName>
+                    <persName type="display">Heiland, Polycarp</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1614">1614</date>
+                    </birth>
+                    <death>
+                        <date when="1662">1662</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_christianpolycarpus1">
+                    <persName>
+                        <forename>Christian Polycarpus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Polycarpus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1681">1681</date>
+                    </birth>
+                    <death>
+                        <date when="1681-05-21">21. Mai 1681</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christianpolycarpus2">
+                    <persName>
+                        <forename>Christian Polycarpus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Polycarpus</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christianaugustus">
+                    <persName>
+                        <forename>Christian Augustus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Augustus</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_sophiaelisabeth">
+                    <persName>
+                        <forename>Sophia Elisabeth</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1685">1685</date>
+                    </birth>
+                    <death>
+                        <date when="1698-03-16">16. März 1698</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christinaaugusta">
+                    <persName>
+                        <forename>Christiana Augusta</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christiana Augusta</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1690-10-14">14. Oktober 1690</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_gottfried">
+                    <persName ref="https://d-nb.info/gnd/117350249">
+                        <forename>Gottfried</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1660-03-24">24. März 1660</date>
+                    </birth>
+                    <death>
+                        <date when="1746">1746</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_clarahelena"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="volckmer_johanngeorg">
+                    <persName ref="https://d-nb.info/gnd/100865208">
+                        <forename>Johann Georg</forename>
+                        <surname>Volckamer</surname>
+                    </persName>
+                    <persName type="display">Volckamer, Johann Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1616">1616</date>
+                    </birth>
+                    <death>
+                        <date when="1693">1693</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_clarahelena">
+                    <persName>
+                        <forename>Clara Helena</forename>
+                        <surname type="birthName">Volckamer</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Clara Helena</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#volckmer_johanngeorg"/>
+                            <relation type="spouse" ref="#thomasius_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
                         <forename></forename>
                         <surname></surname>
                     </persName>
