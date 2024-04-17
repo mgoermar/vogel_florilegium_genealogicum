@@ -43,6 +43,12 @@
                         <place xml:id="leipzig_thomaskirche">
                             <placeName ref="https://www.geonames.org/11822535/leipzig-thomaskirche.html">Leipzig, Thomaskirche</placeName>
                         </place>
+                        <place xml:id="leipzig_thomasschule">
+                            <placeName ref="https://d-nb.info/gnd/2089748-0">Leipzig, Thomasschule</placeName>
+                        </place>
+                        <place xml:id="leipzig_nikolaischule">
+                            <placeName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</placeName>
+                        </place>
                     </listPlace>
                 </place>
                 <place xml:id="lucka">
@@ -211,6 +217,75 @@
                 </place>
                 <place xml:id="schoenburg_grafschaft">
                     <placeName ref="https://d-nb.info/gnd/4762465-6">Schönburg, Grafschaft</placeName>
+                </place>
+                <place xml:id="lobenstein">
+                    <placeName ref="https://www.geonames.org/11977865/bad-lobenstein.html">Lobenstein</placeName>
+                </place>
+                <place xml:id="magdeburg">
+                    <placeName ref="https://www.geonames.org/2874545/magdeburg.html">Magdeburg</placeName>
+                </place>
+                <place xml:id="zwickau">
+                    <placeName ref="https://www.geonames.org/2803560/zwickau.html">Zwickau</placeName>
+                </place>
+                <place xml:id="leipzig_haynstraße">
+                    <placeName ref="https://www.geonames.org/12500717/zentrum.html">Haynstraße</placeName>
+                </place>
+                <place xml:id="manßfeld">
+                    <placeName ref="https://www.geonames.org/2873852/mansfeld.html">Mansfeld</placeName>
+                </place>
+                <place xml:id="neuhauß">
+                    <placeName ref="https://www.geonames.org/2865153/neuhaus.html">Neuhaus</placeName>
+                </place>
+                <place xml:id="paupitzsch">
+                    <placeName ref="https://www.geonames.org/2855176/paupitzsch.html">Paupitzsch</placeName>
+                </place>
+                <place xml:id="petersroda">
+                    <placeName ref="https://www.geonames.org/2854622/petersroda.html">Petersroda</placeName>
+                </place>
+                <place xml:id="delitzsch">
+                    <placeName ref="https://www.geonames.org/2938376/delitzsch.html">Delitzsch</placeName>
+                </place>
+                <place xml:id="pölzig">
+                    <placeName ref="https://www.geonames.org/2852789/poelzig.html">Pölzig</placeName>
+                </place>
+                <place xml:id="großkyhna">
+                    <placeName ref="https://www.geonames.org/2882172/kyhna.html">Kyhna</placeName>
+                </place>
+                <place xml:id="brachstedt">
+                    <placeName ref="https://www.geonames.org/2945630/brachstedt.html">Brachstedt</placeName>
+                </place>
+                <place xml:id="gißmansdorf">
+                    <placeName ref="https://www.geonames.org/2920501/giessmannsdorf.html">Gießmannsdorf</placeName>
+                </place>
+                <place xml:id="wesel">
+                    <placeName ref="https://www.geonames.org/2810678/wesel.html">Wesel</placeName>
+                </place>
+                <place xml:id="köln">
+                    <placeName ref="https://www.geonames.org/2886242/koeln.html">Köln</placeName>
+                </place>
+                <place xml:id="duisburg">
+                    <placeName ref="https://www.geonames.org/2934691/duisburg.html">Duisburg</placeName>
+                </place>
+                <place xml:id="eilenburg">
+                    <placeName ref="https://www.geonames.org/2931871/eilenburg.html">Eilenburg</placeName>
+                </place>
+                <place xml:id="wasewitz">
+                    <placeName ref="https://www.geonames.org/2813797/wasewitz.html">Wasewitz</placeName>
+                </place>
+                <place xml:id="canitz">
+                    <placeName ref="https://www.geonames.org/2940346/canitz.html">Canitz</placeName>
+                </place>
+                <place xml:id="heuckewald">
+                    <placeName ref="https://www.geonames.org/2908431/heuckewalde.html">Heuckewalde</placeName>
+                </place>
+                <place xml:id="schkopau">
+                    <placeName ref="https://www.geonames.org/6551142/schkopau.html">Schkopau</placeName>
+                </place>
+                <place xml:id="brausswig">
+                    <placeName ref="https://www.geonames.org/2944989/brausswig.html">Braußwig</placeName>
+                </place>
+                <place xml:id="goestewitz">
+                    <placeName ref="https://www.geonames.org/2920802/gestewitz.html">Göstewitz</placeName>
                 </place>
             </listPlace>
         </body>
