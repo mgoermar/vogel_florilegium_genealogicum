@@ -76,7 +76,7 @@
     </teiHeader>
     <text>        
         <body>
-            <div xml:id="stammbaum_thomasius"/>
+            <div xml:id="stammbaum_thomasius">
                 <pb facs="rep_6_16-a_0918.jpg" n="455v"/>
                 <head>H<ex>err</ex> Johann Tomas<ex>ius</ex> Forst bedienten zu Lobung in<unclear reason="invisible">...</unclear></head>
                 <table>
@@ -112,6 +112,7 @@
                         </cell>
                     </row>
                 </table>
+            </div>
         </body>
     </text>
 </TEI>
