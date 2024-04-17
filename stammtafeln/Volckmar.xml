@@ -77,42 +77,292 @@
     <text>        
         <body>
             <div xml:id="stammbaum_volckmar">
-                <pb facs="rep_6_16-a_0429.jpg" n="213f"/>
+                <pb facs="rep_6_16-a_0429.jpg" n="213v"/>
                 <head>Prosapia Volckmariana</head>
                 <table>
                     <row>
                         <cell>
-                            XXX XXX Vater/Natur ist grosen </ex> <rs type="person" ref="#volckmar_heinrich"> Heinrich Volckmar deßen Kinder sind: 
+                            Der Nam<ex>ens</ex>Vater ist großen <rs type="person" ref="#volckmar_heinrich">  Heinrich Volckmar</rs> deßen Kinder sind: 
                         </cell>
                     </row>
                     <row>
                         <cell rendition="#topBraced">
-                           Margaretha 
-                           <lb>g. 
-                           <lb>t. 
-                           <lb>1. .... Eint Kurth </cell>
-                        <cell> <rs type="person" ref="#volckmar_johannes"> Johannes und <rs type="person" ref="#volckmar_nicolaus"/> Nicolaus. vide den UmbXXX 
+                              Margaretha 
+                           <lb/>g.
+                           <lb/>t.
+                           <lb/>1. .... Eint Kurth
+                        </cell>
+                        <cell> <rs type="person" ref="#volckmar_johannes">Johannes</rs>  und <rs type="person" ref="#volckmar_nicolaus1"> Nicolaus</rs>. vide den Umbpflorg
                         </cell> 
                     </row> 
                     <row>
-                        <rs type="person" ref="#gretsch_curigunda"> Curigunda Gretschin 
-                     </row> 
-                    <row>
-                        <rs type="person" ref="#margaretha"> Margaretha
-                            <lb/> g 
-                            <lb/>  t 
-                      <rs type="person" ref="pfeiffer_johann"> Johann Pfeiffer
-                      burgermeister zu
-                      <lb>Lobenstein 
+                        <cell> <rs type="person" ref="#gretsch_curigunda"> Curigunda Gretschin</rs>
+                        </cell>     
                     </row> 
                     <row>
-                        <rs type="person" ref="pfeifferin_margaretha"> Margaretha Pfefferin 
-                            <lb/>  H <ex>err</ex>Martin Volckmar
-                              <lb/> Past.<ex>or</ex> u<ex>nd</ex> Superint.<ex>endent<ex/> zu Lo
-                               <lb/>benstein!
-                    </row>
-                            
-                </table>          
+                        <cell>
+                        <rs type="person" ref="#margaretha_anon1"> Margaretha</rs>
+                            <lb/>g<ex>eboren</ex>
+                            <lb/>t 
+                            <rs type="person" ref="pfeiffer_johann"> Johann Pfeiffer</rs>
+                            <lb/>burgermeister zu
+                            <lb/>Lobenstein
+                        </cell>
+                    </row> 
+                    <row>
+                        <cell>
+                        <rs type="person" ref="pfeifferin_margaretha">  Margaretha Pfefferin</rs> 
+                            <lb/>  H <ex>err</ex> <rs type="person" ref="volckmar_martin">  Martin Volckmar</rs>
+                            <lb/> Past.<ex>or</ex> u<ex>nd</ex> Superint.<ex>endent</ex> zu <rs type="place" ref="#lobenstein"> Lo- 
+                            <lb/>benstein!</rs> 
+                        </cell>
+                    </row>               
+                </table>      
+              <pb facs="rep_6_16-a_0429.jpg" n="213b"/> 
+              <table>
+                <row> 
+                    <cell> 
+                            H<ex>err</ex> <rs type="person" ref="volckmar_johannes"> Johannes Volckmar</rs>. burgermeister zu <rs type="place" ref="#lobenstein">Lobenstein</rs> ...starb 1495
+                    </cell>
+                </row>
+                <row> 
+                    <cell>
+                        <rs type="person" ref="volckmar_nicolaus2"> Nicolaus Volckmar</rs> I. g<ex>eboren</ex> 14.. hat sich nach <rs type="place" ref="#leipzig">Leipzig</rs> gewendet und ist vonselbst gestorben 1521. liegt in der Kirchen zu<rs type="place" ref="#leipzig_nikolaikirche"> S<ex>ankt</ex> Nicolai</rs> begraben.
+                    </cell>
+                </row>
+                <row> 
+                    <cell>
+                        <rs type="person" ref="volckmar_augusting"> Augusting Volckmar</rs> Handelsm<ex>ann</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> g<ex>eboren</ex> 149... 1507 bey der Universität imatric<ex>uliert</ex> crams 1533. burger t 155pfon 55  Senator Lips<ex>ipensius</ex>
+                        <lb/> 1. 15...Jfr. <rs type="person" ref="volckmar_anna1"> Annam</rs>' H<ex>err</ex> <rs type="person" ref="lindemans_johannes">  Joh<ex>annes</ex> Lindemans</rs> Iud. Fac. Iurid. ordin u<ex>nd</ex> burgerrath zu <rs type="place" ref="#leipzig">Leipzig </rs> tz. g<ex>estorben</ex> ...t
+                        <lb/> 2. 1550 Jfr. <rs type="person" ref="volckmar_anna2"> Annam</rs> H<ex>err</ex> <rs type="person" ref="jordan_gregor"> Gregory Jordans</rs> Buchbinder zu <rs type="place" ref="#leipzig">Leipzig</rs> rflgtr. 1557. H<ex>err</ex> Lubsar Sollen von XXX t<ex>od</ex> 1588 
+                    </cell>
+                </row>
+                <row> 
+                    <cell> 1. <rs type="person" ref="volckmar_margaretha1"> Margaretha</rs> 
+                        <lb/>g. 15..
+                        <lb/>t
+                        <lb/>1546 H<ex>err</ex> <rs type="person" ref="burlingen_johann"> Johann 
+                        <lb/>burlingen</rs> zu 
+                        <lb/> <rs type="place" ref="#magdeburg">Magdeburg</rs> burg.<ex>er</ex>
+                        <lb/> u...XXX - evtl Jacob Gericke 
+                    </cell>
+                    <cell> <rs type="person" ref="volckmar_solomra"> Solomra</rs>
+                        <lb/>g. 15..
+                        <lb/>1546 <rs type="person" ref="pfeiffer_hieronomus"> hieronomy 
+                        <lb/>Pfeiff</rs>, im.<ex>amtriculiert</ex> von
+                        <lb/>XXX
+                    </cell>
+                    <cell> <rs type="person" ref="volckmar_maria1"> Maria Volckm.<ex>ar</ex></rs> 
+                        <lb/>g.<ex>eboren</ex>
+                        <lb/>t 1580 zu <rs type="place" ref="#weimar">Weymar</rs>
+                        <lb/> 1555. 27 Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="stromer_johann"> Joh.<ex>ann</ex>
+                        <lb/> Stromer</rs> I<ex>uris</ex> u<ex>triusque</ex>d.<ex>octor</ex>  
+                        <lb/><w lemma="#stromerianam">vide Prosapia Stro<ex>-</ex>
+                        <lb/>merianam</w>
+                    </cell>
+                    <cell> <rs type="person" ref="volckmar_Esther"> Esther</rs> 
+                        <lb/>g.<ex>eboren</ex>
+                        <lb/>t.1586 d.<ex>en</ex> 26 Nov.<ex>ovember</ex> 
+                        <lb/>1560 H<ex>err</ex> <rs type="person" ref="m_peter"> M. Peter</rs> 
+                        <lb/>Goßen Annd. zu <rs type="place" ref="#leipzig_thomaskirche">S.<ex>ankt</ex>
+                        <lb/>Thomas</rs> in Leipzig.
+                        <lb/><w lemma="#hessiana">Vid.<ex>e</ex> Prosap.<ex>ia</ex> Hessiana</w>.
+                    </cell>
+                    <cell> 2. <rs type="person" ref="volckmar_anna3"> Anna</rs> 
+                        <lb/>g.<ex>eboren</ex> 1551 
+                    </cell>
+                    <cell> <rs type="person" ref="volckmar_maria2"> Maria Volckm.<ex>arin</ex></rs> 
+                        <lb/> g.<ex>eboren</ex> 15...
+                        <lb/> t 1583 16 Jul.<ex>i</ex> <rs type="place" ref="dresden">dresde<ex>n</ex> </rs>
+                        <lb/>1559 8 May<lb/> H<ex>err</ex> <rs type="person" ref="griebe_jacob"> Jacob Griebe</rs>
+                        <lb/>der alten von vorn<ex>ehmer</ex> deß<lb/> Raths in <rs type="place" ref="#leipzig">Leipzig</rs>.
+                        <lb/><w lemma="#gribianam">Vid.<ex>e</ex> Geneal.<ex>ogica</ex> Gribianam</w>
+                    </cell>
+                    <cell> <rs type="person" ref="volckmar_margaretha2"> Margaretha Volckmarin</rs> 
+                        <lb/> g<ex>eboren</ex> 1534. 26 Jan<ex>uar</ex> t 1601. 11. Nov.<ex>ember</ex> Sep.<ex>tember</ex> 
+                        <lb/> 1563 26 Jan<ex>uar</ex> H<ex>rr</ex> <rs type="person" ref="fritzschhansen_paul"> Paul Fritzsch-
+                        <lb/>hanßen</rs> von <rs type="place" ref="#zwickau">Zwickau</rs> cam 1566 hat gezeugt 10 Kinder 4 S<ex>öhne</ex> u<ex>nd</ex> 6 T<ex>öchter</ex>
+                        <lb/>burger zu <rs type="place" ref="#leipzig">Leipzig</rs>, vornehmer des
+                        <lb/>Raths u<ex>nd</ex> baumeister ein auf fundrise 
+                        <lb/>g.<ex>eboren</ex> t 1602. 8 Jun.<ex>i</ex> 4 S.<ex>öhne</ex> 5 T.<ex>öchter</ex>
+                        <lb/><w lemma="#fritzschhans">Vide Stema Fritzschhans</w>.
+                    </cell>
+                    <cell> H<ex>err</ex> <rs type="person" ref="volckmar_gregor">  Gregorius Volckmar</rs>, g<ex>eboren</ex> 
+                            <lb/>1572 d.<ex>en</ex> 25 Aug.<ex>ust</ex> J<ex>ung</ex>fr.<ex>au</ex> <rs type="person" ref="volckmar_catharina1">  Catharina</rs>
+                            <lb/>1543 d Montags nach Judia hat sich in seiner Vaters Hause Markt gemacht t 1598. den 25 May hat 55 cam 1556 bürger 
+                        <table>
+                            <row>
+                                 <cell> 1. <rs type="person" ref="volckmar_nicolaus3"> Nicolaus Volckmar</rs> b.<ex>ürger</ex> u.<ex>nd</ex> Buchhändler zu <rs type="place" ref="#leipzig">Leipzig</rs>. er ward 1578 immatric.<ex>uliert</ex> 1597 bürger , geb.<ex>oren </ex> 1573. 12 Oct<ex>ober</ex> t 1602. 3 Oct<ex>ober</ex> in der <rs type="place" ref="#leipzig_haynstraße">Haynstraße</rs>. 
+                                    <lb/> 1594 m<ex>itte</ex> Jan.<ex>uar</ex> J<ex>ung</ex>fr.<ex>au</ex> <rs type="person" ref="volckmar_maria3"> Mariam</rs> H<ex>err</ex> <rs type="person" ref="rothaupt_heinrich"> Heinrich Rothaupt</rs> vornehmer des Raths u<ex>nd</ex> bürger Handelsh<ex>err</ex> in Leipzig . g<ex>eboren</ex> 1570 4 Oct<ex>ober</ex> t 1602. 22 Oct.<ex>ober</ex>
+                                  </cell>
+                            </row>
+                            <row>
+                                <cell> <rs type="person" ref="volckmar_maria4"> Maria Volckmarin</rs> 
+                                    <lb/>g.<ex>eboren</ex> 1595. 24. Jan<ex>uar</ex> t 1623. 29. April
+                                    <lb/>1611. 6. May M. <rs type="person" ref="luppe_gregor1"> Gregorius Luppe</rs>,
+                                    <lb/>von <subst><del>H</del><add place="inline">Q</add></subst>uenstädt aus d<ex>er</ex> Graffschafft 
+                                    <lb/><rs type="place" ref="#manßfeld">Manßfeld</rs>. Erbh<ex>err</ex> auf <rs type="place" ref="#neuhauß">Neuhauß</rs>, 
+                                    <lb/><rs type="place" ref="#paupitzsch">Paupitzsch</rs> u<ex>nd</ex> <rs type="place" ref="#petersroda">Petersroda</rs> <del>vornehmer</del> 
+                                    <lb/> des Raths Syndicy zu Leipzig.
+                                    <lb/>g.<ex>eboren</ex> 1562 t 1636. 7 Oct<ex>ober</ex> zu <rs type="place" ref="#delitzsch">Delitzsch</rs>
+                                    <lb/> abgefunden auf <rs type="place" ref="#paupitzsch">Paupitzsch</rs>.
+                                </cell>
+                                <cell> <rs type="person" ref="volckmar_catharina2"> Catharina Volckmarin</rs> 
+                                    <lb/>g.<ex>eboren</ex> 1596. 23 April  t 1642. 29 April
+                                    <lb/> 1. 1613. 23 Au<ex>gust</ex> <rs type="person" ref="lebzelter_wolfgang"> Wolfgang Lebzelter</rs>
+                                    <lb/> Goldschmidt zu <rs type="place" ref="#leipzig">Leipzig</rs> t 1622. 10 Oct<ex>ober</ex> 
+                                    <lb/>ohne Kinder
+                                    <lb/> 2. 1625. 19. Sept<ex>ember</ex> H<ex>err</ex> <rs type="person" ref="anckelmann_joachim"> Joachim Ankelmanen</rs> 
+                                    <lb/> auff Maulfilerburg, <rs type="place" ref="heuckewalde">Heuckewalde</rs> u.<ex>und </ex> <rs type="place" ref="#pölzig">Pöltzig</rs>
+                                    <lb/> vorn<ex>ehmer</ex> des Raths u<ex>und</ex> Handelsh<ex>err</ex> in Leipzig 
+                                    <lb/><w lemma="#anckelman"> vid.<ex>e</ex> prosap.<ex>ia</ex> Anckelman</w>. folg.
+                                </cell>
+                                <cell> <rs type="person" ref="volmckar_sabina"> Sabina Volckmarin</rs> 
+                                    <lb/>g<ex>eboren</ex> 1598 22. Jul.<ex>i</ex> t 1634 26 Sep<ex>tember</ex>
+                                    <lb/>1615 31 Oct.<ex>ober</ex> H.<ex>err</ex> <rs type="person" ref="lyser_polycarpus"> Polycarpus 
+                                    <lb/>Lyser</rs> Theol<ex>oge</ex> d.P.P. Past.<ex>or</ex> u<ex>nd</ex> Super<ex>intendent</ex>
+                                    <lb/><w lemma="#lyseriana">Vide Geneal.<ex>ogica</ex> Lyseriana</w>
+                                </cell>
+                                <cell> <rs type="person" ref="volckmar_nicolaus4">  Nicolaus 
+                                    <lb/>Volckmar</rs>
+                                    <lb/> g<ex>eboren</ex> 1600. 16 Jun<ex>i</ex>
+                                    <lb/> t 1601. 27 Jun<ex>i</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="franckenstein_christina"> Christina Volckmarin</rs> 
+                                    <lb/>g<ex>eboren</ex> 1602. 19 April t 1633. 13 Jan.<ex>uar</ex>
+                                    <lb/> 1620 21 febr<ex>uar</ex> H<ex>err</ex> <rs type="person" ref="franckenstein_christian"> Christian Francken-
+                                    <lb/>steinen</rs> I<ex>uris</ex> U<ex>triusque</ex>d.<ex>octor</ex> vornehmer des Raths
+                                    <lb/> u<ex>nd</ex> Consulent zu <rs type="place" ref="#leipzig">Leipzig</rs>
+                                    <lb/> <w lemma="franckenstein">Vide Geneal.<ex>ogica</ex> Franckenstein</w>
+                                </cell>
+                            </row>
+                            <row>
+                                <cell> <rs type="person" ref="luppe_gregor2"> Gregorius Luppe</rs>. Past.<ex>or</ex> zu <rs type="place" ref="#großkyhna">Großkyhna</rs> u<ex>nd</ex> Litzpfmar 
+                                    <lb/>g.<ex>eboren</ex> 1612. 17 Jun.<ex>i</ex> t 1677. d.<ex>en</ex> 13. Jan<ex>uar</ex> 1670 promoviert L<ex>ei</ex>pz<ex>ig</ex>
+                                    <lb/>1639. 10 Julij W<ex>itwe</ex> <rs type="person" ref="fischer_susanna"> Susanna</rs> g<ex>eborene</ex> Fischer H<ex>err</ex> David
+                                    <lb/>haydenrichs notpubl. caf. Witwer H<ex>err</ex> Andr<ex>eas</ex> Fischer 
+                                    <lb/>Pegaviensis Past<ex>or</ex> zu Lüsna zu delitzsch Pfarer T. 
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_nicolaus"> Nicolaus</rs> 
+                                    <lb/> g<ex>eboren</ex> 1613. 31 Dec<ex>ember</ex> 
+                                    <lb/> t 1622. 29. Sep.<ex>tember</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_maria"> Maria</rs> 
+                                    <lb/> g.<ex>eboren</ex> 1616. 10 Jan.<ex>uar</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_heinrich"> Heinrich Luppe</rs> 
+                                    <lb/>g.<ex>eboren</ex> 1619. 1 Nov.<ex>ember</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_caspar"> Caspar Luppe</rs>. 
+                                    <lb/>g<ex>eboren</ex> 1617. 14 Nov.<ex>ember</ex>
+                                    <lb/> t 1636. 5 Oct.<ex>ober</ex> zu <lb/> <rs type="place" ref="#delitzsch">Dölitzsch </rs>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_sabina"> Sabina Luppin</rs> 
+                                    <lb/>g.<ex>eboren</ex> 1621. 26. October.
+                                </cell>
+                            </row>
+                            <row>
+                                <cell> <rs type="person" ref="luppe_susannamaria1"> Susanna Maria</rs>
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_catharina"> Catharina</rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_annasophia"> Anna Sophia</rs>  
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_susanna1"> Susanna</rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_christian"> Christian</rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_gregor3"> Gregorius Luppe</rs> St Theol<ex>ogisches</ex> Bacc. Pastor zu <rs type="place" ref="#brachstedt">Brach- 
+                                    <lb/>städt</rs> u<ex>nd</ex> <rs type="place" ref="#gißmansdorf">Gißmansdorf</rs> g.<ex>eboren</ex> 1646 ward 1722 Sup<ex>erintendent</ex> Jeßen 1724 Theol<ex>logischer</ex> Doctor zu <rs type="place" ref="wittenberg"> Wittenberg </rs>
+                                    <lb/>1. 1668. 17 Nov.<ex>ember</ex> F<ex>rau</ex> Anna g<ex>eborene</ex> Pfaltz in g<ex>eboren</ex>...t...
+                                    <lb/>2. 1673. 15 April F<ex>rau</ex> zum Maria burgerin 
+                                </cell>
+                                <cell>
+                                    <rs type="person" ref="luppe_johannesgottfried"> Johannes Gottfried Luppe</rs> 
+                                    <lb/> g.<ex>eboren </ex> Buchbinder in
+                                    <lb/> <rs type="place" ref="#delitzsch"> Dölitzsch</rs> 
+                                    <lb/> g.<ex>eboren</ex> t 1763 14 dec<ex>ember</ex>
+                                    <lb/>1670 18 Oct<ex>ober</ex> F<ex>rau</ex> Marien Heinrich Kuhnens b<ex>ürgers</ex> u<ex>nd</ex> <w lemma="Posamentierers">Posa
+                                    <lb/>men</w><subst><del><unclear reason="illegible">Kopp</unclear></del><add place="inline">tierer</add></subst>s in 
+                                        Dölitzsch <unclear reason="illegible">W<ex>itwe</ex></unclear> - .
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_andreas"> Andreas Luppe</rs> Buchhandl<ex>er</ex>
+                                    <lb/>in <rs type="place" ref="#Wesel">Wesel</rs>, <rs type="place" ref="#duisburg">Duißburg </rs>u<ex>nd</ex> <rs type="place" ref="#frankfurt">Franckf<ex>urt</ex></rs>
+                                    <lb/>in <rs type="place" ref="#köln"> Cölln</rs> an d. Spehm
+                                </cell>
+                            </row>
+                            <row>
+                                <cell> 1.<rs type="person" ref="luppe_susanna2"> Susanna</rs> 
+                                    <lb/>Maria
+                                    <lb/>g<ex>boren</ex> 1669 7 Nov<ex>ember</ex>
+                                </cell>
+                                <cell> 2. <rs type="person" ref="luppe_martin">  Joh.<ex>annes</ex> Martin</rs> 
+                                    <lb/>g<ex>boren</ex> 1674. 9 Marz
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_augusta"> August Magdal.<ex>ena</ex></rs> 
+                                    <lb/>g<ex>boren</ex> 1675. 5 Nov<ex>ember</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_annamaria"> Anna Maria</rs> 
+                                    <lb/>g.<ex>boren</ex> 1677. 15 Sept.<ex>ember</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="vollrath_johannes"> Joh.<ex>annes</ex> Vollrath</rs> 
+                                    <lb/>g<ex>boren</ex> 1685. 14 Jun.<ex>i</ex> 
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_sophiaelisabeth"> Sophia Elisabeth</rs>. 
+                                    <lb/>g<ex>boren</ex> 1687. d.<ex>en</ex> 4 Jan.<ex>uar</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_johannesgeorg"> Joh.<ex>annes</ex> Georg</rs> 
+                                    <lb/>g<ex>boren</ex> 1689. 3. Nov.<ex>ember</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_christoph"> Christoph</rs>. 
+                                    <lb/>g.<ex>eboren</ex>
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_susannamaria1"> Susanna Maria</rs> 
+                                    <lb/> g.<ex>eboren</ex>
+                                    <lb/> 1689 26 Nov.<ex>ember</ex>
+                                    <lb/><rs type="person" ref="standhaupt_caspar">Caspar Standhaupt</rs>
+                                    <lb/> zu Posamentierer
+                                    <lb/> in <rs type="place" ref="#halle">Halle</rs>.
+                                </cell>
+                                <cell> <rs type="person" ref="stumer_dorothea"> Dorothea Elisabeth</rs>
+                                    <lb/> 1695 19 Nov<ex>ember</ex>
+                                    <lb/> gelob <rs type="person" ref="stumer_georg">  Georg
+                                    <lb/> Stumer</rs>bube 
+                                    <lb/> Goldschmidt in
+                                    <lb/> <rs type="place" ref="#eilenburg">Eilenburg</rs> Gregor
+                                    <lb/>Störmer zu  <rs type="place" ref="#canitz">Canitz</rs>
+                                    <lb/> bei <rs type="place" ref="wasewitz"> Wasewitz</rs> für grib
+                                    <lb/> schen
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_annacatharina"> Anna Catharina</rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_johanngottfried">  Johann Gottf.<ex>ried</ex></rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_christian"> Christian </rs> 
+                                    <lb/>g<ex>eboren</ex>
+                                    <lb/>t
+                                </cell>
+                                <cell> <rs type="person" ref="luppe_johannsamuel"> Joh<ex>ann</ex> Samuel</rs>
+                                </cell>
+                            </row>
+                        </table>
+                    </cell>
+                </row>
+              </table>      
             </div>
         </body>
     </text>
