@@ -266,11 +266,12 @@
                                                             <cell>
                                                                 H<ex>err</ex> <rs type="person" ref="#thomasius_gottfried">Gottfried Thomasius</rs> Phill<ex>......</ex> medic<ex>......</ex> Doctor
                                                                 <lb/>g<ex>eboren</ex> 1660. 24 Mart<ex>ii</ex>
-                                                                <lb/>1691. 12 Aug<ex>ust</ex> J<ex>ung</ex>F<ex>rau</ex> Clara Helena H<ex>err</ex> <rs type="person" ref="#volckmer_johanngeorg"> Jo<ex>hann</ex> Georg
-                                                                <lb/>Volckmer</rs>s SRJ
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
+                                                                <lb/>1691. 12 Aug<ex>ust</ex> J<ex>ung</ex>F<ex>rau</ex> <rs type="personen" ref="#thomasius_clarahelena">Clara Helena</rs> H<ex>err</ex> <rs type="person" ref="#volckmer_johanngeorg"> Jo<ex>hann</ex> Georg
+                                                                <lb/>Volckmer</rs>s SRJ <unclear>. . .</unclear> aurati Cays[erlich] maij[estät] Raths u<ex>nd</ex> des
+                                                                <lb/>medici wie auch Commit<ex>is</ex> Palat<ex>ini</ex> C&#x00E6;sar<ex>ei</ex> des Leopoldisch<unclear>. . .</unclear>
+                                                                <lb/>Academie na<ex>tur</ex>&#x00E6; Curioso<ex>rium</ex> Presidis, des hoch<unclear>. . .</unclear> 
+                                                                <lb/>Collegij Medici in Nürnberg Senioris primarij u. eme-
+                                                                <lb/><unclear>riti. . .</unclear> 1693. d<ex>en</ex>. 17. May) Tochter g<ex>eboren</ex>
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
@@ -280,62 +281,65 @@
                                                                 </table>
                                                             </cell>
                                                             <cell>
-                                                                Johanna
-                                                                <lb/>Thomasia
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
-                                                                <lb/>
+                                                                <rs type="person" ref="#feller_johanna">Johanna
+                                                                <lb/>Thomasia</rs>
+                                                                <lb/>g<ex>eboren</ex> 1663. 9 April.
+                                                                <lb/>1677. 27 Nov<ex>ember</ex> H<ex>err</ex> L<ex>icentiatus</ex>
+                                                                <lb/><rs type="person" ref="#feller_joachim">Joachim Feller</rs>
+                                                                <lb/>Poes<ex>eos</ex> P<ex>rofessor</ex> P<ex>ublicus</ex> Colleg<ex>i</ex> Maj<ex>oris</ex>
+                                                                <lb/>Colleg<ex>iati</ex> der <unclear>. . . </unclear> 
+                                                                <lb/>Nation Senior u<ex>nd</ex>
+                                                                <lb/>Biblioth<ex>eca</ex> Paul<ex>ina</ex> Biblio<ex>-</ex>
+                                                                <lb/>thecarius. g<ex>eboren</ex>.
                                                                 <lb/>† 1691 4. April
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
-                                                                            Jacob
-                                                                            <lb/>
-                                                                            <lb/>g<ex>eboren</ex> 1678
+                                                                            <rs type="person" ref="#feller_jacobfriedrich">Jacob
+                                                                            <lb/>Friedrich</rs>
+                                                                            <lb/>g<ex>eboren</ex> 1678.
                                                                             <lb/>19. Nov<ex>ember</ex>
-                                                                            <lb/>† 1680
+                                                                            <lb/>† 1680.
                                                                             <lb/>21. Oct<ex>ober</ex>
                                                                         </cell>
                                                                         <cell>
-                                                                            Johanna
-                                                                            <lb/>Rahel
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/><!-- Blank -->
-                                                                            <lb/>H<ex>err</ex> D<ex>octor</ex>...
-                                                                            <lb/>Lange
-                                                                            <lb/>
-                                                                            <lb/>
-                                                                            <lb/>
+                                                                            <rs type="person" ref="#lange_johannarahel">Johanna
+                                                                            <lb/>Rahel</rs>
+                                                                            <lb/>g. 1680.
+                                                                            <lb/>4. Jul[i].
+                                                                            <lb/><space dim="vertical"/>
+                                                                            <lb/>H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#lange_gottfried">Gittfr<ex>ied</ex> 
+                                                                            <lb/>Lange</rs> Königl<ex>icher</ex>
+                                                                            <lb/>Pol<ex>oni&#x00E6;</ex> Hoffrath
+                                                                            <lb/>u<ex>nd</ex> Bürgermeister
+                                                                            <lb/>in <rs type="place" ref="#leipzig">Leipzig</rs>
                                                                             <table rendition="#topBraced">
                                                                                 <row>
                                                                                     <cell>
-                                                                                        Jo. Gottf
+                                                                                        <rs type="person" ref="#lange_johanngottfried">Jo<ex>hann</ex> Gottfrid</rs>
                                                                                         <lb/>g<ex>eboren</ex> 16. . .
+                                                                                        <note type="footnote" resp="ho">Lange, Johann Gottfried (1699-1738)?; https://d-nb.info/gnd/134230000</note>
                                                                                     </cell>
                                                                                     <cell>
-                                                                                        Rahel
+                                                                                        <rs type="person" ref="#lange_christianarahel">Rahel
                                                                                         <lb/>Christi-
-                                                                                        <lb/>ana g<ex>eboren</ex> ...
-                                                                                        <lb/>d. 9. April
+                                                                                        <lb/>ana</rs> g<ex>eboren</ex> 1703
+                                                                                        <lb/>d<ex>en</ex> 9 April
                                                                                     </cell>
                                                                                     <cell>
-                                                                                        Wilhelmina
+                                                                                        <rs type="person" ref="#lange_wilhelmina">Wilhelmina</rs>
                                                                                     </cell>
                                                                                     <cell>
-                                                                                        Friderica
+                                                                                        <rs type="person" ref="#lange_friderica">Friderica</rs>
                                                                                     </cell>
                                                                                     <cell>
-                                                                                        ...
+                                                                                        <rs type="person" ref="#lange_heinrietta">Heinrietta</rs>
                                                                                     </cell>
                                                                                 </row>
                                                                             </table>
+                                                                        </cell>
+                                                                        <cell>
+                                                                            <unclear>Johannes</unclear>
                                                                         </cell>
                                                                         <cell>
                                                                             Sabina
