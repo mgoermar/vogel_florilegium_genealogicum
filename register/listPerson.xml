@@ -939,7 +939,7 @@
                     </note>
                 </person>
                 <person xml:id="lauhn_sophiabenigna">
-                    <persName ref="https://d-nb.info/gnd/130513202"> <>>>>>korrekt??>>>>>>
+                    <persName ref="https://d-nb.info/gnd/130513202"> <!-- <>>>>>korrekt??>>>>>> -->
                         <forename>Sophia Benigna</forename>
                         <surname>Lauhn</surname>
                     </persName>
@@ -2042,7 +2042,7 @@
                     </education>
                     <occupation>
                         <term>Hofrat</term>
-                        <placeName ref="##schoenburg_grafschaft">Schönburgische Herrschaften</placeName>
+                        <placeName ref="#schoenburg_grafschaft">Schönburgische Herrschaften</placeName>
                     </occupation>
                     <occupation>
                         <term>Consulent</term>
@@ -2651,7 +2651,1712 @@
                     </note>
 
                 </person>
+                 <person xml:id="volckmar_heinrich">
+                    <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Heinrich</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="volckmar_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Johannes</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="volckmar_nicolaus1">
+                    <persName>
+                        <forename>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="gretsch_curigunda">
+                    <persName>
+                        <forename>Curigunda</forename>
+                        <surname>Gretzsch</surname>
+                    </persName>
+                    <persName type="display">Gretzsch, Curigunda</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="margaretha_anon1">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>anon</surname>
+                    </persName>
+                    <persName type="display">Unbekannt, Margaretha</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="pfeiffer_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer, Johann</persName>
+                    <sex value="m"/>
+                </person>
+                 <person xml:id="pfefferin_margaretha">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>Pfeifferin</surname>
+                    </persName>
+                    <persName type="display">Pfeifferin, Margaretha</persName>
+                    <sex value="f"/>
+                </person>
+                 <person xml:id="volckmar_martin">
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Martin</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="volckmar_nicolaus2">
+                    <persName>
+                        <forename>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>  
+                     <birth>
+                        <date when="1400">14...</date>
+                    </birth>
+                    <death>
+                        <date when="1521">1521</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_augusting">
+                    <persName>
+                        <forename>Augusting</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Augusting</persName>
+                    <sex value="m"/>    
+                    <birth>
+                        <date when="1490">149...</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1555">1555</date>
+                    </death>            
+                </person>
+                 <person xml:id="volckmar_anna1">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Lindemann, Anna</persName>
+                    <sex value="f"/>               
+                </person>
+                 <person xml:id="lindemans_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Lindeman</surname>
+                    </persName>
+                    <persName type="display">Lindeman, Johannes</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_anna2">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Jordan, Anna</persName>
+                    <sex value="f"/>   
+                    <death>
+                        <date when="1588">1588</date>
+                    </death>               
+                </person>
+                 <person xml:id="jordan_gregor">
+                    <persName>
+                        <forename>Gregor</forename>
+                        <surname>Jordan</surname>
+                    </persName>
+                    <persName type="display">Jordan, Gregor</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_margaretha1">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>Burlingen</surname>
+                    </persName>
+                    <persName type="display">Burlingen geb. Volckmar, Margaretha</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="burlingen_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Burlingen</surname>
+                    </persName>
+                    <persName type="display">Burlingen, Johann</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_solomra">
+                    <persName>
+                        <forename>Solomra</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer geb. Volckmar, Solomra</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="pfeiffer_hieronomus">
+                    <persName>
+                        <forename>Hieronomus</forename>
+                        <surname>Pfeiffer</surname>
+                    </persName>
+                    <persName type="display">Pfeiffer, Hieronomus</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_maria1">
+                    <persName>
+                        <forename>Maria</forename>
+                        <surname>Stromer</surname>
+                    </persName>
+                    <persName type="display">Stromer geb. Volckmar, Maria</persName>
+                    <sex value="f"/>  
+                    <death>
+                        <date when="1580">1588</date>
+                        <placeName ref="#weimar">Weimar</placeName>
+                    </death>                
+                </person>
+                 <person xml:id="stromer_johann">
+                    <persName ref="https://d-nb.info/gnd/117676969">
+                        <forename>Johann</forename>
+                        <surname>Stromer</surname>
+                    </persName>
+                    <persName type="display">Stromer, Johann</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="1526">1526</date>
+                        <placeName ref="#auerbach">Auerbach</placeName>
+                    </birth>
+                    <death>
+                        <date when="11607">1607</date>
+                        <placeName ref="#jena">Jena</placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_esther">
+                    <persName>
+                        <forename>Esther</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Esther</persName>
+                    <sex value="f"/>   
+                    <death>
+                        <date when="1610-11-26">26. November 1586</date>
+                    </death>             
+                </person>
+                 <person xml:id="m_peter">
+                    <persName>
+                        <forename>M.</forename>
+                        <surname>Peter</surname>
+                    </persName>
+                    <persName type="display">Peter, M.</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="volckmar_anna3">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Anna</persName>
+                    <sex value="f"/>   
+                    <birth>
+                        <date when="1551">1551</date>
+                    </birth>             
+                </person>
+                 <person xml:id="volckmar_maria2">
+                    <persName>
+                        <forename>Maria</forename>
+                        <surname>Griebe</surname>
+                    </persName>
+                    <persName type="display">Griebe geb. Volckmar, Anna</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1500">15..</date>
+                    </birth>
+                    <death>
+                        <date when="1583-07-16">16. Juli 1583</date>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </death>                
+                </person>
+                 <person xml:id="griebe_jacob">
+                    <persName>
+                        <forename>Jacob</forename>
+                        <surname>Griebe</surname>
+                    </persName>
+                    <persName type="display">Griebe, Jacob</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_margaretha2">
+                    <persName>
+                        <forename>Margaretha</forename>
+                        <surname>Fritzschhansen</surname>
+                    </persName>
+                    <persName type="display">Fritzschhansen geb. Volckmar, Margaretha</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1534-02">Februar 1534</date>
+                    </birth>
+                    <death>
+                        <date when="151601-11-11">11. Novemver 1601</date>
+                    </death>               
+                </person>
+                 <person xml:id="fritzschhansen_paul">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Fritzschhansen</surname>
+                    </persName>
+                    <persName type="display">Fritzschhansen, Paul.</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_gregor">
+                    <persName>
+                        <forename>Gregorius</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Gregorius</persName>
+                    <sex value="m"/>                
+                </person>
+                 <person xml:id="volckmar_catharina1">
+                    <persName>
+                        <forename>Catharina</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                 <person xml:id="volckmar_nicolaus3">
+                    <persName ref="https://d-nb.info/gnd/1033226025">
+                        <forename>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="11573-10-12">12. Oktober 1573</date>
+                    </birth>
+                    <death>
+                        <date when="11602-10-03">3. Oktober 1602</date>
+                        <placeName ref="#haynstraße">Haynstraße in Leipzig </placeName>
+                    </death>              
+                </person>
+                 <person xml:id="volckmar_maria3">
+                    <persName ref="https://d-nb.info/gnd/12202639X">
+                        <forename>Maria</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar geb. Rothaupt, Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1570-10-04">4. Oktober 1570</date>
+                    </birth>
+                    <death>
+                        <date when="1602-10-22">22. Oktober 1602</date>
+                    </death>                
+                </person>
+                 <person xml:id="rothaupt_heinrich">
+                    <persName ref="https://d-nb.info/gnd/1019607564">
+                        <forename>Heinrich</forename>
+                        <surname>Rothaupt</surname>
+                    </persName>
+                    <persName type="display">Rothaupt, Heinrich</persName>
+                    <sex value="m"/>    
+                    <birth>
+                        <date when="1529">1529</date>
+                    </birth>
+                    <death>
+                        <date when="1610-03-05">1600</date>
+                    </death>            
+                </person>
+                 <person xml:id="volckmar_maria4">
+                    <persName>
+                        <forename>Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe geb. Volckmar, Maria</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1595-01-24">24. Januar 1595</date>
+                    </birth>
+                    <death>
+                        <date when="1623-04-29">29. Januar 1623</date>
+                    </death>               
+                </person>
+                 <person xml:id="luppe_gregor1">
+                    <persName ref="https://d-nb.info/gnd/1052487572">
+                        <forename>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregorius</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1582">6. März 1555</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1636-10-15">15. Oktober 1636</date>
+                        <placeName ref="#delitzsch">Delitzsch</placeName>
+                    </death>             
+                </person>
+                 <person xml:id="volckmar_catharina2">
+                    <persName ref="https://d-nb.info/gnd/115586040">
+                        <forename>Catharina</forename>
+                        <surname>Ankelman geb. Volckmar</surname>
+                    </persName>
+                    <persName type="display">Ankelman, Catharina</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1596-04-23">23. April 1596</date>
+                    </birth>
+                    <death>
+                        <date when="1624-04-29">29. April 1624</date>
+                    </death>              
+                </person>
+                 <person xml:id="lebzelter_wolfgang">
+                    <persName ref="https://d-nb.info/gnd/118044990">
+                        <forename>Wolfgang</forename>
+                        <surname>Lebzelter</surname>
+                    </persName>
+                    <persName type="display">Lebzelter, Wolfgang</persName>
+                    <sex value="m"/>
+                     <birth>
+                        <date when="1592">1592</date>
+                    </birth>
+                    <death>
+                        <date when="1622">1622</date>
+                    </death>                
+                </person>
+                 <person xml:id="anckelmann_joachim">
+                    <persName ref="https://d-nb.info/gnd/122967887">
+                        <forename>Joachim</forename>
+                        <surname>Ankelman</surname>
+                    </persName>
+                    <persName type="display">Ankelman, Joachim.</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1592">1592</date>
+                    </birth>
+                    <death>
+                        <date when="1648">1592</date>
+                    </death>             
+                </person>
+                  <person xml:id="volckmar_sabina">
+                    <persName ref="https://d-nb.info/gnd/124682502">
+                        <forename>Sabina, später Sabine</forename>
+                        <surname>Leyser</surname>
+                    </persName>
+                    <persName type="display">Leyser geb. Volckmar, Sabina</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1598-07-22">22. Juli 1598</date>
+                    </birth>
+                    <death>
+                        <date when="1634-09-26">26. September 1634</date>
+                    </death>               
+                </person>
+                  <person xml:id="lyser_polycarpus">
+                    <persName ref="https://d-nb.info/gnd/116991615">
+                        <forename>Polycarpus</forename>
+                        <surname>Leyser</surname>
+                    </persName>
+                    <persName type="display">Leyser, Polycarpus</persName>
+                    <sex value="m"/>  
+                     <birth>
+                        <date when="1586">1586</date>
+                    </birth>
+                    <death>
+                        <date when="1633">1633</date>
+                    </death>              
+                </person>
+                  <person xml:id="volckmar_nicolaus4">
+                    <persName>
+                        <forename>Nicolaus</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Nicolaus</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1600-06-16">16. Juni 1600</date>
+                    </birth>
+                    <death>
+                        <date when="1601-06-27">27. Juni 1601</date>
+                    </death>             
+                </person>
+                <!--   <person xml:id="volckmar_catharina2">
+                    <persName>
+                        <forename>Catharina</forename>
+                        <surname>Volckmar</surname>
+                    </persName>
+                    <persName type="display">Volckmar, Catharina</persName>
+                    <sex value="f"/>                
+                </person> -->
+                  <person xml:id="franckenstein_christian">
+                    <persName>
+                        <forename>Christian</forename>
+                        <surname>Franckenstein</surname>
+                    </persName>
+                    <persName type="display">Franckenstein, Christian</persName>
+                    <sex value="m"/>   
+                    <death>
+                        <date when="1637">1637</date>
+                    </death>             
+                </person>
+                  <person xml:id="franckenstein_christina">
+                    <persName>
+                        <forename>Christina</forename>
+                        <surname>Franckenstein geb. Volckmar</surname>
+                    </persName>
+                    <persName type="display">Franckenstein, Christina</persName>
+                    <sex value="m"/>
+                     <birth>
+                        <date when="1602-04-19">19. April 1602</date>
+                    </birth>
+                    <death>
+                        <date when="1633-01-13">13. Januar 1633</date>
+                    </death>              
+                </person>
+                <person xml:id="luppe_gregor2">
+                    <persName ref="https://d-nb.info/gnd/128656581">
+                        <forename>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregorius</persName>
+                    <sex value="m"/> 
+                     <birth>
+                        <date when="1612-06-17">17. Juni 1612</date>
+                    </birth>
+                    <death>
+                        <date when="1677-01-13">13. Januar 1677</date>
+                    </death>               
+                </person>
+                <person xml:id="fischer_susanna">
+                    <persName>
+                        <forename>Susanna</forename>
+                        <surname>Luppe geb. Fischer</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_nicolaus">
+                    <persName>
+                        <forename>Nicolaus</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Nicolaus</persName>
+                    <sex value="m"/>   
+                     <birth>
+                        <date when="1613-12-31">31. Dezember 1613</date>
+                    </birth>
+                    <death>
+                        <date when="1622-09-29">29. September 1622</date>
+                    </death>             
+                </person>
+                <person xml:id="luppe_maria5">
+                    <persName>
+                        <forename>Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Maria</persName>
+                    <sex value="f"/>
+                     <birth>
+                        <date when="1616-01-10">10. Januar 1616</date>
+                    </birth>               
+                </person>
+                  <person xml:id="luppe_heinrich">
+                    <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Heinrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1619-11-01">1. November 1619</date>
+                    </birth>                 
+                </person>
+                <person xml:id="luppe_caspar">
+                    <persName>
+                        <forename>Caspar</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Caspar</persName>
+                    <sex value="m"/>  
+                    <birth>
+                        <date when="1617-10-14">14. November 1617</date>
+                    </birth>
+                    <death>
+                        <date when="1636-10-05">5. Oktober 1636</date>
+                        <placeName ref="#delitzsch">Delitzsch</placeName>
+                    </death>               
+                </person>
+                <person xml:id="luppe_sabina">
+                    <persName>
+                        <forename>Sabina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Sabina</persName>
+                    <sex value="f"/> 
+                    <birth>
+                        <date when="1621-10-26">26. Oktober 1621</date>
+                    </birth>               
+                </person>
+                <person xml:id="luppe_susannamaria1">
+                    <persName>
+                        <forename>Susanna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna Maria</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_catharina">
+                    <persName>
+                        <forename>Catharina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_annasophia">
+                    <persName>
+                        <forename>Anna Sophia</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Sophia</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_susanna1">
+                    <persName>
+                        <forename>Susanna</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_gregor3">
+                    <persName>
+                        <forename>Gregorius</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Gregor</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_johannesgottfried">
+                    <persName>
+                        <forename>Johannes Gottfried</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johannes Gottfried</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_andreas">
+                    <persName ref="https://d-nb.info/gnd/128460334">
+                        <forename>Andreas</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Andreas</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_susanna2">
+                    <persName>
+                        <forename>Susanna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Susanna Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1669-11-07">7. November 1669</date>
+                    </birth>               
+                </person>
+                <person xml:id="luppe_martin">
+                    <persName>
+                        <forename>Johann Martin</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Martin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1574-03-09">9. März 1674</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_augusta">
+                    <persName>
+                        <forename>Augusta Magdalena</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Augusta Magdalena</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1675-11-05">6. November 1675</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_annamaria">
+                    <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Maria</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1677-09-14">14. September 1677</date>
+                    </birth>                
+                </person>
+                <person xml:id="vollrath_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Vollrath</surname>
+                    </persName>
+                    <persName type="display">Vollrath, Johannes</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1685-06-14">14. Juni 1685</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_sophiaelisabeth">
+                    <persName>
+                        <forename>Sophia Elisabeth</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Sophia Elisabeth</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1687-01-04">4. Januar 1687</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_johannesgeorg">
+                    <persName>
+                        <forename>Johannes Georg</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johannes Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1689-11-03">3. Novemver 1689</date>
+                    </birth>                
+                </person>
+                <person xml:id="luppe_cristoph">
+                    <persName>
+                        <forename>Christoph</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Christoph</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="standhaupt_caspar">
+                    <persName>
+                        <forename>Caspar</forename>
+                        <surname>Standhaupt</surname>
+                    </persName>
+                    <persName type="display">Standhaupt, Caspar</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="stumer_dorothea">
+                    <persName>
+                        <forename>Dorothea</forename>
+                        <surname>Stumer</surname>
+                    </persName>
+                    <persName type="display">Stumer, Dorothea</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="stumer_georg">
+                    <persName>
+                        <forename>Georg</forename>
+                        <surname>Stumer</surname>
+                    </persName>
+                    <persName type="display">Stumer, Georg</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_annacatharina">
+                    <persName>
+                        <forename>Anna Catharina</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Anna Catharina</persName>
+                    <sex value="f"/>                
+                </person>
+                <person xml:id="luppe_johanngottfried">
+                    <persName>
+                        <forename>Johann Gottfried</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Gottfried</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_christian">
+                    <persName>
+                        <forename>Christian</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Christian</persName>
+                    <sex value="m"/>                
+                </person>
+                <person xml:id="luppe_johannsamuel">
+                    <persName ref="https://d-nb.info/gnd/1015942873">
+                        <forename>Johann Samuel</forename>
+                        <surname>Luppe</surname>
+                    </persName>
+                    <persName type="display">Luppe, Johann Samuel</persName>
+                    <sex value="m"/>  
+                    <death>
+                        <date when="1742">1742</date>
+                    </death>              
+                </person>
         <!--Thomasius2-->
+        <!-- Thomasius1-->
+                <person xml:id="thomas_johann">
+                    <persName>
+                        <forename>Thomas</forename>
+                        <surname>Johann</surname>
+                    </persName>
+                    <persName type="display">Thomas, Johann</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="thomas_michael">
+                    <persName>
+                        <forename>Michael</forename>
+                        <surname>Thomas</surname>
+                    </persName>
+                    <persName type="display">Thomas, Michael der Ältere</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_saronn"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="sturm_ludwig">
+                    <persName ref="https://d-nb.info/gnd/132014297">
+                        <forename>Ludwig</forename>
+                        <surname>Sturm</surname>
+                    </persName>
+                    <persName type="display">Sturm, Ludwig</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1559">1559</date>
+                    </birth>
+                    <death>
+                        <date when="1570">1570</date>
+                    </death>
+                </person>
+                <person xml:id="thomae_saronn">
+                    <persName>
+                        <forename>Saronn</forename>
+                        <surname>thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Saronn</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_saronn"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="meissen_peter">
+                    <persName>
+                        <forename>Peter</forename>
+                        <surname>Meißen</surname>
+                    </persName>
+                    <persName type="display">Meißen, Peter</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="thomae_michael_1">
+                    <persName>
+                        <forename>Michael</forename>                   
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1587">1587</date>
+                    </birth>
+                    <death>
+                        <!-- 1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB-->
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomas_michael"/>
+                            <relation type="spouse" ref="#thomae_anna"/>
+                        </listRelation>
+                    </note>
+                    <occupation>
+                        <term>Jurist</term> 
+                    </occupation>
+                </person>
+                <person xml:id="thomae_anna">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Anna</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#schultes_jacob"/>
+                            <relation type="spouse" ref="#thomae_michael_1"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="schultes_jacob">
+                    <persName ref="https://www.deutsche-biographie.de/sfz26743.html#adbcontent">
+                        <forename>Jacob</forename>
+                        <surname>Schultes</surname>
+                    </persName>
+                    <persName type="display">Schultes, Jacob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1571">1571</date>
+                    </birth>
+                    <death>
+                        <date when="1629">1629</date>
+                    </death>
+                </person>
+                <person xml:id="thomae_michael_2">
+                    <persName ref="https://d-nb.info/gnd/121718190">
+                        <forename>Michael</forename>
+                        <surname>Thomae</surname>
+                    </persName>
+                    <persName type="display">Thomae, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1619-03-22">22. März 1619</date>
+                    </birth>
+                    <death>
+                        <date when="1689-07-02">2. Juli 1689</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_annamaria_3"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1646-09-08">08. September 1646</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1665-08-14">14. August 1665</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <occupation>
+                        <term>Jurist</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Ratsherr</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="thomae_annamaria_3">
+                    <persName>
+                        <forename>Anna Maria</forename>
+                        <surname type="birthName">Teuring</surname>
+                    </persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1622-05-23">23. Mai 1622</date>
+                    </birth>
+                    <death>
+                        <date when="1664-04">April 1664</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_michael_2"/>
+                    </listRelation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1646-09-08">08. September 1646</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    </note>
+                </person>
+                <person xml:id="teuring_samuel">
+                    <persName>
+                        <forename>Samuel</forename>
+                        <surname>Teuring</surname>
+                    </persName>
+                    <persName type="display">Teuring, Samuel</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomae_annamaria_3"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomae_catharina">
+                    <persName ref="https://d-nb.info/gnd/12159307X">
+                        <forename>Catharina</forename>
+                        <surname type="birthName">Wiefel</surname>
+                    </persName>
+                    <persName type="display">Thomae, Catharina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1620-11-16">16. November 1620</date>
+                    </birth>
+                    <death>
+                        <date when="1680-12-20">20. Dezember 1680</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1665-08-14">14. August 1665</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#mueller_johann"/>
+                            <relation type="spouse" ref="#thomae_michael_2"/>
+                        </listRelation>                        
+                    </note>
+                </person>
+                <person xml:id="mueller_johann">
+                    <persName ref="https://d-nb.info/gnd/121654613">
+                        <forename>Johann</forename>
+                        <surname>Müller</surname>
+                    </persName>
+                    <persName type="display">Müller, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1608">1608</date>
+                    </birth>
+                    <death>
+                        <date when="1661">1661</date>
+                    </death>
+                    <occupation>
+                        <term>Händler</term> 
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="kramer_martinwiefel">
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Kramer Wiefel</surname>
+                    </persName>
+                    <persName type="display">Kramers, Martin Wiefel</persName>
+                    <sex value="m"/>
+                </person>
+                <person xml:id="thomasia_anna">
+                    <persName>
+                        <forename>Anna</forename>
+                        <surname>Thomasia</surname>
+                    </persName>
+                    <persName type="display">Thomasia, Anna</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1647-05-31">31. Mai 1647</date>
+                    </birth>
+                    <death>
+                        <date when="1647-09-19">19. September 1647</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#thomae_annamaria_3"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasia_annasusanna">
+                    <persName>
+                        <forename>Anna Susanna</forename>
+                        <surname type="birthName">Thomasia</surname>
+                    </persName>
+                    <persName type="display">Thomasia, Anna Susanna</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1647-07-02">2. Juli 1647</date>
+                    </birth>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1666-10-16">16. Oktober 1666</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#thomae_annamaria_3"/>
+                            <relation type="sister" ref="#thomasia_anna"/>
+                            <relation type="spouse" ref="#falckner_johannfriedrich"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="falckner_johannfriedrich">
+                    <persName ref="https://d-nb.info/gnd/100893805">
+                        <forename>Johann Friedrich</forename>
+                        <surname>Falckner</surname>
+                    </persName>
+                    <persName type="display">Falckner, Johann Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1642">1642</date>
+                    </birth>
+                    <death>
+                        <date when="1703">1703</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasia_annasusanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasin_anna">
+                    <persName ref="https://d-nb.info/gnd/124866654">
+                        <forename>Anna</forename>
+                        <surname type="birthName">Thomasin</surname>
+                    </persName>
+                    <persName type="display">Alberti, Anna, geb. Thomasin</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1620-08-31">31. August 1620</date>
+                    </birth>
+                    <death>
+                        <date when="1669-07-30">30- Juli 1669</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1637-08-21">21. August 1637</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_1"/>
+                            <relation type="brother" ref="#thomae_michael_2"/>
+                            <relation type="spouse" ref="#alberti_johann"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_johann">
+                    <persName ref="https://d-nb.info/gnd/102480745">
+                        <forename>Johann</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1600">1600</date>
+                    </birth>
+                    <death>
+                        <date when="1680">1680</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1637-08-21">21. August 1637</date>
+                            </desc>
+                        </event>
+                </person>
+                <person xml:id="strauch_anna">
+                    <persName ref="https://d-nb.info/gnd/124866654">
+                        <forename>Anna</forename>
+                        <surname type="birthName">Alberti</surname>
+                    </persName>
+                    <persName type="display">Strauch, Anna, geb. Alberti</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1640-04-26">26. April 1640</date>
+                    </birth>
+                    <death>
+                        <date when="1697-01-14">14. Januar 1697</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                            <relation type="spouse" ref="#strauch_augustin"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1658-08-24">24. August 1658</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="strauch_augustin">
+                    <persName ref="https://d-nb.info/gnd/124798225">
+                        <forename>Augustin</forename>
+                        <surname>Strauch</surname>
+                    </persName>
+                    <persName type="display">Strauch, Augustin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1612-10-25">25. Oktober 1612</date>
+                    </birth>
+                    <death>
+                        <date when="1674-05-18">18. Mai 1674</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#strauch_anna"/>
+                        </listRelation> 
+                    </note>    
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1658-08-24">24. August 1658</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="alberti_johannheinrich">
+                    <persName ref="https://d-nb.info/gnd/122918754">
+                        <forename>Johann Heinrich</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Heinrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1643">1643</date>
+                    </birth>
+                    <death>
+                        <date when="1709">1709</date>
+                    </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_marthajustina">
+                    <persName ref="https://d-nb.info/gnd/115463801">
+                        <forename>Martha Justina</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Martha Justina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1645-10-29">29. Oktober 16545</date>
+                    </birth>
+                    <death>
+                        <date when="1658-07-20">20. Juli 1658</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_johannjacob">
+                    <persName ref="https://d-nb.info/gnd/120326663">
+                        <forename>Johann Jacob</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Jacob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1648-09-14">14. September 1648</date>
+                    </birth>
+                    <death>
+                        <date when="1648-09-22">22. September 1648</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_dorotheasusanna">
+                    <persName ref="https://d-nb.info/gnd/120326590">
+                        <forename>Dorothea Susanna</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Dorothea Susanna</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1649-10-16">16. Oktober 1649</date>
+                    </birth>
+                    <death>
+                        <date when="1649-11-16">16. November 1649</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_johanngeorg">
+                    <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1653"></date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="alberti_johannthomas">
+                    <persName>
+                        <forename>Johann Thomas</forename>
+                        <surname>Alberti</surname>
+                    </persName>
+                    <persName type="display">Alberti, Johann Thomas</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#alberti_johann"/>
+                            <relation type="parent" ref="#thomasin_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_jacob">
+                    <persName ref="https://d-nb.info/gnd/119238098">
+                        <forename>Jacob</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Jacob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1622">1622</date>
+                    </birth>
+                    <death>
+                        <date when="1684">1684</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomae_michael_1"/>
+                            <relation type="parent" ref="#thomae_anna"/>
+                            <relation type="spouse" ref="#thomasius_maria"/>
+                        </listRelation> 
+                    </note>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1670" to="1676">1670-1676</date>
+                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1676" to="1684">1676-1684</date>
+                        <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
+                    </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1653">1653</date>
+                            </desc>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1664">1664</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_maria">
+                    <persName ref="https://d-nb.info/gnd/115466207">
+                        <forename>Maria</forename>
+                        <surname type="birthName">Weber</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Maria, geb. Weber</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1636">1636</date>
+                    </birth>
+                    <death>
+                        <date when="1663">1663</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#weber_jeremias"/>
+                            <relation type="spouse" ref="#thomasius_jacob"/>
+                        </listRelation> 
+                    </note>
+                </person>
+                <person xml:id="weber_jeremias">
+                    <persName ref="https://d-nb.info/gnd/122351401">
+                        <forename>Jeremias</forename>
+                        <surname>Weber</surname>
+                    </persName>
+                    <persName type="display">Weber, Jeremias</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1600"1600></date>
+                    </birth>
+                    <death>
+                        <date when="1643">1643</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_mariaelisabeth">
+                    <persName ref="https://d-nb.info/gnd/140179089">
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">Eichhorn</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Maria Elisabeth geb. Eichhorn</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1638">1638</date>
+                    </birth>
+                    <death>
+                        <date when="1705">1705</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#eichhorn_georg"/>
+                            <relation type="spouse" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="eichhorn_georg">
+                    <persName ref="https://d-nb.info/gnd/120852616">
+                        <forename>Georg</forename>
+                        <surname>Eichhorn</surname>
+                    </persName>
+                    <persName type="display">Eichhorn, Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1593">1593</date>
+                    </birth>
+                    <death>
+                        <date when="1650">1650</date>
+                    </death>
+                </person>
+                <person xml:id="hornschuch_johann">
+                    <persName ref="https://d-nb.info/gnd/102516901">
+                        <forename>Johann</forename>
+                        <surname>Hornschuch</surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1599">1599</date>
+                    </birth>
+                    <death>
+                        <date when="1663">1663</date>
+                    </death>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date from="1638" to="1663 ">1638-1663 </date>
+                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_mariaelisabeth"/>
+                        </listRelation>
+                    </note>    
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1660">1660</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_christian">
+                    <persName ref="https://d-nb.info/gnd/11862220X">
+                        <forename>Cristianus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Cristianus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1655-01-01">a. Januar 1655</date>
+                    </birth>
+                    <death>
+                        <date when="1728-09-24">24. September 1728</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1680-02-17">17. Februar 1680</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_augustachristiana"/>
+                        </listRelation>
+                    </note> 
+                </person>
+                <person xml:id="thomasius_augustachristiana">
+                    <persName ref="https://d-nb.info/gnd/1042514038">
+                        <forename>Augusta Christina</forename>
+                        <surname type="birthName">Heyland</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Augusta Christina, geb. Heyland</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1655">1655</date>
+                    </birth>
+                    <death>
+                        <date when="1739">1739</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1680-02-17">17. Februar 1680</date>
+                            </desc>
+                        </event>
+                    </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_christian"/>
+                            <relation type="parent" ref="#heiland_polycarp"/>
+                        </listRelation>
+                    </note> 
+                </person>
+                <person xml:id="heiland_polycarp">
+                    <persName ref="https://d-nb.info/gnd/128615346">
+                        <forename>Polycarp</forename>
+                        <surname>Heiland</surname>
+                    </persName>
+                    <persName type="display">Heiland, Polycarp</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1614">1614</date>
+                    </birth>
+                    <death>
+                        <date when="1662">1662</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_christianpolycarpus1">
+                    <persName>
+                        <forename>Christian Polycarpus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Polycarpus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1681">1681</date>
+                    </birth>
+                    <death>
+                        <date when="1681-05-21">21. Mai 1681</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christianpolycarpus2">
+                    <persName>
+                        <forename>Christian Polycarpus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Polycarpus</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christianaugustus">
+                    <persName>
+                        <forename>Christian Augustus</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christian Augustus</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_sophiaelisabeth">
+                    <persName>
+                        <forename>Sophia Elisabeth</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1685">1685</date>
+                    </birth>
+                    <death>
+                        <date when="1698-03-16">16. März 1698</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_christinaaugusta">
+                    <persName>
+                        <forename>Christiana Augusta</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Christiana Augusta</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1690-10-14">14. Oktober 1690</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_augustachristiana"/>
+                            <relation type="parent" ref="#thomasius_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_gottfried">
+                    <persName ref="https://d-nb.info/gnd/117350249">
+                        <forename>Gottfried</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1660-03-24">24. März 1660</date>
+                    </birth>
+                    <death>
+                        <date when="1746">1746</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_clarahelena"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="volckmer_johanngeorg">
+                    <persName ref="https://d-nb.info/gnd/100865208">
+                        <forename>Johann Georg</forename>
+                        <surname>Volckamer</surname>
+                    </persName>
+                    <persName type="display">Volckamer, Johann Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1616">1616</date>
+                    </birth>
+                    <death>
+                        <date when="1693">1693</date>
+                    </death>
+                </person>
+                <person xml:id="thomasius_clarahelena">
+                    <persName>
+                        <forename>Clara Helena</forename>
+                        <surname type="birthName">Volckamer</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Clara Helena</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#volckmer_johanngeorg"/>
+                            <relation type="spouse" ref="#thomasius_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
             </listPerson>
         </body>
     </text>
