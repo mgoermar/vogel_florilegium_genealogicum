@@ -4330,7 +4330,7 @@
                     </note>
                 </person>
                 <person xml:id="feller_jacobfriedrich">
-                    <persName>
+                    <persName ref="https://des.genealogy.net/search/show/15585669">
                         <forename>Jacob Friedrich</forename>
                         <surname>Feller</surname>
                     </persName>
@@ -4344,7 +4344,7 @@
                     </death>
                 </person>
                 <person xml:id="lange_johannarahel">
-                    <persName>
+                    <persName ref="https://des.genealogy.net/search/show/15585681">
                         <forename>Johanna Rahel</forename>
                         <surname type="birthName">Feller</surname>
                     </persName>
@@ -4452,54 +4452,85 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="feller_johannfriedrich">
+                    <persName ref="https://des.genealogy.net/search/show/15585670">
+                        <forename>Johannes</forename>
+                        <surname>Feller</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Feller, Johannes</persName>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1681-09-02">2. September 1681</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1681-09-15">15. September 1681</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_johanna"/>
+                            <relation type="parent" ref="#feller_joachim"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="petermann_sabinaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/15585678">
+                        <forename>Sabina Elisabeth</forename>
+                        <surname type="birthName">Feller</surname>
+                    </persName>
+                    <persName type="display">Petermann, Sabina Elisabeth, geb. Feller</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1682-09-30">30. September 1682</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_johanna"/>
+                            <relation type="parent" ref="#feller_joachim"/>
+                            <relation type="spouse" ref="#petermann_benjaminbenedikt"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1711-07-27">27. Juli 1711</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="petermann_benjaminbenedikt">
+                    <persName ref="https://d-nb.info/gnd/141963891">
+                        <forename>Benjamin Benedikt</forename>
+                        <surname>Petermann</surname>
                     </persName>
                     <persName type="display"></persName>
-                    <sex value=""/>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1680">1680</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1724">1724</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#petermann_sabinaelisabeth"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1711-07-27">27. Juli 1711</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="rechenberg_mariaelisabeth">
+                    <persName ref="https://d-nb.info/gnd/12124962X">
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">Thomasius</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
+                    <persName type="display">Rechenberg, Maria Elisabeth</persName>
                     <sex value=""/>
                     <birth>
                         <date when=""></date>
