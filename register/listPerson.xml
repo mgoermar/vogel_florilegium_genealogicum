@@ -3957,6 +3957,7 @@
                             <relation type="parent" ref="#thomae_michael_1"/>
                             <relation type="parent" ref="#thomae_anna"/>
                             <relation type="spouse" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_mariaelisabeth"/>
                         </listRelation> 
                     </note>
                     <occupation>
@@ -4286,6 +4287,253 @@
                             <relation type="spouse" ref="#thomasius_gottfried"/>
                         </listRelation>
                     </note>
+                </person>
+                <person xml:id="feller_johanna">
+                    <persName ref="http://viaf.org/viaf/99145601971301321861">
+                        <forename>Johanna</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Feller, Johanna, geb. Thomasia</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1663-04-09">9. April 1663</date>
+                    </birth>
+                    <death>
+                        <date when="1691-04-04">4. April 1691</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#feller_joachim"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="feller_joachim">
+                    <persName ref="https://d-nb.info/gnd/116459301">
+                        <forename>Joachim</forename>
+                        <surname>Feller</surname>
+                    </persName>
+                    <persName type="display">Feller, Joachim</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1638">1638</date>
+                    </birth>
+                    <death>
+                        <date when="1691">1691</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#feller_johanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="feller_jacobfriedrich">
+                    <persName>
+                        <forename>Jacob Friedrich</forename>
+                        <surname>Feller</surname>
+                    </persName>
+                    <persName type="display">Feller, Jacob Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1678-11-19">19. November 1678</date>
+                    </birth>
+                    <death>
+                        <date when="1680-10-21">21. Oktober 1680</date>
+                    </death>
+                </person>
+                <person xml:id="lange_johannarahel">
+                    <persName>
+                        <forename>Johanna Rahel</forename>
+                        <surname type="birthName">Feller</surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1680-07-04">4. Juli 1680</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_joachim"/>
+                            <relation type="parent" ref="#feller_johanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_gottfried">
+                    <persName ref="https://d-nb.info/gnd/104086475">
+                        <forename>Gottfried</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1672">1672</date>
+                    </birth>
+                    <death>
+                        <date when="1748">1748</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#lange_johannarahel"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_johanngottfried">
+                    <persName>
+                        <forename>Johann Gottfried</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Johann Gottfried</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_christianarahel">
+                    <persName>
+                        <forename>Rahel Christiana</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Rahel Christiana</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1703-04-09">9. April 1703</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_wilhelmina">
+                    <persName>
+                        <forename>Wilhelmina</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Wilhelmina</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_friderica">
+                    <persName>
+                        <forename>Friderica</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Friderica</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_heinrietta">
+                    <persName>
+                        <forename>Heinrietta</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Heinrietta</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
+                </person>
+                <person xml:id="">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display"></persName>
+                    <sex value=""/>
+                    <birth>
+                        <date when=""></date>
+                    </birth>
+                    <death>
+                        <date when=""></date>
+                    </death>
                 </person>
                 <person xml:id="">
                     <persName>
