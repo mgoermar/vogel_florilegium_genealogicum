@@ -146,6 +146,7 @@
                 </place>
                 <place xml:id="glauchau">
                     <placeName ref="https://www.geonames.org/6550747/glauchau.html">Glauchau</placeName>
+                </place>
                 <place xml:id="mutzschen">
                     <placeName ref="https://www.geonames.org/2867286/mutzschen.html">Mutzschen</placeName>
                 </place>
@@ -173,15 +174,15 @@
                 <place xml:id="luetzensoemmern">
                     <placeName ref="https://www.geonames.org/2874729/luetzensoemmern.html">Lützensömmern (bei Bad Tennstedt)</placeName>
                 </place>
-                <place xml:id="trebnitz">
-                    <placeName ref=""
+                <!-- <place xml:id="trebnitz">
+                    <placeName ref=""></placeName>
                 </place>
                 <place xml:id="lauterbach">
-                    <placeName ref=""
+                    <placeName ref=""></placeName>
                 </place>
                 <place xml:id="schwandt">
-                    <placeName ref=""
-                </place>
+                    <placeName ref=""></placeName>
+                </place> -->
                 <place xml:id="penig">
                     <placeName ref="https://www.geonames.org/2854967/penig.html">Penig</placeName>
                 </place>
