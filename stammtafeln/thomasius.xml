@@ -87,7 +87,7 @@
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
+                                        H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thom&#x00E6;</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
                                         <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>isch</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urgischer</ex></rs> Rath &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
                                         <lb/><hi rendition="#et3">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
@@ -418,59 +418,60 @@
                                                             </cell>
                                                             <cell>
                                                                 <!-- 90° gedreht-->
-                                                                <hi rendition="#v">Rosina Elisabeth g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.</hi>
+                                                                <hi rendition="#v"><rs type="person" ref="#thomasius_rosinaelisabeth">Rosina Elisabeth</rs> g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.</hi>
                                                             </cell>
                                                             <cell>
-                                                                H<ex>err</ex> Michael Thoma
-                                                                <lb/>sius I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> Consulent
-                                                                <lb/>in <rs type="place" ref="#leipzig">leipzig</rs>
-                                                                <lb/>g<ex>eboren</ex> 1674 29. Jan<ex>uar</ex>
-                                                                <lb/>† 1789
-                                                                <lb/>1691 Fr<ex>au</ex> Elisabeth
+                                                                H<ex>err</ex> <rs type="person" ref="#thomasius_michael">Michael <w lemma="Thomasius">Thoma
+                                                                <lb/>sius</w></rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> Consulent
+                                                                <lb/>in <rs type="place" ref="#leipzig">Leipzig</rs>
+                                                                <lb/>g<ex>eboren</ex> 1674. 29 Jan<ex>uar</ex>
+                                                                <lb/>† 1789. 28 Febr<ex>uar</ex>
+                                                                <lb/>1691 Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
                                                                 <lb/>
-                                                                <lb/>H<ex>err</ex> <hi rendition="#smaller">Johann <unclear reason="illegible">......</unclear></hi> Megers
-                                                                <lb/>
-                                                                <lb/>
+                                                                <lb/>H<ex>err</ex> . . . . . . Megers
+                                                                <lb/>E<ex>. . .</ex> E<ex>. . .</ex> Raths Eu. . . . ltes
+                                                                <lb/>get. . . . . .
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
                                                                             <!-- 90° gedreht-->
-                                                                            Traugott g<ex>eboren</ex> 1709 d. 19. Januar
+                                                                            <rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
                                                                         </cell>
                                                                         <cell>
-                                                                            Sophia Elisab<ex>eth</ex> g<ex>eboren</ex> 1706 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex>...
-                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">...</unclear></hi>
+                                                                            <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Ki<ex>n</ex>d<ex>er</ex>
+                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">...</unclear>S<ex>öhne</ex><unclear reason="illegible">......</unclear> T<ex>öchter</ex><unclear reason="illegible">...</unclear></hi>
                                                                         </cell>
                                                                         <cell>
-                                                                            Clara Regina g<ex>eboren</ex> 1705 d. 31.
+                                                                            <rs type="person" ref="#thomasius_clararegina">Clara Regina</rs> g<ex>eboren</ex> 1705 d<ex>en</ex> 31.
                                                                             <lb/>Aug<ex>ust</ex>
                                                                         </cell>
                                                                         <cell>
-                                                                            Gottlob g<ex>eboren</ex> 1703 6. Jan<ex>uar</ex>
+                                                                            <rs type="person" ref="#thomasius_gottlob">Gottlob</rs> g<ex>eboren</ex> 1703 6. Jan<ex>uar</ex>
                                                                         </cell>
                                                                     </row>
                                                                 </table>
                                                             </cell>
                                                             <cell>
-                                                                Sophia
-                                                                <lb/>Magdal<ex>ena</ex>
-                                                                <lb/>g
-                                                                <lb/>Sept
-                                                                <lb/>14. Febr
-                                                                <lb/>1692
-                                                                <lb/>H<ex>err</ex> Christian Weidling
-                                                                <lb/>Phil. u<ex>nd</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex>
-                                                                <lb/>u<ex>nd</ex> ... Con
-                                                                <lb/>sulenten
+                                                                <rs type="person" ref="#weidling_sophiamagdalena">Sophia
+                                                                <lb/>Magdal<ex>ena</ex></rs>
+                                                                <lb/>g<ex>eboren</ex>
+                                                                <lb/>Sept<ex>ember</ex> † 1695
+                                                                <lb/>14 Febr<ex>uar</ex>
+                                                                <lb/>1692. 6. Juni
+                                                                <lb/>H<ex>err</ex>  <rs type="person" ref="#weidling_christian">Christian Weidling</rs>
+                                                                <lb/>Phil<ex>osophiae</ex> u<ex>nd</ex> I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex>
+                                                                <lb/>u<ex>nd</ex> . . . . . . <w lemma="Consulenten">Con
+                                                                <lb/>sulenten</w>.
                                                                 <lb/>† <hi rendition="#s">Sept<ex>ember</ex> 14.</hi>
-                                                                <lb/><hi rendition="#s"><unclear reason="illegible">...</unclear></hi>
+                                                                <lb/><hi rendition="#s"><unclear reason="illegible">...</unclear> 14
+                                                                <lb/>Febr<ex>uar</ex></hi>
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
-                                                                            Sophia
-                                                                            <lb/>Elisabeth
-                                                                            <lb/>g<ex>eboren</ex> 1693 7.
-                                                                            <lb/>April
+                                                                            <rs type="person" ref="#weidling_sophiaelisabeth">Sophia
+                                                                            <lb/>Elisabeth</rs>
+                                                                            <lb/>g<ex>eboren</ex> 1693. 7.
+                                                                            <lb/>April.
                                                                         </cell>
                                                                     </row>
                                                                 </table>
@@ -482,7 +483,7 @@
                                         </table>    
                                     </cell>
                                     <cell>
-                                        und 1617 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> ...
+                                        und 1617. 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> zu Basel † zu Leipzig. 1631. d<ex>en</ex> 14 Nov<ex>ember</ex>
                                     </cell>
                                 </row>
                             </table>
