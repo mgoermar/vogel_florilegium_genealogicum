@@ -3416,15 +3416,26 @@
                     <sex value="m"/>
                 </person>
                 <person xml:id="thomas_michael">
-                    <persName>
+                    <persName ref="https://d-nb.info/gnd/128514183">
                         <forename>Michael</forename>
-                        <surname>Thomas</surname>
+                        <surname>Thomae</surname>
                     </persName>
-                    <persName type="display">Thomas, Michael der Ältere</persName>
+                    <persName type="display">Thomae, Michael</persName>
                     <sex value="m"/>
+                    <birth>
+                        <date when="1587">1587</date>
+                    </birth>
+                    <death>
+                        <date when="1631">1631</date>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_saronn"/>
+                            <relation type="parent" ref="#thomas_johann"/>
+                            <relation type="child" ref="#thomas_johannes"/>
+                            <relation type="child" ref="#thomasius_jacob"/>
+                            <relation type="child" ref="#thomae_michael_2"/>
+                            <relation type="child" ref="#thomae_henning_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -3768,6 +3779,7 @@
                                 <date when="1637-08-21">21. August 1637</date>
                             </desc>
                         </event>
+                    </listEvent>
                 </person>
                 <person xml:id="strauch_anna">
                     <persName ref="https://d-nb.info/gnd/124866654">
@@ -3957,6 +3969,7 @@
                             <relation type="parent" ref="#thomae_michael_1"/>
                             <relation type="parent" ref="#thomae_anna"/>
                             <relation type="spouse" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#thomasius_mariaelisabeth"/>
                         </listRelation> 
                     </note>
                     <occupation>
@@ -3969,18 +3982,20 @@
                         <date from="1676" to="1684">1676-1684</date>
                         <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
                     </occupation>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when="1653">1653</date>
-                            </desc>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when="1664">1664</date>
-                            </desc>
-                        </event>
-                    </listEvent>
+                        <listEvent>
+                            <event>
+                                 <desc>
+                                    <eventName>Hochzeit</eventName>
+                                    <date when="1653">1653</date>
+                                </desc>
+                            </event>
+                            <event>
+                                <desc>
+                                    <eventName>Hochzeit</eventName>
+                                    <date when="1664-09-19">19. September 1664</date>
+                                </desc>
+                            </event>
+                        </listEvent>
                 </person>
                 <person xml:id="thomasius_maria">
                     <persName ref="https://d-nb.info/gnd/115466207">
@@ -4010,7 +4025,7 @@
                     <persName type="display">Weber, Jeremias</persName>
                     <sex value="m"/>
                     <birth>
-                        <date when="1600"1600></date>
+                        <date when="1600">1600</date>
                     </birth>
                     <death>
                         <date when="1643">1643</date>
@@ -4029,6 +4044,14 @@
                     <death>
                         <date when="1705">1705</date>
                     </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1664-09-19">19. September 1664</date>
+                            </desc>
+                        </event>
+                    </listEvent>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#eichhorn_georg"/>
@@ -4065,7 +4088,7 @@
                     </death>
                     <occupation>
                         <term>Rektor</term>
-                        <date from="1638" to="1663 ">1638-1663 </date>
+                        <date from="1638" to="1663">1638-1663 </date>
                         <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
                     </occupation>
                     <note type="family">
@@ -4259,7 +4282,7 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="volckmer_johanngeorg">
+                <person xml:id="volckamer_johanngeorg">
                     <persName ref="https://d-nb.info/gnd/100865208">
                         <forename>Johann Georg</forename>
                         <surname>Volckamer</surname>
@@ -4282,81 +4305,709 @@
                     <sex value="w"/>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#volckmer_johanngeorg"/>
+                            <relation type="parent" ref="#volckamer_johanngeorg"/>
                             <relation type="spouse" ref="#thomasius_gottfried"/>
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="feller_johanna">
+                    <persName ref="http://viaf.org/viaf/99145601971301321861">
+                        <forename>Johanna</forename>
+                        <surname type="birthName">Thomasius</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Feller, Johanna, geb. Thomasia</persName>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1663-04-09">9. April 1663</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1691-04-04">4. April 1691</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="parent" ref="#thomasius_maria"/>
+                            <relation type="spouse" ref="#feller_joachim"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="feller_joachim">
+                    <persName ref="https://d-nb.info/gnd/116459301">
+                        <forename>Joachim</forename>
+                        <surname>Feller</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Feller, Joachim</persName>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1638">1638</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1691">1691</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#feller_johanna"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="feller_jacobfriedrich">
+                    <persName ref="https://des.genealogy.net/search/show/15585669">
+                        <forename>Jacob Friedrich</forename>
+                        <surname>Feller</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Feller, Jacob Friedrich</persName>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1678-11-19">19. November 1678</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1680-10-21">21. Oktober 1680</date>
                     </death>
                 </person>
-                <person xml:id="">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="lange_johannarahel">
+                    <persName ref="https://des.genealogy.net/search/show/15585681">
+                        <forename>Johanna Rahel</forename>
+                        <surname type="birthName">Feller</surname>
                     </persName>
                     <persName type="display"></persName>
-                    <sex value=""/>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1680-07-04">4. Juli 1680</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_joachim"/>
+                            <relation type="parent" ref="#feller_johanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_gottfried">
+                    <persName ref="https://d-nb.info/gnd/104086475">
+                        <forename>Gottfried</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Gottfried</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1672">1672</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1748">1748</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#lange_johannarahel"/>
+                        </listRelation>
+                    </note>
                 </person>
-                <person xml:id="">
+                <person xml:id="lange_johanngottfried">
                     <persName>
-                        <forename></forename>
-                        <surname></surname>
+                        <forename>Johann Gottfried</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Johann Gottfried</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_christianarahel">
+                    <persName>
+                        <forename>Rahel Christiana</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Rahel Christiana</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1703-04-09">9. April 1703</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_wilhelmina">
+                    <persName>
+                        <forename>Wilhelmina</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Wilhelmina</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_friderica">
+                    <persName>
+                        <forename>Friderica</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Friderica</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="lange_heinrietta">
+                    <persName>
+                        <forename>Heinrietta</forename>
+                        <surname>Lange</surname>
+                    </persName>
+                    <persName type="display">Lange, Heinrietta</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#lange_johannarahel"/>
+                            <relation type="parent" ref="#lange_gottfried"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="feller_johannfriedrich">
+                    <persName ref="https://des.genealogy.net/search/show/15585670">
+                        <forename>Johannes</forename>
+                        <surname>Feller</surname>
+                    </persName>
+                    <persName type="display">Feller, Johannes</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1681-09-02">2. September 1681</date>
+                    </birth>
+                    <death>
+                        <date when="1681-09-15">15. September 1681</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_johanna"/>
+                            <relation type="parent" ref="#feller_joachim"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="petermann_sabinaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/15585678">
+                        <forename>Sabina Elisabeth</forename>
+                        <surname type="birthName">Feller</surname>
+                    </persName>
+                    <persName type="display">Petermann, Sabina Elisabeth, geb. Feller</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1682-09-30">30. September 1682</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_johanna"/>
+                            <relation type="parent" ref="#feller_joachim"/>
+                            <relation type="spouse" ref="#petermann_benjaminbenedikt"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1711-07-27">27. Juli 1711</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="petermann_benjaminbenedikt">
+                    <persName ref="https://d-nb.info/gnd/141963891">
+                        <forename>Benjamin Benedikt</forename>
+                        <surname>Petermann</surname>
                     </persName>
                     <persName type="display"></persName>
-                    <sex value=""/>
+                    <sex value="m"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1680">1680</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1724">1724</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#petermann_sabinaelisabeth"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1711-07-27">27. Juli 1711</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="rechenberg_mariaelisabeth">
+                    <persName ref="https://d-nb.info/gnd/12124962X">
+                        <forename>Maria Elisabeth</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Rechenberg, Maria Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1665-07-01">1. Juli 1665</date>
+                    </birth>
+                    <death>
+                        <date when="1684-02-06">6. Februar 1684</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#rechenberg_adam"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1682-12-03">3. Dezember 1682</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="koenig_friedrich1">
+                    <persName ref="https://d-nb.info/gnd/118535730">
+                        <forename>Friedrich</forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display">Friedrich I., Preußen, König</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1657-07-11">11. Juli 1657</date>
+                    </birth>
+                    <death>
+                        <date when="1713-02-25">25. Februar 1713</date>
+                    </death>
+                    <occupation>
+                        <term>Friedrich III., Kurfürst von Brandenburg</term> 
+                        <placeName ref="brandenburg_kurfuerstentum">Brandenburg, Kurfürstentum</placeName>
+                        <date from="1688" to="1713">1688-1713</date>
+                    </occupation>
+                    <occupation>
+                        <term>König</term> 
+                        <placeName ref="preußen_koenigreich">Preußen, Königreich</placeName>
+                        <date from="1701" to="1713">1701-1713</date>
+                    </occupation>
+                </person>
+                <person xml:id="rechenberg_adam">
+                    <persName ref="https://d-nb.info/gnd/116373164">
+                        <forename>Adam</forename>
+                        <surname>Rechenberg</surname>
+                    </persName>
+                    <persName type="display">Rechenberg, Adam</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1642">1642</date>
+                    </birth>
+                    <death>
+                        <date when="1721">1721</date>
+                    </death>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1682-12-03">3. Dezember 1682</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="rechenberg_adamfriedrich">
+                    <persName>
+                        <forename>Adam Friedrich</forename>
+                        <surname>Rechenberg</surname>
+                    </persName>
+                    <persName type="display">Rechenberg, Adam Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1684-02-01">a. Februar 1684</date>
+                    </birth>
+                    <death>
+                        <date when="1684-12-15">15. Dezember 1684</date>
                     </death>
                 </person>
+                <person xml:id="thomasius_dorothearegina">
+                    <persName>
+                        <forename>Dorothea Regina</forename>
+                        <surname></surname>
+                    </persName>
+                    <persName type="display">Thomasius, Dorothea Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1667-05-13">13. Mai 1667</date>
+                    </birth>
+                    <death>
+                        <date when="1670-01-15">15. Januar 1670</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_annaregina">
+                    <persName>
+                        <forename>Anna Regina</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Anna Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1669-07-16">16. Juli 1669</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_dorotheasophia">
+                    <persName>
+                        <forename>Dorothea Sophia</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Wagner, Dorothea Sophia, geb. Thomasius</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1671-03-01">1. März 1671</date>
+                    </birth>
+                    <death>
+                        <date when="1694-09-01">1. September 1694</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#wagner_christian"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1688-09-24">24. September 1688</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="wagner_christian">
+                    <persName ref="https://d-nb.info/gnd/117094323">
+                        <forename>Christian</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Christian</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1663">1663</date>
+                    </birth>
+                    <death>
+                        <date when="1693">1693</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#wagner_dorotheasophia"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1688-09-24">24. September 1688</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="wagner_paulchristian">
+                    <persName>
+                        <forename>Paul Christian</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paul Christian</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1692-02-22">22. Februar 1692</date>
+                    </birth>
+                    <death>
+                        <date when="1693-02-22">22. Februar 1693</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_christian"/>
+                            <relation type="parent" ref="#wagner_dorotheasophia"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_rosinaelisabeth">
+                    <persName>
+                        <forename>Rosina Elisabeth</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Rosina Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1672-11-01">1. November 1672</date>
+                    </birth>
+                    <death>
+                        <date when="1672-11-09">9. November 1672</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_michael">
+                    <persName ref="https://d-nb.info/gnd/10415781X">
+                        <forename>Michael</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1674-01-29">29. Januar 1674</date>
+                    </birth>
+                    <death>
+                        <date when="1739-02-28">28. Februar 1739</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1691">1691</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_elisabeth">
+                    <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Elisabeth</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_michael"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1691">1691</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_traugott">
+                    <persName ref="https://d-nb.info/gnd/12856928X">
+                        <forename>Traugott</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Traugott</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1709-01-19">19. Januar 1709</date>
+                    </birth>
+                    <death>
+                        <date when="1775">1775</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="gauditz_sophiaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/14491063">
+                        <forename>Sophia Elisabeth</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1706-01-19"></date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                            <relation type="spouse" ref="#gauditz_gottlieb"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1729-05-23">23. Mai 1729</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="gauditz_gottlieb">
+                    <persName ref="https://d-nb.info/gnd/129627216">
+                        <forename>Gottlieb</forename>
+                        <surname>Gaudlitz</surname>
+                    </persName>
+                    <persName type="display">Gaudlitz, Gottlieb</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1694">1694</date>
+                    </birth>
+                    <death>
+                        <date when="1745">1745</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#gauditz_sophiaelisabeth"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1729-05-23">23. Mai 1729</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <occupation>
+                        <term>Pfarrer</term> 
+                        <placeName ref="#leipzig_thomaskirche">Leipzig, Thomaskirche</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="thomasius_clararegina">
+                    <persName ref="https://des.genealogy.net/search/show/15175405">
+                        <forename>Clara Regina</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Clara Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1705-08-31">31. August 1705</date>
+                    </birth>
+                    <death>
+                        <date when="1706-12-14">14. Dezember 1706</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_gottlob">
+                    <persName ref="https://d-nb.info/gnd/143702947">
+                        <forename>Gottlob</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Gottlob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1703-01-06">6. Januar 1703</date>
+                    </birth>
+                    <death>
+                        <date when="1758">1758</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="weidling_sophiamagdalena">
+                    <persName ref="https://d-nb.info/gnd/1054568677">
+                        <forename>Sophia Magdalena</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Weidling, Sophia Magdalena</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1675-09-02">2. September 1675</date>
+                    </birth>
+                    <death>
+                        <date when="1695-02-14">14. Februar1695</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#weidling_christian"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1692-06-06">6. Juni 1692</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="weidling_christian">
+                    <persName ref="https://d-nb.info/gnd/117240419">
+                        <forename>Christian</forename>
+                        <surname>Weidling</surname>
+                    </persName>
+                    <persName type="display">Weidling, Christian</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1660">1660</date>
+                    </birth>
+                    <death>
+                        <date when="1731">1731</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#weidling_sophiamagdalena"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1692-06-06">6. Juni 1692</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="weidling_sophiaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/15549798">
+                        <forename>Sophia Elisabeth</forename>
+                        <surname>Weidling</surname>
+                    </persName>
+                    <persName type="display">Weidling, Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1693-04-07">7. April 1693</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#weidling_christian"/>
+                            <relation type="parent" ref="#weidling_sophiamagdalena"/>
+                        </listRelation>
+                    </note>
+                </person>               
             </listPerson>
         </body>
     </text>

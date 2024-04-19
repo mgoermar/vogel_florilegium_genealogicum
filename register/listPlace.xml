@@ -49,6 +49,9 @@
                         <place xml:id="leipzig_nikolaischule">
                             <placeName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</placeName>
                         </place>
+                        <place xml:id="leipzig_johanniskirche">
+                            <placeName ref="https://d-nb.info/gnd/7555101-9">Leipzig, Johanniskirche</placeName>
+                        </place>
                     </listPlace>
                 </place>
                 <place xml:id="lucka">
@@ -146,6 +149,7 @@
                 </place>
                 <place xml:id="glauchau">
                     <placeName ref="https://www.geonames.org/6550747/glauchau.html">Glauchau</placeName>
+                </place>
                 <place xml:id="mutzschen">
                     <placeName ref="https://www.geonames.org/2867286/mutzschen.html">Mutzschen</placeName>
                 </place>
@@ -173,15 +177,15 @@
                 <place xml:id="luetzensoemmern">
                     <placeName ref="https://www.geonames.org/2874729/luetzensoemmern.html">Lützensömmern (bei Bad Tennstedt)</placeName>
                 </place>
-                <place xml:id="trebnitz">
-                    <placeName ref=""
+                <!-- <place xml:id="trebnitz">
+                    <placeName ref=""></placeName>
                 </place>
                 <place xml:id="lauterbach">
-                    <placeName ref=""
+                    <placeName ref=""></placeName>
                 </place>
                 <place xml:id="schwandt">
-                    <placeName ref=""
-                </place>
+                    <placeName ref=""></placeName>
+                </place> -->
                 <place xml:id="penig">
                     <placeName ref="https://www.geonames.org/2854967/penig.html">Penig</placeName>
                 </place>
@@ -286,6 +290,12 @@
                 </place>
                 <place xml:id="goestewitz">
                     <placeName ref="https://www.geonames.org/2920802/gestewitz.html">Göstewitz</placeName>
+                </place>
+                <place xml:id="preußen_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4047194-9">Preußen, Königreich</placeName>
+                </place>
+                <place xml:id="brandenburg_kurfuerstentum">
+                    <placeName ref="https://d-nb.info/gnd/4007955-7">Brandenburg, Kurfürstentum</placeName>
                 </place>
             </listPlace>
         </body>
