@@ -3416,15 +3416,26 @@
                     <sex value="m"/>
                 </person>
                 <person xml:id="thomas_michael">
-                    <persName>
+                    <persName ref="https://d-nb.info/gnd/128514183">
                         <forename>Michael</forename>
-                        <surname>Thomas</surname>
+                        <surname>Thomae</surname>
                     </persName>
-                    <persName type="display">Thomas, Michael der Ältere</persName>
+                    <persName type="display">Thomae, Michael</persName>
                     <sex value="m"/>
+                    <birth>
+                        <date when="1587">1587</date>
+                    </birth>
+                    <death>
+                        <date when="1631">1631</date>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_saronn"/>
+                            <relation type="parent" ref="#thomas_johann"/>
+                            <relation type="child" ref="#thomas_johannes"/>
+                            <relation type="child" ref="#thomasius_jacob"/>
+                            <relation type="child" ref="#thomae_michael_2"/>
+                            <relation type="child" ref="#thomae_henning_1"/>
                         </listRelation>
                     </note>
                 </person>
@@ -4639,7 +4650,7 @@
                     </death>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
                             <relation type="parent" ref="#thomasius_jacob"/>
                         </listRelation>
                     </note>
@@ -4737,32 +4748,265 @@
                         </listRelation>
                     </note>
                 </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
+                <person xml:id="thomasius_rosinaelisabeth">
+                    <persName>
+                        <forename>Rosina Elisabeth</forename>
+                        <surname>Thomasius</surname>
                     </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
+                    <persName type="display">Thomasius, Rosina Elisabeth</persName>
+                    <sex value="w"/>
                     <birth>
-                        <date when=""></date>
+                        <date when="1672-11-01">1. November 1672</date>
                     </birth>
                     <death>
-                        <date when=""></date>
+                        <date when="1672-11-09">9. November 1672</date>
                     </death>
                     <note type="family">
                         <listRelation>
-                            <relation type="" ref="#"/>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_michael">
+                    <persName ref="https://d-nb.info/gnd/10415781X">
+                        <forename>Michael</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Michael</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1674-01-29">29. Januar 1674</date>
+                    </birth>
+                    <death>
+                        <date when="1739-02-28">28. Februar 1739</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#thomasius_elisabeth"/>
                         </listRelation>
                     </note>
                     <listEvent>
                         <event>
                             <desc>
                                 <eventName>Hochzeit</eventName>
-                                <date when=""></date>
+                                <date when="1691">1691</date>
                             </desc>                          
                         </event>
                     </listEvent>
+                </person>
+                <person xml:id="thomasius_elisabeth">
+                    <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Elisabeth</persName>
+                    <sex value="w"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_michael"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1691">1691</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="thomasius_traugott">
+                    <persName ref="https://d-nb.info/gnd/12856928X">
+                        <forename>Traugott</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Traugott</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1709-01-19">19. Januar 1709</date>
+                    </birth>
+                    <death>
+                        <date when="1775">1775</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="gauditz_sophiaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/14491063">
+                        <forename>Sophia Elisabeth</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1706-01-19"></date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                            <relation type="spouse" ref="#gauditz_gottlieb"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1729-05-23">23. Mai 1729</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="gauditz_gottlieb">
+                    <persName ref="https://d-nb.info/gnd/129627216">
+                        <forename>Gottlieb</forename>
+                        <surname>Gaudlitz</surname>
+                    </persName>
+                    <persName type="display">Gaudlitz, Gottlieb</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1694">1694</date>
+                    </birth>
+                    <death>
+                        <date when="1745">1745</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#gauditz_sophiaelisabeth"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1729-05-23">23. Mai 1729</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                    <occupation>
+                        <term>Pfarrer</term> 
+                        <placeName ref="#leipzig_thomaskirche">Leipzig, Thomaskirche</placeName>
+                    </occupation>
+                </person>
+                <person xml:id="thomasius_clararegina">
+                    <persName ref="https://des.genealogy.net/search/show/15175405">
+                        <forename>Clara Regina</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Clara Regina</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1705-08-31">31. August 1705</date>
+                    </birth>
+                    <death>
+                        <date when="1706-12-14">14. Dezember 1706</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="thomasius_gottlob">
+                    <persName ref="https://d-nb.info/gnd/143702947">
+                        <forename>Gottlob</forename>
+                        <surname>Thomasius</surname>
+                    </persName>
+                    <persName type="display">Thomasius, Gottlob</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1703-01-06">6. Januar 1703</date>
+                    </birth>
+                    <death>
+                        <date when="1758">1758</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="weidling_sophiamagdalena">
+                    <persName ref="https://d-nb.info/gnd/1054568677">
+                        <forename>Sophia Magdalena</forename>
+                        <surname type="birthName">Thomasius</surname>
+                    </persName>
+                    <persName type="display">Weidling, Sophia Magdalena</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1675-09-02">2. September 1675</date>
+                    </birth>
+                    <death>
+                        <date when="1695-02-14">14. Februar1695</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
+                            <relation type="parent" ref="#thomasius_jacob"/>
+                            <relation type="spouse" ref="#weidling_christian"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1692-06-06">6. Juni 1692</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="weidling_christian">
+                    <persName ref="https://d-nb.info/gnd/117240419">
+                        <forename>Christian</forename>
+                        <surname>Weidling</surname>
+                    </persName>
+                    <persName type="display">Weidling, Christian</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1660">1660</date>
+                    </birth>
+                    <death>
+                        <date when="1731">1731</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#weidling_sophiamagdalena"/>
+                        </listRelation>
+                    </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1692-06-06">6. Juni 1692</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
+                </person>
+                <person xml:id="weidling_sophiaelisabeth">
+                    <persName ref="https://des.genealogy.net/search/show/15549798">
+                        <forename>Sophia Elisabeth</forename>
+                        <surname>Weidling</surname>
+                    </persName>
+                    <persName type="display">Weidling, Sophia Elisabeth</persName>
+                    <sex value="w"/>
+                    <birth>
+                        <date when="1693-04-07">7. April 1693</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#weidling_christian"/>
+                            <relation type="parent" ref="#weidling_sophiamagdalena"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="">
                     <persName ref="">
@@ -4771,25 +5015,19 @@
                     </persName>
                     <persName type="display"></persName>
                     <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
+                    <occupation>
+                        <term></term> 
+                        <placeName ref="#"></placeName>
+                    </occupation>
+                    <occupation>
+                        <term></term> 
+                        <placeName ref="#"></placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="" ref="#"/>
                         </listRelation>
                     </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
                 </person>
                 <person xml:id="">
                     <persName ref="">
@@ -4798,161 +5036,20 @@
                     </persName>
                     <persName type="display"></persName>
                     <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
+                    <occupation>
+                        <term></term> 
+                        <placeName ref="#"></placeName>
+                    </occupation>
+                    <occupation>
+                        <term></term> 
+                        <placeName ref="#"></placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="" ref="#"/>
                         </listRelation>
                     </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <birth>
-                        <date when=""></date>
-                    </birth>
-                    <death>
-                        <date when=""></date>
-                    </death>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when=""></date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
-                </person>
+                </person>                
             </listPerson>
         </body>
     </text>
