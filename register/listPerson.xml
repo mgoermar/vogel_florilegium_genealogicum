@@ -5007,49 +5007,7 @@
                             <relation type="parent" ref="#weidling_sophiamagdalena"/>
                         </listRelation>
                     </note>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <occupation>
-                        <term></term> 
-                        <placeName ref="#"></placeName>
-                    </occupation>
-                    <occupation>
-                        <term></term> 
-                        <placeName ref="#"></placeName>
-                    </occupation>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                </person>
-                <person xml:id="">
-                    <persName ref="">
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
-                    <persName type="display"></persName>
-                    <sex value=""/>
-                    <occupation>
-                        <term></term> 
-                        <placeName ref="#"></placeName>
-                    </occupation>
-                    <occupation>
-                        <term></term> 
-                        <placeName ref="#"></placeName>
-                    </occupation>
-                    <note type="family">
-                        <listRelation>
-                            <relation type="" ref="#"/>
-                        </listRelation>
-                    </note>
-                </person>                
+                </person>               
             </listPerson>
         </body>
     </text>
