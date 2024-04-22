@@ -282,16 +282,16 @@
                                                             </cell>
                                                             <cell>
                                                                 <rs type="person" ref="#feller_johanna">Johanna
-                                                                <lb/>Thomasia</rs>
-                                                                <lb/>g<ex>eboren</ex> 1663. 9 April.
-                                                                <lb/>1677. 27 Nov<ex>ember</ex> H<ex>errn</ex> L<ex>icentiati</ex>
-                                                                <lb/><rs type="person" ref="#feller_joachim">Joachim Feller</rs>
-                                                                <lb/>Poes<ex>eos</ex> P<ex>rofessor</ex> P<ex>ublicus</ex> Colleg<ex>i</ex> Maj<ex>oris</ex>
-                                                                <lb/>Colleg<ex>iati</ex> der bayerischen 
-                                                                <lb/>Nation Senior u<ex>nd</ex>
-                                                                <lb/>Biblioth<ex>eca</ex> Paul<ex>ina</ex> Biblio<ex>-</ex>
-                                                                <lb/>thecarius. g<ex>eboren</ex>.
-                                                                <lb/>† 1691 4. April
+                                                                    <lb/>Thomasia</rs>
+                                                                    <lb/>g<ex>eboren</ex> 1663. 9 April.
+                                                                    <lb/>1677. 27 Nov<ex>ember</ex> H<ex>err</ex> L<ex>icentiatus</ex>
+                                                                    <lb/><rs type="person" ref="#feller_joachim">Joachim Feller</rs>
+                                                                    <lb/>Poes<ex>eos</ex> P<ex>rofessor</ex> P<ex>ublicus</ex> Colleg<ex>ii</ex> Maj<ex>oris</ex>
+                                                                    <lb/>Colleg<ex>iatus</ex> der bayerischen 
+                                                                    <lb/>Nation Senior u<ex>nd</ex>
+                                                                    <lb/>Biblioth<ex>ecae</ex> Paul<ex>inae</ex> <w lemma="Bibliothecarius">Biblio
+                                                                    <lb/>thecarius</w>. g<ex>eboren</ex>.
+                                                                    <lb/>† 1691 4. April
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
@@ -343,7 +343,7 @@
                                                                             <lb/>g<ex>eboren</ex> 1681.
                                                                             <lb/>d<ex>en</ex> 2 Sept<ex>ember</ex>
                                                                             <lb/>† d<ex>en</ex> 15 Sept<ex>ember</ex>
-                                                                            <lb/>q. a.
+                                                                            <lb/>ej<ex>usdem</ex> a<ex>nni</ex>
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#petermann_sabinaelisabeth">Sabina
@@ -375,7 +375,7 @@
                                                                             <rs type="person" ref="#rechenberg_adamfriedrich">Adam Friedrich
                                                                             <lb/>Rechenberg</rs>
                                                                             <lb/>g<ex>eboren</ex> 1684. 1 Fbr<ex>uar</ex>
-                                                                            <lb/>† d<ex>en</ex> 15 Dec<ex>enber</ex>
+                                                                            <lb/>† d<ex>en</ex> 15 dito
                                                                         </cell>
                                                                     </row>
                                                                 </table>
@@ -399,10 +399,10 @@
                                                                 <lb/>g<ex>eboren</ex> 1 Mart<ex>ii</ex> 1671.
                                                                 <lb/>† 1694. 1. Sept<ex>ember</ex>
                                                                 <lb/>1688. 24. Sept<ex>ember</ex>
-                                                                <lb/>H<ex>errn</ex> M<ex>agistrum</ex> <rs type="person" ref="#wagner_christian">Christian
-                                                                <lb/>Wagner</rs> S<ex>. . .</ex> S<ex>. . .</ex> Th<ex>eologum</ex>
-                                                                <lb/>Bacc<ex>alaureum</ex> u<ex>nd</ex> Pastor<ex>em</ex>
-                                                                <lb/>zu <rs type="place" ref="#leipzig_johanniskirche">S<ex>ankt</ex> Joh<ex>annis</ex></rs> in <rs type="place" ref="#leipzig">leipzig</rs>
+                                                                <lb/>H<ex>err</ex> M<ex>agister</ex> <rs type="person" ref="#wagner_christian">Christian
+                                                                <lb/>Wagner</rs> S<ex>acro</ex>S<ex>anctae</ex> Th<ex>eologiae</ex>
+                                                                <lb/>Bacc<ex>alaureus</ex> u<ex>nd</ex> Pastor
+                                                                <lb/>zu <rs type="place" ref="#leipzig_johanniskirche">S<ex>ankt</ex> Joh<ex>annis</ex></rs> in <rs type="place" ref="#leipzig">Leipzig</rs>
                                                                 <lb/>g<ex>eboren</ex>
                                                                 <lb/>† 1693 28. Julij
                                                                 <table rendition="#topBraced">
@@ -417,8 +417,9 @@
                                                                 </table>
                                                             </cell>
                                                             <cell>
-                                                                <!-- 90° gedreht-->
+                                                                <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.
                                                                 <hi rendition="#v"><rs type="person" ref="#thomasius_rosinaelisabeth">Rosina Elisabeth</rs> g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.</hi>
+                                                                </note>
                                                             </cell>
                                                             <cell>
                                                                 H<ex>err</ex> <rs type="person" ref="#thomasius_michael">Michael <w lemma="Thomasius">Thoma
@@ -426,20 +427,20 @@
                                                                 <lb/>in <rs type="place" ref="#leipzig">Leipzig</rs>
                                                                 <lb/>g<ex>eboren</ex> 1674. 29 Jan<ex>uar</ex>
                                                                 <lb/>† 1789. 28 Febr<ex>uar</ex>
-                                                                <lb/>1691 Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
-                                                                <lb/>
-                                                                <lb/>H<ex>err</ex> . . . . . . Megers
-                                                                <lb/>E<ex>. . .</ex> E<ex>. . .</ex> Raths Eu. . . . ltes
-                                                                <lb/>get. . . . . .
+                                                                <lb/>1691<note type="footnote" resp="ho">Kartei Leipzig, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
+                                                                <lb/><add place="inline">George</add> Haupts <add place="inline">bürgermeistern Händler u<ex>nd</ex> Raths Cämmerer.</add> <add place="below">zu Grimma T<ex>ochter</ex></add>
+                                                                <lb/>H<ex>errn</ex> <add place="below">Heinrich</add> <add place="inline">Wilhelm</add> <unclear reason="eccentric_ductus">Meyers</unclear>
+                                                                <lb/>E<ex>hrenwerten</ex> E<ex>dlen</ex> Raths buchhalters
+                                                                <lb/>Wittwe.
+                                                                <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
-                                                                            <!-- 90° gedreht-->
                                                                             <rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
                                                                         </cell>
                                                                         <cell>
-                                                                            <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Ki<ex>n</ex>d<ex>er</ex>
-                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">...</unclear>S<ex>öhne</ex><unclear reason="illegible">......</unclear> T<ex>öchter</ex><unclear reason="illegible">...</unclear></hi>
+                                                                            <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
+                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible">zu</unclear> S<ex>ankt</ex> Thom<ex>as</ex></hi>
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#thomasius_clararegina">Clara Regina</rs> g<ex>eboren</ex> 1705 d<ex>en</ex> 31.
@@ -450,21 +451,21 @@
                                                                         </cell>
                                                                     </row>
                                                                 </table>
+                                                            </note>
                                                             </cell>
                                                             <cell>
                                                                 <rs type="person" ref="#weidling_sophiamagdalena">Sophia
-                                                                <lb/>Magdal<ex>ena</ex></rs>
-                                                                <lb/>g<ex>eboren</ex>
-                                                                <lb/>Sept<ex>ember</ex> † 1695
-                                                                <lb/>14 Febr<ex>uar</ex>
-                                                                <lb/>1692. 6. Juni
-                                                                <lb/>H<ex>err</ex>  <rs type="person" ref="#weidling_christian">Christian Weidling</rs>
-                                                                <lb/>Phil<ex>osophiae</ex> u<ex>nd</ex> I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex>
-                                                                <lb/>u<ex>nd</ex> . . . . . . <w lemma="Consulenten">Con
-                                                                <lb/>sulenten</w>.
-                                                                <lb/>† <hi rendition="#s">Sept<ex>ember</ex> 14.</hi>
-                                                                <lb/><hi rendition="#s"><unclear reason="illegible">...</unclear> 14
-                                                                <lb/>Febr<ex>uar</ex></hi>
+                                                                    <lb/>Magdal<ex>ena</ex></rs>
+                                                                    <lb/>g<ex>eboren</ex>
+                                                                    <lb/>Sept<ex>ember</ex> † 1695
+                                                                    <lb/>14 Febr<ex>uar</ex>
+                                                                    <lb/>1692. 6. Juni
+                                                                    <lb/>H<ex>err</ex>  <rs type="person" ref="#weidling_christian">Christian Weidling</rs>
+                                                                    <lb/>Phil<ex>osophiae</ex> u<ex>nd</ex> I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex>
+                                                                    <lb/>u<ex>nd</ex> vorn<ex>ehmen</ex> <w lemma="Consulenten">Con
+                                                                    <lb/>sulenten</w>.
+                                                                    <lb/>† <del>1695 14.
+                                                                    <lb/>Febr<ex>uar</ex></del>
                                                                 <table rendition="#topBraced">
                                                                     <row>
                                                                         <cell>
@@ -483,13 +484,13 @@
                                         </table>    
                                     </cell>
                                     <cell>
-                                        und 1617. 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> zu Basel † zu Leipzig. 1631. d<ex>en</ex> 14 Nov<ex>ember</ex>
+                                        und 1617. 18 Nov<ex>ember</ex> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> <unclear reason="ecentric_ductus">zu</unclear> <rs type="place" ref="#basel">Basel</rs> † zu <rs type="place" ref="#leipzig">Leipzig</rs>. 1631. d<ex>en</ex> 14 Nov<ex>ember</ex>
                                     </cell>
                                 </row>
                             </table>
                         </cell>
                         <cell>
-                            <unclear reason="invisible">...</unclear> g<ex>eboren</ex> . . . . . †
+                            <unclear reason="invisible">...tzsch...</unclear> u<ex>nd</ex> Roßnitz, letzlich bürger in <rs type="place" ref="#weida">Weida</rs> g<ex>eboren</ex> . . . . . †
                             <lb/> † 16. . . . . .
                         </cell>
                     </row>
