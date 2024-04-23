@@ -3485,7 +3485,8 @@
                         <date when="1587">1587</date>
                     </birth>
                     <death>
-                        <note type="footnote" resp="ho">1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB</note>
+                        <date when="1633">1633</date>
+                        <note type="footnote" resp="ho">*bei DNB, 1631</note>
                     </death>
                     <note type="family">
                         <listRelation>
