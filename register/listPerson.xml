@@ -3406,7 +3406,7 @@
                     </death>              
                 </person>
         <!--Thomasius2-->
-        <!-- Thomasius1-->
+        <!--Thomasius1-->
                 <person xml:id="thomas_johann">
                     <persName>
                         <forename>Thomas</forename>
@@ -3485,7 +3485,7 @@
                         <date when="1587">1587</date>
                     </birth>
                     <death>
-                        <!-- 1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB-->
+                        <note type="footnote" resp="ho">1633 bei Vogels facs="rep_6_16-a_0918.jpg" n="455v", 1631 bei DNB</note>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -5004,6 +5004,7 @@
                             <relation type="parent" ref="#weidling_christian"/>
                             <relation type="parent" ref="#weidling_sophiamagdalena"/>
                         </listRelation>
+                    <!--Thomasius1-->
                     </note>
                 </person>               
             </listPerson>
