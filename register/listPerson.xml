@@ -4673,7 +4673,7 @@
                     </note>
                 </person>
                 <person xml:id="wagner_dorotheasophia">
-                    <persName>
+                    <persName ref="https://d-nb.info/gnd/120578751">
                         <forename>Dorothea Sophia</forename>
                         <surname type="birthName">Thomasius</surname>
                     </persName>
