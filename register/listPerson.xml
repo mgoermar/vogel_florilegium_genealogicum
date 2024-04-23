@@ -4629,10 +4629,10 @@
                     <persName type="display">Rechenberg, Adam Friedrich</persName>
                     <sex value="m"/>
                     <birth>
-                        <date when="1684-02-01">a. Februar 1684</date>
+                        <date when="1684-02-01">1. Februar 1684</date>
                     </birth>
                     <death>
-                        <date when="1684-12-15">15. Dezember 1684</date>
+                        <date when="1684-12-15">15. Februar 1684</date>
                     </death>
                 </person>
                 <person xml:id="thomasius_dorothearegina">
@@ -4798,25 +4798,23 @@
                     </listEvent>
                 </person>
                 <person xml:id="thomasius_elisabeth">
-                    <persName>
+                    <persName ref="https://des.genealogy.net/search/show/15175402">
                         <forename>Elisabeth</forename>
                         <surname>Thomasius</surname>
                     </persName>
                     <persName type="display">Thomasius, Elisabeth</persName>
                     <sex value="w"/>
+                    <birth>
+                        <date when="1672">1672</date>
+                    </birth>
+                    <death>
+                        <date when="1755-10-17">17. Oktober1775</date>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomasius_michael"/>
                         </listRelation>
                     </note>
-                    <listEvent>
-                        <event>
-                            <desc>
-                                <eventName>Hochzeit</eventName>
-                                <date when="1691">1691</date>
-                            </desc>                          
-                        </event>
-                    </listEvent>
                 </person>
                 <person xml:id="thomasius_traugott">
                     <persName ref="https://d-nb.info/gnd/12856928X">
