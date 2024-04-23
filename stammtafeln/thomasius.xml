@@ -417,9 +417,10 @@
                                                                 </table>
                                                             </cell>
                                                             <cell>
-                                                                <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.
+                                                            <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.</note>
+                                                            </cell>
+                                                            <cell>
                                                                 <hi rendition="#v"><rs type="person" ref="#thomasius_rosinaelisabeth">Rosina Elisabeth</rs> g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.</hi>
-                                                                </note>
                                                             </cell>
                                                             <cell>
                                                                 H<ex>err</ex> <rs type="person" ref="#thomasius_michael">Michael <w lemma="Thomasius">Thoma
@@ -427,14 +428,16 @@
                                                                 <lb/>in <rs type="place" ref="#leipzig">Leipzig</rs>
                                                                 <lb/>g<ex>eboren</ex> 1674. 29 Jan<ex>uar</ex>
                                                                 <lb/>† 1789. 28 Febr<ex>uar</ex>
-                                                                <lb/>1691<note type="footnote" resp="ho">Kartei Leipzig, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
+                                                                <lb/>1691<note type="footnote" resp="ho">Kartei Leipziger Familien, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
                                                                 <lb/><add place="inline">George</add> Haupts <add place="inline">bürgermeistern Händler u<ex>nd</ex> Raths Cämmerer.</add> <add place="below">zu Grimma T<ex>ochter</ex></add>
                                                                 <lb/>H<ex>errn</ex> <add place="below">Heinrich</add> <add place="inline">Wilhelm</add> <unclear reason="eccentric_ductus">Meyers</unclear>
                                                                 <lb/>E<ex>hrenwerten</ex> E<ex>dlen</ex> Raths buchhalters
                                                                 <lb/>Wittwe.
-                                                                <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.
                                                                 <table rendition="#topBraced">
                                                                     <row>
+                                                                        <cell>
+                                                                            <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.</note>
+                                                                        </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
                                                                         </cell>
@@ -451,7 +454,6 @@
                                                                         </cell>
                                                                     </row>
                                                                 </table>
-                                                            </note>
                                                             </cell>
                                                             <cell>
                                                                 <rs type="person" ref="#weidling_sophiamagdalena">Sophia
