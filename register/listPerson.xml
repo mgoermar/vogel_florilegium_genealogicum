@@ -5005,9 +5005,35 @@
                             <relation type="parent" ref="#weidling_christian"/>
                             <relation type="parent" ref="#weidling_sophiamagdalena"/>
                         </listRelation>
-                    <!--Thomasius1-->
                     </note>
-                </person>               
+                </person>
+                <person xml:id="meyer_heinrichwilhelm">
+                    <persName>
+                        <forename>Heinrich Wilhelm</forename>
+                        <surname>Meyer</surname>
+                    </persName>
+                    <persName type="display">Meyer, Heinrich Wilhelm</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="haupt_george">
+                    <persName>
+                        <forename>George</forename>
+                        <surname>Haupt</surname>
+                    </persName>
+                    <persName type="display">Haupt, George</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomasius_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                    <!--Thomasius1-->      
             </listPerson>
         </body>
     </text>
