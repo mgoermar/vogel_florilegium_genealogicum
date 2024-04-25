@@ -440,11 +440,11 @@
                                                                             <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.</note>
                                                                         </cell>
                                                                         <cell>
-                                                                            <rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
+                                                                            <lb/><rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
                                                                         </cell>
                                                                         <cell>
-                                                                            <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
-                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible">zu</unclear> S<ex>ankt</ex> Thom<ex>as</ex></hi>
+                                                                            <lb/><rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
+                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs></hi>
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#thomasius_clararegina">Clara Regina</rs> g<ex>eboren</ex> 1705 d<ex>en</ex> 31.
