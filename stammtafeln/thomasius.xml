@@ -97,13 +97,13 @@
                                                     <lb/>Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. 1619. 22. Mart<ex>ij</ex>. † 1689. 2. Julij.
                                                     <list>
                                                         <item>
-                                                            <lb/>1646. 5 Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomae_annamaria_3">Anna Maria</rs> H<ex>err</ex> <rs type="person" ref="#teuring_samuel">Samuel Teurings</rs> auf <rs type="place" ref="#schkopau">Schkopau</rs>
+                                                            <lb/> 1646. 5 Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomae_annamaria_3">Anna Maria</rs> H<ex>err</ex> <rs type="person" ref="#teuring_samuel">Samuel Teurings</rs> auf <rs type="place" ref="#schkopau">Schkopau</rs>
                                                             <lb/>IU<ex>ris</ex> C<ex>onsultus</ex> u<ex>nd</ex>Practici Tochter g<ex>eboren</ex> 1622. 23 May. † 1664. 1 April &#x00E6;t<ex>atis</ex> 41 1 P<ex>aar</ex> Zwillinge
                                                         </item>
                                                         <item>
-                                                            <lb/>1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> <rs type="person" ref="#thomae_catharina">Catharina</rs> g<ex>eboren</ex> Wiefelin, H<ex>err</ex> <rs type="person" ref="#mueller_johann">Joh<ex>ann</ex> Müllers</rs> vor.
+                                                            <lb/> 1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> <rs type="person" ref="#thomae_catharina">Catharina</rs> g<ex>eboren</ex> Wiefelin, H<ex>err</ex> <rs type="person" ref="#mueller_johann">Joh<ex>ann</ex> Müllers</rs> vor.
                                                             <lb/>Händler In <rs type="place" ref="#leipzig">leipzig</rs> 26. / g<ex>eboren</ex> 1620. 16. Nov<ex>ember</ex> † 1680 20. Dec<ex>ember</ex> &#x00E6;t<ex>atis</ex> 60 ohne K<ex>inder</ex>.
-                                                            <lb/><hi rendition="#et2">H<ex>err</ex> <rs type="person" ref="#kramer_martinwiefel">Martin Wiefels Kramers</rs> in <rs type="place" ref="#leipzig">leipzig</rs> T<ex>ochter</ex></hi>
+                                                            <lb/><hi rendition="#et">H<ex>err</ex> <rs type="person" ref="#kramer_martinwiefel">Martin Wiefels Kramers</rs> in <rs type="place" ref="#leipzig">leipzig</rs> T<ex>ochter</ex></hi>
                                                         </item>
                                                     </list>
                                                     <table rendition="#topBraced">
@@ -141,7 +141,7 @@
                                                     <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspector primarius g<ex>eboren</ex> 1600 20. May zu Lobenstein
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
                                                     <lb/>
-                                                    <lb/><hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.</hi> <note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note>
+                                                    <lb/><hi rendition="#et">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.</hi> <note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -421,7 +421,7 @@
                                                             <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.</note>
                                                             </cell>
                                                             <cell>
-                                                                <hi rendition="#v"><rs type="person" ref="#thomasius_rosinaelisabeth">Rosina Elisabeth</rs> g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.</hi>
+                                                                <rs type="person" ref="#thomasius_rosinaelisabeth">Rosina Elisabeth</rs> g<ex>eboren</ex> 1672 d<ex>en</ex> 1 Nov<ex>ember</ex> † 9 Nov<ex>ember</ex> 1672.
                                                             </cell>
                                                             <cell>
                                                                 H<ex>err</ex> <rs type="person" ref="#thomasius_michael">Michael <w lemma="Thomasius">Thoma
@@ -444,7 +444,7 @@
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
-                                                                            <lb/><hi rendition="#et3"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs></hi>
+                                                                            <lb/><hi rendition="#et"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs></hi>
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#thomasius_clararegina">Clara Regina</rs> g<ex>eboren</ex> 1705 d<ex>en</ex> 31.
