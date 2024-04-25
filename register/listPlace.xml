@@ -297,6 +297,15 @@
                 <place xml:id="brandenburg_kurfuerstentum">
                     <placeName ref="https://d-nb.info/gnd/4007955-7">Brandenburg, Kurfürstentum</placeName>
                 </place>
+                <place xml:id="halle_saale">
+                    <placeName ref="https://d-nb.info/gnd/4023025-9">Halle (Saale)</placeName>
+                </place>
+                <place xml:id="braunschweig">
+                    <placeName ref="https://d-nb.info/gnd/4008065-1">Braunschweig</placeName>
+                </place>
+                <place xml:id="grimma">
+                    <placeName ref="https://d-nb.info/gnd/4022085-0">Grimma</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
