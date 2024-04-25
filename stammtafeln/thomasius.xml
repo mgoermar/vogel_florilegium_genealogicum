@@ -82,12 +82,12 @@
                 <table>
                     <row>
                         <cell rendition="#topBraced">       
-                            H<ex>err</ex> <rs type="person" ref="#thomas_michael">Michael Thomas</rs> der ältere auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs>, anfangs hochadl. Wallenröd<ex>ischer</ex> Schößer hernach PachtsJnnhaber derer Adelichen Güter
+                            H<ex>err</ex> <rs type="person" ref="#thomas_michael">Michael Thomas</rs> der ältere auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs>, anfangs hochadl. <rs type="place" ref="#wallenrod">Wallenröd<ex>ischer</ex></rs> Schößer hernach PachtsJnnhaber derer Adelichen Güter
                             <lb/>15... Fr<ex>au</ex> <rs type="person" ref="#thomae_saronn">Saronn</rs>, H<ex>err</ex> <rs type="person" ref="#meissen_peter">Peter Meißens</rs> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>ischer</ex></rs> Amtschößers zu <rs type="place" ref="#weida">Weyda</rs> T<ex>ochter</ex> H<ex>err</ex> <rs type="person" ref="#sturm_ludwig">Ludwig Sturms</rs> Medic<ex>i</ex> u<ex>nd</ex> Practici in <rs type="place" ref="#merseburg">Merseburg</rs> W<ex>itwe</ex> g<ex>eboren</ex>. . . .        
                             <table rendition="#topBraced">
                                 <row>
                                     <cell>
-                                        H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
+                                        H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu <rs type="place" ref="#mildenfurth">Mildenfort</rs> bey <rs type="place" ref="#weida">Weyda</rs>
                                         <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>isch</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urgischer</ex></rs> Rath &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
                                         <lb/><hi rendition="#et">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
@@ -138,7 +138,7 @@
                                                 <cell>
                                                     <rs type="person" ref="#thomasin_anna">Anna Thomasin</rs> g<ex>eboren</ex> 1620. 31 Aug<ex>ust</ex> † 1669 30 Julij
                                                     <lb/>1637. d<ex>en</ex> 21. Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="#alberti_johann">Johann Alberti</rs> ErbH<ex>err</ex> auf <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>c<ex>onsul</ex>t<ex>us</ex> Graff<ex>lich</ex> Reuß Plauscher hochbestallter
-                                                    <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspector primarius g<ex>eboren</ex> 1600 20. May zu <rs type="place" ref="#lobenstein">Lobenstein</rs>
+                                                    <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu <rs type="place" ref="#gera">Gera</rs> Inspector primarius g<ex>eboren</ex> 1600 20. May zu <rs type="place" ref="#lobenstein">Lobenstein</rs>
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
                                                     <lb/>
                                                     <lb/><hi rendition="#et">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.<note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note></hi>
@@ -146,7 +146,7 @@
                                                         <row>
                                                             <cell>
                                                                 <rs type="person" ref="#strauch_anna">Anna Alberti</rs>
-                                                                <lb/>g<ex>eboren</ex> 1640. 26. † 1697. d<ex>en</ex> 14. Jan<ex>uar</ex> <add place="above">April zu Gera</add>
+                                                                <lb/>g<ex>eboren</ex> 1640. 26. † 1697. d<ex>en</ex> 14. Jan<ex>uar</ex> <add place="above">April zu <rs type="place" ref="#gera">Gera</rs></add>
                                                                 <lb/>1658. 24. Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="#strauch_augustin">Augustin
                                                                 <lb/>Strauch</rs> Com<ex>itis</ex> Pal<ex>atini</ex> C&#x00E6;sar<ex>aei</ex>
                                                                 <lb/><rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> S<ex>achiischer</ex> geheimter Rath</rs>
@@ -214,7 +214,7 @@
                                                             <lb/>1. 1653. 26. Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomasius_maria"> Maria<ex>m</ex> </rs> H<ex>errn</ex> L<ex>icentitati</ex> <rs type="person" ref="#weber_jeremias">Jerem<ex>ias</ex> Weber</rs>s Archidiac<ex>oni</ex> zu <rs type="place" ref="#leipzig_nikolaikirche"> S<ex>ankt</ex> Nicol<ex>ai</ex></rs> u<ex>nd</ex> Prof<ex>essoris</ex> publ<ex>ici</ex> extraordin<ex>arii</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> T<ex>ochter</ex> g<ex>eboren</ex> 1636. 12 Jan<ex>uar</ex> † 1663. d<ex>en</ex> 20 April.
                                                         </item>
                                                         <item>
-                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H. M. <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
+                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H<ex>err</ex> M<ex>agister</ex> <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
                                                                 <lb/>nehmen</w> des Raths u<ex>nd</ex> Stadtrichters zu Leipzig T<ex>ochter</ex> g<ex>eboren</ex> 1638. d<ex>en</ex> 8 Febr<ex>uar</ex> † 1 . . . . .
                                                         </item>
                                                     </list>
@@ -429,7 +429,7 @@
                                                                 <lb/>in <rs type="place" ref="#leipzig">Leipzig</rs>
                                                                 <lb/>g<ex>eboren</ex> 1674. 29 Jan<ex>uar</ex>
                                                                 <lb/>† 1789. 28 Febr<ex>uar</ex>
-                                                                <lb/>1691<note type="footnote" resp="ho">Kartei Leipziger Familien, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
+                                                                <lb/>1691<note type="footnote" resp="ho">Kartei Leipziger Familien, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex> <rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
                                                                 <lb/><rs type="person" ref="#haupt_george"><add place="inline">George</add> Haupts</rs> <add place="inline">bürgermeistern Händler u<ex>nd</ex> Raths Cämmerer.</add> <add place="below">zu <rs type="place" ref="#grimma">Grimma</rs> T<ex>ochter</ex></add>
                                                                 <lb/>H<ex>errn</ex> <rs type="person" ref="#meyer_heinrichwilhelm"><add place="below">Heinrich</add> <add place="inline">Wilhelm</add> <unclear reason="eccentric_ductus">Meyers</unclear></rs>
                                                                 <lb/>E<ex>hrenwerten</ex> E<ex>dlen</ex> Raths buchhalters
