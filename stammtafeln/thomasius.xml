@@ -89,7 +89,7 @@
                                     <cell>
                                         H<ex>err</ex> <rs type="person" ref="#thomae_michael_1">Michael Thoma</rs> auf <rs type="place" ref="#troschenreuth">Troschenreuth</rs> u<ex>nd</ex> <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>U<ex>triusque</ex>D<ex>octor</ex> u<ex>nd</ex> vornehmen Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. g<ex>eboren</ex> 1587 3. Febr<ex>uar</ex> zu Mildenfort bey <rs type="place" ref="#weida">Weyda</rs>
                                         <lb/>1618. 15 Juni J<ex>ungfrau</ex> <rs type="person" ref="#thomae_anna">Anna</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#schultes_jacob">Jacob Schultes</rs> ßas <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachß<ex>isch</ex></rs> <rs type="place" ref="sachsen-altenburg_herzogtum">Altenb<ex>urgischer</ex></rs> Rath &#x00E6;t<ex>atis</ex> T<ex>ochter</ex> g<ex>eboren</ex>. . . . † 1633.1.Oct<ex>ober</ex>
-                                        <lb/><hi rendition="#et3">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
+                                        <lb/><hi rendition="#et">7 K<ex>inder</ex> 5 S<ex>öhne</ex> 2 T<ex>öchter</ex></hi>
                                         <table rendition="#topBraced">    
                                             <row>
                                                 <cell>
@@ -141,7 +141,7 @@
                                                     <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspector primarius g<ex>eboren</ex> 1600 20. May zu Lobenstein
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
                                                     <lb/>
-                                                    <hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.</hi> <note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note>
+                                                    <lb/><hi rendition="#et3">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.</hi> <note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -440,10 +440,10 @@
                                                                             <note type="annotation" resp="ho">Schreibrichtung des vorstehenden Textes in der Vorlage um 90° gedreht.</note>
                                                                         </cell>
                                                                         <cell>
-                                                                            <lb/><rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
+                                                                            <rs type="person" ref="#thomasius_traugott">Traugott</rs> g<ex>eboren</ex> 1709 d<ex>en</ex> 19 Januar
                                                                         </cell>
                                                                         <cell>
-                                                                            <lb/><rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
+                                                                            <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
                                                                             <lb/><hi rendition="#et3"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs></hi>
                                                                         </cell>
                                                                         <cell>
