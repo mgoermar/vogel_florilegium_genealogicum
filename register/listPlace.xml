@@ -306,6 +306,12 @@
                 <place xml:id="grimma">
                     <placeName ref="https://d-nb.info/gnd/4022085-0">Grimma</placeName>
                 </place>
+                <place xml:id="wallenrod">
+                    <placeName ref="https://d-nb.info/gnd/2026156-1">Wallenrod</placeName>
+                </place>
+                <place xml:id="mildenfurth">
+                    <placeName ref="https://d-nb.info/gnd/4281503-4">Mildenfurth</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
