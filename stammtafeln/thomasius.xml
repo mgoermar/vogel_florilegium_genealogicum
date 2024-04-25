@@ -97,13 +97,13 @@
                                                     <lb/>Consulent zu <rs type="place" ref="#leipzig">leipzig</rs>. 1619. 22. Mart<ex>ij</ex>. † 1689. 2. Julij.
                                                     <list>
                                                         <item>
-                                                            <lb/> 1646. 5 Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomae_annamaria_3">Anna Maria</rs> H<ex>err</ex> <rs type="person" ref="#teuring_samuel">Samuel Teurings</rs> auf <rs type="place" ref="#schkopau">Schkopau</rs>
+                                                            <lb/><hi rendition="#ex">1646. 5 Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomae_annamaria_3">Anna Maria</rs> H<ex>err</ex> <rs type="person" ref="#teuring_samuel">Samuel Teurings</rs> auf <rs type="place" ref="#schkopau">Schkopau</rs></hi>
                                                             <lb/>IU<ex>ris</ex> C<ex>onsultus</ex> u<ex>nd</ex>Practici Tochter g<ex>eboren</ex> 1622. 23 May. † 1664. 1 April &#x00E6;t<ex>atis</ex> 41 1 P<ex>aar</ex> Zwillinge
                                                         </item>
                                                         <item>
-                                                            <lb/> 1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> <rs type="person" ref="#thomae_catharina">Catharina</rs> g<ex>eboren</ex> Wiefelin, H<ex>err</ex> <rs type="person" ref="#mueller_johann">Joh<ex>ann</ex> Müllers</rs> vor.
+                                                            <lb/><hi rendition="#ex">1665. 14. Aug<ex>ust</ex> F<ex>rau</ex> <rs type="person" ref="#thomae_catharina">Catharina</rs> g<ex>eboren</ex> Wiefelin, H<ex>err</ex> <rs type="person" ref="#mueller_johann">Joh<ex>ann</ex> Müllers</rs> vor.</hi>
                                                             <lb/>Händler In <rs type="place" ref="#leipzig">leipzig</rs> 26. / g<ex>eboren</ex> 1620. 16. Nov<ex>ember</ex> † 1680 20. Dec<ex>ember</ex> &#x00E6;t<ex>atis</ex> 60 ohne K<ex>inder</ex>.
-                                                            <lb/><hi rendition="#et">H<ex>err</ex> <rs type="person" ref="#kramer_martinwiefel">Martin Wiefels Kramers</rs> in <rs type="place" ref="#leipzig">leipzig</rs> T<ex>ochter</ex></hi>
+                                                            <lb/><hi rendition="#et2">H<ex>err</ex> <rs type="person" ref="#kramer_martinwiefel">Martin Wiefels Kramers</rs> in <rs type="place" ref="#leipzig">leipzig</rs> T<ex>ochter</ex></hi>
                                                         </item>
                                                     </list>
                                                     <table rendition="#topBraced">
@@ -126,7 +126,7 @@
                                                                             <lb/>ter</w>  I<ex>uris</ex>c<ex>onsul</ex>t<ex>us</ex> <rs type="place" ref="#sachsen_kurfuerstentum">Churf<ex>ürstlich</ex> Sachs<ex>ischer</ex></rs> Rath. Comes Pal<ex>atinus</ex> C&#x00E6;s<ex>areus</ex>
                                                                             <lb/>der Oberhofgerichts Adv<ex>ocatus</ex> Ord<ex>inarius</ex> des <rs type="org" ref="#leipzig_schoeppenstuhl">Schöpp<ex>en</ex>st<ex>uhls</ex></rs>
                                                                             <lb/>Assessor Hochverdienten Bürgerm<ex>eister</ex> u<ex>nd</ex> vorsteher
-                                                                            <lb/>zu S<ex>ankt</ex> <rs type="place" ref="#leipzig_nikolaikirche">Nicolai</rs> in <rs type="place" ref="#leipzig">Leipzig</rs>.
+                                                                            <lb/>zu <rs type="place" ref="#leipzig_nikolaikirche">S<ex>ankt</ex> Nicolai</rs> in <rs type="place" ref="#leipzig">Leipzig</rs>.
                                                                             <lb/>Vid<ex>e</ex> Geneal<ex>ogiam</ex> Falckneriana<ex>m</ex>.
                                                                         </cell>
                                                                     </row>        
@@ -138,7 +138,7 @@
                                                 <cell>
                                                     <rs type="person" ref="#thomasin_anna">Anna Thomasin</rs> g<ex>eboren</ex> 1620. 31 Aug<ex>ust</ex> † 1669 30 Julij
                                                     <lb/>1637. d<ex>en</ex> 21. Aug<ex>ust</ex> H<ex>err</ex> <rs type="person" ref="#alberti_johann">Johann Alberti</rs> ErbH<ex>err</ex> auf <rs type="place" ref="#wiedersberg">Wiedersberg</rs> I<ex>uris</ex>c<ex>onsul</ex>t<ex>us</ex> Graff<ex>lich</ex> Reuß Plauscher hochbestallter
-                                                    <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspector primarius g<ex>eboren</ex> 1600 20. May zu Lobenstein
+                                                    <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu Gera Inspector primarius g<ex>eboren</ex> 1600 20. May zu <rs type="place" ref="#lobenstein">Lobenstein</rs>
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
                                                     <lb/>
                                                     <lb/><hi rendition="#et">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.<note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note></hi>
@@ -214,7 +214,7 @@
                                                             <lb/>1. 1653. 26. Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomasius_maria"> Maria<ex>m</ex> </rs> H<ex>errn</ex> L<ex>icentitati</ex> <rs type="person" ref="#weber_jeremias">Jerem<ex>ias</ex> Weber</rs>s Archidiac<ex>oni</ex> zu <rs type="place" ref="#leipzig_nikolaikirche"> S<ex>ankt</ex> Nicol<ex>ai</ex></rs> u<ex>nd</ex> Prof<ex>essoris</ex> publ<ex>ici</ex> extraordin<ex>arii</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> T<ex>ochter</ex> g<ex>eboren</ex> 1636. 12 Jan<ex>uar</ex> † 1663. d<ex>en</ex> 20 April.
                                                         </item>
                                                         <item>
-                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H. M. <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex> in Leipzig Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
+                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H. M. <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
                                                                 <lb/>nehmen</w> des Raths u<ex>nd</ex> Stadtrichters zu Leipzig T<ex>ochter</ex> g<ex>eboren</ex> 1638. d<ex>en</ex> 8 Febr<ex>uar</ex> † 1 . . . . .
                                                         </item>
                                                     </list>
@@ -223,10 +223,10 @@
                                                             <cell>
                                                                 I. H<ex>err</ex> <rs type="person" ref="#thomasius_christian">Christianus Thomasius</rs> Phil<ex>osophiae</ex> u<ex>nd</ex> I<ex>uris</ex> U<ex>triusque</ex> D<ex>octor</ex>
                                                                 <lb/><rs type="person" ref="#koenig_friedrich1">Jhr<ex>er</ex> Kon<ex>iglichen</ex> Maj<ex>estät</ex> in Preußen</rs> geheimter Rath <add place="below">Juris Canonici</add> Prof<ex>essor</ex> publ<ex>icus</ex> u<ex>nd</ex> Ordi<ex>n</ex>a<ex>rius</ex> 
-                                                                <lb/>zu Halle.
-                                                                <lb/>g<ex>eboren</ex> 1655 1. Januar † 1728 d<ex>en</ex> 24 Sept<ex>ember</ex> in Halle
+                                                                <lb/>zu <rs type="place" ref="#halle_saale">Halle</rs>.
+                                                                <lb/>g<ex>eboren</ex> 1655 1. Januar † 1728 d<ex>en</ex> 24 Sept<ex>ember</ex> in <rs type="place" ref="#halle_saale">Halle</rs>
                                                                 <lb/>1680. 17 Febr<ex>uar</ex> J<ex>ung</ex>f<ex>rau</ex> <rs type="person" ref="#thomasius_augustachristiana">Augusta Christiana</rs> H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#heiland_polycarp">Polycarpij
-                                                                <lb/>Heylands</rs> I<ex>uris</ex>c<ex>onsul</ex>t<ex>i</ex>, h<ex>och</ex>furstl<ex>lich</ex> Braunschweig<ex>ischer</ex> geheimter u<ex>nd</ex> <w lemma="Hoffraths">Hoff
+                                                                <lb/>Heylands</rs> I<ex>uris</ex>c<ex>onsul</ex>t<ex>i</ex>, h<ex>och</ex>furstl<ex>lich</ex> <rs type="place" ref="#braunschweig">Braunschweig<ex>ischer</ex></rs> geheimter u<ex>nd</ex> <w lemma="Hoffraths">Hoff
                                                                 <lb/>raths</w> T<ex>ochter</ex> g<ex>eboren</ex>
                                                                 <table rendition="#topBraced">
                                                                     <row>
@@ -269,8 +269,8 @@
                                                                 <lb/>g<ex>eboren</ex> 1660. 24 Mart<ex>ii</ex>
                                                                 <lb/>1691. 12 Aug<ex>ust</ex> J<ex>ung</ex>f<ex>rau</ex> <rs type="person" ref="#thomasius_clarahelena">Clara<ex>m</ex> Helena<ex>m</ex> </rs> H<ex>err</ex> <rs type="person" ref="#volckamer_johanngeorg"> Jo<ex>hann</ex> Georg
                                                                 <lb/>Volckmers</rs> S<ex>acri</ex> R<ex>omani</ex> J<ex>mperii</ex> aurati Kays<ex>erlicher</ex> Maij<ex>estät</ex> Raths u<ex>nd</ex> leib<w lemma="leibmedici">
-                                                                <lb/>medici</w> wie auch Commit<ex>is</ex> Palat<ex>ini</ex> C&#x00E6;sar<ex>ei</ex> des Leopoldischen
-                                                                <lb/>Academi&#x00E6; na<ex>tur</ex>&#x00E6; Curioso<ex>ru</ex>m Pr&#x00E6;sidis, des hochloblichen 
+                                                                <lb/>medici</w> wie auch Commit<ex>is</ex> Palat<ex>ini</ex> C&#x00E6;sar<ex>ei</ex> des <rs type="org" ref="#sri_academia_naturae_curiosorum">Leopoldischen
+                                                                <lb/>Academi&#x00E6; na<ex>tur</ex>&#x00E6; Curioso<ex>ru</ex>m</rs> Pr&#x00E6;sidis, des hochloblichen 
                                                                 <lb/>Collegij Medici in <rs type="place" ref="#nuernberg">Nürnberg</rs> Senioris primarij u<ex>nd</ex> eme<w lemma="emeriti">
                                                                 <lb/>riti</w> (d<ex>efunc</ex>ti 1693. d<ex>en</ex>. 17. May) Tochter g<ex>eboren</ex>
                                                                 <table rendition="#topBraced">
@@ -290,7 +290,7 @@
                                                                     <lb/>Poes<ex>eos</ex> P<ex>rofessor</ex> P<ex>ublicus</ex> Colleg<ex>ii</ex> Maj<ex>oris</ex>
                                                                     <lb/>Colleg<ex>iatus</ex> der bayerischen 
                                                                     <lb/>Nation Senior u<ex>nd</ex>
-                                                                    <lb/>Biblioth<ex>ecae</ex> Paul<ex>inae</ex> <w lemma="Bibliothecarius">Biblio
+                                                                    <lb/><rs type="org" ref="#universitaetsbibliothek_leipzig">Biblioth<ex>ecae</ex> Paul<ex>inae</ex></rs> <w lemma="Bibliothecarius">Biblio
                                                                     <lb/>thecarius</w>. g<ex>eboren</ex>.
                                                                     <lb/>† 1691 4. April
                                                                 <table rendition="#topBraced">
@@ -430,8 +430,8 @@
                                                                 <lb/>g<ex>eboren</ex> 1674. 29 Jan<ex>uar</ex>
                                                                 <lb/>† 1789. 28 Febr<ex>uar</ex>
                                                                 <lb/>1691<note type="footnote" resp="ho">Kartei Leipziger Familien, page D_T_02207; verheiratet mit <rs type="person" ref="#thomasius_michael">Michael Thomasius</rs> am 22. November 1701</note> Fr<ex>au</ex><rs type="person" ref="#thomasius_elisabeth">Elisabeth</rs>
-                                                                <lb/><add place="inline">George</add> Haupts <add place="inline">bürgermeistern Händler u<ex>nd</ex> Raths Cämmerer.</add> <add place="below">zu Grimma T<ex>ochter</ex></add>
-                                                                <lb/>H<ex>errn</ex> <add place="below">Heinrich</add> <add place="inline">Wilhelm</add> <unclear reason="eccentric_ductus">Meyers</unclear>
+                                                                <lb/><rs type="person" ref="#haupt_george"><add place="inline">George</add> Haupts</rs> <add place="inline">bürgermeistern Händler u<ex>nd</ex> Raths Cämmerer.</add> <add place="below">zu <rs type="place" ref="#grimma">Grimma</rs> T<ex>ochter</ex></add>
+                                                                <lb/>H<ex>errn</ex> <rs type="person" ref="#meyer_heinrichwilhelm"><add place="below">Heinrich</add> <add place="inline">Wilhelm</add> <unclear reason="eccentric_ductus">Meyers</unclear></rs>
                                                                 <lb/>E<ex>hrenwerten</ex> E<ex>dlen</ex> Raths buchhalters
                                                                 <lb/>Wittwe.
                                                                 <table rendition="#topBraced">
@@ -444,7 +444,7 @@
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#gauditz_sophiaelisabeth">Sophia Elisab<ex>eth</ex></rs> g<ex>eboren</ex> 1706. 17. Jan<ex>nuar</ex> 1729 H<ex>err</ex> <rs type="person" ref="#gauditz_gottlieb">G<ex>ott</ex>lieb Gaudlitz</rs> Lic<ex>entiatus</ex>
-                                                                            <lb/><hi rendition="#et"><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs></hi>
+                                                                            <lb/><unclear reason="illegible">und</unclear> Diac<ex>onus</ex><unclear reason="illegible"> zu</unclear> <rs type="place" ref="#leipzig_thomaskirche">S<ex>ankt</ex> Thom<ex>as</ex></rs>
                                                                         </cell>
                                                                         <cell>
                                                                             <rs type="person" ref="#thomasius_clararegina">Clara Regina</rs> g<ex>eboren</ex> 1705 d<ex>en</ex> 31.
