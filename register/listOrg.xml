@@ -58,6 +58,12 @@
                 <org xml:id="freiberg_rat">
                     <orgName ref="https://d-nb.info/gnd/1271446510">Freiberg, Rat der Stadt</orgName>
                 </org>
+                <org xml:id="sri_academia_naturae_curiosorum">
+                    <orgName ref="https://d-nb.info/gnd/61192-X">Sacri Romani Imperii Academia Caesareo-Leopoldina Naturae Curiosorum (1687-1742)</orgName>
+                </org>
+                <org xml:id="universitaetsbibliothek_leipzig">
+                    <orgName ref="https://d-nb.info/gnd/30026-3">Universitätsbibliothek, Leipzig</orgName>
+                </org>
             </listOrg>
         </body>
     </text>
