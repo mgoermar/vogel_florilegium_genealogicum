@@ -4089,7 +4089,7 @@
                     </death>
                     <occupation>
                         <term>Rektor</term>
-                        <date from="1638" to="1663">1638-1663 </date>
+                        <date from="1638" to="1663">1638-1663</date>
                         <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
                     </occupation>
                     <note type="family">
@@ -4108,10 +4108,10 @@
                 </person>
                 <person xml:id="thomasius_christian">
                     <persName ref="https://d-nb.info/gnd/11862220X">
-                        <forename>Cristianus</forename>
+                        <forename>Christian</forename>
                         <surname>Thomasius</surname>
                     </persName>
-                    <persName type="display">Thomasius, Cristianus</persName>
+                    <persName type="display">Thomasius, Christian</persName>
                     <sex value="m"/>
                     <birth>
                         <date when="1655-01-01">a. Januar 1655</date>
@@ -4119,6 +4119,11 @@
                     <death>
                         <date when="1728-09-24">24. September 1728</date>
                     </death>
+                    <occupation>
+                        <term>Direktor</term>
+                        <date from="1710" to="1728">1710-1728</date>
+                        <placeName ref="#universitaet_halle">Universität Halle (Saale)</placeName>
+                    </occupation>
                     <listEvent>
                         <event>
                             <desc>
