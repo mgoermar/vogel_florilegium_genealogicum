@@ -35,7 +35,7 @@
                     <orgName ref="https://d-nb.info/gnd/2024208-6">Universität Leipzig, Juristische Fakultät</orgName>
                 </org>
                 <org xml:id="universitaet_leipzig_philosophische_fakultaet">
-                    <orgName ref="https://d-nb.info/gnd/117738-2">Unicersität Leipzig, Philosophische Fakultät</orgName>
+                    <orgName ref="https://d-nb.info/gnd/117738-2">Universität Leipzig, Philosophische Fakultät</orgName>
                 </org>
                 <org xml:id="jena_schoeppenstuhl">
                     <orgName>Jena, Schöppenstuhl</orgName>
@@ -63,6 +63,9 @@
                 </org>
                 <org xml:id="universitaetsbibliothek_leipzig">
                     <orgName ref="https://d-nb.info/gnd/30026-3">Universitätsbibliothek, Leipzig</orgName>
+                </org>
+                <org xml:id="universitaet_halle">
+                    <orgName ref="https://d-nb.info/gnd/1048495779">Universität Halle (Saale)</orgName>
                 </org>
             </listOrg>
         </body>
