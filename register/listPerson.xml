@@ -3877,10 +3877,17 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1600">1600</date>
+                        <placeName ref="#lobenstein">Lobenstein</placeName>
                     </birth>
                     <death>
                         <date when="1680">1680</date>
                     </death>
+                    <education>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </education>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
                     <occupation>
                         <term>Erbherr</term>
                         <placeName ref="#wiedersberg">Wiedersberg</placeName>
@@ -3941,12 +3948,17 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1612-10-25">25. Oktober 1612</date>
+                        <placeName ref="#delitzsch">Delitzsch</placeName>
                     </birth>
                     <death>
                         <date when="1674-05-18">18. Mai 1674</date>
+                        <placeName ref="#regensburg">Regensburg</placeName>
                     </death>
                     <occupation>
                         <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Diplomat</term>
                     </occupation>
                     <occupation>
                         <term>Professor</term>
@@ -3981,10 +3993,17 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1643">1643</date>
+                        <placeName ref="#gera">Gera</placeName>
                     </birth>
                     <death>
                         <date when="1709">1709</date>
                     </death>
+                    <education>
+                        <orgName ref="#universitaet_altdorf">Universität Altdorf</orgName>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                        <orgName ref="#universitaet_wittenberg">Universität Wittenberg</orgName>
+                        <orgName ref="#universitaet_jena">Universität Jena</orgName>
+                    </education>
                     <occupation>
                         <term>Jurist</term>
                     </occupation>
@@ -4028,9 +4047,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1648-09-14">14. September 1648</date>
+                        <placeName ref="#gera">Gera</placeName>
                     </birth>
                     <death>
                         <date when="1648-09-22">22. September 1648</date>
+                        <placeName ref="#gera">Gera</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -4048,9 +4069,11 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1649-10-16">16. Oktober 1649</date>
+                        <placeName ref="#gera">Gera</placeName>
                     </birth>
                     <death>
                         <date when="1649-11-16">16. November 1649</date>
+                        <placeName ref="#gera">Gera</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -4099,9 +4122,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1622">1622</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1684">1684</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -4111,6 +4136,10 @@
                             <relation type="spouse" ref="#thomasius_mariaelisabeth"/>
                         </listRelation> 
                     </note>
+                    <education>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                        <placeName ref="#wittenberg">Wittenberg</placeName>
+                    </education>
                     <occupation>
                         <term>Konrektor</term>
                         <date from="1650" to="1653">1650-1653</date>
@@ -4155,9 +4184,11 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1636">1636</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1663">1663</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -4183,9 +4214,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1600">1600</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1643">1643</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <occupation>
                         <term>Evangelisch-lutherischer Theologe</term>
@@ -4212,9 +4245,11 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1638">1638</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1705">1705</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <listEvent>
                         <event>
@@ -4273,9 +4308,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1599">1599</date>
+                        <placeName ref="#themar">Themar</placeName>
                     </birth>
                     <death>
                         <date when="1663">1663</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <occupation>
                         <term>Philologe</term>
@@ -4318,10 +4355,15 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1655-01-01">a. Januar 1655</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1728-09-24">24. September 1728</date>
+                        <placeName ref="#halle_saale">Halle (Saale)</placeName>
                     </death>
+                    <education>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </education>
                     <occupation>
                         <term>Jurist</term>
                     </occupation>
