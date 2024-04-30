@@ -3414,16 +3414,18 @@
                     </persName>
                     <persName type="display">Thomas, Johann</persName>
                     <sex value="m"/>
+                    <occupation>
+                        <term>Forstbedienter</term>
+                        <placeName ref="#coburg">Coburg</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="thomas_michael">
-                    <persName ref="https://d-nb.info/gnd/128514183">
+                    <persName>
                         <forename>Michael</forename>
                         <surname>Thomae</surname>
                     </persName>
                     <persName type="display">Thomae, Michael</persName>
                     <sex value="m"/>
-
-
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_saronn"/>
@@ -3434,6 +3436,10 @@
                             <relation type="child" ref="#thomae_henning_1"/>
                         </listRelation>
                     </note>
+                    <occupation>
+                        <term>Schößer</term>
+                        <placeName ref="#wallenrod">Wallenrod</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="sturm_ludwig">
                     <persName ref="https://d-nb.info/gnd/132014297">
@@ -3448,6 +3454,11 @@
                     <death>
                         <date when="1570">1570</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#thomae_saronn"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="thomae_saronn">
                     <persName>
@@ -3458,7 +3469,8 @@
                     <sex value="w"/>
                     <note type="family">
                         <listRelation>
-                            <relation type="spouse" ref="#thomae_saronn"/>
+                            <relation type="spouse" ref="#thomas_michael"/>
+                            <relation type="parent" ref="#meissen_peter"/>
                         </listRelation>
                     </note>
                 </person>
@@ -3469,9 +3481,13 @@
                     </persName>
                     <persName type="display">Meißen, Peter</persName>
                     <sex value="m"/>
+                    <occupation>
+                        <term>Schößer</term>
+                        <placeName ref="#weida">Weida</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="thomae_michael_1">
-                    <persName>
+                    <persName ref="https://d-nb.info/gnd/128514183">
                         <forename>Michael</forename>                   
                         <surname>Thomae</surname>
                     </persName>
@@ -3491,7 +3507,13 @@
                         </listRelation>
                     </note>
                     <occupation>
-                        <term>Jurist</term> 
+                        <term>Consulent</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Erbherr</term>
+                        <placeName ref="#troschenreuth">Troschenreuth</placeName>
+                        <placeName ref="#wiedersberg">Wiedersberg</placeName>
                     </occupation>
                 </person>
                 <person xml:id="thomae_anna">
