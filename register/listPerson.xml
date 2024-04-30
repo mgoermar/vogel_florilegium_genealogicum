@@ -3773,7 +3773,6 @@
                         <listRelation>
                             <relation type="parent" ref="#thomae_michael_2"/>
                             <relation type="parent" ref="#thomae_annamaria_3"/>
-                            <relation type="sister" ref="#thomasia_anna"/>
                             <relation type="spouse" ref="#falckner_johannfriedrich"/>
                         </listRelation>
                     </note>
