@@ -141,7 +141,7 @@
                                                     <lb/>Rath u<ex>nd </ex> Cantzler, der Consistorij Director u<ex>nd</ex> der Landschule zu <rs type="place" ref="#gera">Gera</rs> Inspector primarius g<ex>eboren</ex> 1600 20. May zu <rs type="place" ref="#lobenstein">Lobenstein</rs>
                                                     <lb/>† 1680. d<ex>en</ex> 13. Julij &#x00E6;t<ex>atis</ex> 80.
                                                     <lb/>
-                                                    <lb/><hi rendition="#et">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.<note type="footnote" resp="ho">In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben</note></hi>
+                                                    <lb/><hi rendition="#et">10 Kinder davon 4 S<ex>öhne</ex> u<ex>nd</ex> 3 T<ex>öchter</ex> jung vestorben.<note type="footnote" resp="ho">"In 32jähriger Ehe werden 10 Kinder geboren, von denen 2 Töchter und 1 Sohn überleben." (Vgl. DNB <rs ref="https://d-nb.info/gnd/124866654"></rs>)</note></hi>
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
@@ -206,14 +206,14 @@
                                                 </cell>
                                                 <cell>
                                                     <pb facs="rep_6_16-a_0919.jpg" n="455r"/>
-                                                    H<ex>err</ex> <rs type="person" ref="#thomasius_jacob">Jacob Thomasius</rs>, Eloquentiae u<ex>nd</ex> umb der Universität Leipzig u<ex>nd</ex> gelehrte Welt hochverdienter Prof<ex>essors</ex> publ<ex>icus</ex> selbiger Academiae Decemvir der <rs type="org" ref="#universitaet_leipzig_philosophische_fakultaet">Philosophisch<ex>en</ex> Fac<ex>ultät</ex></rs> Senior u<ex>nd</ex> des kleinen
-                                                    <lb/>Sachß<ex>ischer</ex> <unclear reason="illegible">Collegij Collegua</unclear> und bey der <rs type="place" ref="#leipzig_thomasschule">Schule zu S<ex>ankt</ex> Thom&#x00E6;</rs> hochverdienter Rector. g<ex>eboren</ex> 1622. 27. Aug<ex>ust</ex> † 1684. 9. Sept<ex>ember</ex> &#x00E6;t<ex>atis</ex> 62.
+                                                    H<ex>err</ex> <rs type="person" ref="#thomasius_jacob">Jacob Thomasius</rs>, Eloquentiae u<ex>nd</ex> umb der <rs type="org" ref="#universitaet_leipzig">Universität Leipzig</rs> u<ex>nd</ex> gelehrte Welt hochverdienter Prof<ex>essors</ex> publ<ex>icus</ex> selbiger Academiae Decemvir der <rs type="org" ref="#universitaet_leipzig_philosophische_fakultaet">Philosophisch<ex>en</ex> Fac<ex>ultät</ex></rs> Senior u<ex>nd</ex> des kleinen
+                                                    <lb/>Sachß<ex>ischer</ex> <unclear reason="illegible">Collegij Collegua</unclear> und bey der <rs type="org" ref="#leipzig_thomasschule">Schule zu S<ex>ankt</ex> Thom&#x00E6;</rs> hochverdienter Rector. g<ex>eboren</ex> 1622. 27. Aug<ex>ust</ex> † 1684. 9. Sept<ex>ember</ex> &#x00E6;t<ex>atis</ex> 62.
                                                     <list>
                                                         <item>
                                                             <lb/>1. 1653. 26. Sept<ex>ember</ex> J<ex>ungfrau</ex> <rs type="person" ref="#thomasius_maria"> Maria<ex>m</ex> </rs> H<ex>errn</ex> L<ex>icentitati</ex> <rs type="person" ref="#weber_jeremias">Jerem<ex>ias</ex> Weber</rs>s Archidiac<ex>oni</ex> zu <rs type="place" ref="#leipzig_nikolaikirche"> S<ex>ankt</ex> Nicol<ex>ai</ex></rs> u<ex>nd</ex> Prof<ex>essoris</ex> publ<ex>ici</ex> extraordin<ex>arii</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> T<ex>ochter</ex> g<ex>eboren</ex> 1636. 12 Jan<ex>uar</ex> † 1663. d<ex>en</ex> 20 April.
                                                         </item>
                                                         <item>
-                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H<ex>err</ex> M<ex>agister</ex> <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
+                                                            <lb/>2. 1664. 19 Sept<ex>ember</ex> Fr<ex>au</ex> <rs type="person" ref="#thomasius_mariaelisabeth">Maria Elisabeth</rs> H<ex>err</ex> M<ex>agister</ex> <rs type="person" ref="#eichhorn_georg">Joh<ex>ann</ex> Hornschuch</rs>s Graecae Linguae Prof<ex>essoris</ex> publ<ex>ici</ex>u<ex>nd</ex> Rectoris an d<ex>er</ex> <rs type="org" ref="#leipzig_nikolaischule">Schule zu S<ex>ankt</ex> Nicol<ex>ai</ex></rs> in <rs type="place" ref="#leipzig">Leipzig</rs> Wittwe H<ex>err</ex> <rs type="person" ref="#hornschuch_johann"> Georg Eichhorn</rs>s <w lemma="vornehmen">vor
                                                                 <lb/>nehmen</w> des Raths u<ex>nd</ex> Stadtrichters zu <rs type="place" ref="#leipzig">Leipzig</rs> T<ex>ochter</ex> g<ex>eboren</ex> 1638. d<ex>en</ex> 8 Febr<ex>uar</ex> † 1 . . . . .
                                                         </item>
                                                     </list>
@@ -306,7 +306,7 @@
                                                                             <rs type="person" ref="#lange_johannarahel">Johanna
                                                                             <lb/>Rahel</rs>
                                                                             <lb/>g. 1680.
-                                                                            <lb/>4. Jul[i].
+                                                                            <lb/>4. Jul<ex>i</ex>.
                                                                             <lb/><space dim="vertical"/>
                                                                             <lb/>H<ex>err</ex> D<ex>octor</ex> <rs type="person" ref="#lange_gottfried">Gottfr<ex>ied</ex> 
                                                                             <lb/>Lange</rs> Königl<ex>ich</ex>
