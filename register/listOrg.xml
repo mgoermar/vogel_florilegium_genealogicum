@@ -67,6 +67,18 @@
                 <org xml:id="universitaet_halle">
                     <orgName ref="https://d-nb.info/gnd/1048495779">Universität Halle (Saale)</orgName>
                 </org>
+                <org xml:id="universitaet_wittenberg">
+                    <orgName ref="https://d-nb.info/gnd/18994-7">Universität Wittenberg</orgName>
+                </org>
+                <org xml:id="universitaet_leipzig">
+                    <orgName ref="https://d-nb.info/gnd/2024343-1">Universität Leipzig</orgName>
+                </org>
+                <org xml:id="leipzig_thomasschule">
+                    <orgName ref="https://d-nb.info/gnd/2089748-0">Leipzig, Thomasschule</orgName>
+                </org>
+                <org xml:id="leipzig_nikolaischule">
+                    <orgName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</orgName>
+                </org>
             </listOrg>
         </body>
     </text>
