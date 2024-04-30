@@ -3507,6 +3507,9 @@
                         </listRelation>
                     </note>
                     <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
                         <term>Consulent</term>
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </occupation>
@@ -3515,6 +3518,14 @@
                         <placeName ref="#troschenreuth">Troschenreuth</placeName>
                         <placeName ref="#wiedersberg">Wiedersberg</placeName>
                     </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1618-06-15">15. Juni 1618</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
                 </person>
                 <person xml:id="thomae_anna">
                     <persName>
@@ -3523,15 +3534,29 @@
                     </persName>
                     <persName type="display">Thomae, Anna</persName>
                     <sex value="w"/>
+                    <birth>
+                        <date when="1597">1597</date>
+                    </birth>
+                    <death>
+                        <date when="1633">1633</date>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#schultes_jacob"/>
                             <relation type="spouse" ref="#thomae_michael_1"/>
                         </listRelation>
                     </note>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1618-06-15">15. Juni 1618</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
                 </person>
                 <person xml:id="schultes_jacob">
-                    <persName ref="https://www.deutsche-biographie.de/sfz26743.html#adbcontent">
+                    <persName ref="https://d-nb.info/gnd/122435893">
                         <forename>Jacob</forename>
                         <surname>Schultes</surname>
                     </persName>
@@ -3560,13 +3585,14 @@
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_annamaria_3"/>
+                            <relation type="spouse" ref="#thomae_catharina"/>
                         </listRelation>
                     </note>
                     <listEvent>
                         <event>
                             <desc>
                                 <eventName>Hochzeit</eventName>
-                                <date when="1646-09-08">08. September 1646</date>
+                                <date when="1646-09-05">05. September 1646</date>
                             </desc>                          
                         </event>
                         <event>
@@ -3586,7 +3612,7 @@
                     </occupation>
                 </person>
                 <person xml:id="thomae_annamaria_3">
-                    <persName>
+                    <persName ref="https://d-nb.info/gnd/121843882">
                         <forename>Anna Maria</forename>
                         <surname type="birthName">Teuring</surname>
                     </persName>
@@ -3600,12 +3626,13 @@
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#teuring_samuel"/>
                     </listRelation>
                     <listEvent>
                         <event>
                             <desc>
                                 <eventName>Hochzeit</eventName>
-                                <date when="1646-09-08">08. September 1646</date>
+                                <date when="1646-09-05">05. September 1646</date>
                             </desc>                          
                         </event>
                     </listEvent>
@@ -3641,13 +3668,25 @@
                         <event>
                             <desc>
                                 <eventName>Hochzeit</eventName>
-                                <date when="1665-08-14">14. August 1665</date>
+                                <date when="1650-11-10">10. November 1650</date>
                             </desc>                          
                         </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1657-11-24">24. November 1657</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1665-08-14">14. August 1665</date>
+                            </desc>                          
+                        </event>                        
                     </listEvent>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#mueller_johann"/>
+                            <relation type="parent" ref="#kramer_martinwiefel"/>
                             <relation type="spouse" ref="#thomae_michael_2"/>
                         </listRelation>                        
                     </note>
@@ -3669,6 +3708,20 @@
                         <term>Händler</term> 
                         <placeName ref="#leipzig">Leipzig</placeName>
                     </occupation>
+                    <listEvent>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1644-05-06">06. Mai 1644</date>
+                            </desc>                          
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
+                                <date when="1657-11-24">24. November 1657</date>
+                            </desc>                          
+                        </event>
+                    </listEvent>
                 </person>
                 <person xml:id="kramer_martinwiefel">
                     <persName>
@@ -3706,7 +3759,7 @@
                     <persName type="display">Thomasia, Anna Susanna</persName>
                     <sex value="w"/>
                     <birth>
-                        <date when="1647-07-02">2. Juli 1647</date>
+                        <date when="1647-06-02">2. Juni 1647</date>
                     </birth>
                     <listEvent>
                         <event>
