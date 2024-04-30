@@ -333,8 +333,11 @@
                 <place xml:id="elbing">
                     <placeName ref="https://d-nb.info/gnd/4014177-9">Elbing</placeName>
                 </place>
-                <place>
+                <place xml:id="frankfurt_oder">
                     <placeName ref="https://d-nb.info/gnd/4018122-4">Frankfurt (Oder)</placeName>
+                </place>
+                <place xml:id="themar">
+                    <placeName ref="https://d-nb.info/gnd/4365202-5">Themar</placeName>
                 </place>
             </listPlace>
         </body>
