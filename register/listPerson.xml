@@ -3422,12 +3422,8 @@
                     </persName>
                     <persName type="display">Thomae, Michael</persName>
                     <sex value="m"/>
-                    <birth>
-                        <date when="1587">1587</date>
-                    </birth>
-                    <death>
-                        <date when="1631">1631</date>
-                    </death>
+
+
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_saronn"/>
