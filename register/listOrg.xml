@@ -79,6 +79,12 @@
                 <org xml:id="leipzig_nikolaischule">
                     <orgName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</orgName>
                 </org>
+                <org xml:id="universitaet_altdorf">
+                    <orgName ref="https://d-nb.info/gnd/2113335-9">Universität Altdorf</orgName>
+                </org>
+                <org xml:id="universitaet_jena">
+                    <orgName ref="https://d-nb.info/gnd/2174952-8">Universität zu Jena</orgName>
+                </org>
             </listOrg>
         </body>
     </text>
