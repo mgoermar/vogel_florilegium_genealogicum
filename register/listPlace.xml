@@ -43,12 +43,6 @@
                         <place xml:id="leipzig_thomaskirche">
                             <placeName ref="https://www.geonames.org/11822535/leipzig-thomaskirche.html">Leipzig, Thomaskirche</placeName>
                         </place>
-                        <place xml:id="leipzig_thomasschule">
-                            <placeName ref="https://d-nb.info/gnd/2089748-0">Leipzig, Thomasschule</placeName>
-                        </place>
-                        <place xml:id="leipzig_nikolaischule">
-                            <placeName ref="https://d-nb.info/gnd/5056504-7">Leipzig, Nikolaischule</placeName>
-                        </place>
                         <place xml:id="leipzig_johanniskirche">
                             <placeName ref="https://d-nb.info/gnd/7555101-9">Leipzig, Johanniskirche</placeName>
                         </place>
@@ -311,6 +305,36 @@
                 </place>
                 <place xml:id="mildenfurth">
                     <placeName ref="https://d-nb.info/gnd/4281503-4">Mildenfurth</placeName>
+                </place>
+                <place xml:id="wolfenbuettel">
+                    <placeName ref="https://d-nb.info/gnd/4066832-0">Wolfenbüttel</placeName>
+                </place>
+                <place xml:id="koenigsberg">
+                    <placeName ref="https://d-nb.info/gnd/4031541-1">Königsberg</placeName>
+                </place>
+                <place xml:id="berlin">
+                    <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
+                </place>
+                <place xml:id="leubsdorf">
+                    <placeName ref="https://d-nb.info/gnd/4605273-2">Leubsdorf</placeName>
+                </place>
+                <place xml:id="weissenfels">
+                    <placeName ref="https://d-nb.info/gnd/4065247-6">Weißenfels</placeName>
+                </place>
+                <place xml:id="otterndorf">
+                    <placeName ref="https://d-nb.info/gnd/4044167-2">Otterndorf</placeName>
+                </place>
+                <place xml:id="kiel">
+                    <placeName ref="https://d-nb.info/gnd/4030481-4">Kiel</placeName>
+                </place>
+                <place xml:id="padua">
+                    <placeName ref="https://d-nb.info/gnd/4044295-0">Padua</placeName>
+                </place>
+                <place xml:id="elbing">
+                    <placeName ref="https://d-nb.info/gnd/4014177-9">Elbing</placeName>
+                </place>
+                <place>
+                    <placeName ref="https://d-nb.info/gnd/4018122-4">Frankfurt (Oder)</placeName>
                 </place>
             </listPlace>
         </body>
