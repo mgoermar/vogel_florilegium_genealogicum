@@ -3450,10 +3450,22 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1559">1559</date>
+                        <placeName ref="#weimar_herzogtum">Weimar</placeName>
                     </birth>
                     <death>
                         <date when="1570">1570</date>
                     </death>
+                    <education>
+                        <placeName ref="#jena">Jena</placeName>
+                        <placeName ref="#padua">Padua</placeName>
+                    </education>
+                    <occupation>
+                        <term>Mediziner</term>
+                    </occupation>
+                    <occupation>
+                        <term>Professor für Medizin</term>
+                        <placeName ref="#jena">Jena</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomae_saronn"/>
@@ -3469,6 +3481,7 @@
                     <sex value="w"/>
                     <note type="family">
                         <listRelation>
+                            <relation type="spouse" ref="#sturm_ludwig"/>
                             <relation type="spouse" ref="#thomas_michael"/>
                             <relation type="parent" ref="#meissen_peter"/>
                         </listRelation>
@@ -3495,10 +3508,12 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1587">1587</date>
+                        <placeName ref="#mildenfurth">Mildenfurth</placeName>
                     </birth>
                     <death>
                         <date when="1633">1633</date>
                         <note type="footnote" resp="ho">*bei DNB, 1631</note>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -3506,6 +3521,9 @@
                             <relation type="spouse" ref="#thomae_anna"/>
                         </listRelation>
                     </note>
+                    <education>
+                        <placeName ref="#basel">Basel</placeName>
+                    </education>
                     <occupation>
                         <term>Jurist</term>
                     </occupation>
@@ -3564,10 +3582,21 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1571">1571</date>
+                        <placeName ref="#elbing">Elbing</placeName>
                     </birth>
                     <death>
                         <date when="1629">1629</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <education>
+                        <placeName ref="#jena">Jena</placeName>
+                    </education>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Diplomat</term>
+                    </occupation>
                 </person>
                 <person xml:id="thomae_michael_2">
                     <persName ref="https://d-nb.info/gnd/121718190">
@@ -3578,9 +3607,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1619-03-22">22. März 1619</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1689-07-02">2. Juli 1689</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -3786,15 +3817,27 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1642">1642</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1703">1703</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomasia_annasusanna"/>
                         </listRelation>
                     </note>
+                    <education>
+                        <placeName ref="#frankfurt_oder">Frankfurt (Oder)</placeName>
+                    </education>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Bürgermeister</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="thomasin_anna">
                     <persName ref="https://d-nb.info/gnd/124866654">
@@ -3807,7 +3850,7 @@
                         <date when="1620-08-31">31. August 1620</date>
                     </birth>
                     <death>
-                        <date when="1669-07-30">30- Juli 1669</date>
+                        <date when="1669-07-30">30. Juli 1669</date>
                     </death>
                     <listEvent>
                         <event>
@@ -3820,7 +3863,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomae_michael_1"/>
-                            <relation type="brother" ref="#thomae_michael_2"/>
+                            <relation type="parent" ref="#thomae_anna"/>
                             <relation type="spouse" ref="#alberti_johann"/>
                         </listRelation>
                     </note>
@@ -3838,6 +3881,14 @@
                     <death>
                         <date when="1680">1680</date>
                     </death>
+                    <occupation>
+                        <term>Erbherr</term>
+                        <placeName ref="#wiedersberg">Wiedersberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Direktor des Konsistoriums und Landschulinspektor</term>
+                        <placeName ref="#gera">Gera</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomasin_anna"/>
@@ -3853,7 +3904,7 @@
                     </listEvent>
                 </person>
                 <person xml:id="strauch_anna">
-                    <persName ref="https://d-nb.info/gnd/124866654">
+                    <persName>
                         <forename>Anna</forename>
                         <surname type="birthName">Alberti</surname>
                     </persName>
@@ -3894,6 +3945,19 @@
                     <death>
                         <date when="1674-05-18">18. Mai 1674</date>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <term>Rektor</term>
+                        <placeName ref="#wittenberg">Wittenberg</placeName>
+                        <orgName ref="#universitaet_wittenberg">Universität Wittenberg</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Gesandter</term>
+                        <placeName ref="#regensburg">Regensburg</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#strauch_anna"/>
@@ -3923,6 +3987,10 @@
                     </death>
                     <occupation>
                         <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Advokat</term>
+                        <placeName ref="#gera">Gera</placeName>
                     </occupation>
                     <note type="family">
                         <listRelation>
@@ -3998,9 +4066,9 @@
                     </persName>
                     <persName type="display">Alberti, Johann Georg</persName>
                     <sex value="m"/>
-                    <birth>
-                        <date when="1653"></date>
-                    </birth>
+                    <death>
+                        <date when="1653">1653</date>
+                    </death>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#alberti_johann"/>
@@ -4044,20 +4112,30 @@
                         </listRelation> 
                     </note>
                     <occupation>
+                        <term>Konrektor</term>
+                        <date from="1650" to="1653">1650-1653</date>
+                        <orgName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date when="1669">1669</date>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
+                    <occupation>
                         <term>Rektor</term>
                         <date from="1670" to="1676">1670-1676</date>
-                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                        <orgName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</orgName>
                     </occupation>
                     <occupation>
                         <term>Rektor</term>
                         <date from="1676" to="1684">1676-1684</date>
-                        <placeName ref="#leipzig_thomasschule">Leipzig, Thomasschule</placeName>
+                        <orgName ref="#leipzig_thomasschule">Leipzig, Thomasschule</orgName>
                     </occupation>
                         <listEvent>
                             <event>
                                  <desc>
                                     <eventName>Hochzeit</eventName>
-                                    <date when="1653">1653</date>
+                                    <date when="1653-09-26">26. September 1653</date>
                                 </desc>
                             </event>
                             <event>
@@ -4087,6 +4165,14 @@
                             <relation type="spouse" ref="#thomasius_jacob"/>
                         </listRelation> 
                     </note>
+                    <listEvent>
+                            <event>
+                                 <desc>
+                                    <eventName>Hochzeit</eventName>
+                                    <date when="1653-09-26">26. September 1653</date>
+                                </desc>
+                            </event>
+                    </listEvent>
                 </person>
                 <person xml:id="weber_jeremias">
                     <persName ref="https://d-nb.info/gnd/122351401">
@@ -4101,6 +4187,21 @@
                     <death>
                         <date when="1643">1643</date>
                     </death>
+                    <occupation>
+                        <term>Evangelisch-lutherischer Theologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Liederdichter</term>
+                    </occupation>
+                    <occupation>
+                        <term>Archidiakon</term>
+                        <date when="1639">1639</date>
+                        <placeName ref="#leipzig_nikolaikirche">Leipzig, Nikolaikirche</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
                 </person>
                 <person xml:id="thomasius_mariaelisabeth">
                     <persName ref="https://d-nb.info/gnd/140179089">
@@ -4119,6 +4220,12 @@
                         <event>
                             <desc>
                                 <eventName>Hochzeit</eventName>
+                                <date when="1660">1660</date>
+                            </desc>
+                        </event>
+                        <event>
+                            <desc>
+                                <eventName>Hochzeit</eventName>
                                 <date when="1664-09-19">19. September 1664</date>
                             </desc>
                         </event>
@@ -4126,6 +4233,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#eichhorn_georg"/>
+                            <relation type="spouse" ref="#hornschuch_johann"/>
                             <relation type="spouse" ref="#thomasius_jacob"/>
                         </listRelation>
                     </note>
@@ -4143,6 +4251,18 @@
                     <death>
                         <date when="1650">1650</date>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Stadtrichter</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#thomasius_mariaelisabeth"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="hornschuch_johann">
                     <persName ref="https://d-nb.info/gnd/102516901">
@@ -4158,9 +4278,22 @@
                         <date when="1663">1663</date>
                     </death>
                     <occupation>
+                        <term>Philologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Philosoph</term>
+                    </occupation>
+                    <occupation>
+                        <term>Pädagoge</term>
+                    </occupation>
+                    <occupation>
                         <term>Rektor</term>
                         <date from="1638" to="1663">1638-1663</date>
-                        <placeName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</placeName>
+                        <orgName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
                     </occupation>
                     <note type="family">
                         <listRelation>
@@ -4189,6 +4322,15 @@
                     <death>
                         <date when="1728-09-24">24. September 1728</date>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Philosoph</term>
+                    </occupation>
+                    <occupation>
+                        <term>Staats- und Rechtswissenschaftler</term>
+                    </occupation>
                     <occupation>
                         <term>Direktor</term>
                         <date from="1710" to="1728">1710-1728</date>
@@ -4219,6 +4361,7 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1655">1655</date>
+                        <placeName ref="#wolfenbuettel">Wolfenbüttel</placeName>
                     </birth>
                     <death>
                         <date when="1739">1739</date>
@@ -4247,10 +4390,22 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1614">1614</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1662">1662</date>
+                        <placeName ref="#wolfenbuettel">Wolfenbüttel</placeName>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Diplomat</term>
+                    </occupation>
+                    <occupation>
+                        <term>Hofrat</term>
+                        <placeName ref="#wolfenbuettel">Wolfenbüttel</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="thomasius_christianpolycarpus1">
                     <persName>
@@ -4346,10 +4501,19 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1660-03-24">24. März 1660</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1746">1746</date>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
                     </death>
+                    <occupation>
+                        <term>Mediziner</term>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Polyhistor</term>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomasius_jacob"/>
@@ -4357,20 +4521,6 @@
                             <relation type="spouse" ref="#thomasius_clarahelena"/>
                         </listRelation>
                     </note>
-                </person>
-                <person xml:id="volckamer_johanngeorg">
-                    <persName ref="https://d-nb.info/gnd/100865208">
-                        <forename>Johann Georg</forename>
-                        <surname>Volckamer</surname>
-                    </persName>
-                    <persName type="display">Volckamer, Johann Georg</persName>
-                    <sex value="m"/>
-                    <birth>
-                        <date when="1616">1616</date>
-                    </birth>
-                    <death>
-                        <date when="1693">1693</date>
-                    </death>
                 </person>
                 <person xml:id="thomasius_clarahelena">
                     <persName>
@@ -4385,6 +4535,28 @@
                             <relation type="spouse" ref="#thomasius_gottfried"/>
                         </listRelation>
                     </note>
+                </person>
+                <person xml:id="volckamer_johanngeorg">
+                    <persName ref="https://d-nb.info/gnd/100865208">
+                        <forename>Johann Georg</forename>
+                        <surname>Volckamer</surname>
+                    </persName>
+                    <persName type="display">Volckamer, Johann Georg</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1616">1616</date>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </birth>
+                    <death>
+                        <date when="1693">1693</date>
+                        <placeName ref="#nuernberg">Nürnberg</placeName>
+                    </death>
+                    <occupation>
+                        <term>Mediziner</term>
+                    </occupation>
+                    <occupation>
+                        <term>Botaniker</term>
+                    </occupation>
                 </person>
                 <person xml:id="feller_johanna">
                     <persName ref="http://viaf.org/viaf/99145601971301321861">
@@ -4416,18 +4588,28 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1638">1638</date>
+                        <placeName ref="#zwickau">Zwickau</placeName>
                     </birth>
                     <death>
                         <date when="1691">1691</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#feller_johanna"/>
                         </listRelation>
                     </note>
+                    <occupation>
+                        <term>Professor</term>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Gymnasiallehrer</term>
+                        <orgName ref="#leipzig_nikolaischule">Leipzig, Nikolaischule</orgName>
+                    </occupation>
                 </person>
                 <person xml:id="feller_jacobfriedrich">
-                    <persName ref="https://des.genealogy.net/search/show/15585669">
+                    <persName ref="https://des.genealogy.net/search/show/15585669"><!--Kartei Leipziger Familien-->
                         <forename>Jacob Friedrich</forename>
                         <surname>Feller</surname>
                     </persName>
@@ -4439,9 +4621,15 @@
                     <death>
                         <date when="1680-10-21">21. Oktober 1680</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#feller_joachim"/>
+                            <relation type="parent" ref="#feller_johanna"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="lange_johannarahel">
-                    <persName ref="https://des.genealogy.net/search/show/15585681">
+                    <persName ref="https://des.genealogy.net/search/show/15585681"><!--Kartei Leipziger Familien-->
                         <forename>Johanna Rahel</forename>
                         <surname type="birthName">Feller</surname>
                     </persName>
@@ -4469,12 +4657,29 @@
                     </birth>
                     <death>
                         <date when="1748">1748</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#lange_johannarahel"/>
                         </listRelation>
                     </note>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Philosoph</term>
+                    </occupation>
+                    <occupation>
+                        <term>Theologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Hofrat</term>
+                    </occupation>
+                    <occupation>
+                        <term>Bürgermeister</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
                 </person>
                 <person xml:id="lange_johanngottfried">
                     <persName>
@@ -4550,7 +4755,7 @@
                     </note>
                 </person>
                 <person xml:id="feller_johannfriedrich">
-                    <persName ref="https://des.genealogy.net/search/show/15585670">
+                    <persName ref="https://des.genealogy.net/search/show/15585670"><!--Kartei Leipziger Familien-->
                         <forename>Johannes</forename>
                         <surname>Feller</surname>
                     </persName>
@@ -4570,7 +4775,7 @@
                     </note>
                 </person>
                 <person xml:id="petermann_sabinaelisabeth">
-                    <persName ref="https://des.genealogy.net/search/show/15585678">
+                    <persName ref="https://des.genealogy.net/search/show/15585678"><!--Kartei Leipziger Familien-->
                         <forename>Sabina Elisabeth</forename>
                         <surname type="birthName">Feller</surname>
                     </persName>
@@ -4608,6 +4813,10 @@
                     <death>
                         <date when="1724">1724</date>
                     </death>
+                    <occupation>
+                        <term>Mediziner</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#petermann_sabinaelisabeth"/>
@@ -4631,13 +4840,15 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1665-07-01">1. Juli 1665</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1684-02-06">6. Februar 1684</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
                             <relation type="parent" ref="#thomasius_jacob"/>
                             <relation type="spouse" ref="#rechenberg_adam"/>
                         </listRelation>
@@ -4660,9 +4871,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1657-07-11">11. Juli 1657</date>
+                        <placeName ref="#koenigsberg">Königsberg</placeName>
                     </birth>
                     <death>
                         <date when="1713-02-25">25. Februar 1713</date>
+                        <placeName ref="#berlin">Berlin</placeName>
                     </death>
                     <occupation>
                         <term>Friedrich III., Kurfürst von Brandenburg</term> 
@@ -4684,10 +4897,28 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1642">1642</date>
+                        <placeName ref="#leubsdorf">Leubsdorf</placeName>
                     </birth>
                     <death>
                         <date when="1721">1721</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <occupation>
+                        <term>Evangelischer Theologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Philologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Rektor</term>
+                        <date when="1681">1681</date>
+                        <date when="1689">1689</date>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
                     <listEvent>
                         <event>
                             <desc>
@@ -4696,6 +4927,11 @@
                             </desc>                          
                         </event>
                     </listEvent>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#rechenberg_mariaelisabeth"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="rechenberg_adamfriedrich">
                     <persName>
@@ -4710,11 +4946,17 @@
                     <death>
                         <date when="1684-12-15">15. Februar 1684</date>
                     </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#rechenberg_mariaelisabeth"/>
+                            <relation type="parent" ref="#rechenberg_adam"/>
+                        </listRelation>
+                    </note>
                 </person>
                 <person xml:id="thomasius_dorothearegina">
                     <persName>
                         <forename>Dorothea Regina</forename>
-                        <surname></surname>
+                        <surname>Thomasius</surname>
                     </persName>
                     <persName type="display">Thomasius, Dorothea Regina</persName>
                     <sex value="w"/>
@@ -4786,10 +5028,19 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1663">1663</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1693">1693</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <occupation>
+                        <term>Evangelisch-lutherischer Theologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Pfarrer</term>
+                        <placeName ref="#leipzig_johanniskirche">Leipzig, Johanniskirche</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#wagner_dorotheasophia"/>
@@ -4839,7 +5090,7 @@
                     </death>
                     <note type="family">
                         <listRelation>
-                            <relation type="parent" ref="#thomasius_mariaelisabeth"></relation>
+                            <relation type="parent" ref="#thomasius_mariaelisabeth"/>
                             <relation type="parent" ref="#thomasius_jacob"/>
                         </listRelation>
                     </note>
@@ -4853,10 +5104,21 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1674-01-29">29. Januar 1674</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1739-02-28">28. Februar 1739</date>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Consulent</term>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Liederdichter</term>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomasius_mariaelisabeth"/>
@@ -4874,7 +5136,7 @@
                     </listEvent>
                 </person>
                 <person xml:id="thomasius_elisabeth">
-                    <persName ref="https://des.genealogy.net/search/show/15175402">
+                    <persName ref="https://des.genealogy.net/search/show/15175402"><!--Kartei Leipziger Familien-->
                         <forename>Elisabeth</forename>
                         <surname>Thomasius</surname>
                     </persName>
@@ -4889,6 +5151,7 @@
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#thomasius_michael"/>
+                            <relation type="parent" ref="#haupt_george"/>
                         </listRelation>
                     </note>
                 </person>
@@ -4901,10 +5164,23 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1709-01-19">19. Januar 1709</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1775">1775</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Advokat</term>
+                        <placeName ref="#dresden">Dresden</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Hochschullehrer</term>
+                        <orgName ref="#universitaet_leipzig_juristische_fakultaet">Universität Leipzig, Juristische Fakultät</orgName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomasius_michael"/>
@@ -4913,7 +5189,7 @@
                     </note>
                 </person>
                 <person xml:id="gauditz_sophiaelisabeth">
-                    <persName ref="https://des.genealogy.net/search/show/14491063">
+                    <persName ref="https://des.genealogy.net/search/show/14491063"><!--Kartei Leipziger Familien-->
                         <forename>Sophia Elisabeth</forename>
                         <surname type="birthName">Thomasius</surname>
                     </persName>
@@ -4947,9 +5223,11 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1694">1694</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1745">1745</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </death>
                     <note type="family">
                         <listRelation>
@@ -4970,7 +5248,7 @@
                     </occupation>
                 </person>
                 <person xml:id="thomasius_clararegina">
-                    <persName ref="https://des.genealogy.net/search/show/15175405">
+                    <persName ref="https://des.genealogy.net/search/show/15175405"><!--Kartei Leipziger Familien-->
                         <forename>Clara Regina</forename>
                         <surname>Thomasius</surname>
                     </persName>
@@ -4998,10 +5276,18 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1703-01-06">6. Januar 1703</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1758">1758</date>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Hochschullehrer</term>
+                        <orgName ref="#universitaet_leipzig_juristische_fakultaet">Universität Leipzig, Juristische Fakultät</orgName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="parent" ref="#thomasius_michael"/>
@@ -5018,6 +5304,7 @@
                     <sex value="w"/>
                     <birth>
                         <date when="1675-09-02">2. September 1675</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
                     </birth>
                     <death>
                         <date when="1695-02-14">14. Februar1695</date>
@@ -5047,10 +5334,30 @@
                     <sex value="m"/>
                     <birth>
                         <date when="1660">1660</date>
+                        <placeName ref="#weissenfels">Weißenfels</placeName>
                     </birth>
                     <death>
                         <date when="1731">1731</date>
+                        <placeName ref="#otterndorf">Otterndorf</placeName>
                     </death>
+                    <occupation>
+                        <term>Jurist</term>
+                    </occupation>
+                    <occupation>
+                        <term>Evangelischer Theologe</term>
+                    </occupation>
+                    <occupation>
+                        <term>Gymnasialrektor</term>
+                        <placeName ref="#weissenfels">Weißenfels</placeName>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <orgName ref="#universitaet_leipzig">Universität Leipzig</orgName>
+                    </occupation>
+                    <occupation>
+                        <term>Professor</term>
+                        <placeName ref="#kiel">Kiel</placeName>
+                    </occupation>
                     <note type="family">
                         <listRelation>
                             <relation type="spouse" ref="#weidling_sophiamagdalena"/>
@@ -5066,7 +5373,7 @@
                     </listEvent>
                 </person>
                 <person xml:id="weidling_sophiaelisabeth">
-                    <persName ref="https://des.genealogy.net/search/show/15549798">
+                    <persName ref="https://des.genealogy.net/search/show/15549798"><!--Kartei Leipziger Familien-->
                         <forename>Sophia Elisabeth</forename>
                         <surname>Weidling</surname>
                     </persName>
