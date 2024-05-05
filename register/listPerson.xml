@@ -5691,6 +5691,255 @@
                         </listRelation>
                     </note>
                 </person>
+                <person xml:id="förster_margaretha">
+                    <persName ref="https://d-nb.info/gnd/1218545399">
+                        <forename>Margaretha</forename>
+                        <surname type="birthName">Wagner</surname>
+                    </persName>
+                    <persName type="display">Förster, Margaretha geb. Wagner</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1630-11-18">18. November 1630</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_martin"/>
+                            <relation type="parent" ref="#wagner_margarethajustina"/>
+                            <relation type="spouse" ref="#förster_friedrich"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="förster_friedrich">
+                    <persName ref="https://d-nb.info/gnd/13169555X">
+                        <forename>Friedrich</forename>
+                        <surname>Förster</surname>
+                    </persName>
+                    <persName type="display">Förster, Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1619-02-02">2. Februar 1619</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </birth>
+                    <death>
+                        <date when="1676-05-12">12. Mai 1676</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#förster_margaretha"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="förster_friedrichgünther">
+                    <persName ref="https://d-nb.info/gnd/143563521">
+                        <forename>Friedrich Günther</forename>
+                        <surname>Förster</surname>
+                    </persName>
+                    <persName type="display">Förster, Friedrich Günther</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1657-08-10">10. August 1657</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </birth>
+                    <death>
+                        <date when="1720">1720</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#förster_friedrich"/>
+                            <relation type="parent" ref="#förster_margaretha"/>
+                            <relation type="spouse" ref="#förster_mariasibylla"/>
+                            <relation type="spouse" ref="#förster_elisabethsophia"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="kuntsch_margarethasusanna">
+                    <persName ref="https://d-nb.info/gnd/118873709">
+                        <forename>Margaretha Susanna</forename>
+                        <surname type="birthName">Förster</surname>
+                    </persName>
+                    <persName type="display">Kuntsch, Margaretha geb. Förster</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1657-09-07">7. September 1657</date>
+                        <placeName ref="allstedt">Allstedt</placeName>
+                    </birth>
+                    <death>
+                        <date when="1717-03-27">27. März 1717</date>
+                        <placeName ref="altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#förster_friedrich"/>
+                            <relation type="parent" ref="förster_margaretha"/>
+                            <relation type="spouse" ref="kuntsch_christoph"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="kuntsch_christoph">
+                    <persName ref="https://d-nb.info/gnd/104228814">
+                        <forename>Christoph</forename>
+                        <surname>Kuntsch</surname>
+                    </persName>
+                    <persName type="display">Kuntsch, Christoph</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1640">1640</date>
+                        <placeName ref="#eisleben">Eisleben</placeName>
+                    </birth>
+                    <death>
+                        <date when="1724">1724</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#kuntsch_margarethasusanna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="kuntsch_christophfriedrich">
+                    <persName ref="https://d-nb.info/gnd/1048087107">
+                        <forename>Christoph Friedrich</forename>
+                        <surname>Kuntsch</surname>
+                    </persName>
+                    <persName type="display">Kuntsch, Christoph Friedrich</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1677-07-18">18. Juli 1677</date>
+                    </birth>
+                    <death>
+                        <date when="1685-06-08">8. Juni 1685</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#kuntsch_margarethasusanna"/>
+                            <relation type="parent" ref="#kuntsch_christoph"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="kuntsch_dorotheafriderica">
+                    <persName ref="https://d-nb.info/gnd/1060778564">
+                        <forename>Dorothea Friderica</forename>
+                        <surname>Kuntsch</surname>
+                    </persName>
+                    <persName type="display">Kuntsch, Dorothea Friderica</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1680-10-22">22. Oktober 1680</date>
+                    </birth>
+                    <death>
+                        <date when="1690-01-31">31. Januar 1690</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#kuntsch_margarethasusanna"/>
+                            <relation type="parent" ref="#kuntsch_christoph"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_christian2">
+                    <persName>
+                        <forename>Christian</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Christian</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1637-04-30">30. April 1637</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#kitzens_magdalena"/>
+                            <relation type="spouse" ref="#stöckert_maria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_johannes4">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Johannes</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1615-10-22">22. Oktober 1615</date>
+                    </birth>
+                    <death>
+                        <date when="1664-08-14">14. August 1664</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_christian2"/>
+                            <relation type="parent" ref="#kitzens_magdalena"/>
+                            <relation type="spouse" ref="#rothens_barbara"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="kripplebin_magdalena">
+                    <persName>
+                        <forename>Magdalena</forename>
+                        <surname type="birthName">Wagner</surname>
+                    </persName>
+                    <persName type="display">Kripplebin, Magdalena geb. Wagner</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1623-09-08">8. September 1623</date>
+                    </birth>
+                    <death>
+                        <date when="1654-05-19">19. Mai 1654</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_christian2"/>
+                            <relation type="parent" ref="#kitzens_magdalena"/>
+                            <relation type="spouse" ref="#kripplebin_sebastian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="müller_maria">
+                    <persName>
+                        <forename>Maria</forename>
+                        <surname type="birthName">Kripplebin</surname>
+                    </persName>
+                    <persName type="display">Müller, Maria geb. Kripplebin</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1645-04-10">10. April 1645</date>
+                    </birth>
+                    <death>
+                        <date when="1672-07-31">31. Juli 1672</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#kripplebin_sebastian"/>
+                            <relation type="parent" ref="#kripplebin_magdalena"/>
+                            <relation type="spouse" ref="#müller_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="müller_mariabarbara">
+                    <persName>
+                        <forename>Maria Barbara</forename>
+                        <surname>Müller</surname>
+                    </persName>
+                    <persName type="display">Müller, Maria Barbara</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1672-07-20">20. Juli 1672</date>
+                    </birth>
+                    <death>
+                        <date when="1677-02-14">14. Februar 1677</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#müller_maria"/>
+                            <relation type="parent" ref="#müller_christian"/>
+                        </listRelation>
+                    </note>
+                </person>
             </listPerson>
         </body>
     </text>
