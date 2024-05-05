@@ -80,11 +80,665 @@
                 <pb facs="rep_6_16-a_1107.jpg" n="549v"/>
                 <head>Das Wagnerische Geschlecht.</head>
                 <table>
-                    <row>
+                    <row rendition="#topBraced">
                         <cell>
+                        <rs type="person">Johannes Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker von <gap quantity="8" unit="chars" reason="unleserlich"/> starb 1519
+                        </cell>
+                    </row>
+                    <row rendition="#topBraced">
+                        <cell>
+                        <rs type="person"><gap quantity="6" unit="chars" reason="unleserlich"/> Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker in der <rs type="place">Nicolstraße</rs> † 1530.
+                        <lb/>wart 1522 bürger
+                        </cell>
+                    </row>
+                    <row rendition="#topBraced">
+                        <cell>
+                        <rs type="person">Johannes Wagner</rs>
+                        <lb/>b<ex>ürger</ex> u<ex>nd</ex> becker in der 
+                        <lb/><rs type="place">grünipsgaßen</rs>
+                        <lb/>† 1545
+                        </cell>
+                        <cell>
+                        <rs type="person"><gap quantity="4" unit="chars" reason="unleserlich"/> Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker 
+                        <lb/>in der <rs type="place">Salzstraße.</rs>
+                        <lb/><gap quantity="11" unit="chars" reason="unleserlich"/>
                         </cell>
                     </row>
                 </table>
+                <pb facs="rep_6_16-a_1108.jpg" n="549b"/>
+                <table>
+                    <row>
+                        <cell>
+                        <rs type="person">Paulus Wagner</rs> <rs type="place" ref="#leipzig">Lips</rs> g<ex>eboren</ex> 15... ward 1539 bürger zu <rs type="place" ref="#leipzig">Leipzig</rs> ein becker in d<ex>er</ex> <gap quantity="4" unit="chars" reason="unleserlich"/>straße † 1576 10 Nov<ex>ember</ex> freytags vor Martins<ex>tag</ex>
+                        <lb/>1. 15... J. Priscam Fabian <gap quantity="3" unit="chars" reason="unleserlich"/>hans b<ex>ürger</ex> u<ex>nd</ex> beckers zu <rs type="place" ref="#leipzig">Leipzig</rs> T. .... † 1565. 16. feb<ex>ruar</ex>
+                        <lb/>2 1569 dom XI. p Trin. Fr<ex>au</ex> Magdalena Hauß günthers T Sebastian Ulrichs b<ex>ürger</ex> u<ex>nd</ex> <gap quantity="10" unit="chars" reason="unleserlich"/> in <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="5" unit="chars" reason="unleserlich"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                        <rs type="person">Euphemia Wagnerin</rs>
+                        <lb/> g<ex>eboren</ex> 15... † 1576 6 April
+                        <lb/> 1563 Marcus Knoche
+                        </cell>
+                        <cell>
+                        <rs type="person">Prisca Wagnerin</rs>
+                        <lb/>g<ex>eboren</ex>
+                        <lb/>erbte? 1558 als Jfr.<ex>Jungfrau</ex>
+                        </cell>
+                        <cell>
+                        <rs type="person">Catharina Wagnerin</rs>
+                        <lb/>g.<ex>eboren</ex> † 1608 3 Jan<ex>uar</ex> zu <rs type="place" ref="#magdeburg">Magdeburg</rs>
+                        <lb/>1570 30 Oct<ex>ober</ex> H<ex>errn</ex> Johann Dauth. Senior
+                        <lb/> <gap quantity="4" unit="chars" reason="unleserlich"/> in der Stadt <rs type="place" ref="#braunschweig">Braunschweig</rs> und <rs type="place" ref="#magdeburg">Mag<lb/>deburg</rs> Rath. g<ex>eboren</ex> 1544 † 1621 d<ex>en</ex> 28
+                        <lb/> Aug<ex>ust</ex> zu <rs type="place" ref="#magdeburg">Magdeburg</rs> <gap quantity="9" unit="chars" reason="unleserlich"/>
+                        <lb/>senget? mit der Tochter Magdalena
+                        <lb/>g<ex>eboren</ex> 1571. starb mit 4 wochen.
+                        </cell>
+                        <cell>
+                        <rs type="person">M. Paul Wagner</rs> g<ex>eboren</ex> 1549 10 Jan<ex>uar</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> wart 1574 Secretarius zu <rs type="place" ref="#braunschweig">Braunschweig</rs>
+                        <lb/>u<ex>nd</ex> zog nach 20 Jahren nach <rs type="place" ref="#leipzig">Leipzig</rs> 1607. 7. May wart 1608 bürger <gap quantity="1" unit="chars" reason="unleserlich"/>1608 <gap quantity="5" unit="chars" reason="unleserlich"/>
+                        <lb/> in Rath genommen, entschlieff d.<ex>en</ex> 29 dec<ex>ember</ex> 1627.
+                        <lb/>1 1577 fr<ex>au</ex> <rs type="person">Dorothea Grabauin?</rs> H<ex>err</ex> Authoris Flühwercks bürger des Raths u<ex>nd</ex> Patrici zu 
+                        <lb/> <rs type="place" ref="#braunschweig">braunschweig</rs> <gap quantity="7" unit="chars" reason="unleserlich"/> g<ex>eboren</ex>... † ... 
+                        <lb/>2 1583 Jfr<ex>Jungfrau</ex> Anna Martin Gödichs b<ex>ürger</ex> u<ex>nd</ex> beckers in <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="4" unit="chars" reason="unleserlich"/> 1594 6 feb<ex>ruar</ex> zu <rs type="place" ref="#braunschweig">braunschweig</rs>
+                        <lb/>3 1596. 17 febr.<ex>uar</ex> Jfr<ex>Jungfrau</ex> Sabina H<ex>err</ex> Francisci Zangers Secretarius zu <rs type="place" ref="#braunschweig">Braunschweig</rs> T. g. 1577
+                        <lb/>starb 1610. 27 April zu <rs type="place" ref="#leipzig">Leipzig</rs>
+
+                            <table rendition="#topBraced">
+                                <row>
+                                    <cell>
+                                    Wagnerin
+                                    <lb/>g
+                                    <lb/>† jung
+                                    </cell>
+                                    <cell>
+                                    Wagner
+                                    <lb/>g
+                                    <lb/>† jung
+                                    </cell>
+                                    <cell>
+                                    Wagner
+                                    <lb/>g
+                                    <lb/>† jung
+                                    </cell>
+                                    <cell>
+                                    II. <rs type="person">H<ex>err</ex> Paulus Wagner</rs> JUD <ex>iuris utriusque doctor</ex> u<ex>nd</ex> Practicus zu <rs type="place" ref="leipzig">Leipzig</rs> g.<ex>eboren</ex> 1584. 15 Oct<ex>ober</ex> zu <rs type="place" ref="#braunschweig">braunschweig</rs> 1596 Gg imatricul.<ex>iert</ex> † 1639 d.<ex>en</ex> 19 Nov.<ex>ember</ex> peste.
+                                    <lb/>1. 1613. 16 Nov.<ex>ember</ex> Jfr <ex>Jungfrau</ex> Catharina H<ex>err</ex> Joachim Liebens? JUD <ex>iuris utriusque doctor</ex> († <gap quantity="2" unit="chars" reason="unleserlich"/> 1613 16 Aug<ex>ust</ex>) T. g.<ex>eboren</ex> 1594 12 febr<ex>uar</ex> † 1614 31 dec<ex>ember</ex> ward 1615 7 juny bürger
+                                    <lb/>2. 1616. 8 April Jfr<ex>Jungfrau</ex> Elisabeth H.<ex>err</ex> Abraham Dresers?, des Raths u.<ex>nd</ex> handelsh.<ex>err</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> T. g<ex>eboren</ex> 1593. 8 Aug<ex>ust</ex> † 1615 9 Martius.
+                                    
+                                    <table rendition="#topBraced">
+                                        <row>
+                                            <cell>
+                                            I <rs type="person">Catharina <lb/>Wagnerin</rs>
+                                            <lb/>g.<ex>eboren</ex> 1614. 3 Sept<ex>ember</ex>
+                                            <lb/>† 1616 20 Aug.<ex>ust</ex>
+                                            </cell>
+                                            <cell>
+                                            II hr<ex>herr</ex> <rs type="person">Paulus Wagner.</rs> JUD<ex>iuris utriusque doctor</ex> des Ehrfürstl. Sachs. Oberhoffgerichts in <rs type="place" ref="#?">Rhoppenstulb</rs> war auch Juridica
+                                            <lb/>Facultatis Assessor u<ex>nd</ex> burgschreiber? zu <rs type="place" ref="#leipzig">Leipzig</rs>. g<ex>eboren</ex> 1617. d<ex>en</ex> 23 Jan.<ex>uar</ex>. † 1697. 11. April at 80 Jahr
+                                            <lb/>Eine Zeile dazwischen, unleserlich?
+                                            <lb/>1647. 1. Nov.<ex>ember</ex> Jfr <ex>Jungfrau</ex> Maria H<ex>err</ex> Sebastian schrieb, des Raths baumeister u.<ex>nd</ex> Vorsteher zu den?
+                                            <lb/>Johannis u.<ex>Georgen</ex> auch vornehm? Handelsmanns in <rs type="place" ref="#leipzig">Leipzig</rs> T. g<ex>eboren</ex> 1626. 11. Juny † 1688. 10 Martij. 
+                                            
+                                            <table rendition="#topBraced">
+                                                <row>
+                                                    <cell>
+                                                    <rs type="person">Paul Wagner</rs>
+                                                    <lb/>g<ex>eboren</ex> 1648. 19 Junij
+                                                    <lb/>† 1661. 17 Sept.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Sebastian <lb/>Wagner</rs>
+                                                    <lb/>g<ex>eboren</ex> 1649 21 May
+                                                    <lb/>† 8 Jun<ex>ij</ex> 1649.
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Christian <lb/>Friedrich<lb/>Wagner</rs>
+                                                    <lb/>g<ex>eboren</ex> 1650 d.<ex>en</ex> 24.
+                                                    <lb/>Jul<ex>i</ex>
+                                                    <lb/>† 1650 13. Aug.<ex>ust</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">H.<ex>err</ex> Gottfried Wagner</rs>
+                                                    <lb/>vornehmX des Raths u.<ex>nd</ex>
+                                                    <lb/>baumeister zu <rs type="place" ref="#leipzig">Leipzig</rs>
+                                                    <lb/>g<ex>eboren</ex> 1652 24 Julij † 17 April 1725
+                                                    <lb/>1687. 1 Nov.<ex>ember</ex> Jfr.<ex>Jungfrau</ex> Clara?
+                                                    <lb/>Catharina H.<ex>err</ex> Jo.<ex>hann</ex> Friedrich
+                                                    <lb/>Schrodters <gap quantity="8" unit="chars" reason="unleserlich"/> handels-
+                                                    <lb/>H.<ex>err</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="12" unit="chars" reason="unleserlich"/>
+                                                    <lb/>g.<ex>eboren</ex> 16 . . . 
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Christian <lb/>Amadeus? <lb/>Wagner.</rs>
+                                                    <lb/>g<ex>eboren</ex> 1654 19
+                                                    <lb/>May
+                                                    <lb/>† 1685 d.<ex>en</ex>
+                                                    <lb/>3. Sept.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Maria Elisabeth Wagnerin</rs>
+                                                    <lb/>g<ex>eboren</ex> 1655 15 Aug.<ex>ust</ex>
+                                                    <lb/>1. 1670 25 Sept.<ex>ember</ex> H.<ex>err</ex> Paul Franciscus
+                                                    <lb/>Romanus von Fruckershausen? JUd.<ex>iuris utriusque doctor</ex> Comer
+                                                    <lb/>Palat. Cas. Pandectam? P.P. Fac Jurid Assess.
+                                                    <lb/>g.<ex>eboren</ex> 16. †1675 d<ex>en</ex> 22 Martij.
+                                                    <lb/>2. 1679. H.<ex>err</ex> gerhard Nährmann
+                                                    <lb/>kaufmann? zu <rs type="place">bahlendorff</rs> bey <rs type="place" ref="#lübeck">Lübeck</rs>
+                                                    <lb/>g<ex>eboren</ex> 1655 12 Sept<ex>ember</ex> zu <rs type="place" ref="#lübeck">Lübeck</rs>
+
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                            I. Vide Prosapia
+                                                            <lb/>Romanam
+                                                            </cell>
+                                                            <cell>
+                                                            II <rs type="person">Anna <lb/>Maria <lb/>Nehrmannin</rs>
+                                                            <lb/>g<ex>eboren</ex> 1680 2 febr<ex>uar</ex>
+                                                            <lb/>† 1686 11 April.
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Paul Gerhard <lb/>Nährmann</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1681. 20 Janua.<ex>r</ex>
+                                                            <lb/>† 1685 12 Junij
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Georg heinrich <lb/>Nährmann</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1682 20 Nov.<ex>ember</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Catharina Elisabeth <lb/>Nährmannin</rs> g.<ex>eboren</ex> 1683. 24
+                                                            <lb/>Nov.<ex>ember</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Johanna Maria <lb/>Nährmannin</rs>
+                                                            <lb/>g<ex>eboren</ex> 1686. 13 Junij.
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Christina Margaretha</rs>
+                                                    <lb/>g.<ex>eboren</ex> 1656. 24 Nov<ex>ember</ex> † 1691? 13 Sept.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Christoph Wagner</rs> g.<ex>eboren</ex> 1658 11 Nov<ex>ember</ex>
+                                                    <lb/>† 1661. 22 Sept.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Sophia Dorothea</rs> g.<ex>eboren</ex> 1660
+                                                    <lb/>19 Mart † 1661. 23 Sept.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <gap quantity="3" unit="chars" reason="unleserlich"/> <rs type="person">Christian Wagner</rs>
+                                                    <lb/>Fac. Phil. Assessor <gap quantity="2" unit="chars" reason="unleserlich"/> Theol. Baccal.
+                                                    <lb/>Past. Jud. Johannus in <rs type="place" ref="#leipzig">Leipzig</rs>
+                                                    <lb/>g.<ex>eboren</ex> 1669. d.<ex>en</ex> 28 febr.<ex>uar</ex> † 1693. 28 Jul.<ex>i</ex>
+                                                    <lb/>1688. 24 Sept.<ex>ember</ex> Jfr.<ex>Jungfrau</ex> Dorothea Sophia
+                                                    <lb/>H.<ex>err</ex> Jacobi Thomasij wart <gap quantity="7" unit="chars" reason="unleserlich"/> PP.
+                                                    <lb/>Oratoria Academia Lips decemori
+                                                    <lb/>Fac Philos. Senions? Collegij min Princip.
+                                                    <lb/>Collegiati u<ex>nd</ex> d. schulen zu S Thomae Rectoris
+                                                    <lb/><gap quantity="3" unit="chars" reason="unleserlich"/>T. g<ex>eboren</ex> 1671. 1 Mart<ex>ij</ex> † 1694. Sept.<ex>ember</ex>
+                                                    
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                            <rs type="person">Paul Christian Wagner</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1692. 22 febr.<ex>uar</ex> † 1693. 22
+                                                            <lb/>februar
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">H.<ex>err</ex> gottlieb Christian <lb/>Wagner</rs> handelsm.<ex>ann</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs>
+                                                    <lb/>g<ex>eboren</ex> 1664. 17. Junij.
+                                                    <lb/>1694 26 Nov<ex>ember</ex> Jfr<ex>Jungfrau</ex> Susanna
+                                                    <lb/>dorothea H<ex>err</ex> Gottfried
+                                                    <lb/>Conrad d. b. u<ex>nd</ex> handels
+                                                    <lb/>mann zu <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="7" unit="chars" reason="unleserlich"/>
+                                                    <lb/>g.<ex>eboren</ex> 16 . . . † 1700. 7 April
+                                                    </cell>
+                                                </row>
+                                            </table>
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Elisabeth <lb/>Wagnerin</rs>
+                                            <lb/>g.<ex>eboren</ex> u<ex>nd</ex> † 1618.
+                                            <lb/>2 Januar.
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Christian <lb/>Wagner</rs>
+                                            <lb/>g<ex>eboren</ex> 1621. 6. Juni
+                                            <lb/>† 1622. 29 Jul.<ex>i</ex>
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Christoph <lb/>Wagner</rs>
+                                            <lb/>g.<ex>eboren</ex> 1619 20 
+                                            <lb/>Mart † 1639
+                                            <lb/>18 Aug<ex>ust</ex> peste.
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Christantinus?<lb/>Wagner.</rs>
+                                            <lb/>g<ex>eboren</ex> 1623. 19 May
+                                            <lb/>† 1639. 9 Nov<ex>ember</ex>
+                                            <lb/>peste.
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Christina Wagnerin</rs>
+                                            <lb/>g.<ex>eboren</ex> 1625. d<ex>en</ex> 9 April.
+                                            <lb/>† 1633. 20 Sept<ex>ember</ex>
+                                            <lb/>peste.
+                                            </cell>
+                                        </row>
+                                    </table>
+                                    </cell>
+
+                                    <cell>
+                                    <rs type="person">Johannes Wagner</rs> <gap quantity="3" unit="chars" reason="unleserlich"/>
+                                    <lb/>g.<ex>eboren</ex> 1588 d<ex>en</ex> 20 Juny. zu <rs type="place" ref="#braunschweig">braunschweig</rs>
+                                    <lb/>† 1611. d<ex>en</ex> 4 Januar zu <rs type="place" ref="#rostock">Ro-<lb/>stock</rs>. <gap quantity="2" unit="chars" reason="unleserlich"/> 1596 Gg imatricul<ex>iert</ex>
+                                    </cell>
+                                    <!-- <pb facs="rep_6_16-a_1109.jpg" n="550v"/> -->
+                                    <cell>
+                                    <rs type="person">Martin Wagner</rs> JUC<ex>iuris utriusque candidatus</ex> u.<ex>nd</ex> Practicus zu <rs type="place" ref="#altenburg">Altenburg</rs> g.<ex>eboren</ex> 1589 13 Juli zu <rs type="place" ref="#braunschweig">braunschweig</rs>
+                                    <lb/>† 1646. 12 Aug<ex>ust</ex> in <rs type="place" ref="#altenburg">Altenburg</rs>
+                                    <lb/>1627. 20 Nov.<ex>ember</ex> J. Margaretha Justina Gl. Conrad Gerings JUd<ex>iuris utriusque doctor</ex> furstl. <gap quantity="4" unit="chars" reason="unleserlich"/>
+                                    <lb/>von Hauß aus bestalten? Raths u.<ex>nd</ex> Practici zu <rs type="place" ref="#altenburg">Altenburg</rs> T. g<ex>eboren</ex> 1601 19.
+                                    <lb/>Jan.<ex>uar</ex> † 1679. d<ex>en</ex> 14 febr.<ex>uar</ex>
+                                    
+                                    <table rendition="#topBraced">
+                                        <row>
+                                            <cell>
+                                            <rs type="person">Paul beinhard? <lb/>Wagner</rs>
+                                            <lb/>g<ex>eboren</ex> 1629 28 Nov.<ex>ember</ex>
+                                            <lb/>† 1630 21. Jan<ex>uar</ex>
+                                            <lb/>zu <rs type="place" ref="#altenburg">Altenburg.</rs>
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Martin <lb/>Wagner</rs>
+                                            <lb/>g<ex>eboren</ex> 1632 21
+                                            <lb/>Sept<ex>ember</ex>
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Christian <lb/>Wagner</rs>
+                                            <lb/>g<ex>eboren</ex> u.<ex>nd</ex> † 23
+                                            <lb/>Aug<ex>ust</ex> 1640
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Anna <lb/>Elisabeth <lb/>Wagnerin</rs>
+                                            <lb/>g<ex>eboren</ex> 1628 17 Aug<ex>ust</ex>
+                                            <lb/>† 1639 im Jun.<ex>i</ex>
+                                            </cell>
+                                            <cell>
+                                            <rs type="person">Margaretha Wagnerin</rs>
+                                            <lb/>g<ex>eboren</ex> 1630. 18. Nov.<ex>ember</ex> †
+                                            <lb/>1648 14 Nov.<ex>ember</ex> H.<ex>err</ex> <rs type="person">Friedrich Förster</rs> hoch-
+                                            <lb/>furstl. Sachs.? Reut? Secretarius in <rs type="place" ref="#altenburg">Altenburg</rs>
+                                            <lb/>g.<ex>eboren</ex> 1619 2 febr<ex>uar</ex> † 1676. 12 May.
+
+                                            <table rendition="#topBraced">
+                                                <row>
+                                                    <cell>
+                                                    <rs type="person">Margaretha Susanna Försterin</rs>
+                                                    <lb/>g<ex>eboren</ex> in <rs type="place" ref="#allstädt">Allstädt</rs> 1651. 7. Sept.<ex>ember</ex>
+                                                    <lb/>1669 24 Aug.<ex>ust</ex> Gl. <rs type="person">Christoph Lüntch</rs>
+                                                    <lb/>JUD.<ex>iuris utriusque doctor</ex> Com. Pal. XXX hochfurstl. Sachs. Al
+                                                    <lb/>tenburgische hof. Advocat.
+                                                    
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                            ein todter
+                                                            <lb/>Sohn
+                                                            <lb/>g<ex>eboren</ex> 1670 22 Nov.<ex>ember</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Margaretha Elisabeth <lb/>Lüntsin?</rs> g<ex>eboren</ex> 1672 8 Oct<ex>ober</ex>
+                                                            <lb/>1692 24 May H<ex>err</ex> gottfr<ex>ied</ex>
+                                                            <lb/>Stochmann JUC<ex>iuris utriusque candidatus</ex> u<ex>nd</ex> Consulant.
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Johann <lb/>Friedrich</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1674. 7 dec<ex>ember</ex>
+                                                            <lb/>† 1675. 15 febr<ex>uar</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            todte tochter?
+                                                            <lb/>g<ex>eboren</ex> 1675 29
+                                                            <lb/>Oct.<ex>ober</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            nur? todte
+                                                            <lb/>Tochter
+                                                            <lb/>g<ex>eboren</ex> 1676. 29
+                                                            <lb/>Junij
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Christoph <lb/>friedrich</rs>
+                                                            <lb/>g<ex>eboren</ex> 1677 18 Jul.<ex>i</ex>
+                                                            <lb/>† 1685. 8. 
+                                                            <lb/>Junij
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">dorothea <lb/>Friderica</rs>
+                                                            <lb/>g<ex>eboren</ex> 1680 22 Oct<ex>ober</ex>
+                                                            <lb/>† 1690 31 Jan.<ex>uar</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            todtgeb.<ex>orener</ex>
+                                                            <lb/>Sohn
+                                                            <lb/>g<ex>eboren</ex> 1684
+                                                            <lb/>2 Mart.<ex>ij</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Johanna <lb/>?</rs>
+                                                            <lb/>g.<ex>eboren</ex> 8 May
+                                                            <lb/>† 12 May
+                                                            <lb/>1685.
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">Margaretha</rs>
+                                                            <lb/>g<ex>eboren</ex> u.<ex>nd</ex> † 1 febr<ex>uar</ex>
+                                                            <lb/>1686
+                                                            </cell>
+                                                            <cell>
+                                                            todtgeb<ex>orener</ex>
+                                                            <lb/>Sohn
+                                                            <lb/>1686. 22. 
+                                                            <lb/>Nov.<ex>ember</ex>
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">heinrich <lb/>ehrenfried?</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1688
+                                                            <lb/>1 febr<ex>uar</ex>
+                                                            <lb/>† d.<ex>en</ex> 4 dito.
+                                                            </cell>
+                                                            <cell>
+                                                            <rs type="person">gottfried zweitname?</rs>
+                                                            <lb/>g.<ex>eboren</ex> 1690. 15 Jul.<ex>i</ex>
+                                                            <lb/>† 1690. d<ex>en</ex> 6.
+                                                            <lb/>Sept.<ex>ember</ex>
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                                    
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Jo. günther <lb/>förster</rs>
+                                                    <lb/>g.<ex>eboren</ex> 1656. 22
+                                                    <lb/>Mart
+                                                    <lb/>† 1656. 4 Apr.<ex>il</ex>
+                                                    <lb/>in <rs type="place" ref="#altenburg">Altenburg</rs>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">H.<ex>err</ex> friedrich gunther förster</rs> 1 Wort? Sachß Bibliothecanus in <rs type="place" ref="#altenburg">Alten- <lb/>burg</rs> g<ex>eboren</ex> 1657. 10 Aug.<ex>ust</ex>
+                                                    <lb/>1. 1686 18 May Jf<ex>Jungfrau</ex> Maria Sibylla H<ex>err</ex> Friedrich Gottlieb? JUd.<ex>iuris utriusque doctor</ex> furstl. Sachß ordi
+                                                    <lb/>Wort? hoff Advocati burgermeist.<ex>er</ex> u<ex>nd</ex> Syndici zu <rs type="place" ref="#altenburg">Altenburg</rs> T. † 1690 16 febr<ex>uar</ex>
+                                                    <lb/>2. 1691. 17 Nov.<ex>ember</ex> Jfr.<ex>Jungfrau</ex> <rs type="person">Elisabeth Sophia</rs> H<ex>err</ex> Friedrich Wilhelm hartmanns. furstl
+                                                    <lb/>Sachß. Consistorial Actuarij zu <rs type="place" ref="#altenburg">Altenburg</rs> Tochter?
+                                                    
+                                                    <table rendition="#topBraced">
+                                                        <row>
+                                                            <cell>
+                                                            <rs type="person">Catharina <lb/>Sibylla för-<lb/>sterin.</rs> g<ex>eboren</ex> 1688
+                                                            <lb/>d<ex>en</ex> 16. April.
+                                                            </cell>
+                                                        </row>
+                                                    </table>
+                                                    
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Johann Martin <lb/>Förster</rs> g<ex>eboren</ex> 1659 8
+                                                    <lb/>feb<ex>ruar</ex> † 1659 13
+                                                    <lb/>April
+                                                    </cell>
+                                                    <cell>
+                                                    ein todtgeb.<ex>orener</ex>
+                                                    <lb/>Sohn
+                                                    <lb/>1661. 18 Nov.<ex>ember</ex>
+                                                    </cell>
+                                                    <cell>
+                                                    <rs type="person">Johann heinrich <lb/>förster</rs>
+                                                    <lb/>g.<ex>eboren</ex> u.<ex>nd</ex> † 1662. 18 Julij.
+                                                    </cell>
+                                                </row>
+                                            </table>
+
+                                            </cell>
+                                        </row>
+                                    </table>
+                                    
+                                    </cell>
+                                    <cell>
+                                    <rs type="person">Augustinus <lb/>Wagner</rs>
+                                    <lb/>g.<ex>eboren</ex> 1590 2 Aug.<ex>ust</ex>
+                                    <lb/>zu <rs type="place" ref="#leipzig">brana?, leipzig</rs>
+                                    <lb/>† 1590. 6 Sept.<ex>ember</ex>
+                                    </cell>
+                                    <cell>
+                                    <rs type="person">Caspar Wagner</rs>
+                                    <lb/>g
+                                    <lb/>ward? 1614 27 May
+                                    <lb/>auff Schneid.hander?
+                                    <lb/>gethan.? 
+                                    </cell>
+                                </row>
+                            </table>
+
+                        </cell>
+                        <!-- <pb facs="rep_6_16-a_1109.jpg" n="550v"/> -->
+                        <cell>
+                        <rs type="person">Johannes Wagner.</rs>
+                        <lb/>ist <gap quantity="2" unit="chars" reason="unleserlich"/> 1582 19 Mart zu Nitin?
+                        <lb/>von Bernhard Machters Comte
+                        <lb/>Palat <gap quantity="2" unit="chars" reason="unleserlich"/> u<ex>nd</ex> JUd. <ex>iuris utriusque doctor</ex> land eines vor
+                        <lb/>handmn. Progam? ist ? 
+                        <lb/>Notarius publ. aronden.?
+                        </cell>
+                        <cell>
+                        <rs type="person">Anna</rs>
+                        <lb/>g<ex>eboren</ex> 1557.
+                        <lb/>im May.
+                        </cell>
+                        <cell>
+                        II. <rs type="person">Tobias Wagner</rs>
+                        <lb/>g<ex>eboren</ex> 1571. d.<ex>en</ex>
+                        <lb/>† 1571. d.<ex>en</ex>
+                        </cell>
+                        <cell>
+                        <rs type="person">Tobias Wagner</rs>
+                        <lb/>† 1603 Aug<ex>ust</ex> im hospi<lb/>tal zu <rs type="place" ref="#schweinfurt">Schweinfurt.</rs>
+                        </cell>
+                        <cell>
+                        <rs type="person">Caspar Wagner</rs>
+                        <lb/>g<ex>eboren</ex> 1575 d.<ex>en</ex> 10 febr.<ex>uar</ex>
+                        </cell>
+                        <!-- <pb facs="rep_6_16-a_1110.jpg" n="550b"/> -->
+                        <cell>
+                        <rs type="person">Christian Wagner</rs> von <rs type="place" ref="#neustadt">Neustadt</rs> bürger u<ex>nd</ex> becker ? nach des beckerhandwerks obermeister in <rs type="place" ref="#leipzig">Leipzig</rs>
+                        <lb/>g.<ex>eboren</ex> 15 ward 1613 bürger. starb 1637 d<ex>en</ex> 30 April in der ?straße
+                        <lb/>1. 1613. 17 Oct.<ex>ober</ex> Jfr<ex>Jungfrau</ex> <rs type="person">Magdalena Magin Kitzens?</rs> b u<ex>nd</ex> beckers allsehr Tochter g.<ex>eboren</ex> 1591 † 1631. 9 Aug<ex>ust</ex> at. 41 Jahr.
+                        <lb/>2. 1633. 26 May Fr<ex>au</ex> Maria JXXX? Stöckers? b. u<ex>nd</ex> Lohgerbers Wittwe
+                        <lb/>Wort? hat 1638 16 Oct<ex>ober</ex> Gl Sebastian Oelßer? Stadtschreiber  allsehr geehliget.
+                        
+                        <table rendition="#topBraced">
+                            <row>
+                                <cell>
+                                <rs type="person">Johannes Wagner</rs> b u.<ex>nd</ex> becker in Scheste?gaßlein
+                                <lb/>g.<ex>eboren</ex> 1615 22 Oct † 1664 14 Aug<ex>ust</ex> ward 1638. 1 Mart<ex>ij</ex>
+                                <lb/>bürger
+                                <lb/>1638. d<ex>en</ex> 21 Jan.<ex>uar</ex> Jfr<ex>Jungfrau</ex> Barbara? ? Rothens b. 
+                                <lb/>u.<ex>nd</ex> Schümachens ? Obermeisters T.<ex>ochter</ex> g<ex>eboren</ex> 1609 30 Oct<ex>ober</ex>
+                                <lb/>† 1682 27 Nov.<ex>ember</ex> at? 79 Jahr 4 Wochen T G u 8 T? 
+                                
+                                <table rendition="#topBraced">
+                                    <row>
+                                        <cell>
+                                        <rs type="person">Rosina <lb/>Wagnerin</rs>
+                                        <lb/>g<ex>eboren</ex> 28 Nov<ex>ember</ex>
+                                        <lb/>† 19 dec.<ex>ember</ex>
+                                        <lb/>1638
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Christian <lb/>Wagner</rs>
+                                        <lb/>g<ex>eboren</ex> 25 Nov.<ex>ember</ex>
+                                        <lb/>† 12 dec<ex>ember</ex>
+                                        <lb/>1639.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Johannes <lb/>Wagner</rs>
+                                        <lb/>g.<ex>eboren</ex> 4 Oct<ex>ober</ex>
+                                        <lb/>† 22 Oct<ex>ober</ex>
+                                        <lb/>1640
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Adam <lb/>Wagner</rs>
+                                        <lb/>g<ex>eboren</ex> 1641. 17
+                                        <lb/>Oct<ex>ober</ex>
+                                        <lb/>† 1642. 13
+                                        <lb/>May.
+                                        </cell>
+                                        <cell>
+                                        Zwillinge
+                                        <lb/>1 Sohn 1 Tocht<ex>er</ex>
+                                        <lb/>todtgeb<ex>urt</ex>
+                                        <lb/>1642. 22
+                                        <lb/>April.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Barbara <lb/>Wagnerin</rs>
+                                        <lb/>g.<ex>eboren</ex> 1643. 8
+                                        <lb/>febr<ex>uar</ex>
+                                        <lb/>† 1644 28
+                                        <lb/>Junij.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Paul <lb/>Wagner</rs>
+                                        <lb/>ein becker
+                                        <lb/>geselle
+                                        <lb/>g.<ex>eboren</ex> 1644 21
+                                        <lb/>Jul.<ex>i</ex> † 28
+                                        <lb/>Nov<ex>ember</ex> 1664
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Johannes Wagner</rs> g<ex>eboren</ex> 14 Jan.<ex>uar</ex> † 7 febr<ex>uar</ex> 1646.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Anna Magdal.<ex>ena</ex> Wagnerin</rs> g<ex>eboren</ex> 10 Jul.<ex>i</ex> † 7 dec<ex>ember</ex> 1647.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Elisabeth Wagnerin</rs> g<ex>eboren</ex> 22 Nov.<ex>ember</ex> † 2 dec<ex>ember</ex> 1648.
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Rebecca Wagnerin</rs> g<ex>eboren</ex> 1650 30 Apr<ex>il</ex> † 1650 31 Jul.<ex>i</ex>
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Martin Wagner</rs> g<ex>eboren</ex> 1651. 31 Oct<ex>ober</ex> † 1663 18 Oct.<ex>ober</ex>
+                                        </cell>
+                                        <cell>
+                                        <rs type="person">Maria Wagnerin</rs> g<ex>eboren</ex> 17 Jan<ex>uar</ex> † 23 Jan<ex>uar</ex> 1653.
+                                        </cell>
+                                        <cell>
+                                        1. Sohn † vor d.<ex>er</ex> taufe 1654. 25 Mart.<ex>ij</ex>
+                                        </cell>
+                                    </row>
+                                </table>
+                                
+                                </cell>
+                                <cell>
+                                <rs type="person">Christian</rs>
+                                <lb/>g<ex>eboren</ex> 1617. 14
+                                <lb/>dec<ex>ember</ex>
+                                <lb/>† 1619 2 Jun.<ex>i</ex>
+                                </cell>
+                                <cell>
+                                <rs type="person">Paul</rs>
+                                <lb/>g<ex>eboren</ex> 1619
+                                <lb/>4 febr<ex>uar</ex>
+                                <lb/>† 18 dec<ex>ember</ex>
+                                <lb/>1619.
+                                </cell>
+                                <cell>
+                                <rs type="person">Catharina</rs>
+                                <lb/>g.<ex>eboren</ex> 1620 14
+                                <lb/>May
+                                <lb/>† 1632 29
+                                <lb/>Sept<ex>ember</ex> peste.
+                                </cell>
+                                <cell>
+                                <rs type="person">Christian <lb/>Wagner</rs>
+                                <lb/>g<ex>eboren</ex> 1621. 17
+                                <lb/>Aug<ex>ust</ex> † d<ex>en</ex> 3
+                                <lb/>Sept.<ex>ember</ex> b.a.
+                                </cell>
+                                <cell>
+                                <rs type="person">Magdalena Wagnerin</rs>
+                                <lb/>g.<ex>eboren</ex> 1623. 8 Sept<ex>ember</ex> † 1654
+                                <lb/>19 May.
+                                <lb/>1. 1642 20 Junij Johann Krebs? b. u<ex>nd</ex> becker
+                                <lb/>allsehr † 1643 24 Jan.
+                                <lb/>2. 1644. 2 April. Sebastian Kripplebin b u<ex>nd</ex> be<lb/>cker allsehr † 1691. 13 Oct.<ex>ober</ex> XXX? 
+                                <lb/>??? 
+                                
+                                <table rendition="#topBraced">
+                                    <row>
+                                        <cell>
+                                        <rs type="person">Maria Kripplebin</rs>
+                                        <lb/>g<ex>eboren</ex>1645 10 April
+                                        <lb/>† 1672 31. July
+                                        <lb/>1671. 10 Oct.<ex>ober</ex> Christian
+                                        <lb/>Müller b. u<ex>nd</ex> becker in 
+                                        <lb/><rs type="place" ref="#leipzig">Leipzig</rs>.
+                                        
+                                        <table rendition="#topBraced">
+                                            <row>
+                                                <cell>
+                                                <rs type="person">Maria barbara Müllerin</rs>
+                                                <lb/>g.<ex>eboren</ex> 1672. 20 Jul.<ex>i</ex> † 1677. 14
+                                                <lb/>febr.<ex>uar</ex>
+                                                </cell>
+                                            </row>
+                                        </table>
+                                        
+                                        </cell>
+                                    </row>
+                                </table>
+                                
+                                </cell>
+                                <cell>
+                                <rs type="person">Christian <lb/>Wagner</rs>
+                                <lb/>g<ex>eboren</ex> 1625. 5
+                                <lb/>Jan<ex>uar</ex>
+                                <lb/>† 1625. 22
+                                <lb/>Martij
+                                </cell>
+                                <cell>
+                                <rs type="person">Christoph <lb/>Wagner</rs>
+                                <lb/>g<ex>eboren</ex> 1626. 30
+                                <lb/>Jan<ex>uar</ex>
+                                <lb/>† 1626. 8 Jul.<ex>i</ex>
+                                </cell>
+                                <cell>
+                                <rs type="person">Christoph <lb/>Wagner ein</rs>
+                                <lb/>beckergeselle
+                                <lb/>hernach/gemach? Maßge-
+                                <lb/>? unter Ob
+                                <lb/>erstangen?
+                                <lb/>g<ex>eboren</ex> 1627. 19 May.
+                                <lb/>† 16 . . . 
+                                </cell>
+                            </row>
+                        </table>
+                        
+                        </cell>
+                    </row>
+                </table>
+
             </div>
         </body>
     </text>
