@@ -79,15 +79,15 @@
             <div xml:id="stammbaum_wagner">
                 <pb facs="rep_6_16-a_1107.jpg" n="549v"/>
                 <head>Das Wagnerische Geschlecht.</head>
-                <table>
-                    <row rendition="#topBraced">
+                <table rendition="#topBraced">
+                    <row>
                         <cell>
                         <rs type="person">Johannes Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker von <gap quantity="8" unit="chars" reason="unleserlich"/> starb 1519
                         </cell>
                     </row>
                     <row rendition="#topBraced">
                         <cell>
-                        <rs type="person"><gap quantity="6" unit="chars" reason="unleserlich"/> Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker in der <rs type="place">Nicolstraße</rs> † 1530.
+                        <rs type="person">Caspar? Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker in der <rs type="place">Nicolstraße</rs> † 1530.
                         <lb/>wart 1522 bürger
                         </cell>
                     </row>
@@ -99,7 +99,7 @@
                         <lb/>† 1545
                         </cell>
                         <cell>
-                        <rs type="person"><gap quantity="4" unit="chars" reason="unleserlich"/> Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker 
+                        <rs type="person">Paul Wagner</rs> b<ex>ürger</ex> u<ex>nd</ex> becker 
                         <lb/>in der <rs type="place">Salzstraße.</rs>
                         <lb/><gap quantity="11" unit="chars" reason="unleserlich"/>
                         </cell>
@@ -272,11 +272,11 @@
                                                     <lb/>19 Mart † 1661. 23 Sept.<ex>ember</ex>
                                                     </cell>
                                                     <cell>
-                                                    <gap quantity="3" unit="chars" reason="unleserlich"/> <rs type="person">Christian Wagner</rs>
+                                                    <gap quantity="3" unit="chars" reason="unleserlich"/> <rs type="person" ref="#wagner_christian">Christian Wagner</rs>
                                                     <lb/>Fac. Phil. Assessor <gap quantity="2" unit="chars" reason="unleserlich"/> Theol. Baccal.
                                                     <lb/>Past. Jud. Johannus in <rs type="place" ref="#leipzig">Leipzig</rs>
-                                                    <lb/>g.<ex>eboren</ex> 1669. d.<ex>en</ex> 28 febr.<ex>uar</ex> † 1693. 28 Jul.<ex>i</ex>
-                                                    <lb/>1688. 24 Sept.<ex>ember</ex> Jfr.<ex>Jungfrau</ex> Dorothea Sophia
+                                                    <lb/>g.<ex>eboren</ex> 1663. d.<ex>en</ex> 28 febr.<ex>uar</ex> † 1693. 28 Jul.<ex>i</ex>
+                                                    <lb/>1688. 24 Sept.<ex>ember</ex> Jfr.<ex>Jungfrau</ex> <rs type="person" ref="#wagner_dorortheasophia">Dorothea Sophia</rs>
                                                     <lb/>H.<ex>err</ex> Jacobi Thomasij wart <gap quantity="7" unit="chars" reason="unleserlich"/> PP.
                                                     <lb/>Oratoria Academia Lips decemori
                                                     <lb/>Fac Philos. Senions? Collegij min Princip.
@@ -286,7 +286,7 @@
                                                     <table rendition="#topBraced">
                                                         <row>
                                                             <cell>
-                                                            <rs type="person">Paul Christian Wagner</rs>
+                                                            <rs type="person" ref="#wagner_paulchristian">Paul Christian Wagner</rs>
                                                             <lb/>g.<ex>eboren</ex> 1692. 22 febr.<ex>uar</ex> † 1693. 22
                                                             <lb/>februar
                                                             </cell>
