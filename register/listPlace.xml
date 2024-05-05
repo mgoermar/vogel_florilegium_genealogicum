@@ -339,6 +339,12 @@
                 <place xml:id="themar">
                     <placeName ref="https://d-nb.info/gnd/4365202-5">Themar</placeName>
                 </place>
+                <place xml:id="eisleben">
+                    <placeName ref="https://d-nb.info/gnd/4092450-6">Eisleben</placeName>
+                </place>
+                <place xml:id="allstedt">
+                    <placeName ref="https://d-nb.info/gnd/4079709-0">Allstedt</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
