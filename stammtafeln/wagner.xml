@@ -111,7 +111,7 @@
                         <cell>
                         <rs type="person">Paulus Wagner</rs> <rs type="place" ref="#leipzig">Lips</rs> g<ex>eboren</ex> 15... ward 1539 bürger zu <rs type="place" ref="#leipzig">Leipzig</rs> ein becker in d<ex>er</ex> <gap quantity="4" unit="chars" reason="unleserlich"/>straße † 1576 10 Nov<ex>ember</ex> freytags vor Martins<ex>tag</ex>
                         <lb/>1. 15... J. Priscam Fabian <gap quantity="3" unit="chars" reason="unleserlich"/>hans b<ex>ürger</ex> u<ex>nd</ex> beckers zu <rs type="place" ref="#leipzig">Leipzig</rs> T. .... † 1565. 16. feb<ex>ruar</ex>
-                        <lb/>2 1569 dom XI. p Trin. Fr<ex>au</ex> Magdalena Hauß günthers T Sebastian Ulrichs b<ex>ürger</ex> u<ex>nd</ex> <gap quantity="10" unit="chars" reason="unleserlich"/> in <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="5" unit="chars" reason="unleserlich"/>
+                        <lb/>2 1569 dom XI. p Trin. Fr<ex>au</ex> Magdalena Hanß günthers T<ex>ochter</ex> Sebastian Ulrichs b<ex>ürger</ex> u<ex>nd</ex> <gap quantity="10" unit="chars" reason="unleserlich"/> in <rs type="place" ref="#leipzig">Leipzig</rs> <gap quantity="5" unit="chars" reason="unleserlich"/>
                         </cell>
                     </row>
                     <row>
@@ -135,7 +135,7 @@
                         <lb/>g<ex>eboren</ex> 1571. starb mit 4 wochen.
                         </cell>
                         <cell>
-                        <rs type="person">M. Paul Wagner</rs> g<ex>eboren</ex> 1549 10 Jan<ex>uar</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> wart 1574 Secretarius zu <rs type="place" ref="#braunschweig">Braunschweig</rs>
+                        <rs type="person" ref="#wagner_paul2">M. Paul Wagner</rs> g<ex>eboren</ex> 1549 10 Jan<ex>uar</ex> zu <rs type="place" ref="#leipzig">Leipzig</rs> wart 1574 Secretarius zu <rs type="place" ref="#braunschweig">Braunschweig</rs>
                         <lb/>u<ex>nd</ex> zog nach 20 Jahren nach <rs type="place" ref="#leipzig">Leipzig</rs> 1607. 7. May wart 1608 bürger <gap quantity="1" unit="chars" reason="unleserlich"/>1608 <gap quantity="5" unit="chars" reason="unleserlich"/>
                         <lb/> in Rath genommen, entschlieff d.<ex>en</ex> 29 dec<ex>ember</ex> 1627.
                         <lb/>1 1577 fr<ex>au</ex> <rs type="person">Dorothea Grabauin?</rs> H<ex>err</ex> Authoris Flühwercks bürger des Raths u<ex>nd</ex> Patrici zu 
@@ -162,7 +162,7 @@
                                     <lb/>† jung
                                     </cell>
                                     <cell>
-                                    II. <rs type="person">H<ex>err</ex> Paulus Wagner</rs> JUD <ex>iuris utriusque doctor</ex> u<ex>nd</ex> Practicus zu <rs type="place" ref="leipzig">Leipzig</rs> g.<ex>eboren</ex> 1584. 15 Oct<ex>ober</ex> zu <rs type="place" ref="#braunschweig">braunschweig</rs> 1596 Gg imatricul.<ex>iert</ex> † 1639 d.<ex>en</ex> 19 Nov.<ex>ember</ex> peste.
+                                    II. <rs type="person">H<ex>err</ex> Paulus Wagner</rs> JUD <ex>iuris utriusque doctor</ex> u<ex>nd</ex> Practicus zu <rs type="place" ref="leipzig">Leipzig</rs> g.<ex>eboren</ex> 1584. 15 Oct<ex>ober</ex> zu <rs type="place" ref="#braunschweig">braunschweig</rs> 1596 Gg imatricul.<ex>iert</ex> † 1633 d.<ex>en</ex> 19 Nov.<ex>ember</ex> peste.
                                     <lb/>1. 1613. 16 Nov.<ex>ember</ex> Jfr <ex>Jungfrau</ex> Catharina H<ex>err</ex> Joachim Liebens? JUD <ex>iuris utriusque doctor</ex> († <gap quantity="2" unit="chars" reason="unleserlich"/> 1613 16 Aug<ex>ust</ex>) T. g.<ex>eboren</ex> 1594 12 febr<ex>uar</ex> † 1614 31 dec<ex>ember</ex> ward 1615 7 juny bürger
                                     <lb/>2. 1616. 8 April Jfr<ex>Jungfrau</ex> Elisabeth H.<ex>err</ex> Abraham Dresers?, des Raths u.<ex>nd</ex> handelsh.<ex>err</ex> in <rs type="place" ref="#leipzig">Leipzig</rs> T. g<ex>eboren</ex> 1593. 8 Aug<ex>ust</ex> † 1615 9 Martius.
                                     
@@ -385,8 +385,8 @@
                                                 <row>
                                                     <cell>
                                                     <rs type="person">Margaretha Susanna Försterin</rs>
-                                                    <lb/>g<ex>eboren</ex> in <rs type="place" ref="#allstädt">Allstädt</rs> 1651. 7. Sept.<ex>ember</ex>
-                                                    <lb/>1669 24 Aug.<ex>ust</ex> Gl. <rs type="person">Christoph Lüntch</rs>
+                                                    <lb/>g<ex>eboren</ex> in <rs type="place" ref="#allstädt">Allstädt</rs> 1657. 7. Sept.<ex>ember</ex>
+                                                    <lb/>1669 24 Aug.<ex>ust</ex> Gl. <rs type="person">Christoph Kuntch</rs>
                                                     <lb/>JUD.<ex>iuris utriusque doctor</ex> Com. Pal. XXX hochfurstl. Sachs. Al
                                                     <lb/>tenburgische hof. Advocat.
                                                     
