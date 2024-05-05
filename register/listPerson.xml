@@ -5085,6 +5085,7 @@
                     </occupation>
                     <note type="family">
                         <listRelation>
+                            <relation type="parent" ref="#wagner_paulus3"/>
                             <relation type="spouse" ref="#wagner_dorotheasophia"/>
                         </listRelation>
                     </note>
@@ -5457,7 +5458,239 @@
                         </listRelation>
                     </note>
                 </person>
-                    <!--Thomasius1-->      
+                    <!--Thomasius1-->
+                    <!--Wagner-->
+                <person xml:id="wagner_johannes">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Johannes</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1519">1519</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="child" ref="#wagner_caspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_caspar">
+                    <persName>
+                        <forename>Caspar</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Caspar</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1530">1530</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_johannes"/>
+                            <relation type="child" ref="#wagner_johannes2"/>
+                            <relation type="child" ref="#wagner_paul"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_johannes2">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Johannes</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1545">1545</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_caspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_paul">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paul</persName>
+                    <sex value="m"/>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_caspar"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_paulus">
+                    <persName>
+                        <forename>Paulus</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paulus</persName>
+                    <sex value="m"/>
+                    <death>
+                        <date when="1576">1576</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="spouse" ref="#wagner_prisca"/>
+                            <relation type="spouse" ref="#wagner_magdalena"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_paul2">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paul</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1549-01-10">10. Januar 1549</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1627-12-29">29. Dezember 1627</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paulus"/>
+                            <relation type="parent" ref="#wagner_prisca"/>
+                            <relation type="spouse" ref="#wagner_dorothea"/>
+                            <relation type="spouse" ref="#wagner_anna"/>
+                            <relation type="spouse" ref="#wagner_sabina"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_paulus2">
+                    <persName ref="https://d-nb.info/gnd/140092927">
+                        <forename>Paulus</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paulus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1584-10-15">15. Oktober 1584</date>
+                        <placeName ref="#braunschweig">Braunschweig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1633-11-19">19. November 1633</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paul2"/>
+                            <relation type="parent" ref="#wagner_anna"/>
+                            <relation type="spouse" ref="#wagner_catharina"/>
+                            <relation type="spouse" ref="#wagner_elisabeth"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_johannes3">
+                    <persName>
+                        <forename>Johannes</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Johannes</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1588-06-20">20. Juni 1588</date>
+                        <placeName ref="#braunschweig">Braunschweig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1611-01-04">4. Januar 1611</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paul2"/>
+                            <relation type="parent" ref="#wagner_anna"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_catharina2">
+                    <persName>
+                        <forename>Catharina</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Catharina</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1614-09-03">3. September 1614</date>
+                    </birth>
+                    <death>
+                        <date when="1616-08-20">20. August 1616</date>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paulus2"/>
+                            <relation type="parent" ref="#wagner_catharina"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_paulus3">
+                    <persName ref="https://d-nb.info/gnd/123961602">
+                        <forename>Paulus</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Paulus</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1617-01-23">23. Januar 1617</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1697-04-11">11. April 1697</date>
+                        <placeName ref="#leipzig">Leipzig</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paulus2"/>
+                            <relation type="parent" ref="#wagner_elisabeth"/>
+                            <relation type="spouse" ref="#wagner_maria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_mariaelisabeth">
+                    <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Maria Elisabeth</persName>
+                    <sex value="f"/>
+                    <birth>
+                        <date when="1655-08-15">15. August 1655</date>
+                    </birth>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paulus3"/>
+                            <relation type="parent" ref="#wagner_maria"/>
+                        </listRelation>
+                    </note>
+                </person>
+                <person xml:id="wagner_martin">
+                    <persName ref="https://d-nb.info/gnd/140207597">
+                        <forename>Martin</forename>
+                        <surname>Wagner</surname>
+                    </persName>
+                    <persName type="display">Wagner, Martin</persName>
+                    <sex value="m"/>
+                    <birth>
+                        <date when="1589-07-13">13. Juli 1589</date>
+                        <placeName ref="#braunschweig">Braunschweig</placeName>
+                    </birth>
+                    <death>
+                        <date when="1646-08-12">12. August 1646</date>
+                        <placeName ref="#altenburg">Altenburg</placeName>
+                    </death>
+                    <note type="family">
+                        <listRelation>
+                            <relation type="parent" ref="#wagner_paul2"/>
+                            <relation type="parent" ref="#wagner_anna"/>
+                            <relation type="spouse" ref="#wagner_margarethajustina"/>
+                        </listRelation>
+                    </note>
+                </person>
             </listPerson>
         </body>
     </text>
