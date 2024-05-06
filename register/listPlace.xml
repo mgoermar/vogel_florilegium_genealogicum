@@ -345,6 +345,12 @@
                 <place xml:id="allstedt">
                     <placeName ref="https://d-nb.info/gnd/4079709-0">Allstedt</placeName>
                 </place>
+                <place xml:id="lübeck">
+                    <placeName ref="https://d-nb.info/gnd/4036483-5">Lübeck</placeName>
+                </place>
+                <place xml:id="schweinfurt">
+                    <placeName ref="https://d-nb.info/gnd/4053863-1">Schweinfurt</placeName>
+                </place>
             </listPlace>
         </body>
     </text>
